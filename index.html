@@ -4,89 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Status report</title>
-<style>
-
-:root {
-  --ink: #eeeeee;
-  --paper: #333333;
-  --rule: #555555;
-  --head: #ffffff;
-  --link: #7ec8ff;
-  --link-hover: #a8dcff;
-}
-* { box-sizing: border-box; }
-body {
-  color: var(--ink);
-  background: var(--paper);
-  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
-  max-width: 42rem;
-  margin: 0 auto;
-  padding: 1.5rem 1rem 3rem;
-  line-height: 1.55;
-}
-.masthead {
-  border-bottom: 3px double var(--rule);
-  padding-bottom: 0.75rem;
-  margin-bottom: 1.25rem;
-}
-.masthead h1 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-size: 1.75rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 0.35rem;
-  color: var(--head);
-}
-.lede {
-  font-size: 1.05rem;
-  margin: 0 0 0.75rem;
-}
-.lede:last-child { margin-bottom: 0; }
-section.edition {
-  border-bottom: 1px solid var(--rule);
-}
-section.edition:last-of-type { border-bottom: 3px double var(--rule); }
-details { margin: 0; }
-summary {
-  list-style: none;
-  cursor: pointer;
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
-  padding: 0.85rem 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-size: 1.05rem;
-  font-weight: 600;
-  color: var(--head);
-  user-select: none;
-}
-summary::-webkit-details-marker { display: none; }
-summary::marker { content: ""; }
-.chev {
-  flex: none;
-  font-size: 0.7rem;
-  line-height: 1;
-  opacity: 0.75;
-}
-details:not([open]) .chev::before { content: "∨"; }
-details[open] .chev::before { content: "∧"; }
-.section-body { padding: 0 0 1rem; }
-.section-body p {
-  margin: 0 0 0.85rem;
-  font-size: 1rem;
-}
-.section-body p:last-child { margin-bottom: 0; }
-.section-body p.links {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-size: 0.9rem;
-  margin-top: 0.35rem;
-}
-strong { color: var(--head); font-weight: 700; }
-a { color: var(--link); text-decoration: underline; text-underline-offset: 2px; }
-a:hover { color: var(--link-hover); }
-
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="masthead">
@@ -100,7 +18,7 @@ a:hover { color: var(--link-hover); }
 <p>In <strong>Central Ohio</strong>, it&#x27;s mostly sunny today with a high near 73° and barely a breeze. Partly cloudy tonight, down around 47°. Tuesday looks almost the same, mostly sunny with a high near 72°.</p>
 <p>Tonight is a <strong>double feature</strong> for sports. World Series Game 3 and Monday Night Football both start a little after 8:00 Eastern, so the recorder may be working overtime.</p>
 <p>The biggest story this morning is <strong>Anthropic&#x27;s IPO filing</strong>, which landed just before the opening bell and kicks off a week stacked with Big Tech earnings and a Fed decision.</p>
-<p class="links"><a href="https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988">Ohio forecast</a> · <a href="https://www.anthropic.com/news/s1-sec">Anthropic IPO</a></p>
+<p class="links"><a href="https://forecast.weather.gov/MapClick.php?lat=39.9612&amp;lon=-82.9988">Ohio forecast</a> · <a href="https://www.anthropic.com/news/s1-sec">Anthropic IPO</a></p>
 </div>
 </details>
 </section>
@@ -109,11 +27,11 @@ a:hover { color: var(--link-hover); }
 <summary><span class="label">Checking the market.</span><span class="chev" aria-hidden="true"></span></summary>
 <div class="section-body">
 <p><strong>Markets</strong> are open, and stocks are starting the week a little higher.</p>
-<p>The <strong>S&P 500</strong> is up about 0.4% early, after two straight losing weeks, and it&#x27;s back within reach of the record it set earlier this month. Oil is giving some relief, with Brent crude easing to around $110 a barrel as Qatari mediators work on calming tensions with Iran. That&#x27;s good news for your IVV core after a rough stretch for the AI trade.</p>
+<p>The <strong>S&amp;P 500</strong> is up about 0.4% early, after two straight losing weeks, and it&#x27;s back within reach of the record it set earlier this month. Oil is giving some relief, with Brent crude easing to around $110 a barrel as Qatari mediators work on calming tensions with Iran. That&#x27;s good news for your IVV core after a rough stretch for the AI trade.</p>
 <p><strong>Anthropic</strong> publicly filed its S-1 this morning for a Nasdaq listing under the ticker ANT. It reported $16.3B in revenue for the first half of 2026, along with very heavy spending on computing power. No share count or price range is set yet, so the valuation question stays open for now.</p>
 <p>On the <strong>Muskonomy</strong> side, SpaceX rose about 1% before the open after Musk said the company secured $40B in debt financing to buy GPUs, tied to chip deliveries in the first half of 2027. He also warned that many smaller AI cloud companies are running out of credit, and said SpaceX won&#x27;t be buying any of them. Bernstein raised its SpaceX price target to $268. Tesla is leading the megacaps early, up about 2% before the open as it keeps climbing back from its post-earnings dip.</p>
 <p>Among other <strong>movers</strong>, Moderna fell about 9% before the open after its cancer vaccine trial results came in below earlier hopes. The AI cloud names, including CoreWeave and Nebius, slipped again after losing more than 30% of their value this month.</p>
-<p>The <strong>week ahead</strong> is the real event. About a third of the S&P 500 reports, with Microsoft and Alphabet on Wednesday after the close and Amazon on Thursday. The Fed announces its rate decision Wednesday afternoon, with a pause widely expected. Thursday brings third quarter GDP, expected around 3.2% growth, and September PCE inflation.</p>
+<p>The <strong>week ahead</strong> is the real event. About a third of the S&amp;P 500 reports, with Microsoft and Alphabet on Wednesday after the close and Amazon on Thursday. The Fed announces its rate decision Wednesday afternoon, with a pause widely expected. Thursday brings third quarter GDP, expected around 3.2% growth, and September PCE inflation.</p>
 <p class="links"><a href="https://www.anthropic.com/news/s1-sec">Anthropic IPO</a> · <a href="https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx">SpaceX financing</a></p>
 </div>
 </details>
@@ -179,5 +97,6 @@ a:hover { color: var(--link-hover); }
 </div>
 </details>
 </section>
+<script src="app.js"></script>
 </body>
 </html>
