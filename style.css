@@ -367,3 +367,10 @@ table.mini-grid tr:nth-child(-n+2) td.has .tip::after {
   table.cal td.date, table.cal td.who { width: auto; font-size: 0.85em; }
   table.cal td.who { color: var(--head); opacity: 0.85; }
 }
+
+/* calendar: back link floated upper-right, page opens on first month */
+.back-float {
+  float: right;
+  font-size: 0.85rem;
+  margin: 0.95rem 0 0 1rem;
+}
