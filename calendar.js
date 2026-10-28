@@ -384,9 +384,8 @@
     var todayStr = todayET();
     var t = parseYMD(todayStr);
     var year = t.y;
-    var needNext = t.m === 12; // next big month crosses year
-    var urls = ["year-" + year + ".json"];
-    if (needNext) urls.push("year-" + (year + 1) + ".json");
+    // Always load this year + next (Upcoming my-events window is 365d; Dec big-month edge).
+    var urls = ["year-" + year + ".json", "year-" + (year + 1) + ".json"];
     // Also load events.json for recurring fallback / meta label_max
     Promise.all(
       urls
