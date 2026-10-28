@@ -1,0 +1,185 @@
+{
+  "year": 2027,
+  "updated": "2026-10-28T15:36:30Z",
+  "tz": "America/New_York",
+  "label_max": 40,
+  "recurring": [
+    "Tuesdays ~10:15 AM ET — Bob — NFL best-games-to-watch list (after morning status)",
+    "Thursdays 3:30 PM ET — Bob — Pool at the Eagles → bar poker at Tony's after"
+  ],
+  "days": {
+    "2026-12-25": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Christmas Day"
+      }
+    ],
+    "2026-12-31": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "New Year's Eve"
+      }
+    ],
+    "2027-01-01": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "New Year's Day"
+      }
+    ],
+    "2027-01-18": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Martin Luther King Jr. Day"
+      },
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Jay's birthday"
+      }
+    ],
+    "2027-02-14": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Valentine's Day"
+      }
+    ],
+    "2027-02-15": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Presidents' Day"
+      }
+    ],
+    "2027-03-17": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "St. Patrick's Day"
+      }
+    ],
+    "2027-03-28": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Easter Sunday"
+      }
+    ],
+    "2027-04-09": [
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Lucy's birthday"
+      }
+    ],
+    "2027-05-09": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Mother's Day"
+      }
+    ],
+    "2027-05-13": [
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Bob's birthday"
+      }
+    ],
+    "2027-05-31": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Memorial Day"
+      }
+    ],
+    "2027-06-19": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Juneteenth"
+      }
+    ],
+    "2027-06-20": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Father's Day"
+      }
+    ],
+    "2027-07-04": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "4th of July"
+      }
+    ],
+    "2027-08-26": [
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Emily's birthday"
+      }
+    ],
+    "2027-09-06": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Labor Day"
+      }
+    ],
+    "2027-10-11": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Columbus Day"
+      }
+    ],
+    "2027-10-31": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Halloween"
+      }
+    ],
+    "2027-11-11": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Veterans Day"
+      }
+    ],
+    "2027-11-25": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Thanksgiving"
+      }
+    ],
+    "2027-12-24": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Christmas Eve"
+      }
+    ],
+    "2027-12-25": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Christmas Day"
+      }
+    ],
+    "2027-12-31": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "New Year's Eve"
+      }
+    ]
+  }
+}

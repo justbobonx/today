@@ -1,0 +1,204 @@
+{
+  "year": 2026,
+  "updated": "2026-10-28T15:36:30Z",
+  "tz": "America/New_York",
+  "label_max": 40,
+  "recurring": [
+    "Tuesdays ~10:15 AM ET — Bob — NFL best-games-to-watch list (after morning status)",
+    "Thursdays 3:30 PM ET — Bob — Pool at the Eagles → bar poker at Tony's after"
+  ],
+  "days": {
+    "2026-01-01": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "New Year's Day"
+      }
+    ],
+    "2026-01-18": [
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Jay's birthday"
+      }
+    ],
+    "2026-01-19": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Martin Luther King Jr. Day"
+      }
+    ],
+    "2026-02-14": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Valentine's Day"
+      }
+    ],
+    "2026-02-16": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Presidents' Day"
+      }
+    ],
+    "2026-03-17": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "St. Patrick's Day"
+      }
+    ],
+    "2026-04-05": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Easter Sunday"
+      }
+    ],
+    "2026-04-09": [
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Lucy's birthday"
+      }
+    ],
+    "2026-05-10": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Mother's Day"
+      }
+    ],
+    "2026-05-13": [
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Bob's birthday"
+      }
+    ],
+    "2026-05-25": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Memorial Day"
+      }
+    ],
+    "2026-06-19": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Juneteenth"
+      }
+    ],
+    "2026-06-21": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Father's Day"
+      }
+    ],
+    "2026-07-04": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "4th of July"
+      }
+    ],
+    "2026-08-26": [
+      {
+        "kind": "mine",
+        "who": "My event",
+        "what": "Emily's birthday"
+      }
+    ],
+    "2026-09-07": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Labor Day"
+      }
+    ],
+    "2026-10-12": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Columbus Day"
+      }
+    ],
+    "2026-10-28": [
+      {
+        "kind": "ev",
+        "who": "Bob",
+        "what": "Meijer (afternoon or after dinner): cabbage, meat, ingredients for Pete's flamin balls"
+      }
+    ],
+    "2026-10-29": [
+      {
+        "kind": "ev",
+        "who": "Bob",
+        "what": "Pool at the Eagles, 3:30 PM ET"
+      },
+      {
+        "kind": "ev",
+        "who": "Bob",
+        "what": "Bar poker at Tony's after pool ($10, ~10 easy rounds while drinking)"
+      }
+    ],
+    "2026-10-31": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Halloween"
+      },
+      {
+        "kind": "ev",
+        "who": "Bob, Emily",
+        "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM); .ics sent to rsmcclure75@gmail.com + emym74@woh.rr.com"
+      }
+    ],
+    "2026-11-11": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Veterans Day"
+      }
+    ],
+    "2026-11-26": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Thanksgiving"
+      }
+    ],
+    "2026-12-24": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Christmas Eve"
+      }
+    ],
+    "2026-12-25": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "Christmas Day"
+      }
+    ],
+    "2026-12-31": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "New Year's Eve"
+      }
+    ],
+    "2027-01-01": [
+      {
+        "kind": "hol",
+        "who": "Holiday",
+        "what": "New Year's Day"
+      }
+    ]
+  }
+}
