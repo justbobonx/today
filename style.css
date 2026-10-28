@@ -36,7 +36,7 @@ section.edition {
   border-bottom: 1px solid var(--rule);
 }
 section.edition:last-of-type {
-  border-bottom: 3px double var(--rule);
+  border-bottom: 1px solid var(--rule);
 }
 details { margin: 0; }
 summary {
@@ -151,3 +151,65 @@ table.cal-grid .ev {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+
+/* status footer: mini cal + todos (always open) */
+.cal-footer {
+  margin-top: 0.5rem;
+  padding-top: 0.75rem;
+}
+.mini-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-bottom: 1rem;
+}
+.mini-cal { flex: 0 0 auto; }
+.mini-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--head);
+  margin-bottom: 0.35rem;
+}
+table.mini-grid {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 11.5rem;
+  font-size: 0.7rem;
+}
+table.mini-grid th {
+  text-align: center;
+  color: var(--head);
+  font-weight: 600;
+  padding: 0.15rem 0;
+  opacity: 0.85;
+}
+table.mini-grid td {
+  text-align: center;
+  width: 1.55rem;
+  height: 1.55rem;
+  padding: 0;
+  vertical-align: middle;
+}
+table.mini-grid td.empty { opacity: 0.2; }
+table.mini-grid td.today .n { color: var(--link); font-weight: 700; }
+table.mini-grid .n { display: block; line-height: 1.1; }
+table.mini-grid .dot {
+  display: none;
+  width: 0.28rem;
+  height: 0.28rem;
+  border-radius: 50%;
+  background: var(--link);
+  margin: 0.05rem auto 0;
+}
+table.mini-grid td.has .dot { display: block; }
+.todo-list {
+  margin: 0 0 0.75rem;
+  padding-left: 1.15rem;
+  font-size: 0.92rem;
+}
+.todo-list li { margin: 0 0 0.35rem; }
+.todo-list .td-date { color: var(--head); font-variant-numeric: tabular-nums; }
+.todo-list .td-who { color: var(--head); }
+.cal-more { margin: 0; font-size: 0.9rem; }
+.site-nav { display: none; }
