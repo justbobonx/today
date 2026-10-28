@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-10-28T16:39:25Z",
+  "updated": "2026-10-28T16:40:54Z",
   "tz": "America/New_York",
   "label_max": 40,
   "recurring": [
@@ -155,7 +155,7 @@
       {
         "kind": "plan",
         "who": "Bob, Emily",
-        "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM); .ics sent to rsmcclure75@gmail.com + emym74@woh.rr.com"
+        "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM)"
       }
     ],
     "2026-11-11": [
