@@ -303,3 +303,38 @@ table.mini-grid tr:nth-child(-n+2) td.has .tip::after {
   border-bottom-color: var(--link);
 }
 
+/* full-year strip on calendar page (4×3 / 3×4 mini grids) */
+.year-block { padding-bottom: 1.1rem; }
+.year-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem 0.65rem;
+  margin-top: 0.25rem;
+}
+@media (min-width: 34rem) {
+  .year-strip {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+.year-strip .mini-cal {
+  flex: none;
+  width: 100%;
+  min-width: 0;
+}
+.year-strip .mini-title {
+  font-size: 0.75rem;
+  text-align: center;
+  margin-bottom: 0.2rem;
+}
+.year-strip table.mini-grid {
+  width: 100%;
+  font-size: 0.62rem;
+}
+.year-strip table.mini-grid td {
+  width: auto;
+  height: 1.35rem;
+}
+.year-strip table.mini-grid .dot {
+  width: 0.24rem;
+  height: 0.24rem;
+}
