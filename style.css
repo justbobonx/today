@@ -74,3 +74,41 @@ details[open] .chev::before { content: "∧"; }
 strong { color: var(--head); }
 a { color: var(--link); text-decoration: underline; text-underline-offset: 2px; }
 a:hover { color: var(--link-hover); }
+
+/* calendar page */
+.cal-h {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--head);
+  margin: 0.85rem 0 0.75rem;
+}
+.cal-block { padding-bottom: 1rem; }
+table.cal {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+table.cal th, table.cal td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.45rem 0.5rem 0.45rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+table.cal th { color: var(--head); font-weight: 600; }
+table.cal td.date { white-space: nowrap; width: 7.5rem; color: var(--head); }
+table.cal td.who { width: 5.5rem; }
+.cal-rec { margin: 0 0 0.5rem; padding-left: 1.2rem; }
+.cal-rec li { margin: 0 0 0.4rem; }
+.cal-foot {
+  margin-top: 1.5rem;
+  font-size: 0.85rem;
+  opacity: 0.75;
+  border-top: 1px solid var(--rule);
+  padding-top: 0.75rem;
+}
+.site-nav {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 3px double var(--rule);
+  font-size: 0.95rem;
+}
