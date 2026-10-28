@@ -190,6 +190,7 @@ table.mini-grid td {
   height: 1.55rem;
   padding: 0;
   vertical-align: middle;
+  position: relative;
 }
 table.mini-grid td.empty { opacity: 0.2; }
 table.mini-grid td.today .n { color: var(--link); font-weight: 700; }
@@ -213,3 +214,60 @@ table.mini-grid td.has .dot { display: block; }
 .todo-list .td-who { color: var(--head); }
 .cal-more { margin: 0; font-size: 0.9rem; }
 .site-nav { display: none; }
+
+table.mini-grid td.has { cursor: default; }
+table.mini-grid td.has .tip {
+  display: none;
+  position: absolute;
+  z-index: 20;
+  left: 50%;
+  bottom: calc(100% + 0.35rem);
+  transform: translateX(-50%);
+  min-width: 11rem;
+  max-width: 16rem;
+  padding: 0.55rem 0.65rem;
+  background: #1a1a1a;
+  border: 1px solid var(--link);
+  border-radius: 4px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+  text-align: left;
+  white-space: normal;
+  pointer-events: none;
+}
+table.mini-grid td.has .tip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border: 5px solid transparent;
+  border-top-color: var(--link);
+}
+table.mini-grid td.has:hover .tip,
+table.mini-grid td.has:focus-within .tip { display: block; }
+table.mini-grid .tip-date {
+  font-size: 0.65rem;
+  color: var(--link);
+  margin-bottom: 0.35rem;
+  font-variant-numeric: tabular-nums;
+}
+table.mini-grid .tip-ev {
+  font-size: 0.72rem;
+  line-height: 1.35;
+  margin: 0 0 0.3rem;
+  color: var(--ink);
+}
+table.mini-grid .tip-ev:last-child { margin-bottom: 0; }
+table.mini-grid .tip-ev strong { color: var(--head); }
+/* flip tip down near top of grid */
+table.mini-grid tr:nth-child(-n+2) td.has .tip {
+  bottom: auto;
+  top: calc(100% + 0.35rem);
+}
+table.mini-grid tr:nth-child(-n+2) td.has .tip::after {
+  top: auto;
+  bottom: 100%;
+  border-top-color: transparent;
+  border-bottom-color: var(--link);
+}
+
