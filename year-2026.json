@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-10-28T15:36:30Z",
+  "updated": "2026-10-28T16:03:21Z",
   "tz": "America/New_York",
   "label_max": 40,
   "recurring": [
@@ -10,192 +10,192 @@
   "days": {
     "2026-01-01": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Day"
       }
     ],
     "2026-01-18": [
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Jay's birthday"
       }
     ],
     "2026-01-19": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Martin Luther King Jr. Day"
       }
     ],
     "2026-02-14": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Valentine's Day"
       }
     ],
     "2026-02-16": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Presidents' Day"
       }
     ],
     "2026-03-17": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "St. Patrick's Day"
       }
     ],
     "2026-04-05": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Easter Sunday"
       }
     ],
     "2026-04-09": [
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Lucy's birthday"
       }
     ],
     "2026-05-10": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Mother's Day"
       }
     ],
     "2026-05-13": [
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Bob's birthday"
       }
     ],
     "2026-05-25": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Memorial Day"
       }
     ],
     "2026-06-19": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Juneteenth"
       }
     ],
     "2026-06-21": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Father's Day"
       }
     ],
     "2026-07-04": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "4th of July"
       }
     ],
     "2026-08-26": [
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Emily's birthday"
       }
     ],
     "2026-09-07": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Labor Day"
       }
     ],
     "2026-10-12": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Columbus Day"
       }
     ],
     "2026-10-28": [
       {
-        "kind": "ev",
+        "kind": "plan",
         "who": "Bob",
         "what": "Meijer (afternoon or after dinner): cabbage, meat, ingredients for Pete's flamin balls"
       }
     ],
     "2026-10-29": [
       {
-        "kind": "ev",
+        "kind": "plan",
         "who": "Bob",
         "what": "Pool at the Eagles, 3:30 PM ET"
       },
       {
-        "kind": "ev",
+        "kind": "plan",
         "who": "Bob",
         "what": "Bar poker at Tony's after pool ($10, ~10 easy rounds while drinking)"
       }
     ],
     "2026-10-31": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Halloween"
       },
       {
-        "kind": "ev",
+        "kind": "plan",
         "who": "Bob, Emily",
         "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM); .ics sent to rsmcclure75@gmail.com + emym74@woh.rr.com"
       }
     ],
     "2026-11-11": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Veterans Day"
       }
     ],
     "2026-11-26": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Thanksgiving"
       }
     ],
     "2026-12-24": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Christmas Eve"
       }
     ],
     "2026-12-25": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Christmas Day"
       }
     ],
     "2026-12-31": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Eve"
       }
     ],
     "2027-01-01": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Day"
       }

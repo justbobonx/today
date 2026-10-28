@@ -1,6 +1,6 @@
 {
   "year": 2027,
-  "updated": "2026-10-28T15:36:30Z",
+  "updated": "2026-10-28T16:03:21Z",
   "tz": "America/New_York",
   "label_max": 40,
   "recurring": [
@@ -10,173 +10,173 @@
   "days": {
     "2026-12-25": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Christmas Day"
       }
     ],
     "2026-12-31": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Eve"
       }
     ],
     "2027-01-01": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Day"
       }
     ],
     "2027-01-18": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Martin Luther King Jr. Day"
       },
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Jay's birthday"
       }
     ],
     "2027-02-14": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Valentine's Day"
       }
     ],
     "2027-02-15": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Presidents' Day"
       }
     ],
     "2027-03-17": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "St. Patrick's Day"
       }
     ],
     "2027-03-28": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Easter Sunday"
       }
     ],
     "2027-04-09": [
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Lucy's birthday"
       }
     ],
     "2027-05-09": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Mother's Day"
       }
     ],
     "2027-05-13": [
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Bob's birthday"
       }
     ],
     "2027-05-31": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Memorial Day"
       }
     ],
     "2027-06-19": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Juneteenth"
       }
     ],
     "2027-06-20": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Father's Day"
       }
     ],
     "2027-07-04": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "4th of July"
       }
     ],
     "2027-08-26": [
       {
-        "kind": "mine",
-        "who": "My event",
+        "kind": "event",
+        "who": "Event",
         "what": "Emily's birthday"
       }
     ],
     "2027-09-06": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Labor Day"
       }
     ],
     "2027-10-11": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Columbus Day"
       }
     ],
     "2027-10-31": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Halloween"
       }
     ],
     "2027-11-11": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Veterans Day"
       }
     ],
     "2027-11-25": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Thanksgiving"
       }
     ],
     "2027-12-24": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Christmas Eve"
       }
     ],
     "2027-12-25": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "Christmas Day"
       }
     ],
     "2027-12-31": [
       {
-        "kind": "hol",
+        "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Eve"
       }
