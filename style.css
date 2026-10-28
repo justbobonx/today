@@ -251,11 +251,7 @@ table.mini-grid td.has-plan .dot.plan { display: block; }
 .todo-list .td-date.event { color: var(--event); }
 .todo-list .td-date.plan { color: var(--plan); }
 .todo-list .td-who { color: var(--head); }
-/* calendar page Upcoming table date column */
-table.cal td.date { font-weight: 600; font-variant-numeric: tabular-nums; }
-table.cal td.date.holiday { color: var(--holiday); }
-table.cal td.date.event { color: var(--event); }
-table.cal td.date.plan { color: var(--plan); }
+/* Upcoming on calendar page uses .todo-list (same as status footer) */
 .cal-more { margin: 0; font-size: 0.9rem; }
 .site-nav { display: none; }
 
@@ -391,12 +387,6 @@ table.cal-grid td.has:nth-child(n+6) .tip::after { left: auto; right: 1rem; }
   .mini-row { flex-wrap: wrap; }
   table.mini-grid .dot,
   .year-strip table.mini-grid .dot { width: 0.36rem; height: 0.36rem; }
-  table.cal, table.cal tbody, table.cal tr, table.cal td { display: block; width: auto; }
-  table.cal thead { display: none; }
-  table.cal tr { padding: 0.4rem 0; border-bottom: 1px solid var(--rule); }
-  table.cal th, table.cal td { border: 0; padding: 0.05rem 0; }
-  table.cal td.date, table.cal td.who { width: auto; font-size: 0.85em; }
-  table.cal td.who { color: var(--head); opacity: 0.85; }
 }
 
 /* calendar: Status report overlay upper-right (no layout space) */

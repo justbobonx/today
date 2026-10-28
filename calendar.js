@@ -340,26 +340,27 @@
     return items;
   }
 
-  function upcomingRows(byDay, todayStr) {
+  /** One-line list like status footer: colored date + who — what. */
+  function upcomingListHtml(byDay, todayStr) {
     var items = collectUpcoming(byDay, todayStr);
     if (!items.length) {
-      return '<tr><td colspan="3">Nothing upcoming.</td></tr>';
+      return "<li>Nothing upcoming.</li>";
     }
     return items
       .map(function (it) {
         var k = it.kind || "plan";
         return (
-          '<tr class="up ' +
+          '<li class="up ' +
           k +
-          '"><td class="date ' +
+          '"><span class="td-date ' +
           k +
           '">' +
           esc(formatUpcomingDate(it.date)) +
-          '</td><td class="who">' +
+          '</span> <span class="td-who">' +
           esc(it.who) +
-          '</td><td class="what">' +
+          "</span> — " +
           esc(it.what) +
-          "</td></tr>"
+          "</li>"
         );
       })
       .join("\n");
@@ -376,11 +377,9 @@
     var up =
       '<section class="edition cal-block">\n' +
       '<h2 class="cal-h">Upcoming</h2>\n' +
-      '<table class="cal">\n' +
-      "<thead><tr><th>When</th><th>Who</th><th>What</th></tr></thead>\n" +
-      "<tbody>\n" +
-      upcomingRows(byDay, todayStr) +
-      "\n</tbody>\n</table>\n</section>\n";
+      '<ul class="todo-list">\n' +
+      upcomingListHtml(byDay, todayStr) +
+      "\n</ul>\n</section>\n";
     var yearHtml = yearStrip(year, byDay, todayStr);
     var rec = (recurring || [])
       .map(function (x) {
@@ -472,6 +471,7 @@
     parseYMD: parseYMD,
     formatUpcomingDate: formatUpcomingDate,
     collectUpcoming: collectUpcoming,
+    upcomingListHtml: upcomingListHtml,
     normKind: normKind,
     fetchJson: fetchJson,
     MONTH_SHORT: MONTH_SHORT,
