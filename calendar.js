@@ -278,7 +278,14 @@
     return dt.toISOString().slice(0, 10);
   }
 
-  function upcomingRows(byDay, todayStr, recurringSource) {
+  /** "Oct 28" — no year (we already know it). */
+  function formatUpcomingDate(ymd) {
+    var p = parseYMD(ymd);
+    return MONTH_SHORT[p.m - 1] + " " + p.d;
+  }
+
+  /** Collect upcoming items: holidays ≤60d, my-events ≤365d, regulars all future in map. */
+  function collectUpcoming(byDay, todayStr) {
     var holEnd = addDays(todayStr, 60);
     var mineEnd = addDays(todayStr, 365);
     var items = [];
@@ -292,7 +299,6 @@
         kind = ev.kind || "ev";
         if (kind === "hol" && key > holEnd) continue;
         if (kind === "mine" && key > mineEnd) continue;
-        // regular events: include all future dates present in paint map
         items.push({
           date: key,
           who: ev.who || "",
@@ -306,6 +312,11 @@
       if (a.date !== b.date) return a.date < b.date ? -1 : 1;
       return (rank[a.kind] || 9) - (rank[b.kind] || 9);
     });
+    return items;
+  }
+
+  function upcomingRows(byDay, todayStr, recurringSource) {
+    var items = collectUpcoming(byDay, todayStr);
     if (!items.length) {
       return '<tr><td colspan="3">Nothing upcoming.</td></tr>';
     }
@@ -317,7 +328,7 @@
           '<tr class="up' +
           cls +
           '"><td class="date">' +
-          esc(it.date) +
+          esc(formatUpcomingDate(it.date)) +
           '</td><td class="who">' +
           esc(it.who) +
           '</td><td class="what">' +
@@ -427,6 +438,20 @@
           "</p>";
       });
   }
+
+  // Shared helpers for status.js footer (and any other shell).
+  window.Cal = {
+    esc: esc,
+    miniMonth: miniMonth,
+    mergeDays: mergeDays,
+    todayET: todayET,
+    parseYMD: parseYMD,
+    formatUpcomingDate: formatUpcomingDate,
+    collectUpcoming: collectUpcoming,
+    fetchJson: fetchJson,
+    MONTH_SHORT: MONTH_SHORT,
+    MONTH_LONG: MONTH_LONG,
+  };
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);
