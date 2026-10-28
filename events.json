@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-28T16:03:21Z",
+    "updated": "2026-10-28T16:39:25Z",
     "tz": "America/New_York",
     "label_max": 40,
     "kinds": [
@@ -9,9 +9,9 @@
       "plan"
     ],
     "sources": [
-      "mind/calendar.md",
+      "mind/plans.md",
       "mind/holidays.md",
-      "mind/my_events.md"
+      "mind/events.md"
     ]
   },
   "holidays": [
