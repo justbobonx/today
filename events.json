@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "updated": "2026-10-28T15:36:30Z",
+    "tz": "America/New_York",
+    "label_max": 40,
+    "sources": [
+      "mind/calendar.md",
+      "mind/holidays.md",
+      "mind/my_events.md"
+    ]
+  },
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "what": "New Year's Day"
+    },
+    {
+      "date": "2026-01-19",
+      "what": "Martin Luther King Jr. Day"
+    },
+    {
+      "date": "2026-02-14",
+      "what": "Valentine's Day"
+    },
+    {
+      "date": "2026-02-16",
+      "what": "Presidents' Day"
+    },
+    {
+      "date": "2026-03-17",
+      "what": "St. Patrick's Day"
+    },
+    {
+      "date": "2026-04-05",
+      "what": "Easter Sunday"
+    },
+    {
+      "date": "2026-05-10",
+      "what": "Mother's Day"
+    },
+    {
+      "date": "2026-05-25",
+      "what": "Memorial Day"
+    },
+    {
+      "date": "2026-06-19",
+      "what": "Juneteenth"
+    },
+    {
+      "date": "2026-06-21",
+      "what": "Father's Day"
+    },
+    {
+      "date": "2026-07-04",
+      "what": "4th of July"
+    },
+    {
+      "date": "2026-09-07",
+      "what": "Labor Day"
+    },
+    {
+      "date": "2026-10-12",
+      "what": "Columbus Day"
+    },
+    {
+      "date": "2026-10-31",
+      "what": "Halloween"
+    },
+    {
+      "date": "2026-11-11",
+      "what": "Veterans Day"
+    },
+    {
+      "date": "2026-11-26",
+      "what": "Thanksgiving"
+    },
+    {
+      "date": "2026-12-24",
+      "what": "Christmas Eve"
+    },
+    {
+      "date": "2026-12-25",
+      "what": "Christmas Day"
+    },
+    {
+      "date": "2026-12-31",
+      "what": "New Year's Eve"
+    },
+    {
+      "date": "2027-01-01",
+      "what": "New Year's Day"
+    },
+    {
+      "date": "2027-01-18",
+      "what": "Martin Luther King Jr. Day"
+    },
+    {
+      "date": "2027-02-14",
+      "what": "Valentine's Day"
+    },
+    {
+      "date": "2027-02-15",
+      "what": "Presidents' Day"
+    },
+    {
+      "date": "2027-03-17",
+      "what": "St. Patrick's Day"
+    },
+    {
+      "date": "2027-03-28",
+      "what": "Easter Sunday"
+    },
+    {
+      "date": "2027-05-09",
+      "what": "Mother's Day"
+    },
+    {
+      "date": "2027-05-31",
+      "what": "Memorial Day"
+    },
+    {
+      "date": "2027-06-19",
+      "what": "Juneteenth"
+    },
+    {
+      "date": "2027-06-20",
+      "what": "Father's Day"
+    },
+    {
+      "date": "2027-07-04",
+      "what": "4th of July"
+    },
+    {
+      "date": "2027-09-06",
+      "what": "Labor Day"
+    },
+    {
+      "date": "2027-10-11",
+      "what": "Columbus Day"
+    },
+    {
+      "date": "2027-10-31",
+      "what": "Halloween"
+    },
+    {
+      "date": "2027-11-11",
+      "what": "Veterans Day"
+    },
+    {
+      "date": "2027-11-25",
+      "what": "Thanksgiving"
+    },
+    {
+      "date": "2027-12-24",
+      "what": "Christmas Eve"
+    },
+    {
+      "date": "2027-12-25",
+      "what": "Christmas Day"
+    },
+    {
+      "date": "2027-12-31",
+      "what": "New Year's Eve"
+    }
+  ],
+  "my_events": [
+    {
+      "rule": "01-18",
+      "what": "Jay's birthday",
+      "annual": true
+    },
+    {
+      "rule": "04-09",
+      "what": "Lucy's birthday",
+      "annual": true
+    },
+    {
+      "rule": "05-13",
+      "what": "Bob's birthday",
+      "annual": true
+    },
+    {
+      "rule": "08-26",
+      "what": "Emily's birthday",
+      "annual": true
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-28",
+      "who": "Bob",
+      "what": "Meijer (afternoon or after dinner): cabbage, meat, ingredients for Pete's flamin balls"
+    },
+    {
+      "date": "2026-10-29",
+      "who": "Bob",
+      "what": "Pool at the Eagles, 3:30 PM ET"
+    },
+    {
+      "date": "2026-10-29",
+      "who": "Bob",
+      "what": "Bar poker at Tony's after pool ($10, ~10 easy rounds while drinking)"
+    },
+    {
+      "date": "2026-10-31",
+      "who": "Bob, Emily",
+      "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM); .ics sent to rsmcclure75@gmail.com + emym74@woh.rr.com"
+    }
+  ],
+  "recurring": [
+    "Tuesdays ~10:15 AM ET — Bob — NFL best-games-to-watch list (after morning status)",
+    "Thursdays 3:30 PM ET — Bob — Pool at the Eagles → bar poker at Tony's after"
+  ]
+}
