@@ -307,11 +307,11 @@ table.mini-grid tr:nth-child(-n+2) td.has .tip::after {
 .year-block { padding-bottom: 1.1rem; }
 .year-strip {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.9rem 0.65rem;
   margin-top: 0.25rem;
 }
-@media (min-width: 34rem) {
+@media (min-width: 601px) {
   .year-strip {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
@@ -337,4 +337,33 @@ table.mini-grid tr:nth-child(-n+2) td.has .tip::after {
 .year-strip table.mini-grid .dot {
   width: 0.24rem;
   height: 0.24rem;
+}
+
+/* mobile (<=600px); desktop unchanged */
+@media (max-width: 600px) {
+  .cal-block { font-size: 0.9rem; }
+  table.cal-grid { font-size: 0.66rem; }
+  table.cal-grid th { padding: 0.25rem 0; }
+  table.cal-grid td { height: 3.6rem; padding: 0.12rem; }
+  table.cal-grid .num { margin-bottom: 0.1rem; }
+  table.cal-grid .ev {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0 0.12rem;
+    font-size: 0.6rem;
+    line-height: 1.2;
+  }
+  .year-strip { gap: 0.8rem 0.5rem; }
+  .year-strip table.mini-grid td { height: 1.7rem; }
+  table.mini-grid { font-size: 0.7rem; }
+  .mini-row { flex-wrap: wrap; }
+  table.mini-grid .dot,
+  .year-strip table.mini-grid .dot { width: 0.36rem; height: 0.36rem; }
+  table.cal, table.cal tbody, table.cal tr, table.cal td { display: block; width: auto; }
+  table.cal thead { display: none; }
+  table.cal tr { padding: 0.4rem 0; border-bottom: 1px solid var(--rule); }
+  table.cal th, table.cal td { border: 0; padding: 0.05rem 0; }
+  table.cal td.date, table.cal td.who { width: auto; font-size: 0.85em; }
+  table.cal td.who { color: var(--head); opacity: 0.85; }
 }
