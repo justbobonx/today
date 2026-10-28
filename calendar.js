@@ -1,4 +1,8 @@
-/* Data-driven calendar: fetch year-YYYY.json (+ events.json if needed), paint grids. */
+/* Data-driven calendar: fetch year-YYYY.json (+ events.json if needed), paint grids.
+ *
+ * Kinds (locked): holiday (orange), event (red, all-day personal), plan (blue).
+ * Stacking: holiday → event → plan. Upcoming: 2 months ahead; date labels Mon D, colored by kind.
+ */
 (function () {
   "use strict";
 
@@ -46,10 +50,19 @@
     return new Date(y, m, 0).getDate();
   }
 
+  /** Normalize legacy short codes + current names → holiday | event | plan. */
+  function normKind(k) {
+    k = String(k || "");
+    if (k === "holiday" || k === "hol") return "holiday";
+    if (k === "event" || k === "mine") return "event";
+    if (k === "plan" || k === "ev") return "plan";
+    return "plan";
+  }
+
   /** Sunday-first month matrix; 0 = empty. */
   function monthMatrix(y, m) {
     var first = new Date(y, m - 1, 1);
-    var start = first.getDay(); // 0=Sun
+    var start = first.getDay();
     var dim = daysInMonth(y, m);
     var weeks = [];
     var week = [];
@@ -87,16 +100,24 @@
     var i, ev, kind, who, what;
     for (i = 0; i < events.length; i++) {
       ev = events[i];
-      kind = ev.kind || "ev";
+      kind = normKind(ev.kind);
       who = ev.who || "";
       what = ev.what || "";
-      if (kind === "hol") {
-        bits.push('<div class="tip-ev tip-hol"><strong>' + esc(what) + "</strong></div>");
-      } else if (kind === "mine") {
-        bits.push('<div class="tip-ev tip-mine"><strong>' + esc(what) + "</strong></div>");
+      if (kind === "holiday") {
+        bits.push(
+          '<div class="tip-entry tip-holiday"><strong>' + esc(what) + "</strong></div>"
+        );
+      } else if (kind === "event") {
+        bits.push(
+          '<div class="tip-entry tip-event"><strong>' + esc(what) + "</strong></div>"
+        );
       } else {
         bits.push(
-          '<div class="tip-ev"><strong>' + esc(who) + "</strong> " + esc(what) + "</div>"
+          '<div class="tip-entry tip-plan"><strong>' +
+            esc(who) +
+            "</strong> " +
+            esc(what) +
+            "</div>"
         );
       }
     }
@@ -119,19 +140,19 @@
         var i, ev, kind, label;
         for (i = 0; i < events.length; i++) {
           ev = events[i];
-          kind = ev.kind || "ev";
+          kind = normKind(ev.kind);
           kinds[kind] = true;
           label = esc(truncLabel(ev.what || ""));
-          if (kind === "hol") bits.push('<div class="ev hol">' + label + "</div>");
-          else if (kind === "mine") bits.push('<div class="ev mine">' + label + "</div>");
-          else bits.push('<div class="ev">' + label + "</div>");
+          if (kind === "holiday") bits.push('<div class="entry holiday">' + label + "</div>");
+          else if (kind === "event") bits.push('<div class="entry event">' + label + "</div>");
+          else bits.push('<div class="entry plan">' + label + "</div>");
         }
         var attrs = "";
         if (events.length) {
           cls.push("has");
-          if (kinds.hol) cls.push("has-hol");
-          if (kinds.mine) cls.push("has-mine");
-          if (kinds.ev) cls.push("has-ev");
+          if (kinds.holiday) cls.push("has-holiday");
+          if (kinds.event) cls.push("has-event");
+          if (kinds.plan) cls.push("has-plan");
           bits.push(tipHtml(key, events));
           attrs = ' tabindex="0"';
         }
@@ -169,50 +190,50 @@
         var events = byDay[key] || [];
         var cls = ["d"];
         if (key === todayStr) cls.push("today");
-        var hols = [], mines = [], regs = [];
+        var holidays = [], evts = [], plans = [];
         var j, ev, kind;
         for (j = 0; j < events.length; j++) {
           ev = events[j];
-          kind = ev.kind || "ev";
-          if (kind === "hol") hols.push(ev);
-          else if (kind === "mine") mines.push(ev);
-          else regs.push(ev);
+          kind = normKind(ev.kind);
+          if (kind === "holiday") holidays.push(ev);
+          else if (kind === "event") evts.push(ev);
+          else plans.push(ev);
         }
         var dots = [];
         var tipBits = [];
-        if (hols.length || mines.length || regs.length) {
+        if (holidays.length || evts.length || plans.length) {
           cls.push("has");
-          if (hols.length) {
-            cls.push("has-hol");
-            dots.push('<span class="dot hol" aria-hidden="true"></span>');
-            for (j = 0; j < hols.length; j++) {
+          if (holidays.length) {
+            cls.push("has-holiday");
+            dots.push('<span class="dot holiday" aria-hidden="true"></span>');
+            for (j = 0; j < holidays.length; j++) {
               tipBits.push(
-                '<div class="tip-ev tip-hol"><strong>' +
-                  esc(hols[j].what || "") +
+                '<div class="tip-entry tip-holiday"><strong>' +
+                  esc(holidays[j].what || "") +
                   "</strong></div>"
               );
             }
           }
-          if (mines.length) {
-            cls.push("has-mine");
-            dots.push('<span class="dot mine" aria-hidden="true"></span>');
-            for (j = 0; j < mines.length; j++) {
+          if (evts.length) {
+            cls.push("has-event");
+            dots.push('<span class="dot event" aria-hidden="true"></span>');
+            for (j = 0; j < evts.length; j++) {
               tipBits.push(
-                '<div class="tip-ev tip-mine"><strong>' +
-                  esc(mines[j].what || "") +
+                '<div class="tip-entry tip-event"><strong>' +
+                  esc(evts[j].what || "") +
                   "</strong></div>"
               );
             }
           }
-          if (regs.length) {
-            cls.push("has-ev");
-            dots.push('<span class="dot ev" aria-hidden="true"></span>');
-            for (j = 0; j < regs.length; j++) {
+          if (plans.length) {
+            cls.push("has-plan");
+            dots.push('<span class="dot plan" aria-hidden="true"></span>');
+            for (j = 0; j < plans.length; j++) {
               tipBits.push(
-                '<div class="tip-ev"><strong>' +
-                  esc(regs[j].who || "") +
+                '<div class="tip-entry tip-plan"><strong>' +
+                  esc(plans[j].who || "") +
                   "</strong> " +
-                  esc(regs[j].what || "") +
+                  esc(plans[j].what || "") +
                   "</div>"
               );
             }
@@ -278,27 +299,31 @@
     return dt.toISOString().slice(0, 10);
   }
 
-  /** "Oct 28" — no year (we already know it). */
+  /** End date ~2 calendar months ahead of today (ET YMD). */
+  function addMonths(ymd, n) {
+    var p = parseYMD(ymd);
+    var dt = new Date(Date.UTC(p.y, p.m - 1 + n, p.d));
+    return dt.toISOString().slice(0, 10);
+  }
+
+  /** "Oct 28" — no year. */
   function formatUpcomingDate(ymd) {
     var p = parseYMD(ymd);
     return MONTH_SHORT[p.m - 1] + " " + p.d;
   }
 
-  /** Collect upcoming items: holidays ≤60d, my-events ≤365d, regulars all future in map. */
+  /** Collect upcoming items within 2 months ahead (all kinds). Stack: holiday → event → plan. */
   function collectUpcoming(byDay, todayStr) {
-    var holEnd = addDays(todayStr, 60);
-    var mineEnd = addDays(todayStr, 365);
+    var end = addMonths(todayStr, 2);
     var items = [];
     var key, list, i, ev, kind;
     for (key in byDay) {
       if (!Object.prototype.hasOwnProperty.call(byDay, key)) continue;
-      if (key < todayStr) continue;
+      if (key < todayStr || key > end) continue;
       list = byDay[key];
       for (i = 0; i < list.length; i++) {
         ev = list[i];
-        kind = ev.kind || "ev";
-        if (kind === "hol" && key > holEnd) continue;
-        if (kind === "mine" && key > mineEnd) continue;
+        kind = normKind(ev.kind);
         items.push({
           date: key,
           who: ev.who || "",
@@ -307,7 +332,7 @@
         });
       }
     }
-    var rank = { hol: 0, mine: 1, ev: 2 };
+    var rank = { holiday: 0, event: 1, plan: 2 };
     items.sort(function (a, b) {
       if (a.date !== b.date) return a.date < b.date ? -1 : 1;
       return (rank[a.kind] || 9) - (rank[b.kind] || 9);
@@ -315,19 +340,20 @@
     return items;
   }
 
-  function upcomingRows(byDay, todayStr, recurringSource) {
+  function upcomingRows(byDay, todayStr) {
     var items = collectUpcoming(byDay, todayStr);
     if (!items.length) {
       return '<tr><td colspan="3">Nothing upcoming.</td></tr>';
     }
     return items
       .map(function (it) {
-        var cls =
-          it.kind === "hol" ? " hol" : it.kind === "mine" ? " mine" : "";
+        var k = it.kind || "plan";
         return (
-          '<tr class="up' +
-          cls +
-          '"><td class="date">' +
+          '<tr class="up ' +
+          k +
+          '"><td class="date ' +
+          k +
+          '">' +
           esc(formatUpcomingDate(it.date)) +
           '</td><td class="who">' +
           esc(it.who) +
@@ -395,9 +421,8 @@
     var todayStr = todayET();
     var t = parseYMD(todayStr);
     var year = t.y;
-    // Always load this year + next (Upcoming my-events window is 365d; Dec big-month edge).
+    // This year + next (Dec edge / Upcoming may cross year within 2 months).
     var urls = ["year-" + year + ".json", "year-" + (year + 1) + ".json"];
-    // Also load events.json for recurring fallback / meta label_max
     Promise.all(
       urls
         .map(function (u) {
@@ -439,7 +464,6 @@
       });
   }
 
-  // Shared helpers for status.js footer (and any other shell).
   window.Cal = {
     esc: esc,
     miniMonth: miniMonth,
@@ -448,6 +472,7 @@
     parseYMD: parseYMD,
     formatUpcomingDate: formatUpcomingDate,
     collectUpcoming: collectUpcoming,
+    normKind: normKind,
     fetchJson: fetchJson,
     MONTH_SHORT: MONTH_SHORT,
     MONTH_LONG: MONTH_LONG,

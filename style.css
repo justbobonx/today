@@ -6,7 +6,9 @@
   --link: #7ec8ff;
   --link-hover: #a8dcff;
   --holiday: #ff8c00;
-  --my-event: #ff4d4d;
+  --event: #ff4d4d;
+  --plan: #7ec8ff; /* same as link blue for plan markers */
+  --my-event: #ff4d4d; /* legacy alias */
 }
 * { box-sizing: border-box; }
 body {
@@ -142,7 +144,7 @@ table.cal-grid .num {
   color: var(--head);
   margin-bottom: 0.2rem;
 }
-table.cal-grid .ev {
+table.cal-grid .entry {
   display: block;
   background: #444;
   color: var(--ink);
@@ -153,17 +155,20 @@ table.cal-grid .ev {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-table.cal-grid .ev.hol {
+table.cal-grid .entry.holiday {
   background: transparent;
   color: var(--holiday);
   font-weight: 600;
   padding-left: 0;
 }
-table.cal-grid .ev.mine {
+table.cal-grid .entry.event {
   background: transparent;
-  color: var(--my-event);
+  color: var(--event);
   font-weight: 600;
   padding-left: 0;
+}
+table.cal-grid .entry.plan {
+  /* blue chip (default entry look) */
 }
 
 
@@ -229,19 +234,28 @@ table.mini-grid .dot {
   background: var(--link);
   flex: none;
 }
-table.mini-grid .dot.hol { background: var(--holiday); }
-table.mini-grid .dot.mine { background: var(--my-event); }
-table.mini-grid td.has-ev .dot.ev { display: block; }
-table.mini-grid td.has-hol .dot.hol { display: block; }
-table.mini-grid td.has-mine .dot.mine { display: block; }
+table.mini-grid .dot.holiday { background: var(--holiday); }
+table.mini-grid .dot.event { background: var(--event); }
+table.mini-grid .dot.plan { background: var(--plan); }
+table.mini-grid td.has-holiday .dot.holiday { display: block; }
+table.mini-grid td.has-event .dot.event { display: block; }
+table.mini-grid td.has-plan .dot.plan { display: block; }
 .todo-list {
   margin: 0 0 0.75rem;
   padding-left: 1.15rem;
   font-size: 0.92rem;
 }
 .todo-list li { margin: 0 0 0.35rem; }
-.todo-list .td-date { color: var(--head); font-variant-numeric: tabular-nums; }
+.todo-list .td-date { font-variant-numeric: tabular-nums; font-weight: 600; }
+.todo-list .td-date.holiday { color: var(--holiday); }
+.todo-list .td-date.event { color: var(--event); }
+.todo-list .td-date.plan { color: var(--plan); }
 .todo-list .td-who { color: var(--head); }
+/* calendar page Upcoming table date column */
+table.cal td.date { font-weight: 600; font-variant-numeric: tabular-nums; }
+table.cal td.date.holiday { color: var(--holiday); }
+table.cal td.date.event { color: var(--event); }
+table.cal td.date.plan { color: var(--plan); }
 .cal-more { margin: 0; font-size: 0.9rem; }
 .site-nav { display: none; }
 
@@ -282,16 +296,17 @@ table.mini-grid td.has-mine .dot.mine { display: block; }
   margin-bottom: 0.35rem;
   font-variant-numeric: tabular-nums;
 }
-:is(table.mini-grid, table.cal-grid) .tip-ev {
+:is(table.mini-grid, table.cal-grid) .tip-entry {
   font-size: 0.72rem;
   line-height: 1.35;
   margin: 0 0 0.3rem;
   color: var(--ink);
 }
-:is(table.mini-grid, table.cal-grid) .tip-ev:last-child { margin-bottom: 0; }
-:is(table.mini-grid, table.cal-grid) .tip-ev strong { color: var(--head); }
-:is(table.mini-grid, table.cal-grid) .tip-ev.tip-hol strong { color: var(--holiday); }
-:is(table.mini-grid, table.cal-grid) .tip-ev.tip-mine strong { color: var(--my-event); }
+:is(table.mini-grid, table.cal-grid) .tip-entry:last-child { margin-bottom: 0; }
+:is(table.mini-grid, table.cal-grid) .tip-entry strong { color: var(--head); }
+:is(table.mini-grid, table.cal-grid) .tip-entry.tip-holiday strong { color: var(--holiday); }
+:is(table.mini-grid, table.cal-grid) .tip-entry.tip-event strong { color: var(--event); }
+:is(table.mini-grid, table.cal-grid) .tip-entry.tip-plan strong { color: var(--head); }
 /* flip tip down near top of grid */
 :is(table.mini-grid, table.cal-grid) tr:nth-child(-n+2) td.has .tip {
   bottom: auto;
@@ -308,7 +323,7 @@ table.mini-grid td.has-mine .dot.mine { display: block; }
 table.cal-grid td.has { position: relative; cursor: pointer; outline: none; }
 table.cal-grid td.has:focus { box-shadow: inset 0 0 0 1px var(--link); }
 table.cal-grid td.has .tip { min-width: 12rem; max-width: min(18rem, 80vw); }
-table.cal-grid td.has .tip-ev { font-size: 0.78rem; }
+table.cal-grid td.has .tip-entry { font-size: 0.78rem; }
 /* keep edge-column tips on screen */
 table.cal-grid td.has:nth-child(-n+2) .tip { left: 0; transform: none; }
 table.cal-grid td.has:nth-child(-n+2) .tip::after { left: 1rem; }
@@ -362,7 +377,7 @@ table.cal-grid td.has:nth-child(n+6) .tip::after { left: auto; right: 1rem; }
   table.cal-grid th { padding: 0.25rem 0; }
   table.cal-grid td { height: 3.6rem; padding: 0.12rem; }
   table.cal-grid .num { margin-bottom: 0.1rem; }
-  table.cal-grid .ev {
+  table.cal-grid .entry {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;

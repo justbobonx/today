@@ -1,8 +1,13 @@
 {
   "meta": {
-    "updated": "2026-10-28T15:36:30Z",
+    "updated": "2026-10-28T16:03:21Z",
     "tz": "America/New_York",
     "label_max": 40,
+    "kinds": [
+      "holiday",
+      "event",
+      "plan"
+    ],
     "sources": [
       "mind/calendar.md",
       "mind/holidays.md",
@@ -163,7 +168,7 @@
       "what": "New Year's Eve"
     }
   ],
-  "my_events": [
+  "events": [
     {
       "rule": "01-18",
       "what": "Jay's birthday",
@@ -185,7 +190,7 @@
       "annual": true
     }
   ],
-  "events": [
+  "plans": [
     {
       "date": "2026-10-28",
       "who": "Bob",

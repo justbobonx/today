@@ -130,8 +130,13 @@
     } else {
       lis = items
         .map(function (it) {
+          var k = (Cal.normKind ? Cal.normKind(it.kind) : it.kind) || "plan";
           return (
-            '<li><span class="td-date">' +
+            '<li class="up ' +
+            k +
+            '"><span class="td-date ' +
+            k +
+            '">' +
             esc(Cal.formatUpcomingDate(it.date)) +
             '</span> <span class="td-who">' +
             esc(it.who) +
