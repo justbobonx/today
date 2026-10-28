@@ -368,9 +368,14 @@ table.mini-grid tr:nth-child(-n+2) td.has .tip::after {
   table.cal td.who { color: var(--head); opacity: 0.85; }
 }
 
-/* calendar: back link floated upper-right, page opens on first month */
+/* calendar: Status report overlay upper-right (no layout space) */
+body { position: relative; }
 .back-float {
-  float: right;
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  z-index: 5;
   font-size: 0.85rem;
-  margin: 0.95rem 0 0 1rem;
+  margin: 0;
+  line-height: 1;
 }
