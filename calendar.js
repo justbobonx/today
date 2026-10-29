@@ -325,6 +325,7 @@
         ev = list[i];
         kind = normKind(ev.kind);
         items.push({
+          repeat: !!ev.repeat,
           date: key,
           who: ev.who || "",
           what: ev.what || "",
@@ -337,7 +338,15 @@
       if (a.date !== b.date) return a.date < b.date ? -1 : 1;
       return (rank[a.kind] || 9) - (rank[b.kind] || 9);
     });
-    return items;
+    // a repeating plan shows only its next occurrence
+    var seenRepeat = {};
+    return items.filter(function (it) {
+      if (!it.repeat) return true;
+      var tag = it.who + "|" + it.what;
+      if (seenRepeat[tag]) return false;
+      seenRepeat[tag] = true;
+      return true;
+    });
   }
 
   /** One-line list like status footer: colored date + who — what. */
@@ -366,7 +375,7 @@
       .join("\n");
   }
 
-  function render(byDay, recurring, year, todayStr) {
+  function render(byDay, year, todayStr) {
     var t = parseYMD(todayStr);
     var y = t.y;
     var m = t.m;
@@ -381,12 +390,6 @@
       upcomingListHtml(byDay, todayStr) +
       "\n</ul>\n</section>\n";
     var yearHtml = yearStrip(year, byDay, todayStr);
-    var rec = (recurring || [])
-      .map(function (x) {
-        return "<li>" + esc(x) + "</li>";
-      })
-      .join("\n");
-    if (!rec) rec = "<li>None listed.</li>";
     var stamped = new Date().toISOString().replace("T", " ").replace(/\.\d+Z$/, " UTC");
     var foot =
       '<footer class="cal-foot"><p>Updated ' +
@@ -398,11 +401,6 @@
       grids +
       up +
       yearHtml +
-      '<section class="edition cal-block">\n' +
-      '<h2 class="cal-h">Recurring</h2>\n' +
-      '<ul class="cal-rec">\n' +
-      rec +
-      "\n</ul>\n</section>\n" +
       foot
     );
   }
@@ -449,11 +447,7 @@
           LABEL_MAX = +years[0].label_max || LABEL_MAX;
         }
         var byDay = mergeDays.apply(null, years);
-        var recurring =
-          (years[0] && years[0].recurring) ||
-          (eventsDoc && eventsDoc.recurring) ||
-          [];
-        root.innerHTML = render(byDay, recurring, year, todayStr);
+        root.innerHTML = render(byDay, year, todayStr);
       })
       .catch(function (err) {
         root.innerHTML =

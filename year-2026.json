@@ -1,12 +1,8 @@
 {
   "year": 2026,
-  "updated": "2026-10-29T14:23:54Z",
+  "updated": "2026-10-29T15:07:06Z",
   "tz": "America/New_York",
   "label_max": 40,
-  "recurring": [
-    "Tuesdays ~10:15 AM ET — Bob — NFL best-games-to-watch list (after morning status)",
-    "Thursdays 3:30 PM ET — Bob — Pool at the Eagles → bar poker at Tony's after"
-  ],
   "days": {
     "2026-01-01": [
       {
@@ -131,12 +127,8 @@
       {
         "kind": "plan",
         "who": "Bob",
-        "what": "Pool at the Eagles, 3:30 PM ET"
-      },
-      {
-        "kind": "plan",
-        "who": "Bob",
-        "what": "Bar poker at Tony's after pool ($10, ~10 easy rounds while drinking)"
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2026-10-31": [
@@ -151,6 +143,14 @@
         "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM)"
       }
     ],
+    "2026-11-05": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2026-11-11": [
       {
         "kind": "holiday",
@@ -158,11 +158,57 @@
         "what": "Veterans Day"
       }
     ],
+    "2026-11-12": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2026-11-19": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2026-11-26": [
       {
         "kind": "holiday",
         "who": "Holiday",
         "what": "Thanksgiving"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2026-12-03": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2026-12-10": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2026-12-17": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2026-12-24": [
@@ -170,6 +216,12 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "Christmas Eve"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2026-12-25": [
@@ -184,6 +236,12 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Eve"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-01-01": [
@@ -191,6 +249,14 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Day"
+      }
+    ],
+    "2027-01-07": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ]
   }

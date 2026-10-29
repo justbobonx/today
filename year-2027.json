@@ -1,12 +1,8 @@
 {
   "year": 2027,
-  "updated": "2026-10-29T14:23:54Z",
+  "updated": "2026-10-29T15:07:06Z",
   "tz": "America/New_York",
   "label_max": 40,
-  "recurring": [
-    "Tuesdays ~10:15 AM ET — Bob — NFL best-games-to-watch list (after morning status)",
-    "Thursdays 3:30 PM ET — Bob — Pool at the Eagles → bar poker at Tony's after"
-  ],
   "days": {
     "2026-12-25": [
       {
@@ -20,6 +16,12 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Eve"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-01-01": [
@@ -27,6 +29,22 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Day"
+      }
+    ],
+    "2027-01-07": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-01-14": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-01-18": [
@@ -39,6 +57,38 @@
         "kind": "event",
         "who": "Event",
         "what": "Jay's birthday"
+      }
+    ],
+    "2027-01-21": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-01-28": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-02-04": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-02-11": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-02-14": [
@@ -55,11 +105,59 @@
         "what": "Presidents' Day"
       }
     ],
+    "2027-02-18": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-02-25": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-03-04": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-03-11": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2027-03-17": [
       {
         "kind": "holiday",
         "who": "Holiday",
         "what": "St. Patrick's Day"
+      }
+    ],
+    "2027-03-18": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-03-25": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-03-28": [
@@ -69,11 +167,59 @@
         "what": "Easter Sunday"
       }
     ],
+    "2027-04-01": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-04-08": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2027-04-09": [
       {
         "kind": "event",
         "who": "Event",
         "what": "Lucy's birthday"
+      }
+    ],
+    "2027-04-15": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-04-22": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-04-29": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-05-06": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-05-09": [
@@ -88,6 +234,28 @@
         "kind": "event",
         "who": "Event",
         "what": "Bob's birthday"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-05-20": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-05-27": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-05-31": [
@@ -95,6 +263,30 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "Memorial Day"
+      }
+    ],
+    "2027-06-03": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-06-10": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-06-17": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-06-19": [
@@ -111,6 +303,22 @@
         "what": "Father's Day"
       }
     ],
+    "2027-06-24": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-07-01": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2027-07-04": [
       {
         "kind": "holiday",
@@ -118,11 +326,81 @@
         "what": "4th of July"
       }
     ],
+    "2027-07-08": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-07-15": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-07-22": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-07-29": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-08-05": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-08-12": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-08-19": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2027-08-26": [
       {
         "kind": "event",
         "who": "Event",
         "what": "Emily's birthday"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-09-02": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-09-06": [
@@ -132,11 +410,75 @@
         "what": "Labor Day"
       }
     ],
+    "2027-09-09": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-09-16": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-09-23": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-09-30": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-10-07": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2027-10-11": [
       {
         "kind": "holiday",
         "who": "Holiday",
         "what": "Columbus Day"
+      }
+    ],
+    "2027-10-14": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-10-21": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-10-28": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-10-31": [
@@ -146,11 +488,33 @@
         "what": "Halloween"
       }
     ],
+    "2027-11-04": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2027-11-11": [
       {
         "kind": "holiday",
         "who": "Holiday",
         "what": "Veterans Day"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-11-18": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-11-25": [
@@ -158,6 +522,44 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "Thanksgiving"
+      },
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-12-02": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-12-09": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-12-16": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
+    "2027-12-23": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ],
     "2027-12-24": [
@@ -174,11 +576,27 @@
         "what": "Christmas Day"
       }
     ],
+    "2027-12-30": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
+      }
+    ],
     "2027-12-31": [
       {
         "kind": "holiday",
         "who": "Holiday",
         "what": "New Year's Eve"
+      }
+    ],
+    "2028-01-06": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
+        "repeat": true
       }
     ]
   }
