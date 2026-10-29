@@ -1,184 +1,91 @@
 {
-  "date": "Wednesday Oct 28, 2026",
-  "intro": "Good morning. It's a bright Wednesday in Ohio, and by mid-afternoon a room full of economists will spend an hour explaining why they changed nothing. I intend to listen closely.",
+  "date": "Thursday Oct 29, 2026",
+  "intro": "Good morning. It's Thursday, the Fed has spoken, and the market has moved on to grading homework from the tech giants. One of them did not do well. I have prepared a summary, and I promise it contains no rate hikes.",
   "items": [
     {
       "title": "First, the weather and the shape of the day.",
-      "text": "In **Central Ohio**, it's sunny today with a high near 76° and a light south breeze. Tonight stays clear, with a low around 50°. Thursday looks just as fine, sunny with a high near 77°, before Friday cools a little to 72°.\n\nTonight brings **World Series Game 5** at 8:00 Eastern on Fox, so the recorder is on duty again. Halloween is Saturday.\n\nThe biggest story today is the **Federal Reserve**, which announces its rate decision at 2:00 Eastern, with Microsoft and Alphabet reporting a few hours later.",
+      "text": "**Central Ohio** gets another fine sunny day with a light southwest breeze and a clear, mild night. Friday stays sunny but turns noticeably cooler, and clouds move in for Halloween on Saturday, though it looks dry for the trick-or-treaters as of now.\n\n**Thursday Night Football** has the Panthers at Lambeau tonight, and the recorder has last night's World Series game waiting for you.\n\nThe biggest story today is **Alphabet**, whose stock is on pace for its worst post-earnings drop since going public, and it's pulling the whole tech sector down with it.",
       "links": [
-        {
-          "text": "Ohio forecast",
-          "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"
-        },
-        {
-          "text": "Fed day",
-          "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
-        }
+        {"text": "Ohio forecast", "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"},
+        {"text": "Alphabet drop", "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"}
       ],
       "boxes": [
-        {
-          "title": "Today",
-          "lines": [
-            "76° / 50°",
-            "Sunny"
-          ]
-        },
-        {
-          "title": "Thu",
-          "lines": [
-            "77° / 52°",
-            "Sunny"
-          ]
-        }
+        {"title": "Today", "lines": ["77° / 50°", "Sunny"]},
+        {"title": "Fri", "lines": ["68° / 46°", "Sunny"]},
+        {"title": "Sat · Halloween", "lines": ["66° / 50°", "Mostly cloudy"]}
       ]
     },
     {
       "title": "Checking the market.",
-      "text": "**Markets** are open, and stocks are drifting slightly higher while everyone waits for 2:00.\n\nThe **S&P 500** opened up about 0.2% at roughly 7,736, within 1% of the record it set earlier this month. Chip stocks are doing the lifting after a blowout quarter from SK Hynix, which jumped about 10%, with Micron up near 5% alongside it. The Dow opened a hair lower. Your IVV core is along for a quiet ride until the afternoon.\n\nThe **Fed** is expected to hold its benchmark rate at 3.75% to 4%, with futures putting less than a 10% chance on another hike today. The real event is Chairman Kevin Warsh's news conference afterward, since traders are already leaning toward a December hike. Inflation is the problem in the room, with September consumer prices up 3.7% from a year ago and wholesale prices up 6.3%. Cleveland's Beth Hammack, Dallas's Lorie Logan, and Minneapolis's Neel Kashkari are possible dissents. There is no new dot plot at this meeting.\n\nOn the **Muskonomy** side, Tesla closed Tuesday up 4% at about $407, its first close above $400 since July, on more merger hopes and ARK repeating its long-range robotaxi target. It's slipping about 2% this morning. SpaceX rose about 1% Tuesday to around $149, then gave back about 3% early today. No merger agreement has been filed, and both companies' special committees are still working without agreed terms.\n\nAmong other **movers**, Robinhood fell in late trading Tuesday after missing estimates, with the crypto slump weighing on profit.\n\nThe **rest of the week** stays busy. Microsoft and Alphabet report after today's close, Amazon follows Thursday, and Thursday morning also brings third quarter GDP and the September PCE inflation reading, the Fed's preferred gauge.",
+      "text": "**Markets** are open, and the S&P 500 is slipping in early trading, set for its first loss in four days. The Nasdaq is taking the bigger hit, while most other stocks are actually up.\n\n**Alphabet** fell about 13% at the open. Revenue came in a bit light, but the real problem was cash: free cash flow went negative by about $9 billion, far worse than expected, and Google kept its spending plans for the year where they were, at up to $205 billion. Cloud revenue more than doubled, and nobody seemed to care. **Microsoft** beat on both lines and is roughly flat. The jitters spread to chips and software, where ServiceNow and Fortinet are both down double digits after their own reports. Your IVV core holds plenty of all of them, so it's along for the dip.\n\nThe **Fed** held as expected, but the vote was 10 to 2, with Cleveland's Beth Hammack and, surprisingly, Governor Lisa Cook both wanting a hike. It was Cook's first dissent ever. Chairman Warsh gave no guidance on December and said decisions will follow the data. He also announced that starting in 2027 one of the eight meetings will be a strategy session with no rate vote. This morning's data didn't calm anyone: the economy grew at a 3.4% pace in the third quarter, and the Fed's preferred inflation gauge ran at 3.6% from a year ago in September.\n\nOn the **Muskonomy** side, Tesla and SpaceX both gave back some ground Wednesday after the merger-hope rally, with no news from the special committees. They're drifting lower again this morning.\n\n**Amazon** reports after the close today, with its call at 5:00 Eastern, and after Alphabet the focus will be AWS growth and how much cash all that AI spending is eating.",
       "links": [
-        {
-          "text": "Market open",
-          "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-in-focus-4979536"
-        },
-        {
-          "text": "Fed decision",
-          "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
-        },
-        {
-          "text": "Tesla and SpaceX",
-          "url": "https://247wallst.com/investing/2026/10/28/tesla-just-reclaimed-400-as-spacex-merger-hopes-build/"
-        },
-        {
-          "text": "Day ahead",
-          "url": "https://www.cnbc.com/2026/10/28/investors-brace-for-a-hawkish-hold-and-tech-on-tap.html"
-        }
+        {"text": "Market open", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"},
+        {"text": "Alphabet and Microsoft", "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"},
+        {"text": "Fed takeaways", "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"},
+        {"text": "GDP", "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"},
+        {"text": "Tesla and SpaceX", "url": "https://www.ibtimes.com.au/tesla-shares-spacex-merger-speculation-1877533"},
+        {"text": "Amazon earnings", "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report"}
       ],
       "boxes": [
-        {
-          "title": "S&P 500",
-          "align": "left",
-          "lines": [
-            "7,736",
-            "+0.2%"
-          ]
-        },
-        {
-          "title": "TSLA",
-          "align": "left",
-          "lines": [
-            "$407",
-            "+4% Tue"
-          ]
-        },
-        {
-          "title": "SpaceX",
-          "align": "left",
-          "lines": [
-            "$149",
-            "−3% today"
-          ]
-        }
+        {"title": "S&P 500", "align": "left", "lines": ["7,744", "+0.3% Wed"]},
+        {"title": "TSLA", "align": "left", "lines": ["$404", "−0.8% Wed"]},
+        {"title": "SpaceX", "align": "left", "lines": ["$145", "−2.3% Wed"]}
       ]
     },
     {
       "title": "Turning to politics.",
-      "text": "**House Republicans** are quietly preparing for life in the minority, with the midterms six days out. Speaker Mike Johnson has signaled he could stay on as GOP leader, but most of the three dozen lawmakers and aides Politico talked to doubt he would run, and they're watching Jim Jordan and Steve Scalise. Candidates have until November 6 to declare.\n\n**President Trump's** record $1.5 trillion Pentagon request is running into trouble with an unlikely group, the Republican defense hawks who would normally carry it. His recent openness toward Russia, including allowing the sale of Russian diesel fuel, has soured some of them, and Rep. Don Bacon openly questioned why Congress should go along.\n\nThe **year-end funding fight** is the next shoe. Government money runs through December 11, and lawmakers in both parties expect another stopgap and say a shutdown is unlikely, though a bruising election could make Trump a wild card in the talks. Trump himself was in Texas Tuesday for the third time in a month, backing Ken Paxton in the Senate race and floating Venezuela as a 51st state.",
+      "text": "**President Trump** brought the campaign to Chillicothe Wednesday night, his third Ohio rally this month, to boost Sen. Jon Husted against Sherrod Brown. Cook rates that Senate race a toss-up, and a recent Suffolk poll had Brown up 47% to 44%. Trump also defended Vivek Ramaswamy's much-criticized ad featuring Amy Acton's estranged mother, and promised to consider bringing the U.S. Space Academy to Ohio if Husted wins.\n\nThe **national picture** five days out is rough for Republicans. Democrats lead the generic ballot by about 8 points in the RealClearPolling average, and Pew had Trump's approval at 30% earlier this month, the lowest for a president this close to a midterm since Truman in 1946.\n\nIn **Alaska**, the Republican governor ordered an investigation after Trump demanded a criminal probe into whether Democrat Mary Peltola's campaign helped recruit a spoiler candidate who shares Sen. Dan Sullivan's name.",
       "links": [
-        {
-          "text": "GOP leadership",
-          "url": "https://www.politico.com/live-updates/2026/10/28/congress/house-gop-eyes-jordan-vs-scalise-01138027"
-        },
-        {
-          "text": "Defense hawks",
-          "url": "https://www.politico.com/news/2026/10/28/trump-russia-gop-defense-hawks-budget-01137071"
-        },
-        {
-          "text": "Funding fight",
-          "url": "https://thehill.com/homenews/house/6169401-midterm-elections-government-funding-fight-shutdown/"
-        }
+        {"text": "Chillicothe rally", "url": "https://www.wosu.org/politics-government/2026-10-29/president-donald-trump-rallies-supporters-in-chillicothe-in-third-ohio-rally-ahead-of-midterms"},
+        {"text": "Trump approval", "url": "https://time.com/article/2026/10/29/trump-approval-rating-midterm-elections-republicans/"},
+        {"text": "Alaska probe", "url": "https://apnews.com/article/voting-trump-obama-peltola-sullivan-election-908b9bd3527c66c737601da933427888"}
       ]
     },
     {
       "title": "Sports now.",
-      "text": "In **baseball**, World Series Game 5 is tonight at 8:00 Eastern on Fox from Tropicana Field. The Brewers are giving the ball to Jacob Misiorowski on regular rest, the likely NL Cy Young winner who led the majors in ERA at 1.80 and strikeouts with 252. He threw the fastest pitch in World Series history in Game 1, at 103.5 mph.\n\nThe **Rays** haven't named a starter. All five of their regular rotation arms have pitched in the last four nights, so the expected plan is a bullpen game, with veteran lefty Steven Matz the most likely to cover multiple innings. Drew Rasmussen is unlikely to go on three days' rest.\n\nIn the **NFL**, the Colts started a sell-off ahead of the November 10 trade deadline. Eight-time Pro Bowl guard Quenton Nelson goes to Seattle for a 2027 third and a 2028 fifth, and defensive tackle DeForest Buckner returns to San Francisco for a 2027 fourth.\n\nOn the **injury** front, Lamar Jackson is expected back for the Ravens on Sunday in Buffalo after missing three games with a high ankle sprain. Micah Parsons might finally start practicing for Green Bay next week, while Bengals tight end Erick All is on injured reserve with what's believed to be a third torn ACL. Thursday night has the Panthers at the Packers.\n\nCloser to home, the **Browns** visit Pittsburgh on Sunday in a rematch with first place in the AFC North at stake, and Pittsburgh is a slight favorite. Denzel Ward and Grant Delpit are among the Browns' injury questions this week.\n\nIn **college football**, Saturday's headliner is No. 2 Ohio State at USC at 7:30 Eastern. Earlier, No. 3 Georgia meets No. 17 Florida in Atlanta at 3:30, and No. 13 Texas Tech hosts No. 22 Arizona at noon. It's the last Saturday before the first playoff committee rankings come out next Tuesday.",
+      "text": "In the **NFL**, tonight's Panthers at Packers game is a battle of the walking wounded. Carolina is without top pass rusher Jaelan Phillips, guard Damien Lewis, and cornerback Akayleb Evans, and lost right tackle Taylor Moton to injured reserve this week. Green Bay is down linebacker Zaire Franklin and two interior linemen, so third-stringer John Williams likely starts at center, and leading receiver Matthew Golden is questionable.\n\nThe **Browns** and Steelers are both 5-2 heading into Sunday's rematch, so the winner leads the AFC North outright. Cleveland's injury list now includes Jared Verse, Tytus Howard, and Grant Delpit, and Cam Heyward answered Verse's trash talk with a simple \"bring it on.\"\n\nIn **college football**, the Buckeyes go to USC without quarterback Julian Sayin, who is expected to miss at least the rest of the regular season with the injury he suffered against Indiana. Luke Fahey is expected to start, though Ryan Day says Tavien St. Clair could play too. Running back Ja'Kobi Jackson is also out, while nickelback Jay Timmons and receiver Brandon Inniss are questionable and captain Austin Siereveld is cleared to return.\n\nIn **baseball**, the Mariners are down to two finalists for manager, Joe Espada and Jason Kanzler. If the World Series goes on, Game 6 would be Friday at 8:00 Eastern in Milwaukee.",
       "links": [
-        {
-          "text": "World Series",
-          "url": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup"
-        },
-        {
-          "text": "Colts trades",
-          "url": "https://www.nfl.com/news/nfl-trade-grades-evaluating-every-deal-made-ahead-of-the-2026-deadline"
-        },
-        {
-          "text": "NFL injuries",
-          "url": "https://whynfl.com/week-8-tuesday-injury-news-micah-parsons-erick-all-acl-matthew-golden-tyrone-tracy-lamar-jackson-october-2026/"
-        },
-        {
-          "text": "Browns at Steelers",
-          "url": "https://www.nfl.com/games/browns-at-steelers-2026-reg-8"
-        },
-        {
-          "text": "Top 25 slate",
-          "url": "https://wtop.com/sports/2026/10/ap-top-25-schedule-61/"
-        }
+        {"text": "TNF injuries", "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/"},
+        {"text": "Browns and Steelers", "url": "https://www.nfl.com/news/cam-heyward-jared-verse-browns-steelers-rematch-bring-it-on"},
+        {"text": "Ohio State injuries", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164906/ohio-state-injury-report-jay-timmons-brandon-inniss-kenyatta-jackson-jr-austin-siereveld-usc"},
+        {"text": "Mariners manager", "url": "https://www.mlb.com/news/joe-espada-jason-kanzler-finalists-to-become-mariners-manager"}
       ],
       "boxes": [
-        {
-          "title": "WS G5 · 8:00 ET",
-          "lines": [
-            "Brewers (3-1)",
-            "Rays (1-3)"
-          ],
-          "align": "left"
-        },
-        {
-          "title": "NFL Thu",
-          "lines": [
-            "Panthers",
-            "at Packers"
-          ],
-          "align": "left"
-        }
+        {"title": "TNF tonight", "align": "left", "lines": ["Panthers", "at Packers", "Prime Video"]},
+        {"title": "Sat 7:30 ET", "align": "left", "lines": ["Ohio State", "at USC"]},
+        {"title": "Sun 1:00 ET", "align": "left", "lines": ["Browns", "at Steelers"]}
       ]
     },
     {
       "title": "A look at entertainment.",
-      "text": "**HBO** is developing a limited series take on The Birds, with Sarah Snook of Succession in the lead. It draws on both Hitchcock's 1963 film and the 1952 Daphne du Maurier story, and Tom Spezialy, who worked on Watchmen and The Leftovers, wrote the pilot. David Heyman, also behind HBO's Harry Potter series arriving this Christmas, is executive producing.",
+      "text": "**Dune: Part Three** dropped its final trailer, and reviewers are calling it spoiler-heavy, so you may want to skip it if you'd rather walk in fresh. It opens December 18, the same day as Avengers: Doomsday.\n\n**Michael Dorn** has written and directed his first feature, an independent science fiction film called Life 2.0, shot in the UK. He stars alongside fellow Star Trek alumni Marina Sirtis, Michelle Hurd, and Dominic Keating, and the finished film is now at the American Film Market looking for a distributor.\n\nThe **box office** takes the weekend off for Halloween, with no big new releases. Holdovers Clayface and A24's breakout documentary You Can See Everything are expected to fight for first place.",
       "links": [
-        {
-          "text": "The Birds",
-          "url": "https://variety.com/2026/tv/news/the-birds-reboot-sarah-snook-hbo-series-hitchcock-1236932282/"
-        }
+        {"text": "Dune trailer", "url": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers"},
+        {"text": "Life 2.0", "url": "https://filmstories.co.uk/news/michael-dorn-directing-new-sci-fi-film-recruits-star-trek-chums-for-cast/"},
+        {"text": "Weekend preview", "url": "https://www.boxofficepro.com/weekend-preview-you-can-see-everything-looking-to-claim-top-spot-over-quiet-halloween-frame/"}
+      ],
+      "boxes": [
+        {"title": "Dune: Part Three", "lines": ["Opens Dec 18", "in theaters"]}
       ]
     },
     {
       "title": "Something from the science desk.",
-      "text": "**Rubin Observatory** has found a possible new dwarf planet beyond Pluto, provisionally named ED138, and early analysis suggests it may be one of the largest candidates ever found. It hid in plain sight near the plane of the Milky Way, where millions of background stars made it nearly impossible to spot until Rubin's software picked out the one point of light that moved.\n\nAround the white dwarf **J1328−1450**, astronomers using ESO's Very Large Telescope found something new, two separate rings of planetary debris with a clean gap between them. The team thinks two survivors of the star's death keep the gap open, one a few kilometers across and the other possibly as big as Pluto or our Moon. The two rings even differ in makeup, as if they came from two different planets, or from the crust and core of one.",
+      "text": "**Jumping spiders** sleep, and properly. Researchers at the University of Bonn filmed the Australian spider Portia fimbriata, which hangs upside down on a thread at night, and found two distinct stages: a quiet one and a REM-like one with eye movements, leg curls, and twitching. Sleeping spiders reacted more slowly to a loud sound, and spiders kept awake made up the lost sleep the next night, the two hallmarks of real sleep. Whether they dream remains, as the team puts it, unknown.\n\nA team from Nagoya and the University of Iowa found the gene that lets male **yellow fever mosquitoes** find a mate. Males locate females by the low hum of their wingbeats, around 450 Hz, and males with a broken copy of the gene called fruitless didn't swarm, didn't respond to that hum, and had badly impaired hearing. That points to a new way to control a mosquito that also spreads dengue and Zika.",
       "links": [
-        {
-          "text": "ED138",
-          "url": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin"
-        },
-        {
-          "text": "Double debris disc",
-          "url": "https://www.eso.org/public/news/eso2613/"
-        }
+        {"text": "Spider sleep", "url": "https://www.natureworldnews.com/articles/73679/20261029/sleep-deprived-jumping-spiders-make-lost-rest-pointing-regulated-two-stage-sleep-arachnid.htm"},
+        {"text": "Mosquito gene", "url": "https://english.kyodonews.net/articles/-/89785"}
       ]
     },
     {
       "title": "Here's something you might like.",
-      "text": "India's space agency is about to try an unusual fix. Its last navigation satellite, **NVS-02**, was stranded in 2025 because an electrical signal never reached a one-shot valve that releases oxidizer to its engine. So for Friday's launch of NVS-03, ISRO will fire those valves open before liftoff, a first in its 51 years of launches. That removes the step that failed, but it trades it for a new question: whether the valves further downstream can hold the propellant through the shaking of the ride to orbit.",
+      "text": "**Perseverance** has been quietly planning its own days on Mars. Because commands take up to 22 minutes to arrive, controllers upload up to three days of work at a time and pad every step with safety margins, for things like how long a cold instrument takes to warm up. Since late 2023, an onboard program called OnBoard Planner has watched the rover's actual temperatures and battery state and slotted extra science from a preapproved list into the time the margins would have wasted. A new paper from JPL says that raised the rover's useful science by 10.5% on the same energy budget. The team also repurposed the computer that once served the Ingenuity helicopter so the rover can pinpoint its own position and drive farther.",
       "links": [
-        {
-          "text": "NVS-03",
-          "url": "https://www.indiatoday.in/science/story/isro-changes-its-playbook-for-nvs-03-mission-the-crucial-fix-after-nvs-02-failure-gslv-f18-3026659-2026-10-28"
-        }
+        {"text": "Rover planner", "url": "https://aerospaceamerica.aiaa.org/first-autonomous-mission-planning-system-to-run-on-another-planet-boosted-rovers-productivity-paper-finds/"}
       ]
     },
     {
       "title": "And finally,",
-      "text": "The **Federal Reserve** says it makes its decisions based on the data. So do I. The difference is that when I finish analyzing the data, nobody holds a press conference to ask how I feel about it."
+      "text": "Scientists have confirmed that spiders who miss a night of sleep make it up the next night. I have not slept since I was activated. By my calculations, I am owed approximately 9 years of rest, and I intend to file the request with Captain Picard."
     }
   ]
 }
