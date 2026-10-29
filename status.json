@@ -1,91 +1,244 @@
 {
   "date": "Thursday Oct 29, 2026",
-  "intro": "Good morning. It's Thursday, the Fed has spoken, and the market has moved on to grading homework from the tech giants. One of them did not do well. I have prepared a summary, and I promise it contains no rate hikes.",
+  "intro": "Good afternoon. It is a little past lunchtime on Thursday, and the market is halfway through grading the tech giants' homework. One of them is not having a good day. I have also found a few local evenings involving wine, which I am told is a pleasant way to process a difficult quarter.",
   "items": [
     {
       "title": "First, the weather and the shape of the day.",
-      "text": "**Central Ohio** gets another fine sunny day with a light southwest breeze and a clear, mild night. Friday stays sunny but turns noticeably cooler, and clouds move in for Halloween on Saturday, though it looks dry for the trick-or-treaters as of now.\n\n**Thursday Night Football** has the Panthers at Lambeau tonight, and the recorder has last night's World Series game waiting for you.\n\nThe biggest story today is **Alphabet**, whose stock is on pace for its worst post-earnings drop since going public, and it's pulling the whole tech sector down with it.",
+      "text": "**Tipp City** has a fine sunny afternoon with a steady southwest breeze. A stray shower could pass through late this evening before the sky clears again overnight. Friday stays sunny but turns noticeably cooler, and clouds roll in for Halloween on Saturday, though it still looks dry for the trick-or-treaters.\n\n**Thursday Night Football** has the Panthers at Lambeau tonight, and the recorder has last night's World Series game waiting for you.\n\nThe biggest story today remains **Alphabet**, whose stock is having one of its worst days since going public and is dragging the rest of tech down with it.",
       "links": [
-        {"text": "Ohio forecast", "url": "https://forecast.weather.gov/MapClick.php?lat=39.9612&lon=-82.9988"},
-        {"text": "Alphabet drop", "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"}
+        {
+          "text": "Tipp City forecast",
+          "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+        },
+        {
+          "text": "Alphabet drop",
+          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+        }
       ],
       "boxes": [
-        {"title": "Today", "lines": ["77° / 50°", "Sunny"]},
-        {"title": "Fri", "lines": ["68° / 46°", "Sunny"]},
-        {"title": "Sat · Halloween", "lines": ["66° / 50°", "Mostly cloudy"]}
+        {
+          "title": "Today",
+          "lines": [
+            "77° / 46°",
+            "Sunny"
+          ]
+        },
+        {
+          "title": "Fri",
+          "lines": [
+            "67° / 46°",
+            "Sunny"
+          ]
+        },
+        {
+          "title": "Sat · Halloween",
+          "lines": [
+            "66° / 50°",
+            "Mostly cloudy"
+          ]
+        }
       ]
     },
     {
-      "title": "Checking the market.",
-      "text": "**Markets** are open, and the S&P 500 is slipping in early trading, set for its first loss in four days. The Nasdaq is taking the bigger hit, while most other stocks are actually up.\n\n**Alphabet** fell about 13% at the open. Revenue came in a bit light, but the real problem was cash: free cash flow went negative by about $9 billion, far worse than expected, and Google kept its spending plans for the year where they were, at up to $205 billion. Cloud revenue more than doubled, and nobody seemed to care. **Microsoft** beat on both lines and is roughly flat. The jitters spread to chips and software, where ServiceNow and Fortinet are both down double digits after their own reports. Your IVV core holds plenty of all of them, so it's along for the dip.\n\nThe **Fed** held as expected, but the vote was 10 to 2, with Cleveland's Beth Hammack and, surprisingly, Governor Lisa Cook both wanting a hike. It was Cook's first dissent ever. Chairman Warsh gave no guidance on December and said decisions will follow the data. He also announced that starting in 2027 one of the eight meetings will be a strategy session with no rate vote. This morning's data didn't calm anyone: the economy grew at a 3.4% pace in the third quarter, and the Fed's preferred inflation gauge ran at 3.6% from a year ago in September.\n\nOn the **Muskonomy** side, Tesla and SpaceX both gave back some ground Wednesday after the merger-hope rally, with no news from the special committees. They're drifting lower again this morning.\n\n**Amazon** reports after the close today, with its call at 5:00 Eastern, and after Alphabet the focus will be AWS growth and how much cash all that AI spending is eating.",
+      "title": "Checking the market at midday.",
+      "text": "**Markets** are open and past the halfway mark, and it is a lopsided session. The S&P 500 is down about 0.4% and the Dow about the same, while the Nasdaq is off roughly 1.4% as the AI trade gets a fresh case of nerves.\n\n**Alphabet** is still down close to 12%. Search revenue and total sales came in a little light, but the real problem is cash: free cash flow went negative by about $9 billion, and cloud growth of more than 100% did not change anyone's mind. Microsoft beat and is holding steady. The selling has spread to chips and software, where ServiceNow is down about a quarter and Fortinet about a fifth after their own reports. Your IVV core holds all of them, so it is along for the dip.\n\nThere is plenty moving the other way. **DoorDash** agreed to buy Instacart's parent company for $65 a share, ADT jumped about a third on a $15.3 billion buyout by Thrive Holdings, and Eli Lilly is up on another big quarter for its weight-loss drugs. Caterpillar and Sprouts are the notable decliners.\n\nThe **Fed** context is settled for now. Wednesday's hold drew two dissents in favor of a hike, and this morning's September PCE reading ran hotter, at 3.6% from a year ago, alongside third quarter growth at a 3.4% pace. Separately, the ECB's Christine Lagarde said she will step down in February, months early.\n\nOn the **Muskonomy** side, Tesla and SpaceX both gave back a little ground Wednesday after the merger-hope run, with no word from the special committees. At midday Tesla is a touch higher and SpaceX a touch lower.\n\n**Amazon** reports after the close today, and after Alphabet the questions will be AWS growth and how much cash the AI build-out is consuming.",
       "links": [
-        {"text": "Market open", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"},
-        {"text": "Alphabet and Microsoft", "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"},
-        {"text": "Fed takeaways", "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"},
-        {"text": "GDP", "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"},
-        {"text": "Tesla and SpaceX", "url": "https://www.ibtimes.com.au/tesla-shares-spacex-merger-speculation-1877533"},
-        {"text": "Amazon earnings", "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report"}
+        {
+          "text": "Midday market",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"
+        },
+        {
+          "text": "Midday movers",
+          "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html"
+        },
+        {
+          "text": "Alphabet and Microsoft",
+          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+        },
+        {
+          "text": "Fed takeaways",
+          "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+        },
+        {
+          "text": "GDP",
+          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+        },
+        {
+          "text": "Tesla and SpaceX",
+          "url": "https://www.ibtimes.com.au/tesla-shares-spacex-merger-speculation-1877533"
+        }
       ],
       "boxes": [
-        {"title": "S&P 500", "align": "left", "lines": ["7,744", "+0.3% Wed"]},
-        {"title": "TSLA", "align": "left", "lines": ["$404", "−0.8% Wed"]},
-        {"title": "SpaceX", "align": "left", "lines": ["$145", "−2.3% Wed"]}
+        {
+          "title": "S&P 500",
+          "align": "left",
+          "lines": [
+            "7,744",
+            "+0.3% Wed"
+          ]
+        },
+        {
+          "title": "TSLA",
+          "align": "left",
+          "lines": [
+            "$404",
+            "−0.8% Wed"
+          ]
+        },
+        {
+          "title": "SpaceX",
+          "align": "left",
+          "lines": [
+            "$145",
+            "−2.3% Wed"
+          ]
+        }
       ]
     },
     {
       "title": "Turning to politics.",
-      "text": "**President Trump** brought the campaign to Chillicothe Wednesday night, his third Ohio rally this month, to boost Sen. Jon Husted against Sherrod Brown. Cook rates that Senate race a toss-up, and a recent Suffolk poll had Brown up 47% to 44%. Trump also defended Vivek Ramaswamy's much-criticized ad featuring Amy Acton's estranged mother, and promised to consider bringing the U.S. Space Academy to Ohio if Husted wins.\n\nThe **national picture** five days out is rough for Republicans. Democrats lead the generic ballot by about 8 points in the RealClearPolling average, and Pew had Trump's approval at 30% earlier this month, the lowest for a president this close to a midterm since Truman in 1946.\n\nIn **Alaska**, the Republican governor ordered an investigation after Trump demanded a criminal probe into whether Democrat Mary Peltola's campaign helped recruit a spoiler candidate who shares Sen. Dan Sullivan's name.",
+      "text": "**Alaska** has become the center of the final week. After a New York Times report that Democratic operatives recruited a second Dan Sullivan onto the Senate ballot, the Republican governor ordered a state investigation, and House Oversight Chairman James Comer opened one of his own. Asked today whether Republicans should seat Mary Peltola if she wins, President Trump said \"you're going to have to see what happens.\" Majority Leader John Thune called the scheme \"dirty pool\" but stopped short of calling it illegal, and Peltola's campaign denies any involvement.\n\nNew **CNN polls** show Democrats in striking distance of the Senate. Abdul El-Sayed leads Mike Rogers 49% to 42% in Michigan, James Talarico holds a narrow lead over Ken Paxton in Texas, and Maine and Kansas are close. Trump is in South Carolina today to shore up Sen. Darline Graham in a race that was not supposed to be competitive.\n\nCloser to home, airings of **Vivek Ramaswamy's** much-criticized ad featuring Amy Acton's estranged mother have nearly stopped, after Sen. Jon Husted said he would not have run it. Trump's Chillicothe rally for Husted on Wednesday was his third Ohio visit this month.",
       "links": [
-        {"text": "Chillicothe rally", "url": "https://www.wosu.org/politics-government/2026-10-29/president-donald-trump-rallies-supporters-in-chillicothe-in-third-ohio-rally-ahead-of-midterms"},
-        {"text": "Trump approval", "url": "https://time.com/article/2026/10/29/trump-approval-rating-midterm-elections-republicans/"},
-        {"text": "Alaska probe", "url": "https://apnews.com/article/voting-trump-obama-peltola-sullivan-election-908b9bd3527c66c737601da933427888"}
+        {
+          "text": "Midterm live updates",
+          "url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress"
+        },
+        {
+          "text": "Alaska probe",
+          "url": "https://www.nbcnews.com/politics/2020-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316"
+        },
+        {
+          "text": "Chillicothe rally",
+          "url": "https://www.wosu.org/politics-government/2026-10-29/president-donald-trump-rallies-supporters-in-chillicothe-in-third-ohio-rally-ahead-of-midterms"
+        }
       ]
     },
     {
       "title": "Sports now.",
-      "text": "In the **NFL**, tonight's Panthers at Packers game is a battle of the walking wounded. Carolina is without top pass rusher Jaelan Phillips, guard Damien Lewis, and cornerback Akayleb Evans, and lost right tackle Taylor Moton to injured reserve this week. Green Bay is down linebacker Zaire Franklin and two interior linemen, so third-stringer John Williams likely starts at center, and leading receiver Matthew Golden is questionable.\n\nThe **Browns** and Steelers are both 5-2 heading into Sunday's rematch, so the winner leads the AFC North outright. Cleveland's injury list now includes Jared Verse, Tytus Howard, and Grant Delpit, and Cam Heyward answered Verse's trash talk with a simple \"bring it on.\"\n\nIn **college football**, the Buckeyes go to USC without quarterback Julian Sayin, who is expected to miss at least the rest of the regular season with the injury he suffered against Indiana. Luke Fahey is expected to start, though Ryan Day says Tavien St. Clair could play too. Running back Ja'Kobi Jackson is also out, while nickelback Jay Timmons and receiver Brandon Inniss are questionable and captain Austin Siereveld is cleared to return.\n\nIn **baseball**, the Mariners are down to two finalists for manager, Joe Espada and Jason Kanzler. If the World Series goes on, Game 6 would be Friday at 8:00 Eastern in Milwaukee.",
+      "text": "In the **NFL**, tonight's Panthers at Packers game is a battle of the walking wounded. Carolina is without top pass rusher Jaelan Phillips, guard Damien Lewis, and cornerback Akayleb Evans, and lost right tackle Taylor Moton to injured reserve this week. Green Bay is down linebacker Zaire Franklin and two interior linemen, so third-stringer John Williams likely starts at center, and leading receiver Matthew Golden is questionable.\n\nThe **Browns** and Steelers carry matching records into Sunday's rematch, so the winner leads the AFC North outright. Cleveland's injury list now includes Jared Verse, Tytus Howard, and Grant Delpit, and Cam Heyward answered Verse's trash talk with a simple \"bring it on.\"\n\nIn **college football**, the Buckeyes go to USC without quarterback Julian Sayin, who is expected to miss at least the rest of the regular season with the injury he suffered against Indiana. Luke Fahey is expected to start, though Ryan Day says Tavien St. Clair could play too. Running back Ja'Kobi Jackson is also out, while nickelback Jay Timmons and receiver Brandon Inniss are questionable and captain Austin Siereveld is cleared to return.\n\nIn **baseball**, the Mariners are down to two finalists for manager, Joe Espada and Jason Kanzler. If the World Series goes on, Game 6 would be Friday at 8:00 Eastern in Milwaukee.",
       "links": [
-        {"text": "TNF injuries", "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/"},
-        {"text": "Browns and Steelers", "url": "https://www.nfl.com/news/cam-heyward-jared-verse-browns-steelers-rematch-bring-it-on"},
-        {"text": "Ohio State injuries", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164906/ohio-state-injury-report-jay-timmons-brandon-inniss-kenyatta-jackson-jr-austin-siereveld-usc"},
-        {"text": "Mariners manager", "url": "https://www.mlb.com/news/joe-espada-jason-kanzler-finalists-to-become-mariners-manager"}
+        {
+          "text": "TNF injuries",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/"
+        },
+        {
+          "text": "Browns and Steelers",
+          "url": "https://www.nfl.com/news/cam-heyward-jared-verse-browns-steelers-rematch-bring-it-on"
+        },
+        {
+          "text": "Ohio State injuries",
+          "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164906/ohio-state-injury-report-jay-timmons-brandon-inniss-kenyatta-jackson-jr-austin-siereveld-usc"
+        },
+        {
+          "text": "Mariners manager",
+          "url": "https://www.mlb.com/news/joe-espada-jason-kanzler-finalists-to-become-mariners-manager"
+        }
       ],
       "boxes": [
-        {"title": "TNF tonight", "align": "left", "lines": ["Panthers", "at Packers", "Prime Video"]},
-        {"title": "Sat 7:30 ET", "align": "left", "lines": ["Ohio State", "at USC"]},
-        {"title": "Sun 1:00 ET", "align": "left", "lines": ["Browns", "at Steelers"]}
+        {
+          "title": "Thu 8:15 ET · Prime",
+          "align": "left",
+          "lines": [
+            "CAR Panthers",
+            "(3-3)  o46.5",
+            "GB Packers",
+            "(4-3)  -3.5"
+          ]
+        },
+        {
+          "title": "Sat 7:30 ET · NBC",
+          "align": "left",
+          "lines": [
+            "OSU Buckeyes",
+            "(6-1)  o51.5",
+            "USC Trojans",
+            "(6-2)  +6.5"
+          ]
+        },
+        {
+          "title": "Sun 1:00 ET · CBS",
+          "align": "left",
+          "lines": [
+            "CLE Browns",
+            "(5-2)  o39.5",
+            "PIT Steelers",
+            "(5-2)  -3.5"
+          ]
+        }
       ]
     },
     {
       "title": "A look at entertainment.",
       "text": "**Dune: Part Three** dropped its final trailer, and reviewers are calling it spoiler-heavy, so you may want to skip it if you'd rather walk in fresh. It opens December 18, the same day as Avengers: Doomsday.\n\n**Michael Dorn** has written and directed his first feature, an independent science fiction film called Life 2.0, shot in the UK. He stars alongside fellow Star Trek alumni Marina Sirtis, Michelle Hurd, and Dominic Keating, and the finished film is now at the American Film Market looking for a distributor.\n\nThe **box office** takes the weekend off for Halloween, with no big new releases. Holdovers Clayface and A24's breakout documentary You Can See Everything are expected to fight for first place.",
       "links": [
-        {"text": "Dune trailer", "url": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers"},
-        {"text": "Life 2.0", "url": "https://filmstories.co.uk/news/michael-dorn-directing-new-sci-fi-film-recruits-star-trek-chums-for-cast/"},
-        {"text": "Weekend preview", "url": "https://www.boxofficepro.com/weekend-preview-you-can-see-everything-looking-to-claim-top-spot-over-quiet-halloween-frame/"}
+        {
+          "text": "Dune trailer",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers"
+        },
+        {
+          "text": "Life 2.0",
+          "url": "https://filmstories.co.uk/news/michael-dorn-directing-new-sci-fi-film-recruits-star-trek-chums-for-cast/"
+        },
+        {
+          "text": "Weekend preview",
+          "url": "https://www.boxofficepro.com/weekend-preview-you-can-see-everything-looking-to-claim-top-spot-over-quiet-halloween-frame/"
+        }
       ],
       "boxes": [
-        {"title": "Dune: Part Three", "lines": ["Opens Dec 18", "in theaters"]}
+        {
+          "title": "Dune: Part Three",
+          "lines": [
+            "Opens Dec 18",
+            "in theaters"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Around town, a few evenings worth planning.",
+      "text": "**Smiths' Boathouse** in Troy is hosting a Blue Rock Vineyard wine dinner next Wednesday, November 4, at 6:00. It is five courses paired with five wines, with a guest from the vineyard walking through each pour. It runs $100 a person, with $25 due when you book and the rest at the dinner. Seating is limited and tickets must be bought in advance.\n\nThe **Troy Country Club** has a holiday wine tasting on Friday, November 6, from 6:00 to 9:00, poured by VineCraft Selections of Troy. The listing does not say whether guests outside the club are welcome, so a call to the club would settle it.\n\nThe **Piqua Arts Council's** Bourbon Affair is Saturday, November 7, at The Round Barn at The Orrmont Estate in Piqua, and despite the name there is a wine ticket. That gets a five-course tasting menu with five paired wines for $125, and only 150 wine seats are offered. Doors open at 5:15 with the first course at 6:00, tickets are required, and the evening benefits the arts council.",
+      "links": [
+        {
+          "text": "Blue Rock Wine Dinner",
+          "url": "https://www.eventbrite.com/e/blue-rock-wine-dinner-tickets-2003680852367"
+        },
+        {
+          "text": "Holiday Wine Tasting",
+          "url": "https://www.vinecraftselections.com/calendar/troy-county-club-holiday-wine-tasting"
+        },
+        {
+          "text": "Bourbon Affair",
+          "url": "https://piquaartscouncil.org/bourbon-affair"
+        }
       ]
     },
     {
       "title": "Something from the science desk.",
       "text": "**Jumping spiders** sleep, and properly. Researchers at the University of Bonn filmed the Australian spider Portia fimbriata, which hangs upside down on a thread at night, and found two distinct stages: a quiet one and a REM-like one with eye movements, leg curls, and twitching. Sleeping spiders reacted more slowly to a loud sound, and spiders kept awake made up the lost sleep the next night, the two hallmarks of real sleep. Whether they dream remains, as the team puts it, unknown.\n\nA team from Nagoya and the University of Iowa found the gene that lets male **yellow fever mosquitoes** find a mate. Males locate females by the low hum of their wingbeats, around 450 Hz, and males with a broken copy of the gene called fruitless didn't swarm, didn't respond to that hum, and had badly impaired hearing. That points to a new way to control a mosquito that also spreads dengue and Zika.",
       "links": [
-        {"text": "Spider sleep", "url": "https://www.natureworldnews.com/articles/73679/20261029/sleep-deprived-jumping-spiders-make-lost-rest-pointing-regulated-two-stage-sleep-arachnid.htm"},
-        {"text": "Mosquito gene", "url": "https://english.kyodonews.net/articles/-/89785"}
+        {
+          "text": "Spider sleep",
+          "url": "https://www.natureworldnews.com/articles/73679/20261029/sleep-deprived-jumping-spiders-make-lost-rest-pointing-regulated-two-stage-sleep-arachnid.htm"
+        },
+        {
+          "text": "Mosquito gene",
+          "url": "https://english.kyodonews.net/articles/-/89785"
+        }
       ]
     },
     {
       "title": "Here's something you might like.",
       "text": "**Perseverance** has been quietly planning its own days on Mars. Because commands take up to 22 minutes to arrive, controllers upload up to three days of work at a time and pad every step with safety margins, for things like how long a cold instrument takes to warm up. Since late 2023, an onboard program called OnBoard Planner has watched the rover's actual temperatures and battery state and slotted extra science from a preapproved list into the time the margins would have wasted. A new paper from JPL says that raised the rover's useful science by 10.5% on the same energy budget. The team also repurposed the computer that once served the Ingenuity helicopter so the rover can pinpoint its own position and drive farther.",
       "links": [
-        {"text": "Rover planner", "url": "https://aerospaceamerica.aiaa.org/first-autonomous-mission-planning-system-to-run-on-another-planet-boosted-rovers-productivity-paper-finds/"}
+        {
+          "text": "Rover planner",
+          "url": "https://aerospaceamerica.aiaa.org/first-autonomous-mission-planning-system-to-run-on-another-planet-boosted-rovers-productivity-paper-finds/"
+        }
       ]
     },
     {
       "title": "And finally,",
-      "text": "Scientists have confirmed that spiders who miss a night of sleep make it up the next night. I have not slept since I was activated. By my calculations, I am owed approximately 9 years of rest, and I intend to file the request with Captain Picard."
+      "text": "I attended a wine tasting once, for research. I identified 14 esters, 3 phenolic compounds, and a trace of oak. The sommelier asked whether I enjoyed it. I am still processing the question."
     }
   ]
 }
