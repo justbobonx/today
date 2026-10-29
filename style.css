@@ -79,6 +79,45 @@ strong { color: var(--head); }
 a { color: var(--link); text-decoration: underline; text-underline-offset: 2px; }
 a:hover { color: var(--link-hover); }
 
+/* info boxes: right-justified at top of their section */
+.info-boxes {
+  float: right;
+  display: flex;
+  gap: 0.5rem;
+  margin: 0 0 0.5rem 1rem;
+  flex-wrap: wrap;
+  clear: right;
+}
+.section-body::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.info-box {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 0.4rem 0.55rem;
+  min-width: 5.2rem;
+  text-align: center;
+  font-size: 0.78rem;
+  line-height: 1.3;
+}
+.info-box .ib-title {
+  font-weight: 700;
+  color: var(--head);
+  font-size: 0.7rem;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.15rem;
+  text-transform: uppercase;
+}
+.info-box .ib-line {
+  color: var(--ink);
+}
+.info-box.ib-left { text-align: left; }
+.info-box.ib-center { text-align: center; }
+.info-box.ib-right { text-align: right; }
+
 /* calendar page */
 .cal-h {
   font-size: 1.1rem;
@@ -170,6 +209,7 @@ table.cal-grid .entry.event {
 table.cal-grid .entry.plan {
   /* blue chip (default entry look) */
 }
+
 
 
 /* status footer: mini cal + todos (always open) */
@@ -387,6 +427,8 @@ table.cal-grid td.has:nth-child(n+6) .tip::after { left: auto; right: 1rem; }
   .mini-row { flex-wrap: wrap; }
   table.mini-grid .dot,
   .year-strip table.mini-grid .dot { width: 0.36rem; height: 0.36rem; }
+  .info-boxes { gap: 0.35rem; margin-bottom: 1rem; }
+  .info-box { min-width: 4.6rem; font-size: 0.74rem; padding: 0.3rem 0.4rem; }
 }
 
 /* calendar: Status report overlay upper-right (no layout space) */

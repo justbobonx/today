@@ -14,6 +14,22 @@
           "text": "Fed day",
           "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
         }
+      ],
+      "boxes": [
+        {
+          "title": "Today",
+          "lines": [
+            "76° / 50°",
+            "Sunny"
+          ]
+        },
+        {
+          "title": "Thu",
+          "lines": [
+            "77° / 52°",
+            "Sunny"
+          ]
+        }
       ]
     },
     {
@@ -35,6 +51,32 @@
         {
           "text": "Day ahead",
           "url": "https://www.cnbc.com/2026/10/28/investors-brace-for-a-hawkish-hold-and-tech-on-tap.html"
+        }
+      ],
+      "boxes": [
+        {
+          "title": "S&P 500",
+          "align": "left",
+          "lines": [
+            "7,736",
+            "+0.2%"
+          ]
+        },
+        {
+          "title": "TSLA",
+          "align": "left",
+          "lines": [
+            "$407",
+            "+4% Tue"
+          ]
+        },
+        {
+          "title": "SpaceX",
+          "align": "left",
+          "lines": [
+            "$149",
+            "−3% today"
+          ]
         }
       ]
     },
@@ -79,6 +121,24 @@
         {
           "text": "Top 25 slate",
           "url": "https://wtop.com/sports/2026/10/ap-top-25-schedule-61/"
+        }
+      ],
+      "boxes": [
+        {
+          "title": "WS G5 · 8:00 ET",
+          "lines": [
+            "Brewers (3-1)",
+            "Rays (1-3)"
+          ],
+          "align": "left"
+        },
+        {
+          "title": "NFL Thu",
+          "lines": [
+            "Panthers",
+            "at Packers"
+          ],
+          "align": "left"
         }
       ]
     },

@@ -55,6 +55,26 @@
     return '<p class="links">' + bits.join(" · ") + "</p>\n";
   }
 
+  function boxesHtml(boxes) {
+    if (!boxes || !boxes.length) return "";
+    var html = '<div class="info-boxes">\n';
+    for (var i = 0; i < boxes.length; i++) {
+      var b = boxes[i];
+      var align = (b.align || "center").toLowerCase();
+      if (align !== "left" && align !== "right") align = "center";
+      html += '<div class="info-box ib-' + align + '">\n';
+      if (b.title) html += '<div class="ib-title">' + esc(b.title) + "</div>\n";
+      if (b.lines && b.lines.length) {
+        for (var j = 0; j < b.lines.length; j++) {
+          html += '<div class="ib-line">' + esc(b.lines[j]) + "</div>\n";
+        }
+      }
+      html += "</div>\n";
+    }
+    html += "</div>\n";
+    return html;
+  }
+
   function renderNews(doc) {
     var date = doc.date || "";
     var title = date ? "Status report, " + date : "Status report";
@@ -80,6 +100,9 @@
           '</span><span class="chev" aria-hidden="true"></span></summary>\n'
       );
       out.push('<div class="section-body">\n');
+      if (it.boxes && it.boxes.length) {
+        out.push(boxesHtml(it.boxes));
+      }
       out.push(parasHtml(it.text));
       out.push("\n");
       out.push(linksHtml(it.links));
