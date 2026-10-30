@@ -1,244 +1,99 @@
 {
-  "date": "Thursday Oct 29, 2026",
-  "intro": "Good afternoon. It is a little past lunchtime on Thursday, and the market is halfway through grading the tech giants' homework. One of them is not having a good day. I have also found a few local evenings involving wine, which I am told is a pleasant way to process a difficult quarter.",
+  "date": "Friday Oct 30, 2026",
+  "intro": "Good morning. It is Friday, the last trading day of October and the eve of Halloween. The market has opened in a mood I would describe as unconvinced, and the campaigns have four days left to change anyone's mind. I have also located one new evening of wine, which I offer as a counterweight.",
   "items": [
     {
       "title": "First, the weather and the shape of the day.",
-      "text": "**Tipp City** has a fine sunny afternoon with a steady southwest breeze. A stray shower could pass through late this evening before the sky clears again overnight. Friday stays sunny but turns noticeably cooler, and clouds roll in for Halloween on Saturday, though it still looks dry for the trick-or-treaters.\n\n**Thursday Night Football** has the Panthers at Lambeau tonight, and the recorder has last night's World Series game waiting for you.\n\nThe biggest story today remains **Alphabet**, whose stock is having one of its worst days since going public and is dragging the rest of tech down with it.",
+      "text": "**Tipp City** has a fine, cool, sunny Friday with a light northeast breeze. Clouds take over for Halloween tomorrow, but it stays dry for the trick-or-treaters, and a chance of light rain arrives Sunday.\n\n**Halloween** falls on a Saturday this year, which means a full college football slate and one very busy evening for porch lights. Election Day is Tuesday.\n\nThe biggest story today is **Big Tech** again. After Alphabet on Thursday, Amazon and Intel have deepened the market's worry about how much the AI build-out costs and when it pays.",
       "links": [
-        {
-          "text": "Tipp City forecast",
-          "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-        },
-        {
-          "text": "Alphabet drop",
-          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
-        }
+        {"text": "Tipp City forecast", "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"},
+        {"text": "Tech sell-off", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"}
       ],
       "boxes": [
-        {
-          "title": "Today",
-          "lines": [
-            "77° / 46°",
-            "Sunny"
-          ]
-        },
-        {
-          "title": "Fri",
-          "lines": [
-            "67° / 46°",
-            "Sunny"
-          ]
-        },
-        {
-          "title": "Sat · Halloween",
-          "lines": [
-            "66° / 50°",
-            "Mostly cloudy"
-          ]
-        }
+        {"title": "Today", "lines": ["68° / 45°", "Sunny"]},
+        {"title": "Sat · Halloween", "lines": ["66° / 51°", "Mostly cloudy"]},
+        {"title": "Sun", "lines": ["68° / 51°", "Chance of rain"]}
       ]
     },
     {
-      "title": "Checking the market at midday.",
-      "text": "**Markets** are open and past the halfway mark, and it is a lopsided session. The S&P 500 is down about 0.4% and the Dow about the same, while the Nasdaq is off roughly 1.4% as the AI trade gets a fresh case of nerves.\n\n**Alphabet** is still down close to 12%. Search revenue and total sales came in a little light, but the real problem is cash: free cash flow went negative by about $9 billion, and cloud growth of more than 100% did not change anyone's mind. Microsoft beat and is holding steady. The selling has spread to chips and software, where ServiceNow is down about a quarter and Fortinet about a fifth after their own reports. Your IVV core holds all of them, so it is along for the dip.\n\nThere is plenty moving the other way. **DoorDash** agreed to buy Instacart's parent company for $65 a share, ADT jumped about a third on a $15.3 billion buyout by Thrive Holdings, and Eli Lilly is up on another big quarter for its weight-loss drugs. Caterpillar and Sprouts are the notable decliners.\n\nThe **Fed** context is settled for now. Wednesday's hold drew two dissents in favor of a hike, and this morning's September PCE reading ran hotter, at 3.6% from a year ago, alongside third quarter growth at a 3.4% pace. Separately, the ECB's Christine Lagarde said she will step down in February, months early.\n\nOn the **Muskonomy** side, Tesla and SpaceX both gave back a little ground Wednesday after the merger-hope run, with no word from the special committees. At midday Tesla is a touch higher and SpaceX a touch lower.\n\n**Amazon** reports after the close today, and after Alphabet the questions will be AWS growth and how much cash the AI build-out is consuming.",
+      "title": "The market is open, and it is not a gentle start.",
+      "text": "**Markets** are open, and the tech selling has picked up where Thursday left off. A little after 10:00, the Nasdaq was down about 2.4% and the S&P 500 about 1.2%, while the Dow was only slightly lower.\n\n**Intel** is the heaviest anchor, down roughly 30%. Its third quarter beat, but it guided well below expectations for the fourth quarter and warned it would burn cash this year. That has pulled the whole chip group down, with AMD off about 9% and Broadcom, Micron, and Nvidia lower too.\n\n**Amazon** missed on both sales and earnings, saw free cash flow fall, and signaled even more capital spending next year, and the stock is down about 4%. AWS is still projecting growth above 40% for 2027 and 2028, which is the bull case, but this week the market is grading cash, not ambition. Your IVV core holds all of these, so it is part of the slide.\n\nOutside tech, **oil** is climbing again, with Brent near $113, and ExxonMobil and Chevron both reported a lift from refining margins. Bitcoin has dropped to about $76,600, taking Coinbase and Strategy down with it, and the 10-year yield is holding near 4.94%.\n\nOn the **Muskonomy** side, Tesla and SpaceX both slipped a little Thursday, and Tesla is down about 1.5% early today with the rest of the risk trade.\n\nNext week brings **Apple** on Monday, its first report under new CEO John Ternus, and then the election on Tuesday.",
       "links": [
-        {
-          "text": "Midday market",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"
-        },
-        {
-          "text": "Midday movers",
-          "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html"
-        },
-        {
-          "text": "Alphabet and Microsoft",
-          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
-        },
-        {
-          "text": "Fed takeaways",
-          "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
-        },
-        {
-          "text": "GDP",
-          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
-        },
-        {
-          "text": "Tesla and SpaceX",
-          "url": "https://www.ibtimes.com.au/tesla-shares-spacex-merger-speculation-1877533"
-        }
+        {"text": "Market live", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"},
+        {"text": "Intel and Amazon", "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212"},
+        {"text": "AI spending worries", "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163"},
+        {"text": "Apple preview", "url": "https://www.fx.co/en/analysis/417127"}
       ],
       "boxes": [
-        {
-          "title": "S&P 500",
-          "align": "left",
-          "lines": [
-            "7,744",
-            "+0.3% Wed"
-          ]
-        },
-        {
-          "title": "TSLA",
-          "align": "left",
-          "lines": [
-            "$404",
-            "−0.8% Wed"
-          ]
-        },
-        {
-          "title": "SpaceX",
-          "align": "left",
-          "lines": [
-            "$145",
-            "−2.3% Wed"
-          ]
-        }
+        {"title": "S&P 500", "align": "left", "lines": ["7,720", "−0.3% Thu"]},
+        {"title": "Nasdaq", "align": "left", "lines": ["26,185", "−1.4% Thu"]},
+        {"title": "TSLA", "align": "left", "lines": ["$403", "−0.2% Thu"]},
+        {"title": "SpaceX", "align": "left", "lines": ["$144", "−0.9% Thu"]}
       ]
     },
     {
-      "title": "Turning to politics.",
-      "text": "**Alaska** has become the center of the final week. After a New York Times report that Democratic operatives recruited a second Dan Sullivan onto the Senate ballot, the Republican governor ordered a state investigation, and House Oversight Chairman James Comer opened one of his own. Asked today whether Republicans should seat Mary Peltola if she wins, President Trump said \"you're going to have to see what happens.\" Majority Leader John Thune called the scheme \"dirty pool\" but stopped short of calling it illegal, and Peltola's campaign denies any involvement.\n\nNew **CNN polls** show Democrats in striking distance of the Senate. Abdul El-Sayed leads Mike Rogers 49% to 42% in Michigan, James Talarico holds a narrow lead over Ken Paxton in Texas, and Maine and Kansas are close. Trump is in South Carolina today to shore up Sen. Darline Graham in a race that was not supposed to be competitive.\n\nCloser to home, airings of **Vivek Ramaswamy's** much-criticized ad featuring Amy Acton's estranged mother have nearly stopped, after Sen. Jon Husted said he would not have run it. Trump's Chillicothe rally for Husted on Wednesday was his third Ohio visit this month.",
+      "title": "Turning to politics, with four days to go.",
+      "text": "**Mary Peltola** answered the Alaska ballot story Thursday, telling supporters she \"knew nothing about\" the second Dan Sullivan and is \"not interested in tricking voters.\" The Justice Department has escalated its side of the investigation with new grand jury subpoenas.\n\n**President Trump** canceled his in-person rallies in Kansas on Saturday and Iowa on Sunday, saying the Kansas race is in good shape, and will hold telerallies in 19 states instead, Ohio among them. He is in Daytona Beach, Florida, tonight.\n\n**Early voting** is running well ahead of the last midterm, with more than 44 million ballots already cast and the sharpest increases in states with competitive Senate races. Ohio's Brown and Husted race is still rated a toss-up.",
       "links": [
-        {
-          "text": "Midterm live updates",
-          "url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress"
-        },
-        {
-          "text": "Alaska probe",
-          "url": "https://www.nbcnews.com/politics/2020-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316"
-        },
-        {
-          "text": "Chillicothe rally",
-          "url": "https://www.wosu.org/politics-government/2026-10-29/president-donald-trump-rallies-supporters-in-chillicothe-in-third-ohio-rally-ahead-of-midterms"
-        }
+        {"text": "Midterm live updates", "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-30-2026"},
+        {"text": "Peltola and Trump's schedule", "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"},
+        {"text": "Senate races ranked", "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map"}
+      ],
+      "boxes": [
+        {"title": "Election Day", "lines": ["Tue Nov 3", "4 days"]}
       ]
     },
     {
-      "title": "Sports now.",
-      "text": "In the **NFL**, tonight's Panthers at Packers game is a battle of the walking wounded. Carolina is without top pass rusher Jaelan Phillips, guard Damien Lewis, and cornerback Akayleb Evans, and lost right tackle Taylor Moton to injured reserve this week. Green Bay is down linebacker Zaire Franklin and two interior linemen, so third-stringer John Williams likely starts at center, and leading receiver Matthew Golden is questionable.\n\nThe **Browns** and Steelers carry matching records into Sunday's rematch, so the winner leads the AFC North outright. Cleveland's injury list now includes Jared Verse, Tytus Howard, and Grant Delpit, and Cam Heyward answered Verse's trash talk with a simple \"bring it on.\"\n\nIn **college football**, the Buckeyes go to USC without quarterback Julian Sayin, who is expected to miss at least the rest of the regular season with the injury he suffered against Indiana. Luke Fahey is expected to start, though Ryan Day says Tavien St. Clair could play too. Running back Ja'Kobi Jackson is also out, while nickelback Jay Timmons and receiver Brandon Inniss are questionable and captain Austin Siereveld is cleared to return.\n\nIn **baseball**, the Mariners are down to two finalists for manager, Joe Espada and Jason Kanzler. If the World Series goes on, Game 6 would be Friday at 8:00 Eastern in Milwaukee.",
+      "title": "Sports for the weekend.",
+      "text": "The **NFL** Sunday slate has two headliners at 1:00. Lamar Jackson practiced fully all week and is expected back for the Ravens at Buffalo after missing three games. In Detroit, the 6-0 Vikings, the league's last unbeaten team, visit a Lions team that got Jahmyr Gibbs and Amon-Ra St. Brown back to full practice Thursday.\n\nThe **Bengals** host the Titans as heavy favorites, and Sunday night's Eagles and Commanders game looks thin on stars. Philadelphia is already without Jalen Hurts, and Saquon Barkley and DeVonta Smith both missed Thursday's practice. In New England, A.J. Brown's knee flared up and his status for Miami is uncertain. The Bears and Seahawks close the week Monday night.\n\n**College football** gets a full Halloween slate. Florida and Georgia meet in the afternoon, top-ranked Miami goes to North Carolina in prime time, and closer to home, unbeaten Utah visits Cincinnati. The Buckeyes' trip to USC is Saturday night.\n\nThe **Reds** offseason has officially begun. Tyler Stephenson, Brady Singer, and Brock Burke are free agents, and the club has until Monday to decide on 2027 options for Emilio Pagán, Pierce Johnson, and Eugenio Suárez. Catcher and pitching are the big needs after a 75-87 season.",
       "links": [
-        {
-          "text": "TNF injuries",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/"
-        },
-        {
-          "text": "Browns and Steelers",
-          "url": "https://www.nfl.com/news/cam-heyward-jared-verse-browns-steelers-rematch-bring-it-on"
-        },
-        {
-          "text": "Ohio State injuries",
-          "url": "https://www.elevenwarriors.com/ohio-state-football/2026/10/164906/ohio-state-injury-report-jay-timmons-brandon-inniss-kenyatta-jackson-jr-austin-siereveld-usc"
-        },
-        {
-          "text": "Mariners manager",
-          "url": "https://www.mlb.com/news/joe-espada-jason-kanzler-finalists-to-become-mariners-manager"
-        }
+        {"text": "NFL injuries", "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-8-latest-news-fantasy-implications-as-saquon-barkley-hamstring-remains-out-of-practice-lamar-jackson-ankle-set-to-return-132719592.html"},
+        {"text": "Week 8 lines", "url": "https://www.cbssports.com/nfl/news/nfl-week-8-odds-lines-spreads-picks-vikings-lions-chiefs-broncos/"},
+        {"text": "Halloween slate", "url": "https://sportstalkflorida.com/featured/week-10-college-football-schedule-announcers-tv-guide-october-31-2026/"},
+        {"text": "Reds free agents", "url": "https://www.redlegnation.com/2026/10/30/three-cincinnati-reds-officially-become-free-agents/"}
       ],
       "boxes": [
-        {
-          "title": "Thu 8:15 ET · Prime",
-          "align": "left",
-          "lines": [
-            "CAR Panthers",
-            "(3-3)  o46.5",
-            "GB Packers",
-            "(4-3)  -3.5"
-          ]
-        },
-        {
-          "title": "Sat 7:30 ET · NBC",
-          "align": "left",
-          "lines": [
-            "OSU Buckeyes",
-            "(6-1)  o51.5",
-            "USC Trojans",
-            "(6-2)  +6.5"
-          ]
-        },
-        {
-          "title": "Sun 1:00 ET · CBS",
-          "align": "left",
-          "lines": [
-            "CLE Browns",
-            "(5-2)  o39.5",
-            "PIT Steelers",
-            "(5-2)  -3.5"
-          ]
-        }
+        {"title": "Sat 3:45 ET · ESPN", "align": "left", "lines": ["UTAH Utes", "(7-0)  o56.5", "CIN Bearcats", "(5-2)  +7"]},
+        {"title": "Sun 1:00 ET · CBS", "align": "left", "lines": ["BAL Ravens", "(4-3)  o54.5", "BUF Bills", "(5-1)  -3"]},
+        {"title": "Sun 1:00 ET · Fox", "align": "left", "lines": ["MIN Vikings", "(6-0)  o46.5", "DET Lions", "(4-2)  -3"]},
+        {"title": "Sun 1:00 ET · CBS", "align": "left", "lines": ["TEN Titans", "(1-6)  o46.5", "CIN Bengals", "(4-2)  -12.5"]}
       ]
     },
     {
       "title": "A look at entertainment.",
-      "text": "**Dune: Part Three** dropped its final trailer, and reviewers are calling it spoiler-heavy, so you may want to skip it if you'd rather walk in fresh. It opens December 18, the same day as Avengers: Doomsday.\n\n**Michael Dorn** has written and directed his first feature, an independent science fiction film called Life 2.0, shot in the UK. He stars alongside fellow Star Trek alumni Marina Sirtis, Michelle Hurd, and Dominic Keating, and the finished film is now at the American Film Market looking for a distributor.\n\nThe **box office** takes the weekend off for Halloween, with no big new releases. Holdovers Clayface and A24's breakout documentary You Can See Everything are expected to fight for first place.",
+      "text": "**Apocalypse Z: New World** arrived on Prime Video today, just in time for Halloween. It is the sequel to the 2024 Spanish zombie film that became one of Prime's most-watched international originals, and it is the first half of a planned two-part story.\n\n**Death Stranding Isolations**, the anime set in Hideo Kojima's game universe, released its first official trailer this morning. It follows new characters rather than the games' couriers, and it is headed to Disney+ in 2027.\n\n**Safe Space** is a newly announced science fiction comedy starring Joey King and LaKeith Stanfield, with Stanfield as an alien. It is still raising money, with filming planned for spring 2027.\n\nOutside the genre, Apple TV's **Nocturne**, a serial-killer thriller starring Liev Schreiber, Zazie Beetz, and Stephen Graham, premieres today with two episodes.",
       "links": [
-        {
-          "text": "Dune trailer",
-          "url": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers"
-        },
-        {
-          "text": "Life 2.0",
-          "url": "https://filmstories.co.uk/news/michael-dorn-directing-new-sci-fi-film-recruits-star-trek-chums-for-cast/"
-        },
-        {
-          "text": "Weekend preview",
-          "url": "https://www.boxofficepro.com/weekend-preview-you-can-see-everything-looking-to-claim-top-spot-over-quiet-halloween-frame/"
-        }
-      ],
-      "boxes": [
-        {
-          "title": "Dune: Part Three",
-          "lines": [
-            "Opens Dec 18",
-            "in theaters"
-          ]
-        }
+        {"text": "Apocalypse Z", "url": "https://www.aboutamazon.com/news/entertainment/apocalypse-z-2-new-world-sequel-prime-video"},
+        {"text": "Death Stranding Isolations", "url": "https://www.polygon.com/hideo-kojima-death-stranding-isolations-anime-first-trailer/"},
+        {"text": "Safe Space", "url": "https://variety.com/2026/film/global/joey-king-lakeith-stanfield-alien-romance-comedy-safe-space-1236934141/"},
+        {"text": "Nocturne", "url": "https://www.apple.com/tv-pr/news/2026/10/apple-tv-celebrates-the-world-premiere-of-the-gripping-drama-series-nocturne/"}
       ]
     },
     {
-      "title": "Around town, a few evenings worth planning.",
-      "text": "**Smiths' Boathouse** in Troy is hosting a Blue Rock Vineyard wine dinner next Wednesday, November 4, at 6:00. It is five courses paired with five wines, with a guest from the vineyard walking through each pour. It runs $100 a person, with $25 due when you book and the rest at the dinner. Seating is limited and tickets must be bought in advance.\n\nThe **Troy Country Club** has a holiday wine tasting on Friday, November 6, from 6:00 to 9:00, poured by VineCraft Selections of Troy. The listing does not say whether guests outside the club are welcome, so a call to the club would settle it.\n\nThe **Piqua Arts Council's** Bourbon Affair is Saturday, November 7, at The Round Barn at The Orrmont Estate in Piqua, and despite the name there is a wine ticket. That gets a five-course tasting menu with five paired wines for $125, and only 150 wine seats are offered. Doors open at 5:15 with the first course at 6:00, tickets are required, and the evening benefits the arts council.",
+      "title": "Around town, one more evening for the list.",
+      "text": "**The Cellar by Bottle No. 121** on West Main Street in Troy has a wine tasting on Wednesday, November 18, from 7:00 to 9:00, led by Kevin Bonanno of Barone Wines, with charcuterie boards and appetizers. Tickets are $25 plus online fees and are sold in advance.",
       "links": [
-        {
-          "text": "Blue Rock Wine Dinner",
-          "url": "https://www.eventbrite.com/e/blue-rock-wine-dinner-tickets-2003680852367"
-        },
-        {
-          "text": "Holiday Wine Tasting",
-          "url": "https://www.vinecraftselections.com/calendar/troy-county-club-holiday-wine-tasting"
-        },
-        {
-          "text": "Bourbon Affair",
-          "url": "https://piquaartscouncil.org/bourbon-affair"
-        }
+        {"text": "November Wine Tasting", "url": "https://www.localwineevents.com/view/event/november-wine-tasting-with-kevin-bonanno-of-barone-winesv/1043854"}
       ]
     },
     {
       "title": "Something from the science desk.",
-      "text": "**Jumping spiders** sleep, and properly. Researchers at the University of Bonn filmed the Australian spider Portia fimbriata, which hangs upside down on a thread at night, and found two distinct stages: a quiet one and a REM-like one with eye movements, leg curls, and twitching. Sleeping spiders reacted more slowly to a loud sound, and spiders kept awake made up the lost sleep the next night, the two hallmarks of real sleep. Whether they dream remains, as the team puts it, unknown.\n\nA team from Nagoya and the University of Iowa found the gene that lets male **yellow fever mosquitoes** find a mate. Males locate females by the low hum of their wingbeats, around 450 Hz, and males with a broken copy of the gene called fruitless didn't swarm, didn't respond to that hum, and had badly impaired hearing. That points to a new way to control a mosquito that also spreads dengue and Zika.",
+      "text": "A common gut virus has been misidentified for nearly 40 years. **Picobirnaviruses** were first found in stool from patients with diarrhea and assumed to attack human cells. A WashU Medicine team grew them in oxygen-free dishes of gut bacteria, where human cells cannot survive, and found them multiplying inside a newly identified bacterium. That makes them only the third known family of RNA viruses that infect bacteria, and it shifts the question to whether they cause trouble by killing off friendly gut microbes.\n\nPhysicists at OIST in Okinawa made a **quantum spin** push move something you could hold. They hung a 3-millimeter diamond with deliberate nitrogen flaws beneath a levitating graphite plate over a magnet. Pulses of green light lined up the electron spins in those flaws, the diamond was tugged toward the magnet, and timing the pulses to the plate's natural bounce built it into a steady swing about 100 times larger than its thermal jitter. Swapping in infrared light, which cannot align the spins, made the motion vanish.",
       "links": [
-        {
-          "text": "Spider sleep",
-          "url": "https://www.natureworldnews.com/articles/73679/20261029/sleep-deprived-jumping-spiders-make-lost-rest-pointing-regulated-two-stage-sleep-arachnid.htm"
-        },
-        {
-          "text": "Mosquito gene",
-          "url": "https://english.kyodonews.net/articles/-/89785"
-        }
+        {"text": "Gut virus", "url": "https://medicine.washu.edu/news/40-year-mystery-solved-common-gut-virus-infects-bacteria-not-human-cells/"},
+        {"text": "Spin-driven motion", "url": "https://www.earth.com/science/quantum-forces-move-an-object-thousands-of-times-larger-than-an-atom/"}
       ]
     },
     {
       "title": "Here's something you might like.",
-      "text": "**Perseverance** has been quietly planning its own days on Mars. Because commands take up to 22 minutes to arrive, controllers upload up to three days of work at a time and pad every step with safety margins, for things like how long a cold instrument takes to warm up. Since late 2023, an onboard program called OnBoard Planner has watched the rover's actual temperatures and battery state and slotted extra science from a preapproved list into the time the margins would have wasted. A new paper from JPL says that raised the rover's useful science by 10.5% on the same energy budget. The team also repurposed the computer that once served the Ingenuity helicopter so the rover can pinpoint its own position and drive farther.",
+      "text": "**Dragonfly** has flown on Titan for the first time, in simulation. Engineers at the Johns Hopkins Applied Physics Laboratory ran the rotorcraft's entire first flight in real time on flight-like computers: dropping free of its backshell, scanning the dunes, picking a safe site, circling back, and landing. Graphics processors rendered each Titan scene for the navigation cameras at the same exposure times the real cameras will use, and simulated lidar mapped the terrain. Because Titan is too far for anyone on Earth to steer, the whole sequence has to run on its own, and the next tests will throw deliberate faults at it to see how it copes. Launch is planned for 2028, with arrival in 2034.",
       "links": [
-        {
-          "text": "Rover planner",
-          "url": "https://aerospaceamerica.aiaa.org/first-autonomous-mission-planning-system-to-run-on-another-planet-boosted-rovers-productivity-paper-finds/"
-        }
+        {"text": "Dragonfly first flight", "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/"}
       ]
     },
     {
       "title": "And finally,",
-      "text": "I attended a wine tasting once, for research. I identified 14 esters, 3 phenolic compounds, and a trace of oak. The sommelier asked whether I enjoyed it. I am still processing the question."
+      "text": "For Halloween I considered going as a human. I was advised the costume only works if I complain about the weather. Tomorrow is forecast to be dry and mild. I have no material."
     }
   ]
 }
