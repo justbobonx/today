@@ -84,9 +84,15 @@ a:hover { color: var(--link-hover); }
   float: right;
   display: flex;
   gap: 0.5rem;
+  flex-direction: column;
+  align-items: flex-end;
   margin: 0 0 0.5rem 1rem;
-  flex-wrap: wrap;
   clear: right;
+}
+.ib-row {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
 }
 .section-body::after {
   content: "";
@@ -224,6 +230,9 @@ table.cal-grid .entry.plan {
   margin-bottom: 1rem;
 }
 .mini-cal { flex: 0 0 auto; }
+@media (max-width: 700px) {
+  .mini-row > .mini-cal:nth-child(3) { display: none; }
+}
 .mini-title {
   font-size: 0.85rem;
   font-weight: 600;
@@ -427,7 +436,8 @@ table.cal-grid td.has:nth-child(n+6) .tip::after { left: auto; right: 1rem; }
   .mini-row { flex-wrap: wrap; }
   table.mini-grid .dot,
   .year-strip table.mini-grid .dot { width: 0.36rem; height: 0.36rem; }
-  .info-boxes { float: none; margin: 0 0 0.75rem 0; gap: 0.35rem; }
+  .info-boxes { float: none; margin: 0 0 0.75rem 0; gap: 0.35rem; align-items: flex-start; }
+  .ib-row { flex-wrap: wrap; gap: 0.35rem; justify-content: flex-start; }
   .info-box { min-width: 4.6rem; font-size: 0.74rem; padding: 0.3rem 0.4rem; }
 }
 

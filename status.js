@@ -2,6 +2,9 @@
 (function () {
   "use strict";
 
+  // how many info boxes sit side by side before wrapping to a new row
+  var BOXES_PER_ROW = 3;
+
   function esc(s) {
     return String(s == null ? "" : s)
       .replace(/&/g, "&amp;")
@@ -47,7 +50,7 @@
       return (
         '<a href="' +
         esc(l.url || "") +
-        '">' +
+        '" target="_blank" rel="noopener">' +
         esc(l.text || "") +
         "</a>"
       );
@@ -60,6 +63,11 @@
     var html = '<div class="info-boxes">\n';
     for (var i = 0; i < boxes.length; i++) {
       var b = boxes[i];
+      // start a fresh row every few boxes so a wide stack never crowds the text
+      if (i % BOXES_PER_ROW === 0) {
+        if (i) html += "</div>\n";
+        html += '<div class="ib-row">\n';
+      }
       var align = (b.align || "center").toLowerCase();
       if (align !== "left" && align !== "right") align = "center";
       html += '<div class="info-box ib-' + align + '">\n';
@@ -71,7 +79,7 @@
       }
       html += "</div>\n";
     }
-    html += "</div>\n";
+    html += "</div>\n</div>\n";
     return html;
   }
 
@@ -141,11 +149,16 @@
     var m = t.m;
     var nextY = m === 12 ? y + 1 : y;
     var nextM = m === 12 ? 1 : m + 1;
+    var thirdY = nextM === 12 ? nextY + 1 : nextY;
+    var thirdM = nextM === 12 ? 1 : nextM + 1;
     var title1 = Cal.MONTH_SHORT[m - 1] + " " + y;
     var title2 = Cal.MONTH_SHORT[nextM - 1] + " " + nextY;
+    var title3 = Cal.MONTH_SHORT[thirdM - 1] + " " + thirdY;
+    // the third month only shows on screens wide enough to keep all three on one row
     var minis =
       Cal.miniMonth(y, m, byDay, todayStr, title1) +
-      Cal.miniMonth(nextY, nextM, byDay, todayStr, title2);
+      Cal.miniMonth(nextY, nextM, byDay, todayStr, title2) +
+      Cal.miniMonth(thirdY, thirdM, byDay, todayStr, title3);
     var items = Cal.collectUpcoming(byDay, todayStr);
     var lis;
     if (!items.length) {
