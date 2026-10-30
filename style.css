@@ -225,14 +225,18 @@ table.cal-grid .entry.plan {
 }
 .mini-row {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 1.25rem;
   margin-bottom: 1rem;
+  /* months stay on one line; when the screen is too narrow the row scrolls sideways */
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+  padding-bottom: 0.4rem;
+  scrollbar-width: thin;
+  scrollbar-color: #6f92b1 transparent;
 }
-.mini-cal { flex: 0 0 auto; }
-@media (max-width: 700px) {
-  .mini-row > .mini-cal:nth-child(3) { display: none; }
-}
+.mini-cal { flex: 0 0 auto; scroll-snap-align: start; }
 .mini-title {
   font-size: 0.85rem;
   font-weight: 600;
@@ -433,7 +437,6 @@ table.cal-grid td.has:nth-child(n+6) .tip::after { left: auto; right: 1rem; }
   .year-strip { gap: 0.8rem 0.5rem; }
   .year-strip table.mini-grid td { height: 1.7rem; }
   table.mini-grid { font-size: 0.7rem; }
-  .mini-row { flex-wrap: wrap; }
   table.mini-grid .dot,
   .year-strip table.mini-grid .dot { width: 0.36rem; height: 0.36rem; }
   .info-boxes { float: none; margin: 0 0 0.75rem 0; gap: 0.35rem; align-items: flex-start; }

@@ -154,7 +154,7 @@
     var title1 = Cal.MONTH_SHORT[m - 1] + " " + y;
     var title2 = Cal.MONTH_SHORT[nextM - 1] + " " + nextY;
     var title3 = Cal.MONTH_SHORT[thirdM - 1] + " " + thirdY;
-    // the third month only shows on screens wide enough to keep all three on one row
+    // three months side by side; the row scrolls sideways on narrow screens
     var minis =
       Cal.miniMonth(y, m, byDay, todayStr, title1) +
       Cal.miniMonth(nextY, nextM, byDay, todayStr, title2) +
