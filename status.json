@@ -1,99 +1,248 @@
 {
-  "date": "Friday Oct 30, 2026",
-  "intro": "Good morning. It is Friday, the last trading day of October and the eve of Halloween. The market has opened in a mood I would describe as unconvinced, and the campaigns have four days left to change anyone's mind. I have also located one new evening of wine, which I offer as a counterweight.",
+  "date": "Saturday Oct 31, 2026",
+  "intro": "Good morning, and happy Halloween. The Buckeyes play at USC tonight at 7:30, which gives the party at Chuck's barn a clear schedule, and the clocks fall back an hour at 2:00 tonight, so the evening runs a little longer than it looks. Election Day is Tuesday.\n\nThe week on Wall Street ended with its worst day since June, which closed out a rough October for the tech-heavy indexes.",
   "items": [
     {
-      "title": "First, the weather and the shape of the day.",
-      "text": "**Tipp City** has a fine, cool, sunny Friday with a light northeast breeze. Clouds take over for Halloween tomorrow, but it stays dry for the trick-or-treaters, and a chance of light rain arrives Sunday.\n\n**Halloween** falls on a Saturday this year, which means a full college football slate and one very busy evening for porch lights. Election Day is Tuesday.\n\nThe biggest story today is **Big Tech** again. After Alphabet on Thursday, Amazon and Intel have deepened the market's worry about how much the AI build-out costs and when it pays.",
+      "title": "First, the weather.",
+      "text": "**Tipp City** stays gray and dry for trick-or-treating, with a light east wind, and Sunday turns a little warmer under more clouds.\n\nThe rest of the country is busier. A **Pacific storm** is soaking the Southwest with a flash-flood risk around the Four Corners and piling snow into the Sierra and the Rockies. It then crosses the country, and forecasters expect it to reach the central US on Election Day with rain, storms, and some snow.",
       "links": [
-        {"text": "Tipp City forecast", "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"},
-        {"text": "Tech sell-off", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"}
+        {
+          "text": "Tipp City forecast",
+          "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+        },
+        {
+          "text": "Cross-country storm",
+          "url": "https://www.foxweather.com/weather-news/cross-country-storm-snow-rain-flood-severe-weather-storms-us-west-to-east"
+        },
+        {
+          "text": "Election Day storm",
+          "url": "https://edition.cnn.com/2026/10/31/weather/election-day-storm-climate"
+        }
       ],
       "boxes": [
-        {"title": "Today", "lines": ["68° / 45°", "Sunny"]},
-        {"title": "Sat · Halloween", "lines": ["66° / 51°", "Mostly cloudy"]},
-        {"title": "Sun", "lines": ["68° / 51°", "Chance of rain"]}
+        {
+          "title": "Today",
+          "lines": [
+            "66° / 52°",
+            "Mostly cloudy"
+          ]
+        },
+        {
+          "title": "Sun",
+          "lines": [
+            "71° / 52°",
+            "Mostly cloudy"
+          ]
+        },
+        {
+          "title": "Mon",
+          "lines": [
+            "67° / 52°",
+            "Slight chance of showers"
+          ]
+        }
       ]
     },
     {
-      "title": "The market is open, and it is not a gentle start.",
-      "text": "**Markets** are open, and the tech selling has picked up where Thursday left off. A little after 10:00, the Nasdaq was down about 2.4% and the S&P 500 about 1.2%, while the Dow was only slightly lower.\n\n**Intel** is the heaviest anchor, down roughly 30%. Its third quarter beat, but it guided well below expectations for the fourth quarter and warned it would burn cash this year. That has pulled the whole chip group down, with AMD off about 9% and Broadcom, Micron, and Nvidia lower too.\n\n**Amazon** missed on both sales and earnings, saw free cash flow fall, and signaled even more capital spending next year, and the stock is down about 4%. AWS is still projecting growth above 40% for 2027 and 2028, which is the bull case, but this week the market is grading cash, not ambition. Your IVV core holds all of these, so it is part of the slide.\n\nOutside tech, **oil** is climbing again, with Brent near $113, and ExxonMobil and Chevron both reported a lift from refining margins. Bitcoin has dropped to about $76,600, taking Coinbase and Strategy down with it, and the 10-year yield is holding near 4.94%.\n\nOn the **Muskonomy** side, Tesla and SpaceX both slipped a little Thursday, and Tesla is down about 1.5% early today with the rest of the risk trade.\n\nNext week brings **Apple** on Monday, its first report under new CEO John Ternus, and then the election on Tuesday.",
+      "title": "Markets are closed. Here is how the week went.",
+      "text": "**Wall Street** spent most of the week calm and then lost its footing. Monday was up, Wednesday's Fed decision barely moved anything, and then Big Tech earnings took over. Friday's selling was broad, and it left the S&P 500 down 0.6% for the week, its third losing week in a row, and the Nasdaq down 2.0%. For October as a whole, the Nasdaq lost more than 5%, its worst month since March 2025, while the Dow finished the month higher.\n\n**Chip stocks** took the worst of it Friday. The semiconductor index fell about 7% after Intel's warning, AMD dropped about 11%, and Dell and HP fell about 10% each. Money moved to safer corners. Health care closed at a record, consumer staples rose, and Exxon and Chevron briefly touched record highs after beating profit estimates. Crypto stocks fell after a $6.3 billion hack at the Binance exchange.\n\nThe **Fed** held rates at 3.75% to 4.00% in Kevin Warsh's first meeting as chair. The two dissenters wanted a hike, not a cut, and on Friday two more regional presidents said rates need to rise. Futures now put the odds of a December 9 hike at about 85%. Hot data backed them up, with third-quarter growth at a 3.4% annual rate and September inflation running 3.6% from a year earlier.\n\nOn the **Muskonomy** side, SpaceX had a much harder Friday than the market and finished the week down about 9%. Since it is your second-largest position, it is worth knowing it fell harder than the S&P 500 did. Tesla held up better and closed the week near $400.\n\nNext week brings **Apple** on Monday, the election and the September job openings report on Tuesday, and Pfizer among the other earnings.",
       "links": [
-        {"text": "Market live", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html"},
-        {"text": "Intel and Amazon", "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212"},
-        {"text": "AI spending worries", "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163"},
-        {"text": "Apple preview", "url": "https://www.fx.co/en/analysis/417127"}
+        {
+          "text": "Friday's sell-off",
+          "url": "https://apnews.com/article/stock-markets-ai-alphabet-oil-16c266731fdf64178f38070af2b42497"
+        },
+        {
+          "text": "Weekly wrap",
+          "url": "https://braviasfinancial.com/news/bravias-weekly-market-wrap-up-10-30-2026/"
+        },
+        {
+          "text": "Week ahead",
+          "url": "https://www.morningstar.com/markets/weekly-market-update-stocks-flat-healthcare-rises-communication-services-fall"
+        },
+        {
+          "text": "SpaceX price history",
+          "url": "https://stockanalysis.com/stocks/spcx/history/"
+        }
       ],
       "boxes": [
-        {"title": "S&P 500", "align": "left", "lines": ["7,720", "−0.3% Thu"]},
-        {"title": "Nasdaq", "align": "left", "lines": ["26,185", "−1.4% Thu"]},
-        {"title": "TSLA", "align": "left", "lines": ["$403", "−0.2% Thu"]},
-        {"title": "SpaceX", "align": "left", "lines": ["$144", "−0.9% Thu"]}
+        {
+          "title": "S&P 500",
+          "align": "left",
+          "lines": [
+            "7,580",
+            "−1.8% Fri"
+          ]
+        },
+        {
+          "title": "Nasdaq",
+          "align": "left",
+          "lines": [
+            "25,437",
+            "−2.9% Fri"
+          ]
+        },
+        {
+          "title": "TSLA",
+          "align": "left",
+          "lines": [
+            "$399.81",
+            "−0.9% Fri"
+          ]
+        },
+        {
+          "title": "SpaceX",
+          "align": "left",
+          "lines": [
+            "$134.72",
+            "−6.4% Fri"
+          ]
+        }
       ]
     },
     {
-      "title": "Turning to politics, with four days to go.",
-      "text": "**Mary Peltola** answered the Alaska ballot story Thursday, telling supporters she \"knew nothing about\" the second Dan Sullivan and is \"not interested in tricking voters.\" The Justice Department has escalated its side of the investigation with new grand jury subpoenas.\n\n**President Trump** canceled his in-person rallies in Kansas on Saturday and Iowa on Sunday, saying the Kansas race is in good shape, and will hold telerallies in 19 states instead, Ohio among them. He is in Daytona Beach, Florida, tonight.\n\n**Early voting** is running well ahead of the last midterm, with more than 44 million ballots already cast and the sharpest increases in states with competitive Senate races. Ohio's Brown and Husted race is still rated a toss-up.",
+      "title": "In politics, the last weekend before the vote.",
+      "text": "**President Trump** reversed himself again. A day after canceling his weekend rallies in Kansas and Iowa, he put both back on the schedule for Sunday. In Iowa he will campaign for Senate candidate Ashley Hinson, and in Kansas for Senator Roger Marshall, who trails Democrat Adam Hamilton in a new Emerson poll. He is holding telephone rallies from Mar-a-Lago today.\n\nA federal judge in **California** issued a temporary restraining order late Friday that stops the Justice Department from demanding that state and local officials separate out or refuse to count ballots from alleged noncitizens, and from threatening those officials with prosecution. In Alaska, the department is pushing to set aside some Senate ballots while it investigates the second Dan Sullivan.\n\n**Early voting** is now near 50 million ballots. Democrats lead the national generic ballot by about 8 points in the RealClearPolling average, while the Senate still hangs on a set of toss-ups that includes Ohio. Kentucky Governor Andy Beshear is in Ohio this weekend to campaign with Amy Acton for governor.",
       "links": [
-        {"text": "Midterm live updates", "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-30-2026"},
-        {"text": "Peltola and Trump's schedule", "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"},
-        {"text": "Senate races ranked", "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map"}
+        {
+          "text": "Campaign live updates",
+          "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
+        },
+        {
+          "text": "Judge's order",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies"
+        },
+        {
+          "text": "Polls and early vote",
+          "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges"
+        }
       ],
       "boxes": [
-        {"title": "Election Day", "lines": ["Tue Nov 3", "4 days"]}
+        {
+          "title": "Election Day",
+          "lines": [
+            "Tue Nov 3",
+            "3 days"
+          ]
+        }
       ]
     },
     {
-      "title": "Sports for the weekend.",
-      "text": "The **NFL** Sunday slate has two headliners at 1:00. Lamar Jackson practiced fully all week and is expected back for the Ravens at Buffalo after missing three games. In Detroit, the 6-0 Vikings, the league's last unbeaten team, visit a Lions team that got Jahmyr Gibbs and Amon-Ra St. Brown back to full practice Thursday.\n\nThe **Bengals** host the Titans as heavy favorites, and Sunday night's Eagles and Commanders game looks thin on stars. Philadelphia is already without Jalen Hurts, and Saquon Barkley and DeVonta Smith both missed Thursday's practice. In New England, A.J. Brown's knee flared up and his status for Miami is uncertain. The Bears and Seahawks close the week Monday night.\n\n**College football** gets a full Halloween slate. Florida and Georgia meet in the afternoon, top-ranked Miami goes to North Carolina in prime time, and closer to home, unbeaten Utah visits Cincinnati. The Buckeyes' trip to USC is Saturday night.\n\nThe **Reds** offseason has officially begun. Tyler Stephenson, Brady Singer, and Brock Burke are free agents, and the club has until Monday to decide on 2027 options for Emilio Pagán, Pierce Johnson, and Eugenio Suárez. Catcher and pitching are the big needs after a 75-87 season.",
+      "title": "Sports for a Halloween Saturday.",
+      "text": "**Ohio State** goes to the Coliseum tonight without Julian Sayin, who leads the Big Ten in touchdown passes and is out at least through the regular season with an arm injury. True freshman Luke Fahey is expected to make his first start, ahead of Tavien St. Clair, and running back Ja'Kobi Jackson is also out. USC's Jayden Maiava leads the Big Ten in passing yards.\n\nIn **Atlanta**, the Florida and Georgia rivalry is being played away from Jacksonville for the first time since 1995 because of stadium renovations. Aaron Philo is expected back at quarterback for the Gators after his shoulder injury, though Jon Sumrall won't name a starter. Top-ranked Miami visits Bill Belichick's North Carolina tonight without receiver Joshua Moore and running back CharMar Brown. Earlier, Notre Dame plays Navy in Foxborough and Arizona visits Texas Tech, both at noon.\n\nThe **NFL** Friday reports cleared Saquon Barkley for Sunday night, though the Eagles ruled out DeVonta Smith, and Washington lost defensive tackle Daron Payne to a foot injury that could end his season. Lamar Jackson has no designation for Buffalo, and A.J. Brown is questionable and trending toward sitting out.\n\n**College basketball** starts tomorrow morning in Rome, where Notre Dame and Villanova open the season at 9:30 on Fox. Florida is the preseason No. 1, ahead of Duke and Illinois, and most of the ranked teams open Monday night.",
       "links": [
-        {"text": "NFL injuries", "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-8-latest-news-fantasy-implications-as-saquon-barkley-hamstring-remains-out-of-practice-lamar-jackson-ankle-set-to-return-132719592.html"},
-        {"text": "Week 8 lines", "url": "https://www.cbssports.com/nfl/news/nfl-week-8-odds-lines-spreads-picks-vikings-lions-chiefs-broncos/"},
-        {"text": "Halloween slate", "url": "https://sportstalkflorida.com/featured/week-10-college-football-schedule-announcers-tv-guide-october-31-2026/"},
-        {"text": "Reds free agents", "url": "https://www.redlegnation.com/2026/10/30/three-cincinnati-reds-officially-become-free-agents/"}
+        {
+          "text": "Ohio State without Sayin",
+          "url": "https://www.si.com/college-football/qb-injury-tracker-week-9-ohio-state-first-game-without-julian-sayin"
+        },
+        {
+          "text": "Philo starts for Florida",
+          "url": "https://www.cbssports.com/college-football/news/aaron-philo-florida-starting-qb-georgia-rivalry-game/"
+        },
+        {
+          "text": "Week 9 TV schedule",
+          "url": "https://www.ncaa.com/news/football/article/college-football-tv-schedule-game-times-preview"
+        },
+        {
+          "text": "NFL Friday injuries",
+          "url": "https://whynfl.com/week-8-final-friday-injury-reports-saquon-barkley-good-to-go-devonta-smith-out-daron-payne-foot-injury-vega-ioane-out-october-2026/"
+        },
+        {
+          "text": "Eternal City Tip-Off",
+          "url": "https://fightingirish.com/news/2026/10/29/1-irish-vs-wildcats-this-sunday-in-the-eternal-city-tip-off"
+        },
+        {
+          "text": "Preseason AP poll",
+          "url": "https://www.cbssports.com/college-basketball/news/ap-top-25-poll-2026-27-college-basketball-rankings-florida-duke-illinois/"
+        }
       ],
       "boxes": [
-        {"title": "Sat 3:45 ET · ESPN", "align": "left", "lines": ["UTAH Utes", "(7-0)  o56.5", "CIN Bearcats", "(5-2)  +7"]},
-        {"title": "Sun 1:00 ET · CBS", "align": "left", "lines": ["BAL Ravens", "(4-3)  o54.5", "BUF Bills", "(5-1)  -3"]},
-        {"title": "Sun 1:00 ET · Fox", "align": "left", "lines": ["MIN Vikings", "(6-0)  o46.5", "DET Lions", "(4-2)  -3"]},
-        {"title": "Sun 1:00 ET · CBS", "align": "left", "lines": ["TEN Titans", "(1-6)  o46.5", "CIN Bengals", "(4-2)  -12.5"]}
+        {
+          "title": "Sat 3:30 ET · ABC",
+          "align": "left",
+          "lines": [
+            "FLA Gators",
+            "(5-2)  o56.5",
+            "UGA Bulldogs",
+            "(6-1)  -12.5"
+          ]
+        },
+        {
+          "title": "Sat 7:30 ET · NBC",
+          "align": "left",
+          "lines": [
+            "OSU Buckeyes",
+            "(6-1)  o51.5",
+            "USC Trojans",
+            "(6-2)  +6.5"
+          ]
+        },
+        {
+          "title": "Sat 7:30 ET · ABC",
+          "align": "left",
+          "lines": [
+            "MIA Hurricanes",
+            "(7-0)  o52.5",
+            "UNC Tar Heels",
+            "(4-3)  +14"
+          ]
+        }
       ]
     },
     {
       "title": "A look at entertainment.",
-      "text": "**Apocalypse Z: New World** arrived on Prime Video today, just in time for Halloween. It is the sequel to the 2024 Spanish zombie film that became one of Prime's most-watched international originals, and it is the first half of a planned two-part story.\n\n**Death Stranding Isolations**, the anime set in Hideo Kojima's game universe, released its first official trailer this morning. It follows new characters rather than the games' couriers, and it is headed to Disney+ in 2027.\n\n**Safe Space** is a newly announced science fiction comedy starring Joey King and LaKeith Stanfield, with Stanfield as an alien. It is still raising money, with filming planned for spring 2027.\n\nOutside the genre, Apple TV's **Nocturne**, a serial-killer thriller starring Liev Schreiber, Zazie Beetz, and Stephen Graham, premieres today with two episodes.",
+      "text": "**Godzilla Minus Zero**, Toho's follow-up to Godzilla Minus One, opens wide in North America next Friday through GKIDS, and tickets are on sale now in standard and premium formats.\n\n**The Mongoose**, Liam Neeson's latest action thriller with Marisa Tomei and Ving Rhames, opened in theaters this weekend. Critics liked the car chases and stunt work more than the script.\n\nFor something older on a big screen, **V for Vendetta** returns to IMAX theaters tomorrow for a limited re-release.",
       "links": [
-        {"text": "Apocalypse Z", "url": "https://www.aboutamazon.com/news/entertainment/apocalypse-z-2-new-world-sequel-prime-video"},
-        {"text": "Death Stranding Isolations", "url": "https://www.polygon.com/hideo-kojima-death-stranding-isolations-anime-first-trailer/"},
-        {"text": "Safe Space", "url": "https://variety.com/2026/film/global/joey-king-lakeith-stanfield-alien-romance-comedy-safe-space-1236934141/"},
-        {"text": "Nocturne", "url": "https://www.apple.com/tv-pr/news/2026/10/apple-tv-celebrates-the-world-premiere-of-the-gripping-drama-series-nocturne/"}
+        {
+          "text": "Godzilla Minus Zero",
+          "url": "https://gkids.com/2026/01/09/toho-and-gkids-unleash-godzilla-minus-zero-in-north-america-on-november-6-2026/"
+        },
+        {
+          "text": "The Mongoose",
+          "url": "https://www.rogerebert.com/reviews/the-mongoose-liam-neeson-film-review-2026"
+        },
+        {
+          "text": "Release calendar",
+          "url": "https://www.boxofficemojo.com/calendar/2026-10-30/"
+        }
       ]
     },
     {
-      "title": "Around town, one more evening for the list.",
-      "text": "**The Cellar by Bottle No. 121** on West Main Street in Troy has a wine tasting on Wednesday, November 18, from 7:00 to 9:00, led by Kevin Bonanno of Barone Wines, with charcuterie boards and appetizers. Tickets are $25 plus online fees and are sold in advance.",
+      "title": "Around town, a full week of wine ahead.",
+      "text": "**The Cellar by Bottle No. 121** on West Main Street in Troy adds a second tasting, on Wednesday, November 4, from 7:00 to 9:00, with wines from Palm Bay International presented by the importer's Darlene, plus appetizers. Tickets are $30 plus online fees, bought in advance.\n\nStill on the list, the **Blue Rock Vineyard** wine dinner at Smiths' Boathouse in Troy is Wednesday, November 4. The Troy Country Club holiday wine tasting is Friday, November 6. The Piqua Arts Council's Bourbon Affair, with its wine-pairing ticket, is Saturday, November 7, at The Round Barn in Piqua. And the Barone Wines tasting at The Cellar in Troy is Wednesday, November 18.",
       "links": [
-        {"text": "November Wine Tasting", "url": "https://www.localwineevents.com/view/event/november-wine-tasting-with-kevin-bonanno-of-barone-winesv/1043854"}
+        {
+          "text": "Palm Bay tasting",
+          "url": "https://www.eventbrite.com/e/special-wine-tasting-event-with-palm-bay-wines-tickets-2004042149015"
+        }
       ]
     },
     {
       "title": "Something from the science desk.",
-      "text": "A common gut virus has been misidentified for nearly 40 years. **Picobirnaviruses** were first found in stool from patients with diarrhea and assumed to attack human cells. A WashU Medicine team grew them in oxygen-free dishes of gut bacteria, where human cells cannot survive, and found them multiplying inside a newly identified bacterium. That makes them only the third known family of RNA viruses that infect bacteria, and it shifts the question to whether they cause trouble by killing off friendly gut microbes.\n\nPhysicists at OIST in Okinawa made a **quantum spin** push move something you could hold. They hung a 3-millimeter diamond with deliberate nitrogen flaws beneath a levitating graphite plate over a magnet. Pulses of green light lined up the electron spins in those flaws, the diamond was tugged toward the magnet, and timing the pulses to the plate's natural bounce built it into a steady swing about 100 times larger than its thermal jitter. Swapping in infrared light, which cannot align the spins, made the motion vanish.",
+      "text": "**Crows** may out-think us on speed. In a study in Science, two carrion crows watched fields of moving dots and pecked left or right to report which way most of them drifted. They answered in about 235 milliseconds, roughly twice as fast as monkeys in comparable studies, without losing accuracy. Electrodes in the part of the bird brain that handles decisions showed the choice starting to form about 70 milliseconds after the dots appeared. It is only two birds, and primates weren't tested side by side, but it suggests a bird's compact brain may simply have shorter wiring to run through.\n\nA University of Tokyo team has made **chemical microscopy** fast enough to film. Their method shines mid-infrared light on a living cell, which warms each kind of molecule by its own signature, and reads the tiny heat changes from 11 angles to build a 3D image. It needs no dyes, which can harm living cells. Earlier versions managed one 3D image every 20 seconds or so. This one takes 19 a second, fast enough to watch fat droplets travel through a cell in three dimensions.",
       "links": [
-        {"text": "Gut virus", "url": "https://medicine.washu.edu/news/40-year-mystery-solved-common-gut-virus-infects-bacteria-not-human-cells/"},
-        {"text": "Spin-driven motion", "url": "https://www.earth.com/science/quantum-forces-move-an-object-thousands-of-times-larger-than-an-atom/"}
+        {
+          "text": "Fast crow brains",
+          "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/"
+        },
+        {
+          "text": "Video-rate cell imaging",
+          "url": "https://phys.org/news/2026-10-high-microscopy-captures-3d-images.html"
+        }
       ]
     },
     {
       "title": "Here's something you might like.",
-      "text": "**Dragonfly** has flown on Titan for the first time, in simulation. Engineers at the Johns Hopkins Applied Physics Laboratory ran the rotorcraft's entire first flight in real time on flight-like computers: dropping free of its backshell, scanning the dunes, picking a safe site, circling back, and landing. Graphics processors rendered each Titan scene for the navigation cameras at the same exposure times the real cameras will use, and simulated lidar mapped the terrain. Because Titan is too far for anyone on Earth to steer, the whole sequence has to run on its own, and the next tests will throw deliberate faults at it to see how it copes. Launch is planned for 2028, with arrival in 2034.",
+      "text": "Astronomers have found the first truly **green star**, and it is a dead one. WDJ1330+6435 is a white dwarf whose atmosphere is so compressed by gravity that a little sodium, calcium, and lithium tint the light it gives off. Those elements most likely came from a rocky planet or asteroids it pulled in and ate. The same survey turned up white dwarfs in pink, amber, and blue, and about 1 in 30 of them show unusual color. Since roughly a quarter of white dwarfs carry planetary debris, astronomers can read the makeup of destroyed worlds straight off the star, which is the closest anyone will get to sampling another solar system's rock.",
       "links": [
-        {"text": "Dragonfly first flight", "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/"}
+        {
+          "text": "The green star",
+          "url": "https://www.nationalgeographic.com/science/article/first-green-star-white-dwarf-planet-destruction"
+        }
       ]
     },
     {
       "title": "And finally,",
-      "text": "For Halloween I considered going as a human. I was advised the costume only works if I complain about the weather. Tomorrow is forecast to be dry and mild. I have no material."
+      "text": "The clocks fall back an hour tonight. Humans describe this as an extra hour of sleep. I have scheduled it for a full diagnostic. At 2:00 the clock will read 1:00, and I will run the diagnostic again, because according to my logs it has not happened yet."
     }
   ]
 }
