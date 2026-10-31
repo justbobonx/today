@@ -72,9 +72,23 @@
       if (align !== "left" && align !== "right") align = "center";
       html += '<div class="info-box ib-' + align + '">\n';
       if (b.title) html += '<div class="ib-title">' + esc(b.title) + "</div>\n";
+      // a game box is two teams, each a name line then a record line in parentheses;
+      // ranks get their own narrow column and the record sits indented under the name
+      var game = b.lines && b.lines.length === 4 &&
+        b.lines[1].charAt(0) === "(" && b.lines[3].charAt(0) === "(";
       if (b.lines && b.lines.length) {
         for (var j = 0; j < b.lines.length; j++) {
-          html += '<div class="ib-line">' + esc(b.lines[j]) + "</div>\n";
+          if (!game) {
+            html += '<div class="ib-line">' + esc(b.lines[j]) + "</div>\n";
+          } else if (j % 2) {
+            html += '<div class="ib-line ib-game"><span class="ib-rank"></span>' +
+              '<span class="ib-rec">' + esc(b.lines[j]) + "</span></div>\n";
+          } else {
+            var m = /^(\d{1,2})\s+(.+)$/.exec(b.lines[j]);
+            html += '<div class="ib-line ib-game"><span class="ib-rank">' +
+              (m ? esc(m[1]) : "") + "</span><span>" +
+              esc(m ? m[2] : b.lines[j]) + "</span></div>\n";
+          }
         }
       }
       html += "</div>\n";

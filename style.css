@@ -123,6 +123,15 @@ a:hover { color: var(--link-hover); }
 .info-box.ib-left { text-align: left; }
 .info-box.ib-center { text-align: center; }
 .info-box.ib-right { text-align: right; }
+.info-box .ib-game { display: flex; white-space: nowrap; }
+.info-box .ib-rank {
+  flex: 0 0 1.3em;
+  text-align: right;
+  margin-right: 0.4em;
+  color: var(--head);
+  font-variant-numeric: tabular-nums;
+}
+.info-box .ib-rec { padding-left: 0.6em; }
 
 /* calendar page */
 .cal-h {
@@ -439,9 +448,23 @@ table.cal-grid td.has:nth-child(n+6) .tip::after { left: auto; right: 1rem; }
   table.mini-grid { font-size: 0.7rem; }
   table.mini-grid .dot,
   .year-strip table.mini-grid .dot { width: 0.36rem; height: 0.36rem; }
-  .info-boxes { float: none; margin: 0 0 0.75rem 0; gap: 0.35rem; align-items: flex-start; }
-  .ib-row { flex-wrap: wrap; gap: 0.35rem; justify-content: flex-start; }
-  .info-box { min-width: 4.6rem; font-size: 0.74rem; padding: 0.3rem 0.4rem; }
+  /* phones: every box on one line, scrolling sideways like the mini calendars */
+  .info-boxes {
+    float: none;
+    margin: 0 0 0.75rem 0;
+    gap: 0.35rem;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    padding-bottom: 0.4rem;
+    scrollbar-width: thin;
+    scrollbar-color: #6f92b1 transparent;
+  }
+  .ib-row { display: contents; }
+  .info-box { flex: 0 0 auto; min-width: 4.6rem; font-size: 0.74rem; padding: 0.3rem 0.4rem; scroll-snap-align: start; }
 }
 
 /* calendar: Status report overlay upper-right (no layout space) */
