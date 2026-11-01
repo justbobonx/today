@@ -33,7 +33,7 @@ body {
   color: var(--head);
 }
 .past-days {
-  text-align: right;
+  text-align: left;
   font-size: 0.78rem;
   margin: -0.35rem 0 0.6rem;
   color: var(--ink);
