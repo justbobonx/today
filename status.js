@@ -4,6 +4,8 @@
 
   // how many info boxes sit side by side before wrapping to a new row
   var BOXES_PER_ROW = 3;
+  // how many earlier days get a link under the title
+  var PAST_LINKS = 6;
 
   function esc(s) {
     return String(s == null ? "" : s)
@@ -70,15 +72,21 @@
       }
       var align = (b.align || "center").toLowerCase();
       if (align !== "left" && align !== "right") align = "center";
-      html += '<div class="info-box ib-' + align + '">\n';
-      if (b.title) html += '<div class="ib-title">' + esc(b.title) + "</div>\n";
       // a game box is two teams, each a name line then a record line in parentheses;
       // ranks get their own narrow column and the record sits indented under the name
       var game = b.lines && b.lines.length === 4 &&
         b.lines[1].charAt(0) === "(" && b.lines[3].charAt(0) === "(";
+      // the rank column only appears when at least one team carries a rank
+      var ranked = game && (/^\d{1,2}\s/.test(b.lines[0]) || /^\d{1,2}\s/.test(b.lines[2]));
+      html += '<div class="info-box ib-' + align + (game ? " ib-gamebox" : "") + '">\n';
+      if (b.title) html += '<div class="ib-title">' + esc(b.title) + "</div>\n";
       if (b.lines && b.lines.length) {
         for (var j = 0; j < b.lines.length; j++) {
-          if (!game) {
+          if (game && !ranked) {
+            html += '<div class="ib-line ib-game">' +
+              (j % 2 ? '<span class="ib-rec">' + esc(b.lines[j]) + "</span>" : esc(b.lines[j])) +
+              "</div>\n";
+          } else if (!game) {
             html += '<div class="ib-line">' + esc(b.lines[j]) + "</div>\n";
           } else if (j % 2) {
             html += '<div class="ib-line ib-game"><span class="ib-rank"></span>' +
@@ -97,12 +105,19 @@
     return html;
   }
 
-  function renderNews(doc) {
+  function renderNews(doc, past) {
     var date = doc.date || "";
     var title = date ? "Status report, " + date : "Status report";
     var out = [];
     out.push('<header class="masthead">\n');
     out.push("<h1>" + esc(title) + "</h1>\n");
+    // links to the other days kept in the file, small and right-aligned under the title
+    if (past && past.length) {
+      out.push('<p class="past-days">' + past.map(function (p) {
+        return p.current ? '<span class="past-here">' + esc(p.label) + "</span>"
+          : '<a href="' + esc(p.href) + '">' + esc(p.label) + "</a>";
+      }).join(" · ") + "</p>\n");
+    }
     var intro = (doc.intro || "").trim();
     if (intro) {
       intro.split(/\n\s*\n/).forEach(function (g) {
@@ -236,9 +251,34 @@
       }),
     ])
       .then(function (parts) {
-        var doc = parts[0];
-        root.innerHTML = renderNews(doc);
-        bindAccordion(root);
+        // the file holds several days keyed by date; the page shows the newest unless
+        // the address asks for an earlier one, and switching days just repaints from
+        // this one loaded copy, with the address updated so back and bookmarks work
+        var file = parts[0];
+        var keys = file.items ? [] : Object.keys(file).filter(function (k) {
+          return /^\d{4}-\d{2}-\d{2}$/.test(k);
+        }).sort().reverse().slice(0, PAST_LINKS + 1);
+        var paint = function () {
+          var want = (/[?&]day=(\d{4}-\d{2}-\d{2})/.exec(location.search) || [])[1];
+          var shown = keys.indexOf(want) >= 0 ? want : keys[0];
+          var past = keys.map(function (k, n) {
+            var label = n === 0 ? "Today" :
+              String(file[k].date || k).replace(/^(\w{3})\w*\s+(\w+\s+\d+).*$/, "$1 $2");
+            return { label: label, href: n === 0 ? location.pathname : "?day=" + k, current: k === shown };
+          });
+          root.innerHTML = renderNews(keys.length ? file[shown] : file, past.length > 1 ? past : null);
+          bindAccordion(root);
+        };
+        paint();
+        root.addEventListener("click", function (e) {
+          var a = e.target.closest && e.target.closest(".past-days a");
+          if (!a) return;
+          e.preventDefault();
+          history.pushState(null, "", a.getAttribute("href"));
+          paint();
+          window.scrollTo(0, 0);
+        });
+        window.addEventListener("popstate", paint);
         if (foot) {
           var years = [parts[1], parts[2]].filter(Boolean);
           if (!years.length || !window.Cal) {

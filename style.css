@@ -32,6 +32,13 @@ body {
   margin: 0 0 0.5rem;
   color: var(--head);
 }
+.past-days {
+  text-align: right;
+  font-size: 0.78rem;
+  margin: -0.35rem 0 0.6rem;
+  color: var(--ink);
+}
+.past-days .past-here { color: var(--head); font-weight: 700; }
 .lede {
   margin: 0 0 0.75rem;
 }
@@ -123,6 +130,8 @@ a:hover { color: var(--link-hover); }
 .info-box.ib-left { text-align: left; }
 .info-box.ib-center { text-align: center; }
 .info-box.ib-right { text-align: right; }
+/* plain boxes let a long line wrap rather than stretch the card; game boxes stay on one line */
+.info-box:not(.ib-gamebox) { max-width: 8.5rem; }
 .info-box .ib-game { display: flex; white-space: nowrap; }
 .info-box .ib-rank {
   flex: 0 0 1.3em;
