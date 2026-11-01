@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-31T14:24:48Z",
+    "updated": "2026-11-01T15:19:07Z",
     "tz": "America/New_York",
     "label_max": 40,
     "kinds": [
@@ -195,11 +195,6 @@
       "rule": "weekly Thu from 2026-10-29",
       "who": "Bob",
       "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's"
-    },
-    {
-      "date": "2026-10-31",
-      "who": "Bob, Emily",
-      "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM)"
     }
   ]
 }

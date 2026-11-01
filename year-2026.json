@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-10-31T14:24:48Z",
+  "updated": "2026-11-01T15:19:07Z",
   "tz": "America/New_York",
   "label_max": 40,
   "days": {
@@ -136,11 +136,6 @@
         "kind": "holiday",
         "who": "Holiday",
         "what": "Halloween"
-      },
-      {
-        "kind": "plan",
-        "who": "Bob, Emily",
-        "what": "OSU / Halloween party at Chuck's barn (aim: a little before Buckeyes kickoff — OSU at USC, 7:30 PM ET on NBC, so arrive ~7:00 PM)"
       }
     ],
     "2026-11-05": [
