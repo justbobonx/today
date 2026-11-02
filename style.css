@@ -130,8 +130,6 @@ a:hover { color: var(--link-hover); }
 .info-box.ib-left { text-align: left; }
 .info-box.ib-center { text-align: center; }
 .info-box.ib-right { text-align: right; }
-/* plain boxes let a long line wrap rather than stretch the card; game boxes stay on one line */
-.info-box:not(.ib-gamebox) { max-width: 8.5rem; }
 .info-box .ib-game { display: flex; white-space: nowrap; }
 .info-box .ib-rank {
   flex: 0 0 1.3em;

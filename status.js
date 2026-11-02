@@ -87,7 +87,9 @@
               (j % 2 ? '<span class="ib-rec">' + esc(b.lines[j]) + "</span>" : esc(b.lines[j])) +
               "</div>\n";
           } else if (!game) {
-            html += '<div class="ib-line">' + esc(b.lines[j]) + "</div>\n";
+            // a newline inside a line is a deliberate break, so a long phrase can sit
+            // on two rows without the box keeping its one-line width
+            html += '<div class="ib-line">' + esc(b.lines[j]).replace(/\n/g, "<br>") + "</div>\n";
           } else if (j % 2) {
             html += '<div class="ib-line ib-game"><span class="ib-rank"></span>' +
               '<span class="ib-rec">' + esc(b.lines[j]) + "</span></div>\n";
@@ -111,7 +113,7 @@
     var out = [];
     out.push('<header class="masthead">\n');
     out.push("<h1>" + esc(title) + "</h1>\n");
-    // links to the other days kept in the file, small and right-aligned under the title
+    // links to the other days kept in the file, small, under the title
     if (past && past.length) {
       out.push('<p class="past-days">' + past.map(function (p) {
         return p.current ? '<span class="past-here">' + esc(p.label) + "</span>"
