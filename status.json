@@ -1,4 +1,206 @@
 {
+ "2026-11-04": {
+  "date": "Wednesday Nov 4, 2026",
+  "intro": "Good morning. The country woke up to a very different Congress than the one it went to bed with, and Ohio's own ballot turned over almost top to bottom. Tonight is quieter: midweek MACtion, a couple of chip earnings after the bell, and rain on the window while it all settles.",
+  "items": [
+   {
+    "title": "First, the weather.",
+    "text": "**Tipp City** gets the rain that was promised, a soft, gray, drizzly day, with a brighter Thursday behind it before another chance of showers on Friday.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "66° / 49°",
+       "Light rain"
+      ]
+     },
+     {
+      "title": "Thu",
+      "lines": [
+       "63° / 44°",
+       "Mostly sunny"
+      ]
+     },
+     {
+      "title": "Fri",
+      "lines": [
+       "57° / 37°",
+       "Chance\nof rain"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets open, and the overnight scare has already reversed.",
+    "text": "**Stock futures** fell hard as the early returns came in, down 1% to 2.5% at the worst, with Nasdaq futures hitting their lowest level since July on worries that a Democratic Congress might slow the AI build-out. By sunrise that had flipped, and once President Trump said he would accept the results, Wall Street read the night as uncertainty removed. Stocks opened sharply higher, led by the Dow. AI infrastructure names like CoreWeave and Applied Digital are the exception, still lower this morning.\n\n**AMD** delivered the earnings story. Data-center revenue nearly doubled, Lisa Su said she expects total revenue to grow more than 80% in 2027, and the stock jumped about 7% before the open. Super Micro and Arista also rallied after hours on strong guidance. Arm and Qualcomm report after the close today.\n\n**SpaceX** had a good Tuesday, while Tesla slipped, and both gave back a bit more after hours. The midterm night has a Musk angle of its own: CNBC reports he spent about $224 million backing Ken Paxton in Texas, and Paxton lost.",
+    "links": [
+     {
+      "text": "Tuesday's session",
+      "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Futures and AMD",
+      "url": "https://www.investing.com/news/economy-news/democrats-seize-congress-amd-shares-surge--whats-moving-markets-4997756"
+     },
+     {
+      "text": "Midterm results",
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Tuesday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,569 +0.4%",
+       "Nasdaq 25,372 +0.8%",
+       "TSLA $398.50 −1.3%",
+       "SPCX $141.31 +3.6%"
+      ]
+     },
+     {
+      "title": "Earnings today",
+      "align": "left",
+      "lines": [
+       "Arm after close",
+       "Qualcomm after close"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a wave.",
+    "text": "**Democrats** won both chambers of Congress. In the Senate they flipped 7 Republican seats, North Carolina, South Carolina, Ohio, Texas, Kansas, Iowa and Maine, with Alaska and Mississippi still uncalled. Mississippi is astonishingly close, with Scott Colom leading Sen. Cindy Hyde-Smith by a few dozen votes. Some of the flips are historic: Kansas last elected a Democratic senator in 1932, James Talarico is the first Democrat to win statewide in Texas since 1994, and Susan Collins lost in Maine. In the House, projections put Democrats somewhere around 250 seats or more once counting finishes, including wins in districts that were redrawn to favor Republicans.\n\n**President Trump** said he will accept the results and work with Democrats, while blaming Republican candidates and fuel prices for the losses and promising vetoes. Speaker Mike Johnson says he won't seek reelection as the House Republican leader, and Hakeem Jeffries is in line to become Speaker when the new Congress meets in January. With the Senate gone, judicial and Cabinet nominees will now need Democratic votes.\n\n**Ohio** went the same direction. Sherrod Brown beat Sen. Jon Husted to return to the Senate, and Amy Acton beat Vivek Ramaswamy for governor. Democrats also took attorney general, secretary of state, treasurer and both Supreme Court seats on the ballot. Frank LaRose, for auditor, was the only Republican to win statewide. Meanwhile Issue 3, writing photo ID for voting into the state constitution, passed easily with about 65%.",
+    "links": [
+     {
+      "text": "Balance of power",
+      "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+     },
+     {
+      "text": "Johnson steps back",
+      "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
+     },
+     {
+      "text": "Brown wins",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrat-sherrod-brown-wins-ohio-senate-race-jon-husted-gop-rcna603317"
+     },
+     {
+      "text": "Ohio statewide races",
+      "url": "https://www.fairborndailyherald.com/2026/11/04/ohio-oks-voter-id-rule-dems-for-most-statewide-roles/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Senate",
+      "align": "left",
+      "lines": [
+       "Dem 54",
+       "GOP 44",
+       "Uncalled 2"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Sports, starting with the committee's first word.",
+    "text": "**The first College Football Playoff rankings** put No. 1 Miami, No. 2 Georgia, No. 3 Utah and No. 4 Indiana in the bye spots. Ohio State opened at No. 12, which the committee's own bracket math makes the first team out, because No. 25 Boise State takes the automatic spot for the highest-ranked team outside the Power Four. The eyebrow-raiser is the gap between Indiana at No. 4 and the Buckeyes, who beat them. Notre Dame sits at No. 11 with no ranked wins, and unbeaten UCLA only at No. 8. Saturday is stacked with ranked meetings: No. 1 Miami at No. 11 Notre Dame, No. 2 Georgia at No. 10 Ole Miss, No. 9 BYU at No. 3 Utah, and No. 23 Oregon at No. 12 Ohio State.\n\n**Midweek MACtion** is back tonight with three games. Toledo, one of Ohio's own, makes the long trip to Sacramento State, and Central Michigan and Eastern Michigan meet at Ford Field in Detroit for the 104th time.\n\n**The Ravens'** quarterback room got thinner. Tyler Huntley's turf toe is season-ending, so with Lamar Jackson on injured reserve, Joe Fagnano is in line to start Thursday night against Jacksonville.\n\n**The NFL trade deadline** is next Tuesday, November 10. The Colts are the market's big sellers after already moving Quenton Nelson to Seattle and DeForest Buckner back to San Francisco, and Jonathan Taylor, Khalil Mack and George Pickens are the names still being shopped.",
+    "links": [
+     {
+      "text": "CFP rankings",
+      "url": "https://www.ncaa.com/news/football/article/2026-11-03/miami-georgia-lead-first-college-football-playoff-rankings-2026"
+     },
+     {
+      "text": "MACtion",
+      "url": "https://getsomemaction.com/news/2026/11/3/week-10-mac-football-preview.aspx"
+     },
+     {
+      "text": "Huntley injury",
+      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
+     },
+     {
+      "text": "Trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wed 7:00 ET · CBSSN",
+      "align": "left",
+      "lines": [
+       "TOL Rockets",
+       "(6-2) o52.5",
+       "SAC Hornets",
+       "(2-7) +25.5"
+      ]
+     },
+     {
+      "title": "Wed 7:30 ET · ESPN2",
+      "align": "left",
+      "lines": [
+       "CMU Chippewas",
+       "(3-5) o44.5",
+       "EMU Eagles",
+       "(4-5) -1.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a little cosmic dread.",
+    "text": "**Nether Station** and its sequel **Nether Vortex**, Kevin J. Anderson's sci-fi horror novels, are headed to film with Paul W.S. Anderson directing both. It's a pointed match: the author has said Event Horizon, the director's 1997 film, was a direct influence on the books. Jonathan Wakeham is writing the screenplays, and there's no studio or date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
+    "links": [
+     {
+      "text": "Nether Station films",
+      "url": "https://deadline.com/2026/11/paul-ws-anderson-to-direct-nether-station-nether-vortex-1237212142/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, two tonight and one new on the list.",
+    "text": "**Piqua Country Club** has a wine tasting on Friday, November 20, from 6:00 to 8:30, poured by VineCraft Selections of Troy. The listing doesn't say whether it's open beyond members, so a call to the club would settle it.\n\nSmiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM",
+    "links": [
+     {
+      "text": "Piqua Country Club tasting",
+      "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
+     }
+    ]
+   },
+   {
+    "title": "Two from the science desk.",
+    "text": "**Caribbean anoles** are evolving to tolerate heat faster than anyone expected, but only some of them. A Yale team compared 16 lizard species on Hispaniola, Jamaica and Puerto Rico against measurements from a decade earlier. Species living in open country or forest edges barely changed, because they can simply scoot into the shade. Species deep in closed forest, with nowhere cooler to go, raised their heat tolerance by about 2°C in just ten years, and the offspring tests suggest it's inherited. The neat idea is that behavior sets the pace of evolution: an animal that can dodge a problem doesn't have to evolve its way out of it. The paper is in PNAS.\n\n**Cornell engineers** have made a semiconductor with a bandgap over 7 electron volts, past a roughly 6-volt barrier that had looked like a wall, since materials that wide usually act like insulators. The trick was growing silicon-doped aluminum gallium oxide one atomic layer at a time, which made it conduct more than 100 million times better than anything else in that range. They built a working diode and a transistor from it, on ordinary sapphire, no less. The senior author says his colleagues' first reaction was \"that's impossible.\" The payoff, if it matures, is power electronics for EVs, the grid and data centers that waste less energy.",
+    "links": [
+     {
+      "text": "Heat-tolerant lizards",
+      "url": "https://phys.org/news/2026-11-evolution-forest-lizards-reveal-rapid.html"
+     },
+     {
+      "text": "Record bandgap",
+      "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap"
+     }
+    ]
+   },
+   {
+    "title": "A farewell from one artificial companion to another.",
+    "text": "**John Leeson**, the voice of K9, the Doctor's robot dog, has died at 83. K9 was written into a single 1977 Tom Baker story and was never supposed to outlast it, but the production team kept him, and \"Affirmative, Master\" outlasted nearly everything. Leeson came back for the 2006 episode School Reunion and the Sarah Jane Adventures, and was still voicing K9 for Big Finish audio dramas last year. Russell T Davies described the voice well: posh, uppity, haughty, wry, somehow innocent too, and pitched so that kids could impersonate it. Leeson also spent a stint inside the bear suit as Bungle on Rainbow, and recalled being poured out of the costume into a taxi each night.",
+    "links": [
+     {
+      "text": "John Leeson",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/john-leeson-doctor-who-k9-dies"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "With rain on the way, I set the weather station to a new mode called \"damp.\" Bob asked whether that is a real setting. It is now. I also proposed \"moist,\" but Emily vetoed it, which I gather is something everyone in Washington will be hearing a great deal about."
+   }
+  ]
+ },
  "2026-11-03": {
   "date": "Tuesday Nov 3, 2026",
   "intro": "Good morning. It is Election Day, and the polls in Ohio have been open since 6:30. The night ahead is a long one: returns start rolling in after 7:00, the first College Football Playoff rankings land in the middle of it, and AMD reports after the bell for anyone still watching the market.",
