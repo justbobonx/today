@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  // how many info boxes sit side by side before wrapping to a new row
+  // the most info boxes that sit side by side before wrapping to a new row
   var BOXES_PER_ROW = 3;
   // how many earlier days get a link under the title
   var PAST_LINKS = 6;
@@ -63,10 +63,13 @@
   function boxesHtml(boxes) {
     if (!boxes || !boxes.length) return "";
     var html = '<div class="info-boxes">\n';
+    // spread the boxes evenly over as few rows as fit, so four become two and two
+    // rather than three and one, and five become three and two
+    var perRow = Math.ceil(boxes.length / Math.ceil(boxes.length / BOXES_PER_ROW));
     for (var i = 0; i < boxes.length; i++) {
       var b = boxes[i];
       // start a fresh row every few boxes so a wide stack never crowds the text
-      if (i % BOXES_PER_ROW === 0) {
+      if (i % perRow === 0) {
         if (i) html += "</div>\n";
         html += '<div class="ib-row">\n';
       }

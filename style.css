@@ -278,7 +278,6 @@ table.mini-grid td {
   height: 1.55rem;
   padding: 0;
   vertical-align: middle;
-  position: relative;
 }
 table.mini-grid td.empty { opacity: 0.2; }
 table.mini-grid td.today .n { color: var(--link); font-weight: 700; }
@@ -324,79 +323,73 @@ table.mini-grid td.has-plan .dot.plan { display: block; }
 .cal-more { margin: 0; font-size: 0.9rem; }
 .site-nav { display: none; }
 
-:is(table.mini-grid, table.cal-grid) td.has { cursor: default; }
-:is(table.mini-grid, table.cal-grid) td.has .tip {
+:is(table.mini-grid, table.cal-grid) td.has { cursor: default; outline: none; }
+table.mini-grid td.has:focus {
+  box-shadow: inset 0 0 0 1.5px var(--link);
+  border-radius: 3px;
+}
+table.cal-grid td.has { cursor: pointer; }
+table.cal-grid td.has:focus { box-shadow: inset 0 0 0 1px var(--link); }
+
+/* day popups float on the page so a sideways-scrolling month row never clips them */
+.tip {
   display: none;
-  position: absolute;
+  position: fixed;
   z-index: 20;
-  left: 50%;
-  bottom: calc(100% + 0.35rem);
-  transform: translateX(-50%);
   min-width: 11rem;
   max-width: 16rem;
   padding: 0.55rem 0.65rem;
   background: #1a1a1a;
   border: 1px solid var(--link);
   border-radius: 4px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
   text-align: left;
   white-space: normal;
   pointer-events: none;
 }
-:is(table.mini-grid, table.cal-grid) td.has .tip::after {
+.tip.is-open { display: block; }
+.tip.tip-full {
+  min-width: 12rem;
+  max-width: min(18rem, 80vw);
+}
+.tip.tip-full .tip-entry { font-size: 0.78rem; }
+.tip::after {
   content: "";
   position: absolute;
-  top: 100%;
   left: 50%;
   margin-left: -5px;
   border: 5px solid transparent;
+}
+/* popup above the day: caret on the bottom, pointing down */
+.tip.tip-above::after {
+  top: 100%;
   border-top-color: var(--link);
 }
-:is(table.mini-grid, table.cal-grid) td.has:hover .tip,
-:is(table.mini-grid, table.cal-grid) td.has:focus-within .tip,
-:is(table.mini-grid, table.cal-grid) td.has:focus .tip { display: block; }
-:is(table.mini-grid, table.cal-grid) .tip-date {
+/* popup below the day: caret on the top, pointing up */
+.tip.tip-below::after {
+  bottom: 100%;
+  border-bottom-color: var(--link);
+}
+.tip-date {
   font-size: 0.65rem;
   color: var(--link);
   margin-bottom: 0.35rem;
   font-variant-numeric: tabular-nums;
 }
-:is(table.mini-grid, table.cal-grid) .tip-entry {
+.tip-entry {
   font-size: 0.72rem;
   line-height: 1.35;
   margin: 0 0 0.3rem;
   color: var(--ink);
 }
-:is(table.mini-grid, table.cal-grid) .tip-entry:last-child { margin-bottom: 0; }
-:is(table.mini-grid, table.cal-grid) .tip-entry strong { color: var(--head); }
-:is(table.mini-grid, table.cal-grid) .tip-entry.tip-holiday strong { color: var(--holiday); }
-:is(table.mini-grid, table.cal-grid) .tip-entry.tip-event strong { color: var(--event); }
-:is(table.mini-grid, table.cal-grid) .tip-entry.tip-plan strong { color: var(--head); }
-/* flip tip down near top of grid */
-:is(table.mini-grid, table.cal-grid) tr:nth-child(-n+2) td.has .tip {
-  bottom: auto;
-  top: calc(100% + 0.35rem);
-}
-:is(table.mini-grid, table.cal-grid) tr:nth-child(-n+2) td.has .tip::after {
-  top: auto;
-  bottom: 100%;
-  border-top-color: transparent;
-  border-bottom-color: var(--link);
-}
-
-/* shared tips on full month grid */
-table.cal-grid td.has { position: relative; cursor: pointer; outline: none; }
-table.cal-grid td.has:focus { box-shadow: inset 0 0 0 1px var(--link); }
-table.cal-grid td.has .tip { min-width: 12rem; max-width: min(18rem, 80vw); }
-table.cal-grid td.has .tip-entry { font-size: 0.78rem; }
-/* keep edge-column tips on screen */
-table.cal-grid td.has:nth-child(-n+2) .tip { left: 0; transform: none; }
-table.cal-grid td.has:nth-child(-n+2) .tip::after { left: 1rem; }
-table.cal-grid td.has:nth-child(n+6) .tip { left: auto; right: 0; transform: none; }
-table.cal-grid td.has:nth-child(n+6) .tip::after { left: auto; right: 1rem; }
+.tip-entry:last-child { margin-bottom: 0; }
+.tip-entry strong { color: var(--head); }
+.tip-entry.tip-holiday strong { color: var(--holiday); }
+.tip-entry.tip-event strong { color: var(--event); }
+.tip-entry.tip-plan strong { color: var(--head); }
 @media (max-width: 600px) {
-  :is(table.mini-grid, table.cal-grid) td.has .tip { max-width: 80vw; }
-  table.cal-grid td.has .tip { min-width: 10rem; }
+  .tip { max-width: 80vw; }
+  .tip.tip-full { min-width: 10rem; }
 }
 
 /* full-year strip on calendar page (4×3 / 3×4 mini grids) */

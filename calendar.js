@@ -17,6 +17,14 @@
     "Jan","Feb","Mar","Apr","May","Jun",
     "Jul","Aug","Sep","Oct","Nov","Dec"
   ];
+  // space between a marked day and its popup
+  var TIP_GAP_PX = 6;
+  // leading week rows of a month that put the popup below the day instead of above
+  var TIP_FLIP_ROWS = 2;
+  // columns at each side of a full month whose popup lines up with that edge
+  var TIP_EDGE_COLS = 2;
+  // leftover room kept between the popup and the window edges
+  var TIP_VIEW_PAD_PX = 8;
 
   function esc(s) {
     return String(s == null ? "" : s)
@@ -248,10 +256,13 @@
             tipBits.join("") +
             "</div>"
           : "";
+        var attrs = tipBits.length ? ' tabindex="0"' : "";
         return (
           '<td class="' +
           cls.join(" ") +
-          '"><span class="n">' +
+          '"' +
+          attrs +
+          '><span class="n">' +
           day +
           "</span>" +
           dotsHtml +
@@ -457,6 +468,129 @@
       });
   }
 
+  // popups leave their day cells and sit on the page itself, so a month row
+  // that scrolls sideways cannot clip them or grow a vertical bar
+  function bindDayTips() {
+    var openCell = null;
+    var openTip = null;
+
+    function cellFrom(node) {
+      if (!node || !node.closest) return null;
+      return node.closest("td.has");
+    }
+
+    function hide() {
+      if (!openTip) return;
+      openTip.classList.remove("is-open", "tip-below", "tip-above", "tip-full");
+      openTip.style.left = "";
+      openTip.style.top = "";
+      if (openCell && openCell.isConnected) {
+        openCell.appendChild(openTip);
+      } else if (openTip.parentNode) {
+        openTip.parentNode.removeChild(openTip);
+      }
+      openTip = null;
+      openCell = null;
+    }
+
+    function wanted(cell) {
+      if (!cell || !cell.isConnected) return false;
+      if (document.activeElement === cell || cell.contains(document.activeElement)) {
+        return true;
+      }
+      return cell.matches(":hover");
+    }
+
+    function place() {
+      if (!openCell || !openTip) return;
+      var cell = openCell;
+      var tip = openTip;
+      var box = cell.getBoundingClientRect();
+      var row = cell.parentNode;
+      var rowIndex = row && typeof row.sectionRowIndex === "number" ? row.sectionRowIndex : -1;
+      var colIndex = typeof cell.cellIndex === "number" ? cell.cellIndex : -1;
+      var table = cell.closest ? cell.closest("table") : null;
+      var full = !!(table && table.classList.contains("cal-grid"));
+      var width = tip.offsetWidth;
+      var height = tip.offsetHeight;
+      var pad = TIP_VIEW_PAD_PX;
+      var below = box.bottom + TIP_GAP_PX;
+      var above = box.top - height - TIP_GAP_PX;
+      var flipDown = rowIndex >= 0 && rowIndex < TIP_FLIP_ROWS;
+      // if the preferred side would cross a window edge, use the other side when it fits
+      if (flipDown) {
+        if (below + height > window.innerHeight - pad && above >= pad) flipDown = false;
+      } else if (above < pad && below + height <= window.innerHeight - pad) {
+        flipDown = true;
+      }
+      tip.classList.toggle("tip-below", flipDown);
+      tip.classList.toggle("tip-above", !flipDown);
+      var align = "center";
+      if (full) {
+        if (colIndex >= 0 && colIndex < TIP_EDGE_COLS) align = "left";
+        else if (colIndex >= 7 - TIP_EDGE_COLS) align = "right";
+      }
+      var left;
+      if (align === "left") left = box.left;
+      else if (align === "right") left = box.right - width;
+      else left = box.left + box.width / 2 - width / 2;
+      var top = flipDown ? below : above;
+      var maxLeft = Math.max(pad, window.innerWidth - width - pad);
+      var maxTop = Math.max(pad, window.innerHeight - height - pad);
+      if (left < pad) left = pad;
+      else if (left > maxLeft) left = maxLeft;
+      if (top < pad) top = pad;
+      else if (top > maxTop) top = maxTop;
+      tip.style.left = Math.round(left) + "px";
+      tip.style.top = Math.round(top) + "px";
+    }
+
+    function show(cell) {
+      if (!cell) return;
+      if (openCell === cell) {
+        place();
+        return;
+      }
+      hide();
+      var tip = cell.querySelector(".tip");
+      if (!tip) return;
+      openCell = cell;
+      openTip = tip;
+      var table = cell.closest ? cell.closest("table") : null;
+      if (table && table.classList.contains("cal-grid")) tip.classList.add("tip-full");
+      document.body.appendChild(tip);
+      tip.classList.add("is-open");
+      place();
+    }
+
+    document.addEventListener("pointerover", function (e) {
+      var cell = cellFrom(e.target);
+      if (cell) show(cell);
+    });
+    document.addEventListener("pointerout", function (e) {
+      if (!openCell) return;
+      var cell = cellFrom(e.target);
+      if (cell !== openCell) return;
+      var next = e.relatedTarget;
+      if (next && openCell.contains(next)) return;
+      if (next && openTip && openTip.contains(next)) return;
+      if (!wanted(openCell)) hide();
+    });
+    document.addEventListener("focusin", function (e) {
+      var cell = cellFrom(e.target);
+      if (cell) show(cell);
+    });
+    document.addEventListener("focusout", function (e) {
+      if (!openCell) return;
+      var next = e.relatedTarget;
+      if (next && openCell.contains(next)) return;
+      if (next && openTip && openTip.contains(next)) return;
+      if (!wanted(openCell)) hide();
+    });
+    document.addEventListener("scroll", hide, true);
+    window.addEventListener("resize", hide);
+  }
+
   window.Cal = {
     esc: esc,
     miniMonth: miniMonth,
@@ -471,6 +605,8 @@
     MONTH_SHORT: MONTH_SHORT,
     MONTH_LONG: MONTH_LONG,
   };
+
+  bindDayTips();
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);
