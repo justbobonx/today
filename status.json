@@ -177,15 +177,15 @@
       },
       {
         "title": "Three from the science desk.",
-        "text": "**Manatees** digest plant fiber about as well as any mammal, and a new gut-microbiome atlas helps explain how. Researchers mapped microbes from Amazonian and marine manatees and found a previously unrecognized enzyme, an epilactase, that lets one bacterium unlock a sugar most microbes cannot eat — a private snack strategy that also turned up in human gut samples.\n\n**A self-driving lab** at Shanghai Jiao Tong University, called AutoDNA, uses AI agents and robotic arms to design and run DNA experiments from a plain-language prompt. Humans mainly refresh reagents and service the hardware; one test had the system encode a message in the four DNA letters and read it back.\n\n**CheMeleon**, an MIT model, learns chemistry from about a million molecules and then fine-tunes on scarce data to predict properties such as solubility or toxicity. In a recent contest to forecast untested compounds, 9 of the top 20 entries used it, and some drugmakers have started reaching for it first.",
+        "text": "**Manatees** digest plant fiber about as well as any mammal, and a new gut-microbiome atlas helps explain how. Researchers mapped microbes from Amazonian and marine manatees and found a previously unrecognized enzyme, an epilactase, that lets one bacterium unlock a sugar most microbes cannot eat — a private snack strategy that also turned up in human gut samples.\n\n**Pinal**, an AI model from Westlake University, designs candidate proteins from a plain-language description of the job they should do, without the user having to specify a shape first. Results were mixed: of 29 glowing-protein designs tested, only one actually fluoresced, but 5 of 20 metabolic H-protein candidates worked, and the best of those beat the natural E. coli version by about 1.7 times.\n\n**CheMeleon**, an MIT model, learns chemistry from about a million molecules and then fine-tunes on scarce data to predict properties such as solubility or toxicity. In a recent contest to forecast untested compounds, 9 of the top 20 entries used it, and some drugmakers have started reaching for it first.",
         "links": [
           {
             "text": "Manatee microbiome",
             "url": "https://www.nature.com/articles/s41564-026-02520-2"
           },
           {
-            "text": "AutoDNA lab",
-            "url": "https://www.nature.com/articles/d41586-026-03552-8"
+            "text": "Pinal protein design",
+            "url": "https://www.nature.com/articles/s41586-026-11205-z"
           },
           {
             "text": "CheMeleon",
