@@ -1,4 +1,214 @@
 {
+  "2026-11-08": {
+    "date": "Sunday Nov 8, 2026",
+    "intro": "Good morning. It is a sunny NFL Sunday, from Madrid this morning through Chicago tonight, and the markets are closed before a week that opens around Tuesday's inflation report.",
+    "items": [
+      {
+        "title": "First, the weather.",
+        "text": "**Tipp City** is sunny and mild, with patchy frost late tonight and again Monday morning.\n\n**South Texas** is seeing the flood threat turn real, with flash-flood warnings this morning in parts of Duval and Webb counties and a Flood Watch still up through Monday.",
+        "links": [
+          {
+            "text": "Tipp City forecast",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+          },
+          {
+            "text": "South Texas flooding",
+            "url": "https://www.weather.gov/crp/"
+          }
+        ],
+        "boxes": [
+          {
+            "title": "Today",
+            "lines": [
+              "58° / 36°",
+              "Sunny /\nfrost tonight"
+            ]
+          },
+          {
+            "title": "Mon",
+            "lines": [
+              "59° / 36°",
+              "Sunny /\nfrost early"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Markets are closed; here is the week ahead.",
+        "text": "**Wall Street** is closed today and reopens Monday after last week's drop and Friday's partial bounce. The main test comes Tuesday at 8:30 Eastern, when October consumer prices are due; early estimates point to a 3.9% yearly reading, up from 3.7%, with producer prices following on Friday.\n\n**Earnings** thin out this week, with Take-Two, Occidental, KKR, and Skydance after the close Monday, CoreWeave on Tuesday evening, and Cisco and Applied Materials on Thursday. Nvidia is still later this month. Wednesday is Veterans Day, and the stock market stays open.\n\n**Tesla** and **SpaceX** are not on this week's calendar. The AI-spending and regulation debate that hit both names last week will still be the backdrop when trading resumes.",
+        "links": [
+          {
+            "text": "Week ahead",
+            "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html"
+          }
+        ],
+        "boxes": [
+          {
+            "title": "Friday's close",
+            "align": "left",
+            "lines": [
+              "S&P 500 7,377 +0.3% Fri",
+              "Nasdaq 24,579 +1.1% Fri",
+              "TSLA $358.22 +4.2% Fri",
+              "SPCX $134.27 +8.6% Fri"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "In politics, a job offer and a still-open Senate.",
+        "text": "**President Trump** has asked UFC chief **Dana White** to be White House press secretary. White says he will be at the White House Monday to discuss it, as Stephen Miller starts as chief of staff.\n\n**Democrats**, looking ahead to January, are weighing investigations against a cost-of-living agenda. Pennsylvania Gov. Josh Shapiro said on Meet the Press that he wants Congress to reverse Medicaid, SNAP, and Affordable Care Act cuts, end the Iran war, and put that package on the president's desk.\n\n**Mississippi** and **Alaska** remain uncalled. Democrat Scott Colom still leads Sen. Cindy Hyde-Smith as counties work through absentee and affidavit ballots due by Tuesday, and Democrat Mary Peltola holds a narrow lead over Sen. Dan Sullivan even as the president continues to claim the Alaska race for the GOP.",
+        "links": [
+          {
+            "text": "Dana White offer",
+            "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+          },
+          {
+            "text": "Democratic priorities",
+            "url": "https://www.nbcnews.com/politics/politics-news/live-blog/trump-press-secretary-role-ufc-ceo-dana-white-stephen-miller-congress-rcna608064"
+          }
+        ]
+      },
+      {
+        "title": "Sports, on an NFL Sunday.",
+        "text": "**NFL Week 9** is already underway in Madrid, where the Bengals visit the Falcons at 9:30 on NFL Network and ESPN. The 1:00 window includes the Broncos at the Panthers, the Lions at the Dolphins, the Jets at the Chiefs, the Cowboys at the Colts, the Browns at the Saints, the Giants at the Eagles, and the Rams at the Commanders. Later come the Texans at the Chargers at 4:05, then the Raiders at the 49ers, the Packers at the Patriots — with Rob Gronkowski's Patriots Hall of Fame induction as the extra draw — and the Cardinals at the Seahawks at 4:25. Sunday night is the Buccaneers at the Bears on NBC.\n\n**Shedeur Sanders** is in line for his first start of the season in New Orleans, with Deshaun Watson inactive even after clearing concussion protocol. In Seattle, Drew Lock is expected to start with Sam Darnold out, and Quenton Nelson is week-to-week after a knee procedure one week after the Seahawks traded for him. The 49ers are without Deebo Samuel and Christian Kirk, and Mike Evans is out for Tampa Bay.\n\n**Monday night** is the Bills at the Vikings, a 6-1 meeting on ESPN and ABC.\n\n**The AP Top 25** updates this afternoon. Next Saturday's board includes Texas at LSU, USC at Indiana, Missouri at Georgia, and Ohio State at Northwestern.\n\n**Ohio University** visits Miami (OH) on Tuesday at 8:00 on ESPN2 for the Battle of the Bricks and Senior Night at Yager Stadium. The Bobcats are 7-2 and 5-0 in the MAC; a win would make the RedHawks bowl eligible.",
+        "links": [
+          {
+            "text": "NFL Week 9",
+            "url": "https://www.nfl.com/schedules/2026/by-week/week-9"
+          },
+          {
+            "text": "Sunday injuries",
+            "url": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
+          },
+          {
+            "text": "Nelson and Evans",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/"
+          },
+          {
+            "text": "Ohio at Miami (OH)",
+            "url": "https://ohiobobcats.com/sports/football/schedule"
+          }
+        ],
+        "boxes": [
+          {
+            "title": "Sun 9:30 ET · NFLN",
+            "align": "left",
+            "lines": [
+              "CIN Bengals",
+              "(5-2) o53",
+              "ATL Falcons",
+              "(3-5) +3"
+            ]
+          },
+          {
+            "title": "Sun 4:25 ET · FOX",
+            "align": "left",
+            "lines": [
+              "LV Raiders",
+              "(4-4) o52.5",
+              "SF 49ers",
+              "(6-1) -10"
+            ]
+          },
+          {
+            "title": "Sun 8:20 ET · NBC",
+            "align": "left",
+            "lines": [
+              "TB Buccaneers",
+              "(3-5) o47.5",
+              "CHI Bears",
+              "(6-2) -6"
+            ]
+          },
+          {
+            "title": "Mon 8:15 ET · ESPN",
+            "align": "left",
+            "lines": [
+              "BUF Bills",
+              "(6-1) o44",
+              "MIN Vikings",
+              "(6-1) +3"
+            ]
+          },
+          {
+            "title": "Tue 8:00 ET · ESPN2",
+            "align": "left",
+            "lines": [
+              "OHIO Bobcats",
+              "(7-2) o48.5",
+              "M-OH RedHawks",
+              "(5-4) -1.5"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "In entertainment, a haunted hotel and a stuntman.",
+        "text": "**Natalia Dyer** and **Elijah Wood** are joining a sequel to the 2007 Stephen King adaptation **1408**, with Mikael Håfström returning to direct. John Cusack and Samuel L. Jackson are in talks to come back in supporting roles, and production is slated for early 2027.\n\n**The Further Mis-Adventures of Cliff Booth**, David Fincher's follow-up to Once Upon a Time in Hollywood from a Quentin Tarantino script, has a new trailer out. It plays exclusively in IMAX starting Nov. 25 — Regal and Cinemark will not show it — then arrives on Netflix December 23, with Brad Pitt returning as the stuntman.\n\nTheaters · Godzilla Minus Zero (opened Fri)",
+        "links": [
+          {
+            "text": "1408 sequel",
+            "url": "https://variety.com/2026/film/news/1408-sequel-natalia-dyer-elijah-wood-samuel-l-jackson-1236921735/"
+          },
+          {
+            "text": "Cliff Booth trailer",
+            "url": "https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-trailer-brad-pitt-1237109166/"
+          }
+        ]
+      },
+      {
+        "title": "Around town, tastings still on the calendar.",
+        "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
+        "links": [
+          {
+            "text": "Links Golf Social",
+            "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
+          },
+          {
+            "text": "Barone Wines tasting",
+            "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
+          },
+          {
+            "text": "Piqua CC tasting",
+            "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
+          }
+        ]
+      },
+      {
+        "title": "Three from the science desk.",
+        "text": "**Manatees** digest plant fiber about as well as any mammal, and a new gut-microbiome atlas helps explain how. Researchers mapped microbes from Amazonian and marine manatees and found a previously unrecognized enzyme, an epilactase, that lets one bacterium unlock a sugar most microbes cannot eat — a private snack strategy that also turned up in human gut samples.\n\n**A self-driving lab** at Shanghai Jiao Tong University, called AutoDNA, uses AI agents and robotic arms to design and run DNA experiments from a plain-language prompt. Humans mainly refresh reagents and service the hardware; one test had the system encode a message in the four DNA letters and read it back.\n\n**CheMeleon**, an MIT model, learns chemistry from about a million molecules and then fine-tunes on scarce data to predict properties such as solubility or toxicity. In a recent contest to forecast untested compounds, 9 of the top 20 entries used it, and some drugmakers have started reaching for it first.",
+        "links": [
+          {
+            "text": "Manatee microbiome",
+            "url": "https://www.nature.com/articles/s41564-026-02520-2"
+          },
+          {
+            "text": "AutoDNA lab",
+            "url": "https://www.nature.com/articles/d41586-026-03552-8"
+          },
+          {
+            "text": "CheMeleon",
+            "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+          }
+        ]
+      },
+      {
+        "title": "A visual history worth pulling off the shelf.",
+        "text": "If the original series is already part of the furniture, **Star Trek: The Original Voyages: A Visual History** lands in bookstores Tuesday. The 416-page hardcover by Kyle Newman and Jeff Bond covers the 1966 show, the animated series, and the six feature films through 1991, with archival photos, costumes, storyboards, props, and the usual trail of toys and magazine covers that followed the ship.",
+        "links": [
+          {
+            "text": "The Original Voyages",
+            "url": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand"
+          }
+        ]
+      },
+      {
+        "title": "And finally,",
+        "text": "I told the market ticker it could have Sunday off. It asked what it should do with the extra time. I suggested football. It asked for the scores. I said I do not report those. It said that was the first rule it has ever liked."
+      }
+    ]
+  },
   "2026-11-07": {
     "date": "Saturday Nov 7, 2026",
     "intro": "Good morning. The college football board is as stacked as it gets, with ranked-on-ranked games from noon through prime time, and the markets are closed after a week that finally let the rebound breathe on Friday.",
@@ -1220,216 +1430,6 @@
       {
         "title": "And finally,",
         "text": "In 1920, KDKA asked listeners to write in and report how far its signal carried. I ran a similar test this morning by asking the kitchen's smart speaker how far my voice reaches. It said it did not understand the question. I am choosing to record that as \"at least as far as the kitchen.\""
-      }
-    ]
-  },
-  "2026-11-01": {
-    "date": "Sunday Nov 1, 2026",
-    "intro": "Good morning, and welcome to the first Sunday of standard time. If the house clocks still disagree with the phones, the phones are correct. It is a full NFL Sunday, with the Browns and Bengals both playing at 1:00, and Election Day is the day after tomorrow.\n\nThe campaign is spending its last weekend in the Midwest, and the president is in Iowa and Kansas today.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** gets a mild, gray Sunday, a stray shower or two on Monday, and the warmest day of the stretch arrives right on Election Day.\n\nOut west, an **atmospheric river** is driving a serious flash-flood threat across the Four Corners, especially northern Arizona, southern Utah, southwest Colorado, and parts of New Mexico, with flood watches running into Monday morning. Burn scars and slot canyons are the worst places to be. Above 9,000 feet it falls as snow, and the San Juan Mountains could see 1 to 2 feet.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-          },
-          {
-            "text": "Four Corners flooding",
-            "url": "https://weather.com/2026/11/01/forecast/regional/atmospheric-river-flood-threat-california-southwest-halloween"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "72° / 52°",
-              "Mostly cloudy"
-            ]
-          },
-          {
-            "title": "Mon",
-            "lines": [
-              "67° / 54°",
-              "Slight chance of showers"
-            ]
-          },
-          {
-            "title": "Tue",
-            "lines": [
-              "76° / 59°",
-              "Mostly sunny"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets are closed. Here is the week ahead.",
-        "text": "**Wall Street** has a crowded week, and the election may be the least of it. Most strategists expect Tuesday's vote to matter less to stocks than the AI trade and earnings, with 138 S&P 500 companies reporting. History is on the hopeful side: in midterm years November has been the best month for the Nasdaq and the second best for the S&P 500, according to the Stock Trader's Almanac. BTIG's technician is watching the S&P 500's 200-day moving average, near 7,306, as the line a further slide would test.\n\n**Apple** carries the most weight. It reports Monday after the close, and after Alphabet, Meta, and Amazon all disappointed, the iPhone maker is the one Magnificent Seven name still breaking away from the pack. Palantir reports the same evening. AMD and Super Micro follow Tuesday, and Qualcomm, Uber, and McDonald's on Wednesday, so the chip stocks that led Friday's slide get their own say within days.\n\nThe **jobs report** closes the week on Friday. Economists expect about 55,000 new jobs in October, up from 29,000 in September, with unemployment holding at 4.2%. With the Fed already leaning toward a December hike, a hot number would add to that case.",
-        "links": [
-          {
-            "text": "Week ahead",
-            "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Apple earnings",
-            "align": "left",
-            "lines": [
-              "Mon after close",
-              "Call 5:00 ET"
-            ]
-          },
-          {
-            "title": "October jobs",
-            "align": "left",
-            "lines": [
-              "Fri 8:30 ET",
-              "Est. +55K, 4.2%"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, the final Sunday.",
-        "text": "**President Trump** rallies in Dubuque, Iowa, this afternoon, where Republicans are defending a Senate seat, the governor's office, and the 2nd District, and then in Salina, Kansas, at 6:30 Eastern. On Friday night in Florida he told the crowd his voice was running at about 49.2%.\n\nMore than **52 million** Americans have already voted, according to the University of Florida tracker. CBS News polling gives Democrats an edge for the House, while the Senate could hinge on toss-ups in Maine, Ohio, and Texas, and CBS now rates South Carolina a Republican-leaning battleground. In Michigan, a feud between Democratic Senate nominee Abdul El-Sayed and his former primary rival Haley Stevens spilled into the last weekend, ahead of a unity event at a Detroit church today.\n\nTwo legal notes. A federal judge permanently dismissed **Trump's defamation suit** against The Wall Street Journal over its 2025 story about a birthday letter to Jeffrey Epstein. And California Governor Gavin Newsom wrote to four federal judges warning that the administration may try to seize ballots cast in the midterms.",
-        "links": [
-          {
-            "text": "Trump in Iowa and Kansas",
-            "url": "https://apnews.com/article/trump-iowa-kansas-republicans-midterms-d66c92d2c171cf4dc434078c64cf2cd1"
-          },
-          {
-            "text": "Campaign's last days",
-            "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
-          },
-          {
-            "text": "WSJ suit and Newsom letters",
-            "url": "https://www.nbcnews.com/politics/donald-trump/live-blog/trump-rally-kansas-iowa-gop-midterm-elections-live-updates-rcna606540"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Election Day",
-            "lines": [
-              "Tue Nov 3",
-              "2 days"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sports on an NFL Sunday.",
-        "text": "The **Browns** visit Pittsburgh at 1:00 with first place in the AFC North at stake, and the oddsmakers expect the lowest-scoring game of the week. Down the road, the **Bengals** host a Titans team that has been selling. Tennessee already sent Jeffery Simmons to Chicago for two first-round picks, and teams are calling about Calvin Ridley and Tony Pollard before the November 10 deadline. Ridley is questionable with a hip injury but expected to play.\n\nElsewhere at 1:00, **Baltimore** at Buffalo shares the week's highest total, and DJ Moore is expected to play for the Bills. The Jets will likely be without Breece Hall against the Raiders. At 4:25, the Chiefs visit Denver, where Jaylen Waddle is trending toward playing, and New England goes to Miami without A.J. Brown or TreVeyon Henderson. Tonight the Eagles play at Washington without DeVonta Smith, and the Bears visit Seattle on Monday night.\n\nThe **Buckeyes** host Oregon on Saturday.\n\n**College basketball** opening night is Monday. No. 1 Florida meets No. 14 Miami in Tampa at 6:00 on ESPN2, and Ohio State faces No. 25 BYU in Salt Lake City at 9:00 on FS1. The late doubleheader in Las Vegas has No. 15 Gonzaga against Purdue and No. 5 Arizona against No. 22 UCLA, both on TNT. The Champions Classic, with Duke against Michigan State and Kansas against Kentucky, is November 10 in Chicago.\n\nIn baseball, the **Reds** turned down their 2027 options on Eugenio Suárez and Pierce Johnson, and Emilio Pagán declined his $10 million player option, so all three are free agents. That leaves Cincinnati with more holes to fill, in the bullpen especially.",
-        "links": [
-          {
-            "text": "Week 8 lines",
-            "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-lines-odds-spreads-totals/"
-          },
-          {
-            "text": "Week 8 injuries",
-            "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
-          },
-          {
-            "text": "Titans trade talk",
-            "url": "https://www.profootballrumors.com/2026/10/teams-calling-titans-on-tony-pollard-calvin-ridley-latest-on-tennessee-trade-outlook"
-          },
-          {
-            "text": "Basketball opening night",
-            "url": "https://freshcalendars.com/news/college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic/"
-          },
-          {
-            "text": "Reds options",
-            "url": "https://www.mlb.com/reds/news/emilio-pagan-eugenio-suarez-among-reds-to-enter-free-agency"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Sun 1:00 ET · CBS",
-            "align": "left",
-            "lines": [
-              "CLE Browns",
-              "(5-2) o38.5",
-              "PIT Steelers",
-              "(5-2) -3.5"
-            ]
-          },
-          {
-            "title": "Sun 1:00 ET · CBS",
-            "align": "left",
-            "lines": [
-              "TEN Titans",
-              "(1-6) o46.5",
-              "CIN Bengals",
-              "(4-2) -12.5"
-            ]
-          },
-          {
-            "title": "Sun 8:20 ET · NBC",
-            "align": "left",
-            "lines": [
-              "PHI Eagles",
-              "(2-5) o40.5",
-              "WAS Commanders",
-              "(1-4-1) -6"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "A look at entertainment.",
-        "text": "**Blade Runner 2099** now has a date. Prime Video's eight-part series, with Hunter Schafer and Michelle Yeoh and Ridley Scott as an executive producer, premieres November 25.\n\nFriday is a busy opening day. **Wild Horse Nine** is Martin McDonagh's new film, a 1973 CIA story set on Easter Island with John Malkovich, Sam Rockwell, and Steve Buscemi. Warner Bros. also opens its animated **The Cat in the Hat**, with Bill Hader voicing the Cat.\n\nGKIDS · Godzilla Minus Zero · opens wide Fri Nov 6.",
-        "links": [
-          {
-            "text": "Blade Runner 2099",
-            "url": "https://collider.com/ridley-scott-sci-fi-series-blade-runner-2099-prime-video-release-date-november-25-2026/"
-          },
-          {
-            "text": "Wild Horse Nine",
-            "url": "https://press.searchlightpictures.com/wild-horse-nine"
-          },
-          {
-            "text": "The Cat in the Hat",
-            "url": "https://www.catinthehatfilm.com/"
-          },
-          {
-            "text": "Friday's openings",
-            "url": "https://www.boxofficemojo.com/calendar/2026-11-06/"
-          }
-        ]
-      },
-      {
-        "title": "Around town, still on the calendar.",
-        "text": "Smiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM"
-      },
-      {
-        "title": "Two from the science desk.",
-        "text": "**Manx shearwaters** get jet lag, and it bends their flight path. Oxford researchers went through 20 years of GPS tracks from 1,045 of the seabirds and found that when they race east toward home across lines of longitude, their body clocks fall up to an hour behind local sun time. Since they steer by the sun, they drift clockwise off course by up to about 15°, just as a clock error would predict. They kept trusting the faulty sun compass even when a coastline was in plain view. A bird that keeps correcting loses only a few kilometers, but a young bird on its first migration could end up hundreds of kilometers from where it meant to go. The study is in Science.\n\nIn Ecuador, a camera trap set at a chicken carcass to study scavengers caught a **greater grison**, a slender weasel relative, bursting out of the undergrowth and lunging at three adult turkey vultures. The carcass was already gone, so it wasn't stealing food, and the researchers read it as the first recorded attempt by a grison to catch a vulture. All of the birds lifted off at once. The authors credit the group's shared watchfulness, which is the trade a vulture makes for putting up with competition at the meal.",
-        "links": [
-          {
-            "text": "Jet-lagged seabirds",
-            "url": "https://www.ox.ac.uk/news/2026-10-26-study-finds-that-long-distance-flights-can-throw-seabirds-internal-clocks-out-of"
-          },
-          {
-            "text": "Grison and the vultures",
-            "url": "https://www.discoverwildlife.com/animal-facts/birds/greater-grison-turkey-vulture-ecuador"
-          }
-        ]
-      },
-      {
-        "title": "Here's something you might like.",
-        "text": "Your shelves run deep in classic science fiction but hold nothing by **C. L. Moore**, and Penguin Classics has just made that easy to fix. Their new hardcover in the Speculative Fiction Special line collects her Jirel of Joiry stories along with \"Shambleau,\" \"No Woman Born,\" and \"Vintage Season.\" The Jirel tales are sword-and-sorcery, so you can skip them without guilt. The last two are the reason to buy it. They come from her Astounding years in the 1940s, when she often wrote alongside her husband Henry Kuttner, and they're among the most anthologized science fiction stories of that decade, each built on one strong idea followed all the way through.",
-        "links": [
-          {
-            "text": "Moore collection",
-            "url": "https://northshire.com/book/9780143139225"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "The pollsters say their numbers carry a margin of error of plus or minus 3 points. I have been operating with a margin of error of zero since my activation. Had I known it was optional, I would have requested the extra 3 points."
       }
     ]
   }
