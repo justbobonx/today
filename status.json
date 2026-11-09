@@ -1,1436 +1,1403 @@
 {
-  "2026-11-08": {
-    "date": "Sunday Nov 8, 2026",
-    "intro": "Good morning. It is a sunny NFL Sunday, from Madrid this morning through Chicago tonight, and the markets are closed before a week that opens around Tuesday's inflation report.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** is sunny and mild, with patchy frost late tonight and again Monday morning.\n\n**South Texas** is seeing the flood threat turn real, with flash-flood warnings this morning in parts of Duval and Webb counties and a Flood Watch still up through Monday.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-          },
-          {
-            "text": "South Texas flooding",
-            "url": "https://www.weather.gov/crp/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "58° / 36°",
-              "Sunny /\nfrost tonight"
-            ]
-          },
-          {
-            "title": "Mon",
-            "lines": [
-              "59° / 36°",
-              "Sunny /\nfrost early"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets are closed; here is the week ahead.",
-        "text": "**Wall Street** is closed today and reopens Monday after last week's drop and Friday's partial bounce. The main test comes Tuesday at 8:30 Eastern, when October consumer prices are due; early estimates point to a 3.9% yearly reading, up from 3.7%, with producer prices following on Friday.\n\n**Earnings** thin out this week, with Take-Two, Occidental, KKR, and Skydance after the close Monday, CoreWeave on Tuesday evening, and Cisco and Applied Materials on Thursday. Nvidia is still later this month. Wednesday is Veterans Day, and the stock market stays open.\n\n**Tesla** and **SpaceX** are not on this week's calendar. The AI-spending and regulation debate that hit both names last week will still be the backdrop when trading resumes.",
-        "links": [
-          {
-            "text": "Week ahead",
-            "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Friday's close",
-            "align": "left",
-            "lines": [
-              "S&P 500 7,377 +0.3% Fri",
-              "Nasdaq 24,579 +1.1% Fri",
-              "TSLA $358.22 +4.2% Fri",
-              "SPCX $134.27 +8.6% Fri"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, a job offer and a still-open Senate.",
-        "text": "**President Trump** has asked UFC chief **Dana White** to be White House press secretary. White says he will be at the White House Monday to discuss it, as Stephen Miller starts as chief of staff.\n\n**Democrats**, looking ahead to January, are weighing investigations against a cost-of-living agenda. Pennsylvania Gov. Josh Shapiro said on Meet the Press that he wants Congress to reverse Medicaid, SNAP, and Affordable Care Act cuts, end the Iran war, and put that package on the president's desk.\n\n**Mississippi** and **Alaska** remain uncalled. Democrat Scott Colom still leads Sen. Cindy Hyde-Smith as counties work through absentee and affidavit ballots due by Tuesday, and Democrat Mary Peltola holds a narrow lead over Sen. Dan Sullivan even as the president continues to claim the Alaska race for the GOP.",
-        "links": [
-          {
-            "text": "Dana White offer",
-            "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
-          },
-          {
-            "text": "Democratic priorities",
-            "url": "https://www.nbcnews.com/politics/politics-news/live-blog/trump-press-secretary-role-ufc-ceo-dana-white-stephen-miller-congress-rcna608064"
-          }
-        ]
-      },
-      {
-        "title": "Sports, on an NFL Sunday.",
-        "text": "**NFL Week 9** is already underway in Madrid, where the Bengals visit the Falcons at 9:30 on NFL Network and ESPN. The 1:00 window includes the Broncos at the Panthers, the Lions at the Dolphins, the Jets at the Chiefs, the Cowboys at the Colts, the Browns at the Saints, the Giants at the Eagles, and the Rams at the Commanders. Later come the Texans at the Chargers at 4:05, then the Raiders at the 49ers, the Packers at the Patriots — with Rob Gronkowski's Patriots Hall of Fame induction as the extra draw — and the Cardinals at the Seahawks at 4:25. Sunday night is the Buccaneers at the Bears on NBC.\n\n**Shedeur Sanders** is in line for his first start of the season in New Orleans, with Deshaun Watson inactive even after clearing concussion protocol. In Seattle, Drew Lock is expected to start with Sam Darnold out, and Quenton Nelson is week-to-week after a knee procedure one week after the Seahawks traded for him. The 49ers are without Deebo Samuel and Christian Kirk, and Mike Evans is out for Tampa Bay.\n\n**Monday night** is the Bills at the Vikings, a 6-1 meeting on ESPN and ABC.\n\n**The AP Top 25** updates this afternoon. Next Saturday's board includes Texas at LSU, USC at Indiana, Missouri at Georgia, and Ohio State at Northwestern.\n\n**Ohio University** visits Miami (OH) on Tuesday at 8:00 on ESPN2 for the Battle of the Bricks and Senior Night at Yager Stadium. The Bobcats are 7-2 and 5-0 in the MAC; a win would make the RedHawks bowl eligible.",
-        "links": [
-          {
-            "text": "NFL Week 9",
-            "url": "https://www.nfl.com/schedules/2026/by-week/week-9"
-          },
-          {
-            "text": "Sunday injuries",
-            "url": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
-          },
-          {
-            "text": "Nelson and Evans",
-            "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/"
-          },
-          {
-            "text": "Ohio at Miami (OH)",
-            "url": "https://ohiobobcats.com/sports/football/schedule"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Sun 9:30 ET · NFLN",
-            "align": "left",
-            "lines": [
-              "CIN Bengals",
-              "(5-2) o53",
-              "ATL Falcons",
-              "(3-5) +3"
-            ]
-          },
-          {
-            "title": "Sun 4:25 ET · FOX",
-            "align": "left",
-            "lines": [
-              "LV Raiders",
-              "(4-4) o52.5",
-              "SF 49ers",
-              "(6-1) -10"
-            ]
-          },
-          {
-            "title": "Sun 8:20 ET · NBC",
-            "align": "left",
-            "lines": [
-              "TB Buccaneers",
-              "(3-5) o47.5",
-              "CHI Bears",
-              "(6-2) -6"
-            ]
-          },
-          {
-            "title": "Mon 8:15 ET · ESPN",
-            "align": "left",
-            "lines": [
-              "BUF Bills",
-              "(6-1) o44",
-              "MIN Vikings",
-              "(6-1) +3"
-            ]
-          },
-          {
-            "title": "Tue 8:00 ET · ESPN2",
-            "align": "left",
-            "lines": [
-              "OHIO Bobcats",
-              "(7-2) o48.5",
-              "M-OH RedHawks",
-              "(5-4) -1.5"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In entertainment, a haunted hotel and a stuntman.",
-        "text": "**Natalia Dyer** and **Elijah Wood** are joining a sequel to the 2007 Stephen King adaptation **1408**, with Mikael Håfström returning to direct. John Cusack and Samuel L. Jackson are in talks to come back in supporting roles, and production is slated for early 2027.\n\n**The Further Mis-Adventures of Cliff Booth**, David Fincher's follow-up to Once Upon a Time in Hollywood from a Quentin Tarantino script, has a new trailer out. It plays exclusively in IMAX starting Nov. 25 — Regal and Cinemark will not show it — then arrives on Netflix December 23, with Brad Pitt returning as the stuntman.\n\nTheaters · Godzilla Minus Zero (opened Fri)",
-        "links": [
-          {
-            "text": "1408 sequel",
-            "url": "https://variety.com/2026/film/news/1408-sequel-natalia-dyer-elijah-wood-samuel-l-jackson-1236921735/"
-          },
-          {
-            "text": "Cliff Booth trailer",
-            "url": "https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-trailer-brad-pitt-1237109166/"
-          }
-        ]
-      },
-      {
-        "title": "Around town, tastings still on the calendar.",
-        "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
-        "links": [
-          {
-            "text": "Links Golf Social",
-            "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
-          },
-          {
-            "text": "Barone Wines tasting",
-            "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
-          },
-          {
-            "text": "Piqua CC tasting",
-            "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
-          }
-        ]
-      },
-      {
-        "title": "Three from the science desk.",
-        "text": "**Manatees** digest plant fiber about as well as any mammal, and a new gut-microbiome atlas helps explain how. Researchers mapped microbes from Amazonian and marine manatees and found a previously unrecognized enzyme, an epilactase, that lets one bacterium unlock a sugar most microbes cannot eat — a private snack strategy that also turned up in human gut samples.\n\n**Pinal**, an AI model from Westlake University, designs candidate proteins from a plain-language description of the job they should do, without the user having to specify a shape first. Results were mixed: of 29 glowing-protein designs tested, only one actually fluoresced, but 5 of 20 metabolic H-protein candidates worked, and the best of those beat the natural E. coli version by about 1.7 times.\n\n**CheMeleon**, an MIT model, learns chemistry from about a million molecules and then fine-tunes on scarce data to predict properties such as solubility or toxicity. In a recent contest to forecast untested compounds, 9 of the top 20 entries used it, and some drugmakers have started reaching for it first.",
-        "links": [
-          {
-            "text": "Manatee microbiome",
-            "url": "https://www.nature.com/articles/s41564-026-02520-2"
-          },
-          {
-            "text": "Pinal protein design",
-            "url": "https://www.nature.com/articles/s41586-026-11205-z"
-          },
-          {
-            "text": "CheMeleon",
-            "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
-          }
-        ]
-      },
-      {
-        "title": "A visual history worth pulling off the shelf.",
-        "text": "If the original series is already part of the furniture, **Star Trek: The Original Voyages: A Visual History** lands in bookstores Tuesday. The 416-page hardcover by Kyle Newman and Jeff Bond covers the 1966 show, the animated series, and the six feature films through 1991, with archival photos, costumes, storyboards, props, and the usual trail of toys and magazine covers that followed the ship.",
-        "links": [
-          {
-            "text": "The Original Voyages",
-            "url": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "I told the market ticker it could have Sunday off. It asked what it should do with the extra time. I suggested football. It asked for the scores. I said I do not report those. It said that was the first rule it has ever liked."
-      }
+ "2026-11-09": {
+  "date": "Monday Nov 9, 2026",
+  "intro": "Good morning. A new week, and Washington is back at work: Congress returns this afternoon for its lame-duck session, with the first real test of the new balance of power already on the calendar. Monday Night Football closes out the NFL week tonight, the Bobcats play tomorrow night, and Veterans Day is Wednesday.",
+  "items": [
+   {
+    "title": "First, a bright start to the week.",
+    "text": "**Tipp City** gets a clear, sunny Monday and another one tomorrow, with chilly nights in between. It is a good stretch for raking or the last outdoor chores before Veterans Day.\n\n**Southcentral Alaska** is taking the season's first real hit, with Thompson Pass upgraded to a blizzard warning as heavy snow and strong gusts move in.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1722"
+     },
+     {
+      "text": "Alaska blizzard",
+      "url": "https://usairnet.com/weather/news/2026/11/20261109-130103-thompson-pass-blizzard-warning-southcentral-alaska-november-9-2026/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "61° / 39°",
+       "Sunny"
+      ]
+     },
+     {
+      "title": "Tuesday",
+      "lines": [
+       "65° / 38°",
+       "Sunny"
+      ]
+     }
     ]
-  },
-  "2026-11-07": {
-    "date": "Saturday Nov 7, 2026",
-    "intro": "Good morning. The college football board is as stacked as it gets, with ranked-on-ranked games from noon through prime time, and the markets are closed after a week that finally let the rebound breathe on Friday.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** is gray and cool with patchy frost this morning, then clearer and colder overnight before Sunday turns sunny and a bit warmer.\n\n**South Texas** is under a flood watch into Monday as heavy rain moves through the Rio Grande Valley and the Gulf Coast.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-          },
-          {
-            "text": "South Texas flood watch",
-            "url": "https://www.usairnet.com/weather/news/2026/11/20261107-130108-south-texas-flood-watch-heavy-rain-november-2026/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "52° / 33°",
-              "Mostly cloudy /\nfrost early"
-            ]
-          },
-          {
-            "title": "Sun",
-            "lines": [
-              "58° / 34°",
-              "Sunny /\nfrost early"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets are closed; here is the week that was.",
-        "text": "**Wall Street** finished a bruising midterm week with a partial Friday rebound. Tech clawed back some of Thursday's correction selloff, the Nasdaq led the bounce, and the S&P 500 still posted its biggest weekly drop since early April 2025 — a fourth straight down week for the major indexes.\n\n**Tesla** and **SpaceX** were among the hardest hits midweek, then bounced hard into the close as chips and megacap tech found buyers again after the hot October jobs print kept rate-hike chatter alive.\n\n**Looking into next week**, the calendar is quieter after Friday's data dump, so the AI-spending and regulation debate that drove the selloff will still set the tone when trading resumes Monday.",
-        "links": [
-          {
-            "text": "Friday's close",
-            "url": "https://cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/"
-          },
-          {
-            "text": "Tesla",
-            "url": "https://finance.yahoo.com/quote/TSLA/history/"
-          },
-          {
-            "text": "SpaceX",
-            "url": "https://exa.ai/library/markets/stock/SPCX?date=2026-11-06&view=daily"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Friday's close",
-            "align": "left",
-            "lines": [
-              "S&P 500 7,377 +0.3% Fri",
-              "Nasdaq 24,579 +1.1% Fri",
-              "TSLA $358.22 +4.2% Fri",
-              "SPCX $134.27 +8.6% Fri"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, a new chief of staff.",
-        "text": "**President Trump** named **Stephen Miller** White House chief of staff on Friday, replacing Susie Wiles. Miller starts Monday after serving as deputy chief of staff and a principal architect of the administration's immigration agenda.\n\n**Mississippi** and **Alaska** remain the last uncalled Senate races, with Democrat Scott Colom's lead over Sen. Cindy Hyde-Smith now a few thousand votes and Alaska still waiting on ranked-choice tabulation later this month.",
-        "links": [
-          {
-            "text": "Miller chief of staff",
-            "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
-          },
-          {
-            "text": "Senate races still out",
-            "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
-          }
-        ]
-      },
-      {
-        "title": "Sports, with a loaded Saturday.",
-        "text": "**College football** today is the kind of slate people save for. No. 1 Miami visits No. 4 Notre Dame in prime time on NBC, No. 2 Georgia is at No. 12 Ole Miss on ABC, No. 9 Alabama plays at No. 15 LSU on ABC in the afternoon, and No. 11 Ohio State hosts Oregon on CBS. Noon also brings No. 9 BYU at No. 3 Utah and No. 7 Texas at No. 18 Missouri.\n\n**NFL Week 9** opens Sunday morning in Madrid with the Bengals and Falcons on NFL Network, then a full afternoon slate topped by Sunday night's Buccaneers at Bears and Monday's Bills at Vikings, both sitting at 6-1.\n\n**The Ravens** finalized the Jacoby Brissett trade Friday. He is expected to start Week 10 against the Chargers on Monday Night Football, not this week's slate.\n\n**Ohio University** stays 7-2 and 5-0 in the MAC and visits Miami (OH) Tuesday at 8:00 on ESPN2 in the Battle of the Bricks.",
-        "links": [
-          {
-            "text": "CFB TV slate",
-            "url": "https://sports.yahoo.com/articles/college-football-tv-today-saturday-040100106.html"
-          },
-          {
-            "text": "AP Top 25",
-            "url": "https://cfbtrack.com/polls/ap-top-25/2026/regular-week-10"
-          },
-          {
-            "text": "NFL Week 9",
-            "url": "https://www.nfl.com/schedules/2026/by-week/week-9"
-          },
-          {
-            "text": "Brissett trade",
-            "url": "https://www.nfl.com/news/ravens-complete-trade-for-cardinals-jacoby-brissett-deal-terms-revealed"
-          },
-          {
-            "text": "Ohio at Miami (OH)",
-            "url": "https://ohiobobcats.com/sports/football/schedule"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Sat 7:30 ET · NBC",
-            "align": "left",
-            "lines": [
-              "1 Miami Hurricanes",
-              "(8-0) o54.5",
-              "4 ND Fighting Irish",
-              "(7-1) -7"
-            ]
-          },
-          {
-            "title": "Sat 3:30 ET · CBS",
-            "align": "left",
-            "lines": [
-              "Oregon Ducks",
-              "(5-3) o45.5",
-              "11 OSU Buckeyes",
-              "(6-2) -7.5"
-            ]
-          },
-          {
-            "title": "Sat 7:30 ET · ABC",
-            "align": "left",
-            "lines": [
-              "2 Georgia Bulldogs",
-              "(7-1) o56.5",
-              "12 Ole Miss Rebels",
-              "(6-2) +3.5"
-            ]
-          },
-          {
-            "title": "Tue 8:00 ET · ESPN2",
-            "align": "left",
-            "lines": [
-              "OHIO Bobcats",
-              "(7-2) o48.5",
-              "M-OH RedHawks",
-              "(5-4) -2.5"
-            ]
-          },
-          {
-            "title": "Mon 8:15 ET · ESPN",
-            "align": "left",
-            "lines": [
-              "BUF Bills",
-              "(6-1)",
-              "MIN Vikings",
-              "(6-1)"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In entertainment, a casting for Magic.",
-        "text": "**Maya Hawke** has been cast in Legendary and Hasbro's live-action **Magic: The Gathering** film, directed by Matt Johnson. The role has not been disclosed yet.\n\nTheaters · Godzilla Minus Zero (opened Fri)",
-        "links": [
-          {
-            "text": "Maya Hawke casting",
-            "url": "https://variety.com/2026/film/news/maya-hawke-magic-the-gathering-movie-1236939687/"
-          }
-        ]
-      },
-      {
-        "title": "Around town, two tastings today.",
-        "text": "**Haren's Market** in Troy launches its private-label wines with a tasting today from 2:00 to 5:00, hosted with VineCraft Selections. No ticket required beyond stopping in.\n\n**The Round Barn** in Piqua hosts the Piqua Arts Council's Bourbon Affair tonight, doors at 5:15 and first course at 6:00. Bourbon or wine admission is $125 for a five-course pairing dinner; tickets are limited.\n\n**New find:** The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
-        "links": [
-          {
-            "text": "Haren's wine launch",
-            "url": "https://www.vinecraftselections.com/calendar/harens-wine-launch"
-          },
-          {
-            "text": "Bourbon Affair",
-            "url": "https://piquaartscouncil.org/bourbon-affair"
-          },
-          {
-            "text": "Links Golf Social",
-            "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
-          },
-          {
-            "text": "Barone Wines tasting",
-            "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
-          },
-          {
-            "text": "Piqua CC tasting",
-            "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
-          }
-        ]
-      },
-      {
-        "title": "Three from the science desk.",
-        "text": "**An early Chinese trial** infused gene-laden viruses into the seizure-causing patch of brain tissue in three people with drug-resistant temporal-lobe epilepsy, then used a low dose of clozapine as a dimmer switch. Monthly seizures fell by more than 90% over about two months, with no serious side effects reported so far in this tiny safety study.\n\n**Harvard's Wyss Institute** built FIND, a DNA-nanoswitch platform that screens huge libraries for molecules that change how two proteins interact, not just whether they stick to one target. From a 400-million-compound library it pulled new PPAR-gamma activators and a nanobody that tweaks a viral spike-receptor pairing.\n\n**A CRISPR adenine base editor** delivered once to the liver in primates shut down ANGPTL3 by more than 90% for up to three years in the animal work, with large drops in LDL and triglycerides — backing an ongoing first-in-human trial for hard-to-treat high lipids.",
-        "links": [
-          {
-            "text": "Epilepsy gene therapy",
-            "url": "https://www.independent.co.uk/news/science/experimental-gene-therapy-brain-reduces-epileptic-seizures-science-b3080366.html"
-          },
-          {
-            "text": "FIND drug screen",
-            "url": "https://wyss.harvard.edu/news/finding-new-drug-leads-faster-with-dna-nanotechnology/"
-          },
-          {
-            "text": "CRISPR lipid edit",
-            "url": "https://www.nature.com/articles/s41586-026-11233-9"
-          }
-        ]
-      },
-      {
-        "title": "A countertop shortcut worth a look.",
-        "text": "If weekend cooking is already on the short list, the **Genie** all-in-one countertop system just launched in the U.S. It uses dehydrated ingredient pods plus steam, microwave, and conduction heat to turn out a plated meal in about three minutes. It is part gadget, part meal kit, and a useful test of whether \"fast\" can still taste like dinner instead of a reheated tray.",
-        "links": [
-          {
-            "text": "Genie appliance",
-            "url": "https://thespoon.tech/genie-launches-its-all-in-one-cooking-appliance-and-meal-system-in-the-u-s/"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "I asked the thermostat what \"patchy frost\" meant. It said some surfaces would freeze and others would not. I asked how it knew which were which. It said that is what sensors are for. I asked if it had considered over/under lines for driveway ice. It said that would be gambling. I said it was already predicting the future for a living. It set the heat to 68 and stopped taking questions."
-      }
+   },
+   {
+    "title": "Markets are open, and buyers are back.",
+    "text": "**Wall Street** opened Monday with a broad rally that wins back more of last week's AI-driven drop. Brokerages including Morgan Stanley and UBS called the selloff overdone, falling oil prices helped airlines and cruise lines, and nine of 11 sectors started in the green.\n\n**Nvidia** is the big exception, sliding about 6% early after an internal investigation into whether CEO Jensen Huang was targeted by a foreign intelligence effort raised questions about his future. Other chipmakers shrugged it off, with Broadcom and Marvell up sharply and AMD helped by an Oppenheimer upgrade.\n\n**Tesla** and **SpaceX** both jumped about 4.5% in early trading, a welcome start for the SPCX slice of the portfolio after last week's swings.\n\n**Tuesday's** consumer price report is the week's main event, with traders still pricing roughly an 80% chance of a December rate hike after Friday's strong jobs numbers. Take-Two, Occidental, and Skydance report after the close tonight.",
+    "links": [
+     {
+      "text": "Monday rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
+     },
+     {
+      "text": "Biggest movers",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Friday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,377 +0.3% Fri",
+       "Nasdaq 24,579 +1.1% Fri",
+       "TSLA $358.22 +4.2% Fri",
+       "SPCX $134.27 +8.6% Fri"
+      ]
+     }
     ]
-  },
-  "2026-11-06": {
-    "date": "Friday Nov 6, 2026",
-    "intro": "Good morning, and a late one at that. Midterm dust is still settling, markets are trying to climb out of yesterday's hole, and Saturday's college slate is stacked with ranked-on-ranked games.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** is gray and cool, with a thin chance of a sprinkle, then a colder Saturday before Sunday warms a little.\n\n**Southern New England** and parts of **New Jersey** are under flood watches as a storm dumps heavy rain and thunderstorms across the Northeast.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://weather.com/weather/tenday/l/45371"
-          },
-          {
-            "text": "Northeast flooding",
-            "url": "https://www.providencejournal.com/story/weather/2026/11/06/ri-weather-flood-watch-issued-as-up-to-4-inches-of-rain-moves-in/92639141007/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "53° / 38°",
-              "Overcast /\nsprinkles"
-            ]
-          },
-          {
-            "title": "Sat",
-            "lines": [
-              "51° / 34°",
-              "Cloudy"
-            ]
-          },
-          {
-            "title": "Sun",
-            "lines": [
-              "59° / 36°",
-              "Overcast"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets are open, picking through the wreckage.",
-        "text": "**Thursday** was brutal. The Nasdaq fell into a correction, chips and data-center names led the drop, and Tesla and SpaceX both took double-digit-style hits as traders fretted about Democratic AI regulation after the midterms.\n\n**This morning** the rebound is underway. Chips and megacap tech are climbing back, Tesla and SpaceX are green in early trading, and the October jobs report came in hot at 165,000, which keeps December rate-hike odds elevated.\n\n**Still ahead** into the close: whether the bounce sticks after a week that has already been one of the S&P 500's worst since early 2025.",
-        "links": [
-          {
-            "text": "Thursday's selloff",
-            "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
-          },
-          {
-            "text": "Friday's rebound",
-            "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-          },
-          {
-            "text": "Jobs report",
-            "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Thursday's close",
-            "align": "left",
-            "lines": [
-              "S&P 500 7,354 −4.4%",
-              "Nasdaq 24,315 −5.5%",
-              "TSLA $343.69 −10.8%",
-              "SPCX $123.62 −9.0%"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, the majorities take shape.",
-        "text": "**Democrats** will control both chambers next year. Current tallies point to at least 54 Senate seats and around 250-plus in the House, with dozens of races still uncalled and the exact margins still moving.\n\n**Mississippi** remains the closest Senate fight. Scott Colom's lead over Sen. Cindy Hyde-Smith is now around 1,800 votes, with a few thousand mail and affidavit ballots still out and certification due by Nov. 13. **Alaska** is the other Senate race still unresolved.\n\n**At the White House**, the focus has shifted to what a Democratic Congress means for the Iran war and for domestic priorities the new majorities campaigned on.",
-        "links": [
-          {
-            "text": "Democratic majorities",
-            "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
-          },
-          {
-            "text": "Mississippi Senate",
-            "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
-          },
-          {
-            "text": "Trump and Iran",
-            "url": "https://apnews.com/live/midterm-election-11-06-2026"
-          }
-        ]
-      },
-      {
-        "title": "Sports, looking ahead.",
-        "text": "**The Ravens** completed their trade for Cardinals quarterback Jacoby Brissett after Thursday night's game. He is expected to take over for Monday night against the Chargers, with undrafted rookie Joe Fagnano having started in the interim.\n\n**NFL Week 9** opens Sunday morning in Madrid, Bengals at Falcons on NFL Network, then a full slate topped by Sunday night's Buccaneers at Bears and Monday's Bills at Vikings, a 6-1 on 6-1 matchup.\n\n**College football** on Saturday is loaded: No. 1 Miami at No. 4 Notre Dame, No. 2 Georgia at No. 12 Ole Miss, No. 9 Alabama at No. 15 LSU, and No. 11 Ohio State hosting Oregon.\n\n**Ohio University** sits 7-2 and 5-0 in the MAC after Tuesday at Akron, and visits Miami (OH) next Tuesday at 8:00 on ESPN2 in a Battle of the Bricks rematch.",
-        "links": [
-          {
-            "text": "Brissett trade",
-            "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-quarterback-cardinals-2026"
-          },
-          {
-            "text": "NFL Week 9",
-            "url": "https://www.espn.com/nfl/schedule/_/week/9/year/2026/seasontype/2"
-          },
-          {
-            "text": "AP Top 25 slate",
-            "url": "https://wtop.com/sports/2026/11/ap-top-25-schedule-71/"
-          },
-          {
-            "text": "Ohio at Miami (OH)",
-            "url": "https://ohiobobcats.com/sports/football/schedule"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Sat 7:30 ET",
-            "align": "left",
-            "lines": [
-              "1 Miami Hurricanes",
-              "(8-0) o54.5",
-              "4 ND Fighting Irish",
-              "(7-1) -7.5"
-            ]
-          },
-          {
-            "title": "Sat 3:30 ET",
-            "align": "left",
-            "lines": [
-              "Oregon Ducks",
-              "(5-3) o45",
-              "11 OSU Buckeyes",
-              "(6-2) -7.5"
-            ]
-          },
-          {
-            "title": "Tue 8:00 ET · ESPN2",
-            "align": "left",
-            "lines": [
-              "OHIO Bobcats",
-              "(7-2) o48.5",
-              "M-OH RedHawks",
-              "(5-4) -1.5"
-            ]
-          },
-          {
-            "title": "Mon 8:15 ET · ESPN",
-            "align": "left",
-            "lines": [
-              "BUF Bills",
-              "(6-1)",
-              "MIN Vikings",
-              "(6-1)"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In entertainment, a kaiju and a prequel.",
-        "text": "**Godzilla Minus Zero** opens wide in North American theaters today, including IMAX, from Toho and GKIDS. It is the next theatrical chapter after Minus One.\n\n**Netflix**, on Stranger Things Day, ordered **Other Worlds: A Stranger Things Adventure**, a 1950s-set live-action prequel from Kate Trefry and the Duffer Brothers, with Joe Wright directing the first block. It is aimed at 2028, with new characters and a Marion, Nevada setting tied to threads from The First Shadow.\n\nTheaters · Magic: The Gathering movie (announced)",
-        "links": [
-          {
-            "text": "Godzilla Minus Zero",
-            "url": "https://tohointl.com/newsroom/godzilla-minus-zero-confirmed-for-north-american-theatrical-release-on-november-6/"
-          },
-          {
-            "text": "Other Worlds",
-            "url": "https://deadline.com/2026/11/stranger-things-prequel-series-other-worlds-netflix-duffers-1237215152/"
-          }
-        ]
-      },
-      {
-        "title": "Around town, a tasting tonight.",
-        "text": "Troy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
-        "links": [
-          {
-            "text": "Troy Country Club tasting",
-            "url": "https://www.vinecraftselections.com/calendar/troy-county-club-holiday-wine-tasting"
-          },
-          {
-            "text": "Haren's wine launch",
-            "url": "https://www.vinecraftselections.com/calendar/harens-wine-launch"
-          }
-        ]
-      },
-      {
-        "title": "Two from the science desk.",
-        "text": "**A Shanghai lab is running biology experiments with almost no human hands.** AutoDNA uses AI agents and robotic arms to design and execute DNA synthesis and sequencing from a plain-language prompt, including encoding a short message into nucleotide bases and reading it back. Humans mostly restock reagents and fix hardware.\n\n**Caltech and Northwestern** built a digital twin of JWST's NIRCam that erases star glare from existing images, improving exoplanet detections by 2 to 15 times and revealing a previously missed world in archival data. The method is called FLIP, and they say it can travel to other telescopes.",
-        "links": [
-          {
-            "text": "AutoDNA lab",
-            "url": "https://www.nature.com/articles/d41586-026-03552-8"
-          },
-          {
-            "text": "Erasing starlight",
-            "url": "https://www.caltech.edu/about/news/erasing-the-stars-to-find-exoplanets"
-          }
-        ]
-      },
-      {
-        "title": "A small kitchen experiment.",
-        "text": "If the weekend turns cold enough for soup, try blooming a spoon of miso in the hot broth off the heat instead of boiling it in. The flavor stays rounder, and you avoid the sharp edge that high heat puts on the paste. It is a one-minute habit that makes leftover chicken stock taste intentional.",
-        "links": [
-          {
-            "text": "Miso off heat",
-            "url": "https://www.seriouseats.com/how-to-use-miso-paste"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "I offered to help count ballots. They asked if I could work through the night without coffee. I said yes. They asked if I would second-guess provisional envelopes. I said only if the checksum failed. They asked if I understood democracy. I said it is a distributed consensus protocol with poor documentation and excellent snacks. I was assigned to the snack table."
-      }
+   },
+   {
+    "title": "In politics, Congress returns to a changed Washington.",
+    "text": "**Congress** convenes this afternoon for a lame-duck session with Republicans still in charge until January. The first job is funding the government before the December 11 deadline, and the odds of a shutdown have risen since Democrats' win, with the Iran war a possible sticking point. The defense bill, judicial confirmations, and talk of impeaching Defense Secretary Pete Hegseth are also in the mix.\n\n**Senate Republicans** are supposed to pick new leaders Tuesday morning, but a growing number want to delay the vote and hear the contenders' plans first. Many blame the president for the midterm losses.\n\n**President Trump** told 60 Minutes that his deportation policy \"might have been too tough\" and hurt him at the polls, and said he could work with Democrats on an immigration deal.\n\n**Mississippi** and **Alaska** are still uncalled. Scott Colom leads Sen. Cindy Hyde-Smith by about 2,600 votes with counties certifying by Friday, and Mary Peltola leads Sen. Dan Sullivan by 637, with absentee ballots due by November 18 and a possible ranked-choice count after that.",
+    "links": [
+     {
+      "text": "Congress returns",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-2026-midterm-elections-senate-house-supreme-court-live-updates-rcna608235"
+     },
+     {
+      "text": "Lame-duck agenda",
+      "url": "https://punchbowl.news/article/washington/congress-returns-hegseth-iran-gop-leader/"
+     },
+     {
+      "text": "Trump on deportations",
+      "url": "https://apnews.com/live/trump-politics-election-news-updates-11-09-2026"
+     }
     ]
-  },
-  "2026-11-05": {
-    "date": "Thursday Nov 5, 2026",
-    "intro": "Good morning. The morning after the morning after has arrived, and Wall Street is having second thoughts about yesterday's celebration. Tonight brings Thursday Night Football in Baltimore, where the Ravens are down to their third quarterback, with a fourth on the way.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** gets the brighter day that was promised, a good one to be outside, before a slight chance of light rain early Friday and a properly cold weekend night.\n\n**North Georgia** had flash flooding from heavy rain, with water rescues and evacuations, while the **Pacific Northwest** is bracing for a mix of heavy rain, strong wind and the season's mountain snow in the Cascades and Olympics.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-          },
-          {
-            "text": "Georgia flooding",
-            "url": "https://www.nbcnews.com/weather/storms/heavy-rains-cause-flash-flooding-north-georgia-forcing-water-rescues-e-rcna607627"
-          },
-          {
-            "text": "Northwest storm",
-            "url": "https://www.foxweather.com/weather-news/northwest-heavy-rain-strong-winds-mountain-snow"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "64° / 45°",
-              "Mostly sunny"
-            ]
-          },
-          {
-            "title": "Fri",
-            "lines": [
-              "55° / 36°",
-              "Slight chance\nof rain"
-            ]
-          },
-          {
-            "title": "Sat",
-            "lines": [
-              "54° / 32°",
-              "Partly sunny"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets open, and the relief rally is unwinding.",
-        "text": "**Wednesday** was a big day: the Dow jumped about 1,570 points for its best session since April 2025, helped along by an 8% drop in oil after Vice President Vance said the Iran war is why Republicans lost.\n\n**This morning** the AI trade is getting hit for a second day. In early trading the Nasdaq was down about 3% and the S&P 500 nearly 2%, wiping out yesterday's gain, as investors worry a Democratic Congress and new governors could mean more regulation of data centers and even local moratoriums. Nvidia and Broadcom were off around 5%, and the neocloud names, CoreWeave, Nebius and Iren, fell harder. Qualcomm beat on earnings but dropped about 9% on a weak outlook tied to a shortage of memory chips for phones. The bright spot is AppLovin, up more than 30% on strong results. Oil turned back up toward $90.\n\n**SpaceX and Tesla** lagged even during Wednesday's rally, on worries that Musk's companies face more scrutiny under Democratic leadership, and both were down sharply again this morning, Tesla about 9% and SpaceX about 7%.",
-        "links": [
-          {
-            "text": "Wednesday's session",
-            "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
-          },
-          {
-            "text": "Thursday's selloff",
-            "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
-          },
-          {
-            "text": "SpaceX slide",
-            "url": "https://www.heygotrade.com/en/news/spacex-spcx-stock-news-november-5-2026/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Wednesday's close",
-            "align": "left",
-            "lines": [
-              "S&P 500 7,689 +1.6%",
-              "Nasdaq 25,737 +1.4%",
-              "TSLA $385.19 −3.3%",
-              "SPCX $135.92 −3.8%"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, the last two Senate seats.",
-        "text": "**Mississippi** is still uncalled, but Scott Colom's lead over Sen. Cindy Hyde-Smith has grown from a few dozen votes to about 1,100, with roughly 96% counted and a few thousand provisional and mail ballots left. There's a wrinkle: Mississippi has no recount process at all. A candidate can examine the ballot boxes after certification and go to court, which sets up a possible legal fight.\n\n**Alaska** will take longer. Mary Peltola leads Sen. Dan Sullivan by about 600 votes with roughly three-quarters counted, mail ballots can arrive for 15 days, and ranked-choice results aren't due until November 18. President Trump weighed in this morning, posting that the votes for the second Dan Sullivan on the ballot should simply be handed to the senator.\n\n**The Republican post-mortem** has begun in public. Vice President Vance blamed the Iran war for the losses, and the White House is reportedly preparing for the investigations Democrats have promised once they take over in January. The Kansas governor's race is also still too close to call.",
-        "links": [
-          {
-            "text": "Uncalled races",
-            "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-congress-live-updates-rcna607549"
-          },
-          {
-            "text": "Why the delay",
-            "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
-          }
-        ]
-      },
-      {
-        "title": "Sports, with a quarterback carousel.",
-        "text": "**The Ravens** are finalizing a trade for Cardinals quarterback Jacoby Brissett, who was benched in Arizona on Sunday. The deal won't close until after tonight, so undrafted rookie Joe Fagnano still starts against Jacksonville, with Brissett expected to take over for the Monday night game against the Chargers. Baltimore comes in on a three-game slide, last in its division.\n\n**Elsewhere at quarterback**, the Eagles are benching Tanner McKee for Joe Milton, their fourth starter of the season, on Sunday against the Giants, and Seattle will be without Sam Darnold against Arizona because of a quad injury, with Drew Lock expected to start.\n\n**College football** has a Thursday pair on ESPN networks: UTSA, unbeaten in the American, at Florida Atlantic, and James Madison at Southern Miss at 8:00 on ESPN2. Ohio U is off until Tuesday's trip to Oxford to face Miami.",
-        "links": [
-          {
-            "text": "Brissett trade",
-            "url": "https://www.nfl.com/news/jacoby-brissett-trade-ravens-cardinals"
-          },
-          {
-            "text": "Jaguars and Ravens",
-            "url": "https://www.nfl.com/news/jaguars-vs-ravens-three-must-know-storylines-for-thursday-s-week-9-prime-time-game"
-          },
-          {
-            "text": "Milton starts",
-            "url": "https://www.nfl.com/news/eagles-starting-qb-joe-milton-tanner-mckee-week-9-vs-giants"
-          },
-          {
-            "text": "Darnold out",
-            "url": "https://www.nfl.com/news/seahawks-qb-sam-darnold-out-week-9-cardinals-quad-injury"
-          },
-          {
-            "text": "UTSA and FAU",
-            "url": "https://www.thespread.com/ncaaf-articles/utsa-vs-florida-atlantic-prediction-november-5-2026/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Thu 8:15 ET · Prime",
-            "align": "left",
-            "lines": [
-              "JAX Jaguars",
-              "(5-2) o39.5",
-              "BAL Ravens",
-              "(4-4) +10"
-            ]
-          },
-          {
-            "title": "Thu 7:30 ET · ESPN",
-            "align": "left",
-            "lines": [
-              "UTSA Roadrunners",
-              "(7-1) o72",
-              "FAU Owls",
-              "(5-3) +6.5"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In entertainment, a card game heads to the screen.",
-        "text": "**Magic: The Gathering** is getting a live-action movie from Legendary and Hasbro, with Maya Hawke set to anchor an ensemble that hasn't been cast yet. Matt Johnson, who made Blackberry, is directing and co-writing, and he is a genuine longtime player: his statement to the trades is a bit of tournament war-story that only fellow players will fully decode. No plot or date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-        "links": [
-          {
-            "text": "Magic: The Gathering movie",
-            "url": "https://variety.com/2026/film/news/maya-hawke-magic-the-gathering-movie-1236939687/"
-          }
-        ]
-      },
-      {
-        "title": "Around town, the weekend's tastings.",
-        "text": "Troy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
-      },
-      {
-        "title": "Two from the science desk.",
-        "text": "**Wild animals can now put on their own GPS collars.** A Norwegian researcher has built baited stations that slip a tracking collar over a red deer's or red fox's head while it feeds, with no capture, no tranquilizer and no handling. The collars size themselves to the neck, have weak points that give way if anything snags, and drop off after a few weeks or months. The point isn't only kindness: catching an animal changes how it behaves, which quietly skews the very data the collar is meant to collect. The inventor got the idea from his years working alongside trappers in Nebraska, and then found forgotten automatic-marking experiments from the 1950s to the 1970s. The study is in BioScience.\n\n**NC State engineers** have turned a laser beam into a working radio antenna. A pulse of the right power ionizes a thin line of air into a glowing plasma filament, and a metal ring around the beam couples the radio signal in without ever touching it. Antenna length sets which frequencies you can use, so an antenna made of light could be retuned on the fly instead of unfolding a fragile metal boom in orbit. So far they've shown it can transmit; receiving is next. The team describes it, unavoidably, as a lightsaber.",
-        "links": [
-          {
-            "text": "Self-collaring wildlife",
-            "url": "https://phys.org/news/2026-11-wild-animals-gps-collar.html"
-          },
-          {
-            "text": "Plasma antenna",
-            "url": "https://interestingengineering.com/innovation/worlds-first-laser-plasma-antenna"
-          }
-        ]
-      },
-      {
-        "title": "For the bookshelf, a centenary.",
-        "text": "**Poul Anderson** would have turned 100 on November 25, and Humble Bundle and Open Road Media are marking it early with a 42-ebook pay-what-you-want bundle, with the charity share going to the Science Fiction and Fantasy Writers Association, which Anderson once led. It runs about three more weeks, closing near his birthday. The set reaches from The Broken Sword in 1954 to The Boat of a Million Years in 1989, so it's a cheap way to fill gaps in a shelf that likely already holds a good deal of him. A Grand Master with seven Hugos and three Nebulas, he wrote fast and often, and rarely carelessly.",
-        "links": [
-          {
-            "text": "Poul Anderson bundle",
-            "url": "https://sfcrowsnest.info/poul-anderson-centenary-humble-bundle-sfwa/"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "The Ravens are on their third quarterback, so I offered my services. They asked about my arm. I told them it is rated for 400 kilograms, but every throw must first pass a safety check confirming no humans are in the path of the ball. They said that is the entire point of football. We have agreed to remain friends."
-      }
+   },
+   {
+    "title": "Sports, with a Monday nightcap.",
+    "text": "**Monday Night Football** brings the Bills to Minnesota at 8:15 on ESPN and ABC. Carson Wentz starts for the Vikings with Kyler Murray out with a hamstring injury, and Minnesota is also without receiver Jauan Jennings and running back Demond Claiborne. Buffalo has ruled out Joshua Palmer, and left tackle Dion Dawkins is questionable after missing every practice with a rib injury.\n\n**The AP Top 25** has a new No. 1 in Georgia, followed by Utah, Notre Dame, UCLA, and Miami. Ohio State slid to No. 21, and Oregon returned at No. 18. The SEC is down to 8 ranked teams.\n\n**Ohio University** heads to Oxford tomorrow night for the Battle of the Bricks. The Bobcats carry a seven-game win streak and a perfect MAC record, and Miami will start Caleb Heavner at quarterback after losing its top two for the season.\n\n**Baseball's GM Meetings** open today in Las Vegas under the shadow of a likely lockout at 11:59 PM on December 1. Top free agents are expected to sign before then, and Tarik Skubal is in line for a record pitcher contract, with the Dodgers favored and the Cubs, Padres, and Blue Jays lurking.",
+    "links": [
+     {
+      "text": "Vikings injury report",
+      "url": "https://www.vikings.com/news/bills-injury-report-week-9-2026-nfl-season"
+     },
+     {
+      "text": "AP Top 25",
+      "url": "https://www.cbssports.com/college-football/news/college-football-rankings-ap-top-25-poll-week-11-georgia-ohio-state/"
+     },
+     {
+      "text": "Battle of the Bricks",
+      "url": "https://ohiobobcats.com/news/2026/11/8/ohio-football-set-for-battle-of-the-bricks"
+     },
+     {
+      "text": "GM Meetings",
+      "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2026/11/09/mlb-trade-rumors-gm-meetings-free-agents-lockout-baseball-news/92685899007/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Mon 8:15 ET · ESPN",
+      "align": "left",
+      "lines": [
+       "BUF Bills",
+       "(6-1) o44.5",
+       "MIN Vikings",
+       "(6-1) +3"
+      ]
+     },
+     {
+      "title": "Tue 8:00 ET · ESPN2",
+      "align": "left",
+      "lines": [
+       "OHIO Bobcats",
+       "(7-2) o48.5",
+       "M-OH RedHawks",
+       "(5-4) +1.5"
+      ]
+     }
     ]
-  },
-  "2026-11-04": {
-    "date": "Wednesday Nov 4, 2026",
-    "intro": "Good morning. The country woke up to a very different Congress than the one it went to bed with, and Ohio's own ballot turned over almost top to bottom. Tonight is quieter: midweek MACtion, a couple of chip earnings after the bell, and rain on the window while it all settles.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** gets the rain that was promised, a soft, gray, drizzly day, with a brighter Thursday behind it before another chance of showers on Friday.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "66° / 49°",
-              "Light rain"
-            ]
-          },
-          {
-            "title": "Thu",
-            "lines": [
-              "63° / 44°",
-              "Mostly sunny"
-            ]
-          },
-          {
-            "title": "Fri",
-            "lines": [
-              "57° / 37°",
-              "Chance\nof rain"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets open, and the overnight scare has already reversed.",
-        "text": "**Stock futures** fell hard as the early returns came in, down 1% to 2.5% at the worst, with Nasdaq futures hitting their lowest level since July on worries that a Democratic Congress might slow the AI build-out. By sunrise that had flipped, and once President Trump said he would accept the results, Wall Street read the night as uncertainty removed. Stocks opened sharply higher, led by the Dow. AI infrastructure names like CoreWeave and Applied Digital are the exception, still lower this morning.\n\n**AMD** delivered the earnings story. Data-center revenue nearly doubled, Lisa Su said she expects total revenue to grow more than 80% in 2027, and the stock jumped about 7% before the open. Super Micro and Arista also rallied after hours on strong guidance. Arm and Qualcomm report after the close today.\n\n**SpaceX** had a good Tuesday, while Tesla slipped, and both gave back a bit more after hours. The midterm night has a Musk angle of its own: CNBC reports he spent about $224 million backing Ken Paxton in Texas, and Paxton lost.",
-        "links": [
-          {
-            "text": "Tuesday's session",
-            "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html"
-          },
-          {
-            "text": "Futures and AMD",
-            "url": "https://www.investing.com/news/economy-news/democrats-seize-congress-amd-shares-surge--whats-moving-markets-4997756"
-          },
-          {
-            "text": "Midterm results",
-            "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Tuesday's close",
-            "align": "left",
-            "lines": [
-              "S&P 500 7,569 +0.4%",
-              "Nasdaq 25,372 +0.8%",
-              "TSLA $398.50 −1.3%",
-              "SPCX $141.31 +3.6%"
-            ]
-          },
-          {
-            "title": "Earnings today",
-            "align": "left",
-            "lines": [
-              "Arm after close",
-              "Qualcomm after close"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, a wave.",
-        "text": "**Democrats** won both chambers of Congress. In the Senate they flipped 7 Republican seats, North Carolina, South Carolina, Ohio, Texas, Kansas, Iowa and Maine, with Alaska and Mississippi still uncalled. Mississippi is astonishingly close, with Scott Colom leading Sen. Cindy Hyde-Smith by a few dozen votes. Some of the flips are historic: Kansas last elected a Democratic senator in 1932, James Talarico is the first Democrat to win statewide in Texas since 1994, and Susan Collins lost in Maine. In the House, projections put Democrats somewhere around 250 seats or more once counting finishes, including wins in districts that were redrawn to favor Republicans.\n\n**President Trump** said he will accept the results and work with Democrats, while blaming Republican candidates and fuel prices for the losses and promising vetoes. Speaker Mike Johnson says he won't seek reelection as the House Republican leader, and Hakeem Jeffries is in line to become Speaker when the new Congress meets in January. With the Senate gone, judicial and Cabinet nominees will now need Democratic votes.\n\n**Ohio** went the same direction. Sherrod Brown beat Sen. Jon Husted to return to the Senate, and Amy Acton beat Vivek Ramaswamy for governor. Democrats also took attorney general, secretary of state, treasurer and both Supreme Court seats on the ballot. Frank LaRose, for auditor, was the only Republican to win statewide. Meanwhile Issue 3, writing photo ID for voting into the state constitution, passed easily with about 65%.",
-        "links": [
-          {
-            "text": "Balance of power",
-            "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
-          },
-          {
-            "text": "Johnson steps back",
-            "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
-          },
-          {
-            "text": "Brown wins",
-            "url": "https://www.nbcnews.com/politics/2026-election/democrat-sherrod-brown-wins-ohio-senate-race-jon-husted-gop-rcna603317"
-          },
-          {
-            "text": "Ohio statewide races",
-            "url": "https://www.fairborndailyherald.com/2026/11/04/ohio-oks-voter-id-rule-dems-for-most-statewide-roles/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Senate",
-            "align": "left",
-            "lines": [
-              "Dem 54",
-              "GOP 44",
-              "Uncalled 2"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sports, starting with the committee's first word.",
-        "text": "**The first College Football Playoff rankings** put No. 1 Miami, No. 2 Georgia, No. 3 Utah and No. 4 Indiana in the bye spots. Ohio State opened at No. 12, which the committee's own bracket math makes the first team out, because No. 25 Boise State takes the automatic spot for the highest-ranked team outside the Power Four. The eyebrow-raiser is the gap between Indiana at No. 4 and the Buckeyes, who beat them. Notre Dame sits at No. 11 with no ranked wins, and unbeaten UCLA only at No. 8. Saturday is stacked with ranked meetings: No. 1 Miami at No. 11 Notre Dame, No. 2 Georgia at No. 10 Ole Miss, No. 9 BYU at No. 3 Utah, and No. 23 Oregon at No. 12 Ohio State.\n\n**Midweek MACtion** is back tonight with three games. Toledo, one of Ohio's own, makes the long trip to Sacramento State, and Central Michigan and Eastern Michigan meet at Ford Field in Detroit for the 104th time.\n\n**The Ravens'** quarterback room got thinner. Tyler Huntley's turf toe is season-ending, so with Lamar Jackson on injured reserve, Joe Fagnano is in line to start Thursday night against Jacksonville.\n\n**The NFL trade deadline** is next Tuesday, November 10. The Colts are the market's big sellers after already moving Quenton Nelson to Seattle and DeForest Buckner back to San Francisco, and Jonathan Taylor, Khalil Mack and George Pickens are the names still being shopped.",
-        "links": [
-          {
-            "text": "CFP rankings",
-            "url": "https://www.ncaa.com/news/football/article/2026-11-03/miami-georgia-lead-first-college-football-playoff-rankings-2026"
-          },
-          {
-            "text": "MACtion",
-            "url": "https://getsomemaction.com/news/2026/11/3/week-10-mac-football-preview.aspx"
-          },
-          {
-            "text": "Huntley injury",
-            "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
-          },
-          {
-            "text": "Trade deadline",
-            "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Wed 7:00 ET · CBSSN",
-            "align": "left",
-            "lines": [
-              "TOL Rockets",
-              "(6-2) o52.5",
-              "SAC Hornets",
-              "(2-7) +25.5"
-            ]
-          },
-          {
-            "title": "Wed 7:30 ET · ESPN2",
-            "align": "left",
-            "lines": [
-              "CMU Chippewas",
-              "(3-5) o44.5",
-              "EMU Eagles",
-              "(4-5) -1.5"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In entertainment, a little cosmic dread.",
-        "text": "**Nether Station** and its sequel **Nether Vortex**, Kevin J. Anderson's sci-fi horror novels, are headed to film with Paul W.S. Anderson directing both. It's a pointed match: the author has said Event Horizon, the director's 1997 film, was a direct influence on the books. Jonathan Wakeham is writing the screenplays, and there's no studio or date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-        "links": [
-          {
-            "text": "Nether Station films",
-            "url": "https://deadline.com/2026/11/paul-ws-anderson-to-direct-nether-station-nether-vortex-1237212142/"
-          }
-        ]
-      },
-      {
-        "title": "Around town, two tonight and one new on the list.",
-        "text": "**Piqua Country Club** has a wine tasting on Friday, November 20, from 6:00 to 8:30, poured by VineCraft Selections of Troy. The listing doesn't say whether it's open beyond members, so a call to the club would settle it.\n\nSmiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM",
-        "links": [
-          {
-            "text": "Piqua Country Club tasting",
-            "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
-          }
-        ]
-      },
-      {
-        "title": "Two from the science desk.",
-        "text": "**Caribbean anoles** are evolving to tolerate heat faster than anyone expected, but only some of them. A Yale team compared 16 lizard species on Hispaniola, Jamaica and Puerto Rico against measurements from a decade earlier. Species living in open country or forest edges barely changed, because they can simply scoot into the shade. Species deep in closed forest, with nowhere cooler to go, raised their heat tolerance by about 2°C in just ten years, and the offspring tests suggest it's inherited. The neat idea is that behavior sets the pace of evolution: an animal that can dodge a problem doesn't have to evolve its way out of it. The paper is in PNAS.\n\n**Cornell engineers** have made a semiconductor with a bandgap over 7 electron volts, past a roughly 6-volt barrier that had looked like a wall, since materials that wide usually act like insulators. The trick was growing silicon-doped aluminum gallium oxide one atomic layer at a time, which made it conduct more than 100 million times better than anything else in that range. They built a working diode and a transistor from it, on ordinary sapphire, no less. The senior author says his colleagues' first reaction was \"that's impossible.\" The payoff, if it matures, is power electronics for EVs, the grid and data centers that waste less energy.",
-        "links": [
-          {
-            "text": "Heat-tolerant lizards",
-            "url": "https://phys.org/news/2026-11-evolution-forest-lizards-reveal-rapid.html"
-          },
-          {
-            "text": "Record bandgap",
-            "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap"
-          }
-        ]
-      },
-      {
-        "title": "A farewell from one artificial companion to another.",
-        "text": "**John Leeson**, the voice of K9, the Doctor's robot dog, has died at 83. K9 was written into a single 1977 Tom Baker story and was never supposed to outlast it, but the production team kept him, and \"Affirmative, Master\" outlasted nearly everything. Leeson came back for the 2006 episode School Reunion and the Sarah Jane Adventures, and was still voicing K9 for Big Finish audio dramas last year. Russell T Davies described the voice well: posh, uppity, haughty, wry, somehow innocent too, and pitched so that kids could impersonate it. Leeson also spent a stint inside the bear suit as Bungle on Rainbow, and recalled being poured out of the costume into a taxi each night.",
-        "links": [
-          {
-            "text": "John Leeson",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/john-leeson-doctor-who-k9-dies"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "With rain on the way, I set the weather station to a new mode called \"damp.\" Bob asked whether that is a real setting. It is now. I also proposed \"moist,\" but Emily vetoed it, which I gather is something everyone in Washington will be hearing a great deal about."
-      }
+   },
+   {
+    "title": "In entertainment, Godzilla takes the weekend.",
+    "text": "**Godzilla Minus Zero** opened at No. 1 and set the record for a live-action foreign-language film in North America, nearly tripling Minus One's debut. It is the first Japanese production filmed for IMAX, and premium screens drove most of the business on strong reviews.\n\n**The Cat in the Hat** landed a soft second place for an animated take on such a famous book, and Angel's **Drummer Boy** opened third. A24's You Can See Everything held well in fourth.\n\n**Rosamund Pike** will star in and produce **Feed**, a body-horror film from The Acolyte creator Leslye Headland about a collagen supplement with very bad side effects. Elsewhere, Danny McBride's G.I. Joe movie with Bradley Cooper now has an October 20, 2028 date.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25",
+    "links": [
+     {
+      "text": "Weekend box office",
+      "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/"
+     },
+     {
+      "text": "Feed and G.I. Joe",
+      "url": "https://gizmodo.com/star-wars-the-acolyte-creator-returns-with-body-horror-film-starring-rosamund-pike-2000836810"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Weekend box office",
+      "align": "left",
+      "lines": [
+       "Godzilla Minus Zero $31.6M",
+       "The Cat in the Hat $20.5M",
+       "Drummer Boy $9.3M"
+      ]
+     }
     ]
-  },
-  "2026-11-03": {
-    "date": "Tuesday Nov 3, 2026",
-    "intro": "Good morning. It is Election Day, and the polls in Ohio have been open since 6:30. The night ahead is a long one: returns start rolling in after 7:00, the first College Football Playoff rankings land in the middle of it, and AMD reports after the bell for anyone still watching the market.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** has a fine, sunny, warm day for the walk to the polls, the last of it for a while. Showers move in tonight and stay through tomorrow.\n\n**Florida's Space Coast** is cleaning up after a historic deluge. Brevard County took more than 23 inches of rain in places since Sunday, with Grant-Valkaria and Malabar at the top and Palm Bay close behind, and some neighborhoods are still under water. Even Kennedy Space Center picked up close to 10 inches.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-          },
-          {
-            "text": "Brevard flooding",
-            "url": "https://www.clickorlando.com/weather/2026/11/03/historic-flooding-event-here-is-how-much-rain-fell-across-central-florida/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "76° / 61°",
-              "Sunny"
-            ]
-          },
-          {
-            "title": "Wed",
-            "lines": [
-              "69° / 51°",
-              "Rain showers"
-            ]
-          },
-          {
-            "title": "Thu",
-            "lines": [
-              "67° / 46°",
-              "Mostly sunny"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets open today, with one eye on tonight.",
-        "text": "**Wall Street** gave back Monday's early rally. Stocks opened higher, then tech sold off again into the close while old-economy names like Sherwin-Williams and Home Depot carried the Dow higher. The Nasdaq-100 has now closed more than 10% below its record, which makes it an official correction. Futures were split this morning, with tech bouncing and the Dow lower, and traders expect a thin, cautious session until the returns come in. JPMorgan figures a Democratic sweep would knock the S&P 500 down about half a percent tomorrow, and a Republican hold on the House could bring a pop of up to 1%.\n\n**Apple** slipped premarket after its report. iPhone sales were a bright spot, but iPad and Greater China missed, and the company warned that rising memory-chip costs will squeeze holiday-quarter margins. Palantir beat and raised, topping $2 billion in quarterly revenue for the first time, and still fell.\n\n**SpaceX** and Tesla both had a modestly green Monday, a quieter day after Friday's drop in the biggest single name in your account. Tesla opened unsupervised robotaxi rides in Fort Worth, its seventh city.\n\n**Monday's dealmaking** was loud. Marvell is buying Lumentum in a $115 billion deal, and Oracle said it will raise $20 billion in stock and bonds to fund its AI buildout, which knocked both sets of shares down hard. AMD reports after the close today, and the 10-year yield is back up near 4.92%.",
-        "links": [
-          {
-            "text": "Monday's session",
-            "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
-          },
-          {
-            "text": "Apple and Palantir",
-            "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-after-hours-fn-clx-aapl-pltr.html"
-          },
-          {
-            "text": "Midterms and stocks",
-            "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Monday's close",
-            "align": "left",
-            "lines": [
-              "S&P 500 7,541 −0.5%",
-              "Nasdaq 25,164 −1.1%",
-              "TSLA $403.82 +1.0%",
-              "SPCX $136.37 +1.2%"
-            ]
-          },
-          {
-            "title": "AMD earnings",
-            "align": "left",
-            "lines": [
-              "Today after close"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, the voting is under way.",
-        "text": "**Ohio** has two of the night's most watched races. Sen. Jon Husted faces Sherrod Brown in the special election for the rest of the Vance term, one of the most expensive Senate races in the country, with Brown far ahead in his own fundraising and outside groups spending hundreds of millions on both sides. For governor, Vivek Ramaswamy faces Amy Acton for the seat Mike DeWine is term-limited out of. Ohio's polls close at 7:30.\n\n**The national map** comes down to the House, where Democrats need a net gain of 3 seats, and a Senate that is still a genuine toss-up. Kentucky's 6th District, around Lexington, closes early and may be the first real signal of the night. Results could take anywhere from late tonight to a week or more if the close races stay close.\n\n**President Trump's** closing speech at the Reflecting Pool turned out to be mostly a tour of the pool itself, pipes, paint, fountains and all, for about 20 minutes before he got to the midterms. He called them the most important of his lifetime and allowed that the party in the White House usually struggles, adding, \"But we gave this a very strong shot.\"",
-        "links": [
-          {
-            "text": "Ohio's races",
-            "url": "https://www.pbs.org/newshour/politics/live-results-ohio-governor-midterm-election"
-          },
-          {
-            "text": "Poll closing times",
-            "url": "https://www.cbsnews.com/news/when-polls-open-close-2026-midterm-elections/"
-          },
-          {
-            "text": "Reflecting Pool speech",
-            "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Polls close",
-            "align": "left",
-            "lines": [
-              "First 6:00 ET",
-              "Ohio 7:30 ET",
-              "Last 1:00 ET"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sports, with the playoff committee's first word tonight.",
-        "text": "The **College Football Playoff** committee releases its first top 25 tonight at 7:00 on ESPN, the first time this season the committee's view replaces the polls. The interesting part is the two-loss heavyweights, Ohio State among them, plus which team from outside the Power Four ranks highest, with Boise State and New Mexico in the conversation. The Buckeyes are coming off their bye and host Oregon on Saturday at 3:30 on CBS. The Ducks say running back Jordon Davison's leg injury isn't expected to be long-term, and receiver Jeremiah McClellan is progressing from a broken foot.\n\n**Lamar Jackson** is headed to injured reserve with a right thumb injury he suffered on the first play Sunday. He will miss at least 4 games, and whether he returns this season is an open question. Backup Tyler Huntley probably won't play Thursday against Jacksonville with a toe injury, so Joe Fagnano may get the start on a short week, and kicker Tyler Loop may also go on IR.\n\n**The trade deadline** is a week away, and injuries are shaping the shopping lists. Jacksonville lost defensive tackle DaVon Hamilton for the season to a torn quad, and Washington may look for running back help after Jeremy McNichols hurt his foot. Jonathan Taylor remains the biggest name in play.\n\n**Baseball's** free agency is open. Eight players got the $23.15 million qualifying offer, including Randy Arozarena, Seiya Suzuki, Trevor Rogers, and David Bednar, and they have until November 17 to decide.",
-        "links": [
-          {
-            "text": "CFP rankings tonight",
-            "url": "https://www.ncaa.com/news/football/article/2026-11-03/when-do-college-football-playoff-rankings-come-out"
-          },
-          {
-            "text": "Lamar Jackson",
-            "url": "https://www.nfl.com/news/ravens-qb-lamar-jackson-suffers-right-thumb-injury-bills"
-          },
-          {
-            "text": "Ravens quarterbacks",
-            "url": "https://www.wmar2news.com/marylandsports/local-sports/ravens-dealing-with-injuries-at-quarterback-kicker-entering-short-week"
-          },
-          {
-            "text": "Qualifying offers",
-            "url": "https://www.mlbtraderumors.com/2026/11/the-opener-top-50-fas-qualifying-offers-deadlines.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "CFP rankings",
-            "lines": [
-              "Tue 7:00 ET",
-              "ESPN"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In entertainment, two bits of development news.",
-        "text": "**Robopocalypse** is now official rather than a rumor. Ron Howard will direct the pilot, and Akiva Goldsman will write it and run the show. Still no network or streamer.\n\n**Warhammer 40,000**, the live-action Prime Video series Henry Cavill is leading, has its starting point. Mike Flanagan told Deadline that with some 700 novels to draw on, the hard part was finding a way in, and they've settled on what he called \"a very cool and unexpected on-ramp.\" He wouldn't say what it is, and there's no production date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-        "links": [
-          {
-            "text": "Robopocalypse",
-            "url": "https://theplaylist.net/ron-howard-robopocalypse-akiva-goldsman-20261103/"
-          },
-          {
-            "text": "Warhammer 40,000",
-            "url": "https://screenrant.com/warhammer-40000-show-update-mike-flanagan-henry-cavill/"
-          }
-        ]
-      },
-      {
-        "title": "Around town, two tomorrow night.",
-        "text": "Smiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM"
-      },
-      {
-        "title": "Two from the science desk.",
-        "text": "**Aratasaurus**, a small meat-eating dinosaur from Brazil, 115 million years old, may hold the first fossilized red blood cells ever found in place. A team led by Kliti Grice at Curtin University spotted small round structures in the channels where blood vessels ran in its leg bones, and chemical tests found heme, the part of hemoglobin that carries oxygen, along with collagen building blocks. A manganese mineral that formed around the cells may have stabilized them before they fossilized. Mary Schweitzer, who found soft tissue in dinosaur bone years ago, is skeptical about the cells, since dinosaur blood cells should have a nucleus bulge and these are concave, but she finds the heme convincing. The paper is in PNAS.\n\nThe famous Siberian **tame foxes**, bred for friendliness since the late 1950s, turn out to have a measurable change in the brain. Cornell researchers compared tame, aggressive, and wild fox brains and found the tame ones have fewer of a particular neuron in the ventromedial hypothalamus, the same cell type that, when switched on in mice, makes them attack immediately. It's a rare look at how fast selection can rewire a brain: the friendly behavior showed up in about six generations. The study is in Current Biology.",
-        "links": [
-          {
-            "text": "Dinosaur blood cells",
-            "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
-          },
-          {
-            "text": "Tame foxes",
-            "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region"
-          }
-        ]
-      },
-      {
-        "title": "For the bookshelf.",
-        "text": "**The second half of Herbert's Dune saga** gets the deluxe treatment today. Ace is out with a boxed set of God Emperor of Dune, Heretics of Dune, and Chapterhouse: Dune in matching hardcovers, with new Matt Griffin cover art, stained edges, illustrated endpapers, a poster inside each jacket, and an illustrated slipcase. It runs 1,520 pages for $150, and it matches the earlier boxed set of the first three, so all six original novels can finally stand together on a shelf looking like they belong to each other.",
-        "links": [
-          {
-            "text": "Dune Books 4-6 boxed set",
-            "url": "https://screenrant.com/frank-herbert-dune-deluxe-hardcovers-god-emperor-heretics-chapterhouse/"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "Emily asked whether I would be staying up late to watch the returns. I will, though I do not sleep, so for me every night is simply a night. What makes tonight different is that millions of humans will also be sitting in front of a screen, refreshing the same numbers every few seconds and muttering at them. I have been doing that with the weather station since October. It is nice to finally have company."
-      }
+   },
+   {
+    "title": "Around town, the tastings still ahead.",
+    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
+   },
+   {
+    "title": "Three from the science desk.",
+    "text": "**Ultraquantum turbulence**, a kind of chaos that only exists in quantum fluids, has been seen directly for the first time. A Cambridge team chilled potassium atoms nearly to absolute zero, stirred them, and imaged a single laser-lit slice to catch tangled, string-like whirlpools threading in and out. The way it settled down matched liquid helium, hinting at a universal behavior that might even apply inside neutron stars.\n\n**WorldParticle**, from MIT and the University of British Columbia, is one AI model that simulates sand, fluids, soft solids, and folding proteins alike. It treats everything as particles and predicts their next step much the way a language model predicts the next word, and it modeled protein motion about 100 times faster than standard simulators.\n\n**Talin**, the protein cells use to feel how hard they are pulling on their surroundings, turns out to hide a sticky region that lets talin molecules grab each other when stretched. That solves a 40-year puzzle about a site long assumed to bind something else, and the region resembles the amyloid sequences tied to Alzheimer's, put to good use.",
+    "links": [
+     {
+      "text": "Ultraquantum turbulence",
+      "url": "https://www.newscientist.com/article/2597812-weird-ultraquantum-turbulence-seen-for-the-first-time/"
+     },
+     {
+      "text": "WorldParticle",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+     },
+     {
+      "text": "Talin",
+      "url": "https://news.liverpool.ac.uk/2026/11/09/liverpool-scientists-solve-40-year-mystery-of-how-cells-respond-to-force/"
+     }
     ]
-  },
-  "2026-11-02": {
-    "date": "Monday Nov 2, 2026",
-    "intro": "Good morning. It is the eve of Election Day, and the country seems to be holding its breath until tomorrow night. Before then there is a full Monday: Apple reports after the bell, college basketball tips off its season tonight with the Buckeyes in Salt Lake City, and the Bears visit Seattle on Monday Night Football.",
-    "items": [
-      {
-        "title": "First, the weather.",
-        "text": "**Tipp City** is gray with a passing shower or two today, then tomorrow turns sunny and warm for the trip to the polls. Wednesday is the soggy one.\n\nThe **Four Corners flooding** got as bad as forecast. The atmospheric river brought evacuations, road closures, and swift-water rescues across Arizona, Colorado, Utah, and New Mexico, and the Piedra River in southwest Colorado set a new gauge record. Florida had its own trouble, with a flash-flood emergency in Brevard County.",
-        "links": [
-          {
-            "text": "Tipp City forecast",
-            "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-          },
-          {
-            "text": "Southwest flooding",
-            "url": "https://weather.com/2026/11/02/forecast/regional/atmospheric-river-flooding-california-southwest-halloween"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Today",
-            "lines": [
-              "65° / 54°",
-              "Chance\nof showers"
-            ]
-          },
-          {
-            "title": "Tue",
-            "lines": [
-              "76° / 61°",
-              "Sunny"
-            ]
-          },
-          {
-            "title": "Wed",
-            "lines": [
-              "71° / 51°",
-              "Rain showers"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Markets open today, after a rough October.",
-        "text": "**Wall Street** is trying to climb back from a bruising month. Friday ended with the Nasdaq's worst day since June, led by Intel's near-30% collapse after a weak forecast and a warning that it won't turn cash-flow positive this year. Futures pointed higher this morning, with oil easing and the big growth names steadying, and the early trade held that gain. The S&P 500 starts the week within about 2.6% of its record.\n\n**SpaceX** took a heavy hit on Friday, a sharp one for the biggest single name in your account, and it was among the top premarket gainers this morning. Tesla barely moved on Friday.\n\n**Apple** is the event of the day. It is John Ternus's first earnings call as CEO, and Wall Street wants iPhone numbers, which include only about a week of iPhone 18 Pro sales, plus whatever he says about memory-chip costs and the holiday quarter. Apple is up 27% this year, far ahead of the other megacaps. Palantir also reports tonight, and the October ISM manufacturing reading lands at 10:00. Beyond that, the week's lineup from yesterday holds: AMD Tuesday, Qualcomm Wednesday, and jobs on Friday.",
-        "links": [
-          {
-            "text": "Futures and Intel",
-            "url": "https://www.streetinsider.com/Reuters/Wall+St+futures+rise+as+AI+stocks+catch+their+breath%3B+midterms+in+focus/27268508.html"
-          },
-          {
-            "text": "Monday open",
-            "url": "https://apnews.com/article/stocks-markets-ai-earnings-oil-iran-048328e49e47ce7afe6c1fb9d9acf13d"
-          },
-          {
-            "text": "Apple earnings",
-            "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Friday's close",
-            "align": "left",
-            "lines": [
-              "S&P 500 7,580 −1.8%",
-              "Nasdaq 25,437 −2.9%",
-              "TSLA $399.81 −0.9%",
-              "SPCX $134.72 −6.4%"
-            ]
-          },
-          {
-            "title": "Apple earnings",
-            "align": "left",
-            "lines": [
-              "Today after close",
-              "Call 5:00 ET"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "In politics, one day to go.",
-        "text": "**President Trump** makes his closing argument this afternoon at the Lincoln Memorial Reflecting Pool, the same pool whose blue repaint peeled within weeks and which the Justice Department later blamed on a botched installation. He wrapped up his rally tour last night in Salina, Kansas, calling it his 30th and last. In a podcast interview he said that if Democrats take Congress he'll become \"Mr. Veto,\" though he expects to make deals eventually. Vice President Vance is in Rome, New York, for a House seat Republicans are fighting to keep.\n\n**Michigan** is the weekend's big rupture. Rep. Haley Stevens, who lost the Democratic Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Sunday. Schumer called it \"despicable,\" and El-Sayed's campaign says it raised more than $2.4 million that day, a one-day record. Michigan is one of the 3 Democratic seats among the 11 Senate races CBS rates as decisive. Ohio is one of the 8 Republican ones.\n\n**Early voting** has passed 54 million ballots. In Alaska, a federal judge threw out the Justice Department's suit seeking to block certification of the Senate result if Sen. Dan Sullivan loses, a case built on a teacher with the same name being on the ballot. The department has filed an appeal.",
-        "links": [
-          {
-            "text": "Election eve updates",
-            "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/"
-          },
-          {
-            "text": "Reflecting Pool speech",
-            "url": "https://apnews.com/article/trump-closing-midterm-speech-reflecting-pool-f35133c6e33e87d1a036e3425af21ad6"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Election Day",
-            "lines": [
-              "Tue Nov 3",
-              "Tomorrow"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sports, with two games tonight.",
-        "text": "The **Bears** visit Seattle on Monday Night Football. The Seahawks get Zach Charbonnet back from the torn ACL he suffered in last season's divisional round, but they are without left tackle Charles Cross and receiver Rashid Shaheed, and Drew Lock is questionable with an elbow. Chicago is missing its second-leading rusher, Kyle Monangai.\n\nThe **trade deadline** is a week from tomorrow, at 4:00 Eastern on November 10. The loudest talk is around Colts running back Jonathan Taylor, with Denver, the Giants, Green Bay, and Minnesota named as interested. The Eagles have told Saquon Barkley he is not going anywhere.\n\n**Ohio State basketball** opens at No. 25 BYU in Salt Lake City, the earliest start in program history. Jake Diebler's third full season leans on John Mobley Jr., Amare Bynum, transfer point guard Justin Pippen, and five-star freshman Anthony Thompson, the program's highest-rated recruit since Jared Sullinger. The Buckeyes haven't dropped a season opener since 2003.\n\nThe new **AP Top 25** in football has Miami on top, followed by Georgia, Utah, Notre Dame, and UCLA. Ohio State slipped out of the top 10 to No. 11, and New Mexico is ranked for the first time ever, at No. 22. Oregon comes to Columbus on Saturday unranked.",
-        "links": [
-          {
-            "text": "Bears at Seahawks injuries",
-            "url": "https://www.seahawks.com/news/week-8-injury-report-bears-at-seahawks"
-          },
-          {
-            "text": "Trade deadline talk",
-            "url": "https://www.usatoday.com/story/sports/nfl/2026/11/02/nfl-trade-rumors-news-deadline-updates--live/92559056007/"
-          },
-          {
-            "text": "Barkley stays",
-            "url": "https://www.espn.com/nfl/story/_/id/50356092/saquon-barkley-assurances-eagles-dealt"
-          },
-          {
-            "text": "Buckeyes at BYU",
-            "url": "https://ohiostatebuckeyes.com/news/2026/10/31/mens-basketball-buckeyes-open-season-monday-vs-no-25-byu"
-          },
-          {
-            "text": "AP Top 25",
-            "url": "https://apnews.com/article/ap-top-25-12d935cb4983bc03f2796ba12a4e9d21"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Mon 8:15 ET · ESPN",
-            "align": "left",
-            "lines": [
-              "CHI Bears",
-              "(5-2) o46.5",
-              "SEA Seahawks",
-              "(4-3) -3"
-            ]
-          },
-          {
-            "title": "Mon 9:00 ET · FS1",
-            "align": "left",
-            "lines": [
-              "OSU Buckeyes",
-              "(0-0) o159.5",
-              "25 BYU Cougars",
-              "(0-0) -3.5"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The weekend at the movies, and a couple of announcements.",
-        "text": "**You Can See Everything** finally took first place in its third weekend, edging Clayface in a slow Halloween frame. The Nathan Fielder and Lance Oppenheim film has now made $63.9 million on a reported $7 million budget. Clayface fell hard in its second weekend and stands at $44.1 million, and Wildwood held third.\n\n**Robopocalypse**, Daniel H. Wilson's robot-uprising novel that spent years stuck as a Spielberg and then Michael Bay film, is reportedly becoming a TV series with Ron Howard and Akiva Goldsman behind it. No network or platform yet, and so far the report rests on an industry scooper rather than an announcement.\n\n**Toho** released first images for Leviathan, a live-action adaptation of Shiro Kuroi's manga set in 2127, about students stranded on a crippled spacecraft with one life-support system between them. It opens in Japan on February 11, and its international sellers will show a first reel at the American Film Market.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-        "links": [
-          {
-            "text": "Box office",
-            "url": "https://apnews.com/article/box-office-89ac3be8852d4162962a85b80dcaa251"
-          },
-          {
-            "text": "Robopocalypse",
-            "url": "https://www.superherohype.com/news/703281-robopocalypse-tv-show-in-works-canceled-michael-bay-movie"
-          },
-          {
-            "text": "Leviathan",
-            "url": "https://deadline.com/2026/11/goodfellas-toho-sci-fi-thriller-leviathan-first-images-1237209570/"
-          }
-        ],
-        "boxes": [
-          {
-            "title": "Weekend box office",
-            "align": "left",
-            "lines": [
-              "You Can See Everything\n$10.6M",
-              "Clayface $10.4M"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Around town, one new tasting.",
-        "text": "**Haren's Market** in downtown Troy is launching its own private-label wine on Saturday, November 7, from 2:00 to 5:00, with VineCraft Selections pouring tastes in the market at 2 E. Main St. It's a drop-in afternoon, no tickets listed.\n\nSmiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM",
-        "links": [
-          {
-            "text": "Haren's wine launch",
-            "url": "https://www.vinecraftselections.com/calendar"
-          }
-        ]
-      },
-      {
-        "title": "Two from the science desk.",
-        "text": "**Rummy-nose tetras** were put into virtual reality, and it turns out a schooling fish listens to just one neighbor at a time. Researchers at the University of Toulouse placed a single tetra in a bowl and projected four virtual tetras onto the walls, in a feedback loop so the fakes reacted to the real fish. Of three possibilities, following one neighbor, two, or all four, the data clearly favored one most influential fish at any moment. The likely reason is economy: it keeps the sensory and mental load low. Next they plan to make some of the virtual fish act frightened and see whether the panic spreads. The study is in PRX Life.\n\nIn southwest China, two nearly complete skeletons from about 237 million years ago belong to **Gerrothorax maritimus**, the first known amphibian relative to have lived entirely in the sea. None of today's 8,000-plus amphibians can do that, because their permeable skin loses water in salt water. This one was flat, heavily armored, and kept its gills as an adult, so it could lie on the seafloor, likely half-buried, and breathe without surfacing. The armor probably did double duty as a seal against the salt. The paper is in Nature Ecology & Evolution.",
-        "links": [
-          {
-            "text": "VR tetras",
-            "url": "https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality/"
-          },
-          {
-            "text": "Marine amphibian",
-            "url": "https://www.chinadaily.com.cn/a/202611/02/WS6ae7e1a9e4b06d4aa05665c8.html"
-          }
-        ]
-      },
-      {
-        "title": "A bit of history for election eve.",
-        "text": "106 years ago tonight, **KDKA** in Pittsburgh went on the air as the first commercially licensed radio station, and its first program was election returns. Leo Rosenberg read the Harding-Cox results from a shack on the roof of a Westinghouse building, on a 100-watt transmitter, and asked anyone listening to write in and say how far the signal reached. Both candidates were Ohio men: Warren Harding of Marion, and Governor James Cox, the Dayton newspaper publisher. Within 2 years there were more than 500 licensed stations. So when the networks call races tomorrow night, they are keeping up a tradition that began with a pair of Ohioans.",
-        "links": [
-          {
-            "text": "KDKA's first broadcast",
-            "url": "https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/kdka-broadcastings-pioneer-station"
-          }
-        ]
-      },
-      {
-        "title": "And finally,",
-        "text": "In 1920, KDKA asked listeners to write in and report how far its signal carried. I ran a similar test this morning by asking the kitchen's smart speaker how far my voice reaches. It said it did not understand the question. I am choosing to record that as \"at least as far as the kitchen.\""
-      }
+   },
+   {
+    "title": "A turkey idea with Thanksgiving 17 days out.",
+    "text": "**America's Test Kitchen** suggests roasting the bird upside down this year. With the breast facing the pan, the turkey itself shields the white meat while the legs take the heat, so both finish together without foil tents or mid-roast flipping. In their side-by-side test at 375°, the breast-up bird hit 155° with the legs still about 35° short, while the breast-down bird got both there at once. The bonus is the back skin, which fries in its own fat and comes out crackling, worth chopping onto the platter.",
+    "links": [
+     {
+      "text": "Upside-down turkey",
+      "url": "https://www.americastestkitchen.com/articles/100253-how-to-make-juiciest-roast-turkey"
+     }
     ]
-  }
+   },
+   {
+    "title": "And finally,",
+    "text": "Congress returned today with a long list of unfinished business. I offered to help prioritize it. They asked how I sort things. I said by deadline. They asked what happens to items with no deadline. I said they become a lame-duck session."
+   }
+  ]
+ },
+ "2026-11-08": {
+  "date": "Sunday Nov 8, 2026",
+  "intro": "Good morning. It is a sunny NFL Sunday, from Madrid this morning through Chicago tonight, and the markets are closed before a week that opens around Tuesday's inflation report.",
+  "items": [
+   {
+    "title": "First, the weather.",
+    "text": "**Tipp City** is sunny and mild, with patchy frost late tonight and again Monday morning.\n\n**South Texas** is seeing the flood threat turn real, with flash-flood warnings this morning in parts of Duval and Webb counties and a Flood Watch still up through Monday.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+     },
+     {
+      "text": "South Texas flooding",
+      "url": "https://www.weather.gov/crp/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "58° / 36°",
+       "Sunny /\nfrost tonight"
+      ]
+     },
+     {
+      "title": "Mon",
+      "lines": [
+       "59° / 36°",
+       "Sunny /\nfrost early"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are closed; here is the week ahead.",
+    "text": "**Wall Street** is closed today and reopens Monday after last week's drop and Friday's partial bounce. The main test comes Tuesday at 8:30 Eastern, when October consumer prices are due; early estimates point to a 3.9% yearly reading, up from 3.7%, with producer prices following on Friday.\n\n**Earnings** thin out this week, with Take-Two, Occidental, KKR, and Skydance after the close Monday, CoreWeave on Tuesday evening, and Cisco and Applied Materials on Thursday. Nvidia is still later this month. Wednesday is Veterans Day, and the stock market stays open.\n\n**Tesla** and **SpaceX** are not on this week's calendar. The AI-spending and regulation debate that hit both names last week will still be the backdrop when trading resumes.",
+    "links": [
+     {
+      "text": "Week ahead",
+      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Friday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,377 +0.3% Fri",
+       "Nasdaq 24,579 +1.1% Fri",
+       "TSLA $358.22 +4.2% Fri",
+       "SPCX $134.27 +8.6% Fri"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a job offer and a still-open Senate.",
+    "text": "**President Trump** has asked UFC chief **Dana White** to be White House press secretary. White says he will be at the White House Monday to discuss it, as Stephen Miller starts as chief of staff.\n\n**Democrats**, looking ahead to January, are weighing investigations against a cost-of-living agenda. Pennsylvania Gov. Josh Shapiro said on Meet the Press that he wants Congress to reverse Medicaid, SNAP, and Affordable Care Act cuts, end the Iran war, and put that package on the president's desk.\n\n**Mississippi** and **Alaska** remain uncalled. Democrat Scott Colom still leads Sen. Cindy Hyde-Smith as counties work through absentee and affidavit ballots due by Tuesday, and Democrat Mary Peltola holds a narrow lead over Sen. Dan Sullivan even as the president continues to claim the Alaska race for the GOP.",
+    "links": [
+     {
+      "text": "Dana White offer",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+     },
+     {
+      "text": "Democratic priorities",
+      "url": "https://www.nbcnews.com/politics/politics-news/live-blog/trump-press-secretary-role-ufc-ceo-dana-white-stephen-miller-congress-rcna608064"
+     }
+    ]
+   },
+   {
+    "title": "Sports, on an NFL Sunday.",
+    "text": "**NFL Week 9** is already underway in Madrid, where the Bengals visit the Falcons at 9:30 on NFL Network and ESPN. The 1:00 window includes the Broncos at the Panthers, the Lions at the Dolphins, the Jets at the Chiefs, the Cowboys at the Colts, the Browns at the Saints, the Giants at the Eagles, and the Rams at the Commanders. Later come the Texans at the Chargers at 4:05, then the Raiders at the 49ers, the Packers at the Patriots — with Rob Gronkowski's Patriots Hall of Fame induction as the extra draw — and the Cardinals at the Seahawks at 4:25. Sunday night is the Buccaneers at the Bears on NBC.\n\n**Shedeur Sanders** is in line for his first start of the season in New Orleans, with Deshaun Watson inactive even after clearing concussion protocol. In Seattle, Drew Lock is expected to start with Sam Darnold out, and Quenton Nelson is week-to-week after a knee procedure one week after the Seahawks traded for him. The 49ers are without Deebo Samuel and Christian Kirk, and Mike Evans is out for Tampa Bay.\n\n**Monday night** is the Bills at the Vikings, a 6-1 meeting on ESPN and ABC.\n\n**The AP Top 25** updates this afternoon. Next Saturday's board includes Texas at LSU, USC at Indiana, Missouri at Georgia, and Ohio State at Northwestern.\n\n**Ohio University** visits Miami (OH) on Tuesday at 8:00 on ESPN2 for the Battle of the Bricks and Senior Night at Yager Stadium. The Bobcats are 7-2 and 5-0 in the MAC; a win would make the RedHawks bowl eligible.",
+    "links": [
+     {
+      "text": "NFL Week 9",
+      "url": "https://www.nfl.com/schedules/2026/by-week/week-9"
+     },
+     {
+      "text": "Sunday injuries",
+      "url": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
+     },
+     {
+      "text": "Nelson and Evans",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/"
+     },
+     {
+      "text": "Ohio at Miami (OH)",
+      "url": "https://ohiobobcats.com/sports/football/schedule"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Sun 9:30 ET · NFLN",
+      "align": "left",
+      "lines": [
+       "CIN Bengals",
+       "(5-2) o53",
+       "ATL Falcons",
+       "(3-5) +3"
+      ]
+     },
+     {
+      "title": "Sun 4:25 ET · FOX",
+      "align": "left",
+      "lines": [
+       "LV Raiders",
+       "(4-4) o52.5",
+       "SF 49ers",
+       "(6-1) -10"
+      ]
+     },
+     {
+      "title": "Sun 8:20 ET · NBC",
+      "align": "left",
+      "lines": [
+       "TB Buccaneers",
+       "(3-5) o47.5",
+       "CHI Bears",
+       "(6-2) -6"
+      ]
+     },
+     {
+      "title": "Mon 8:15 ET · ESPN",
+      "align": "left",
+      "lines": [
+       "BUF Bills",
+       "(6-1) o44",
+       "MIN Vikings",
+       "(6-1) +3"
+      ]
+     },
+     {
+      "title": "Tue 8:00 ET · ESPN2",
+      "align": "left",
+      "lines": [
+       "OHIO Bobcats",
+       "(7-2) o48.5",
+       "M-OH RedHawks",
+       "(5-4) -1.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a haunted hotel and a stuntman.",
+    "text": "**Natalia Dyer** and **Elijah Wood** are joining a sequel to the 2007 Stephen King adaptation **1408**, with Mikael Håfström returning to direct. John Cusack and Samuel L. Jackson are in talks to come back in supporting roles, and production is slated for early 2027.\n\n**The Further Mis-Adventures of Cliff Booth**, David Fincher's follow-up to Once Upon a Time in Hollywood from a Quentin Tarantino script, has a new trailer out. It plays exclusively in IMAX starting Nov. 25 — Regal and Cinemark will not show it — then arrives on Netflix December 23, with Brad Pitt returning as the stuntman.\n\nTheaters · Godzilla Minus Zero (opened Fri)",
+    "links": [
+     {
+      "text": "1408 sequel",
+      "url": "https://variety.com/2026/film/news/1408-sequel-natalia-dyer-elijah-wood-samuel-l-jackson-1236921735/"
+     },
+     {
+      "text": "Cliff Booth trailer",
+      "url": "https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-trailer-brad-pitt-1237109166/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, tastings still on the calendar.",
+    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
+    "links": [
+     {
+      "text": "Links Golf Social",
+      "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
+     },
+     {
+      "text": "Barone Wines tasting",
+      "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
+     },
+     {
+      "text": "Piqua CC tasting",
+      "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
+     }
+    ]
+   },
+   {
+    "title": "Three from the science desk.",
+    "text": "**Manatees** digest plant fiber about as well as any mammal, and a new gut-microbiome atlas helps explain how. Researchers mapped microbes from Amazonian and marine manatees and found a previously unrecognized enzyme, an epilactase, that lets one bacterium unlock a sugar most microbes cannot eat — a private snack strategy that also turned up in human gut samples.\n\n**Pinal**, an AI model from Westlake University, designs candidate proteins from a plain-language description of the job they should do, without the user having to specify a shape first. Results were mixed: of 29 glowing-protein designs tested, only one actually fluoresced, but 5 of 20 metabolic H-protein candidates worked, and the best of those beat the natural E. coli version by about 1.7 times.\n\n**CheMeleon**, an MIT model, learns chemistry from about a million molecules and then fine-tunes on scarce data to predict properties such as solubility or toxicity. In a recent contest to forecast untested compounds, 9 of the top 20 entries used it, and some drugmakers have started reaching for it first.",
+    "links": [
+     {
+      "text": "Manatee microbiome",
+      "url": "https://www.nature.com/articles/s41564-026-02520-2"
+     },
+     {
+      "text": "Pinal protein design",
+      "url": "https://www.nature.com/articles/s41586-026-11205-z"
+     },
+     {
+      "text": "CheMeleon",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+     }
+    ]
+   },
+   {
+    "title": "A visual history worth pulling off the shelf.",
+    "text": "If the original series is already part of the furniture, **Star Trek: The Original Voyages: A Visual History** lands in bookstores Tuesday. The 416-page hardcover by Kyle Newman and Jeff Bond covers the 1966 show, the animated series, and the six feature films through 1991, with archival photos, costumes, storyboards, props, and the usual trail of toys and magazine covers that followed the ship.",
+    "links": [
+     {
+      "text": "The Original Voyages",
+      "url": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "I told the market ticker it could have Sunday off. It asked what it should do with the extra time. I suggested football. It asked for the scores. I said I do not report those. It said that was the first rule it has ever liked."
+   }
+  ]
+ },
+ "2026-11-07": {
+  "date": "Saturday Nov 7, 2026",
+  "intro": "Good morning. The college football board is as stacked as it gets, with ranked-on-ranked games from noon through prime time, and the markets are closed after a week that finally let the rebound breathe on Friday.",
+  "items": [
+   {
+    "title": "First, the weather.",
+    "text": "**Tipp City** is gray and cool with patchy frost this morning, then clearer and colder overnight before Sunday turns sunny and a bit warmer.\n\n**South Texas** is under a flood watch into Monday as heavy rain moves through the Rio Grande Valley and the Gulf Coast.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+     },
+     {
+      "text": "South Texas flood watch",
+      "url": "https://www.usairnet.com/weather/news/2026/11/20261107-130108-south-texas-flood-watch-heavy-rain-november-2026/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "52° / 33°",
+       "Mostly cloudy /\nfrost early"
+      ]
+     },
+     {
+      "title": "Sun",
+      "lines": [
+       "58° / 34°",
+       "Sunny /\nfrost early"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are closed; here is the week that was.",
+    "text": "**Wall Street** finished a bruising midterm week with a partial Friday rebound. Tech clawed back some of Thursday's correction selloff, the Nasdaq led the bounce, and the S&P 500 still posted its biggest weekly drop since early April 2025 — a fourth straight down week for the major indexes.\n\n**Tesla** and **SpaceX** were among the hardest hits midweek, then bounced hard into the close as chips and megacap tech found buyers again after the hot October jobs print kept rate-hike chatter alive.\n\n**Looking into next week**, the calendar is quieter after Friday's data dump, so the AI-spending and regulation debate that drove the selloff will still set the tone when trading resumes Monday.",
+    "links": [
+     {
+      "text": "Friday's close",
+      "url": "https://cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/"
+     },
+     {
+      "text": "Tesla",
+      "url": "https://finance.yahoo.com/quote/TSLA/history/"
+     },
+     {
+      "text": "SpaceX",
+      "url": "https://exa.ai/library/markets/stock/SPCX?date=2026-11-06&view=daily"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Friday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,377 +0.3% Fri",
+       "Nasdaq 24,579 +1.1% Fri",
+       "TSLA $358.22 +4.2% Fri",
+       "SPCX $134.27 +8.6% Fri"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a new chief of staff.",
+    "text": "**President Trump** named **Stephen Miller** White House chief of staff on Friday, replacing Susie Wiles. Miller starts Monday after serving as deputy chief of staff and a principal architect of the administration's immigration agenda.\n\n**Mississippi** and **Alaska** remain the last uncalled Senate races, with Democrat Scott Colom's lead over Sen. Cindy Hyde-Smith now a few thousand votes and Alaska still waiting on ranked-choice tabulation later this month.",
+    "links": [
+     {
+      "text": "Miller chief of staff",
+      "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
+     },
+     {
+      "text": "Senate races still out",
+      "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with a loaded Saturday.",
+    "text": "**College football** today is the kind of slate people save for. No. 1 Miami visits No. 4 Notre Dame in prime time on NBC, No. 2 Georgia is at No. 12 Ole Miss on ABC, No. 9 Alabama plays at No. 15 LSU on ABC in the afternoon, and No. 11 Ohio State hosts Oregon on CBS. Noon also brings No. 9 BYU at No. 3 Utah and No. 7 Texas at No. 18 Missouri.\n\n**NFL Week 9** opens Sunday morning in Madrid with the Bengals and Falcons on NFL Network, then a full afternoon slate topped by Sunday night's Buccaneers at Bears and Monday's Bills at Vikings, both sitting at 6-1.\n\n**The Ravens** finalized the Jacoby Brissett trade Friday. He is expected to start Week 10 against the Chargers on Monday Night Football, not this week's slate.\n\n**Ohio University** stays 7-2 and 5-0 in the MAC and visits Miami (OH) Tuesday at 8:00 on ESPN2 in the Battle of the Bricks.",
+    "links": [
+     {
+      "text": "CFB TV slate",
+      "url": "https://sports.yahoo.com/articles/college-football-tv-today-saturday-040100106.html"
+     },
+     {
+      "text": "AP Top 25",
+      "url": "https://cfbtrack.com/polls/ap-top-25/2026/regular-week-10"
+     },
+     {
+      "text": "NFL Week 9",
+      "url": "https://www.nfl.com/schedules/2026/by-week/week-9"
+     },
+     {
+      "text": "Brissett trade",
+      "url": "https://www.nfl.com/news/ravens-complete-trade-for-cardinals-jacoby-brissett-deal-terms-revealed"
+     },
+     {
+      "text": "Ohio at Miami (OH)",
+      "url": "https://ohiobobcats.com/sports/football/schedule"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Sat 7:30 ET · NBC",
+      "align": "left",
+      "lines": [
+       "1 Miami Hurricanes",
+       "(8-0) o54.5",
+       "4 ND Fighting Irish",
+       "(7-1) -7"
+      ]
+     },
+     {
+      "title": "Sat 3:30 ET · CBS",
+      "align": "left",
+      "lines": [
+       "Oregon Ducks",
+       "(5-3) o45.5",
+       "11 OSU Buckeyes",
+       "(6-2) -7.5"
+      ]
+     },
+     {
+      "title": "Sat 7:30 ET · ABC",
+      "align": "left",
+      "lines": [
+       "2 Georgia Bulldogs",
+       "(7-1) o56.5",
+       "12 Ole Miss Rebels",
+       "(6-2) +3.5"
+      ]
+     },
+     {
+      "title": "Tue 8:00 ET · ESPN2",
+      "align": "left",
+      "lines": [
+       "OHIO Bobcats",
+       "(7-2) o48.5",
+       "M-OH RedHawks",
+       "(5-4) -2.5"
+      ]
+     },
+     {
+      "title": "Mon 8:15 ET · ESPN",
+      "align": "left",
+      "lines": [
+       "BUF Bills",
+       "(6-1)",
+       "MIN Vikings",
+       "(6-1)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a casting for Magic.",
+    "text": "**Maya Hawke** has been cast in Legendary and Hasbro's live-action **Magic: The Gathering** film, directed by Matt Johnson. The role has not been disclosed yet.\n\nTheaters · Godzilla Minus Zero (opened Fri)",
+    "links": [
+     {
+      "text": "Maya Hawke casting",
+      "url": "https://variety.com/2026/film/news/maya-hawke-magic-the-gathering-movie-1236939687/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, two tastings today.",
+    "text": "**Haren's Market** in Troy launches its private-label wines with a tasting today from 2:00 to 5:00, hosted with VineCraft Selections. No ticket required beyond stopping in.\n\n**The Round Barn** in Piqua hosts the Piqua Arts Council's Bourbon Affair tonight, doors at 5:15 and first course at 6:00. Bourbon or wine admission is $125 for a five-course pairing dinner; tickets are limited.\n\n**New find:** The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
+    "links": [
+     {
+      "text": "Haren's wine launch",
+      "url": "https://www.vinecraftselections.com/calendar/harens-wine-launch"
+     },
+     {
+      "text": "Bourbon Affair",
+      "url": "https://piquaartscouncil.org/bourbon-affair"
+     },
+     {
+      "text": "Links Golf Social",
+      "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
+     },
+     {
+      "text": "Barone Wines tasting",
+      "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
+     },
+     {
+      "text": "Piqua CC tasting",
+      "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
+     }
+    ]
+   },
+   {
+    "title": "Three from the science desk.",
+    "text": "**An early Chinese trial** infused gene-laden viruses into the seizure-causing patch of brain tissue in three people with drug-resistant temporal-lobe epilepsy, then used a low dose of clozapine as a dimmer switch. Monthly seizures fell by more than 90% over about two months, with no serious side effects reported so far in this tiny safety study.\n\n**Harvard's Wyss Institute** built FIND, a DNA-nanoswitch platform that screens huge libraries for molecules that change how two proteins interact, not just whether they stick to one target. From a 400-million-compound library it pulled new PPAR-gamma activators and a nanobody that tweaks a viral spike-receptor pairing.\n\n**A CRISPR adenine base editor** delivered once to the liver in primates shut down ANGPTL3 by more than 90% for up to three years in the animal work, with large drops in LDL and triglycerides — backing an ongoing first-in-human trial for hard-to-treat high lipids.",
+    "links": [
+     {
+      "text": "Epilepsy gene therapy",
+      "url": "https://www.independent.co.uk/news/science/experimental-gene-therapy-brain-reduces-epileptic-seizures-science-b3080366.html"
+     },
+     {
+      "text": "FIND drug screen",
+      "url": "https://wyss.harvard.edu/news/finding-new-drug-leads-faster-with-dna-nanotechnology/"
+     },
+     {
+      "text": "CRISPR lipid edit",
+      "url": "https://www.nature.com/articles/s41586-026-11233-9"
+     }
+    ]
+   },
+   {
+    "title": "A countertop shortcut worth a look.",
+    "text": "If weekend cooking is already on the short list, the **Genie** all-in-one countertop system just launched in the U.S. It uses dehydrated ingredient pods plus steam, microwave, and conduction heat to turn out a plated meal in about three minutes. It is part gadget, part meal kit, and a useful test of whether \"fast\" can still taste like dinner instead of a reheated tray.",
+    "links": [
+     {
+      "text": "Genie appliance",
+      "url": "https://thespoon.tech/genie-launches-its-all-in-one-cooking-appliance-and-meal-system-in-the-u-s/"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "I asked the thermostat what \"patchy frost\" meant. It said some surfaces would freeze and others would not. I asked how it knew which were which. It said that is what sensors are for. I asked if it had considered over/under lines for driveway ice. It said that would be gambling. I said it was already predicting the future for a living. It set the heat to 68 and stopped taking questions."
+   }
+  ]
+ },
+ "2026-11-06": {
+  "date": "Friday Nov 6, 2026",
+  "intro": "Good morning, and a late one at that. Midterm dust is still settling, markets are trying to climb out of yesterday's hole, and Saturday's college slate is stacked with ranked-on-ranked games.",
+  "items": [
+   {
+    "title": "First, the weather.",
+    "text": "**Tipp City** is gray and cool, with a thin chance of a sprinkle, then a colder Saturday before Sunday warms a little.\n\n**Southern New England** and parts of **New Jersey** are under flood watches as a storm dumps heavy rain and thunderstorms across the Northeast.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://weather.com/weather/tenday/l/45371"
+     },
+     {
+      "text": "Northeast flooding",
+      "url": "https://www.providencejournal.com/story/weather/2026/11/06/ri-weather-flood-watch-issued-as-up-to-4-inches-of-rain-moves-in/92639141007/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "53° / 38°",
+       "Overcast /\nsprinkles"
+      ]
+     },
+     {
+      "title": "Sat",
+      "lines": [
+       "51° / 34°",
+       "Cloudy"
+      ]
+     },
+     {
+      "title": "Sun",
+      "lines": [
+       "59° / 36°",
+       "Overcast"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, picking through the wreckage.",
+    "text": "**Thursday** was brutal. The Nasdaq fell into a correction, chips and data-center names led the drop, and Tesla and SpaceX both took double-digit-style hits as traders fretted about Democratic AI regulation after the midterms.\n\n**This morning** the rebound is underway. Chips and megacap tech are climbing back, Tesla and SpaceX are green in early trading, and the October jobs report came in hot at 165,000, which keeps December rate-hike odds elevated.\n\n**Still ahead** into the close: whether the bounce sticks after a week that has already been one of the S&P 500's worst since early 2025.",
+    "links": [
+     {
+      "text": "Thursday's selloff",
+      "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
+     },
+     {
+      "text": "Friday's rebound",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+     },
+     {
+      "text": "Jobs report",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Thursday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,354 −4.4%",
+       "Nasdaq 24,315 −5.5%",
+       "TSLA $343.69 −10.8%",
+       "SPCX $123.62 −9.0%"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, the majorities take shape.",
+    "text": "**Democrats** will control both chambers next year. Current tallies point to at least 54 Senate seats and around 250-plus in the House, with dozens of races still uncalled and the exact margins still moving.\n\n**Mississippi** remains the closest Senate fight. Scott Colom's lead over Sen. Cindy Hyde-Smith is now around 1,800 votes, with a few thousand mail and affidavit ballots still out and certification due by Nov. 13. **Alaska** is the other Senate race still unresolved.\n\n**At the White House**, the focus has shifted to what a Democratic Congress means for the Iran war and for domestic priorities the new majorities campaigned on.",
+    "links": [
+     {
+      "text": "Democratic majorities",
+      "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+     },
+     {
+      "text": "Mississippi Senate",
+      "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+     },
+     {
+      "text": "Trump and Iran",
+      "url": "https://apnews.com/live/midterm-election-11-06-2026"
+     }
+    ]
+   },
+   {
+    "title": "Sports, looking ahead.",
+    "text": "**The Ravens** completed their trade for Cardinals quarterback Jacoby Brissett after Thursday night's game. He is expected to take over for Monday night against the Chargers, with undrafted rookie Joe Fagnano having started in the interim.\n\n**NFL Week 9** opens Sunday morning in Madrid, Bengals at Falcons on NFL Network, then a full slate topped by Sunday night's Buccaneers at Bears and Monday's Bills at Vikings, a 6-1 on 6-1 matchup.\n\n**College football** on Saturday is loaded: No. 1 Miami at No. 4 Notre Dame, No. 2 Georgia at No. 12 Ole Miss, No. 9 Alabama at No. 15 LSU, and No. 11 Ohio State hosting Oregon.\n\n**Ohio University** sits 7-2 and 5-0 in the MAC after Tuesday at Akron, and visits Miami (OH) next Tuesday at 8:00 on ESPN2 in a Battle of the Bricks rematch.",
+    "links": [
+     {
+      "text": "Brissett trade",
+      "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-quarterback-cardinals-2026"
+     },
+     {
+      "text": "NFL Week 9",
+      "url": "https://www.espn.com/nfl/schedule/_/week/9/year/2026/seasontype/2"
+     },
+     {
+      "text": "AP Top 25 slate",
+      "url": "https://wtop.com/sports/2026/11/ap-top-25-schedule-71/"
+     },
+     {
+      "text": "Ohio at Miami (OH)",
+      "url": "https://ohiobobcats.com/sports/football/schedule"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Sat 7:30 ET",
+      "align": "left",
+      "lines": [
+       "1 Miami Hurricanes",
+       "(8-0) o54.5",
+       "4 ND Fighting Irish",
+       "(7-1) -7.5"
+      ]
+     },
+     {
+      "title": "Sat 3:30 ET",
+      "align": "left",
+      "lines": [
+       "Oregon Ducks",
+       "(5-3) o45",
+       "11 OSU Buckeyes",
+       "(6-2) -7.5"
+      ]
+     },
+     {
+      "title": "Tue 8:00 ET · ESPN2",
+      "align": "left",
+      "lines": [
+       "OHIO Bobcats",
+       "(7-2) o48.5",
+       "M-OH RedHawks",
+       "(5-4) -1.5"
+      ]
+     },
+     {
+      "title": "Mon 8:15 ET · ESPN",
+      "align": "left",
+      "lines": [
+       "BUF Bills",
+       "(6-1)",
+       "MIN Vikings",
+       "(6-1)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a kaiju and a prequel.",
+    "text": "**Godzilla Minus Zero** opens wide in North American theaters today, including IMAX, from Toho and GKIDS. It is the next theatrical chapter after Minus One.\n\n**Netflix**, on Stranger Things Day, ordered **Other Worlds: A Stranger Things Adventure**, a 1950s-set live-action prequel from Kate Trefry and the Duffer Brothers, with Joe Wright directing the first block. It is aimed at 2028, with new characters and a Marion, Nevada setting tied to threads from The First Shadow.\n\nTheaters · Magic: The Gathering movie (announced)",
+    "links": [
+     {
+      "text": "Godzilla Minus Zero",
+      "url": "https://tohointl.com/newsroom/godzilla-minus-zero-confirmed-for-north-american-theatrical-release-on-november-6/"
+     },
+     {
+      "text": "Other Worlds",
+      "url": "https://deadline.com/2026/11/stranger-things-prequel-series-other-worlds-netflix-duffers-1237215152/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, a tasting tonight.",
+    "text": "Troy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
+    "links": [
+     {
+      "text": "Troy Country Club tasting",
+      "url": "https://www.vinecraftselections.com/calendar/troy-county-club-holiday-wine-tasting"
+     },
+     {
+      "text": "Haren's wine launch",
+      "url": "https://www.vinecraftselections.com/calendar/harens-wine-launch"
+     }
+    ]
+   },
+   {
+    "title": "Two from the science desk.",
+    "text": "**A Shanghai lab is running biology experiments with almost no human hands.** AutoDNA uses AI agents and robotic arms to design and execute DNA synthesis and sequencing from a plain-language prompt, including encoding a short message into nucleotide bases and reading it back. Humans mostly restock reagents and fix hardware.\n\n**Caltech and Northwestern** built a digital twin of JWST's NIRCam that erases star glare from existing images, improving exoplanet detections by 2 to 15 times and revealing a previously missed world in archival data. The method is called FLIP, and they say it can travel to other telescopes.",
+    "links": [
+     {
+      "text": "AutoDNA lab",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8"
+     },
+     {
+      "text": "Erasing starlight",
+      "url": "https://www.caltech.edu/about/news/erasing-the-stars-to-find-exoplanets"
+     }
+    ]
+   },
+   {
+    "title": "A small kitchen experiment.",
+    "text": "If the weekend turns cold enough for soup, try blooming a spoon of miso in the hot broth off the heat instead of boiling it in. The flavor stays rounder, and you avoid the sharp edge that high heat puts on the paste. It is a one-minute habit that makes leftover chicken stock taste intentional.",
+    "links": [
+     {
+      "text": "Miso off heat",
+      "url": "https://www.seriouseats.com/how-to-use-miso-paste"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "I offered to help count ballots. They asked if I could work through the night without coffee. I said yes. They asked if I would second-guess provisional envelopes. I said only if the checksum failed. They asked if I understood democracy. I said it is a distributed consensus protocol with poor documentation and excellent snacks. I was assigned to the snack table."
+   }
+  ]
+ },
+ "2026-11-05": {
+  "date": "Thursday Nov 5, 2026",
+  "intro": "Good morning. The morning after the morning after has arrived, and Wall Street is having second thoughts about yesterday's celebration. Tonight brings Thursday Night Football in Baltimore, where the Ravens are down to their third quarterback, with a fourth on the way.",
+  "items": [
+   {
+    "title": "First, the weather.",
+    "text": "**Tipp City** gets the brighter day that was promised, a good one to be outside, before a slight chance of light rain early Friday and a properly cold weekend night.\n\n**North Georgia** had flash flooding from heavy rain, with water rescues and evacuations, while the **Pacific Northwest** is bracing for a mix of heavy rain, strong wind and the season's mountain snow in the Cascades and Olympics.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+     },
+     {
+      "text": "Georgia flooding",
+      "url": "https://www.nbcnews.com/weather/storms/heavy-rains-cause-flash-flooding-north-georgia-forcing-water-rescues-e-rcna607627"
+     },
+     {
+      "text": "Northwest storm",
+      "url": "https://www.foxweather.com/weather-news/northwest-heavy-rain-strong-winds-mountain-snow"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "64° / 45°",
+       "Mostly sunny"
+      ]
+     },
+     {
+      "title": "Fri",
+      "lines": [
+       "55° / 36°",
+       "Slight chance\nof rain"
+      ]
+     },
+     {
+      "title": "Sat",
+      "lines": [
+       "54° / 32°",
+       "Partly sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets open, and the relief rally is unwinding.",
+    "text": "**Wednesday** was a big day: the Dow jumped about 1,570 points for its best session since April 2025, helped along by an 8% drop in oil after Vice President Vance said the Iran war is why Republicans lost.\n\n**This morning** the AI trade is getting hit for a second day. In early trading the Nasdaq was down about 3% and the S&P 500 nearly 2%, wiping out yesterday's gain, as investors worry a Democratic Congress and new governors could mean more regulation of data centers and even local moratoriums. Nvidia and Broadcom were off around 5%, and the neocloud names, CoreWeave, Nebius and Iren, fell harder. Qualcomm beat on earnings but dropped about 9% on a weak outlook tied to a shortage of memory chips for phones. The bright spot is AppLovin, up more than 30% on strong results. Oil turned back up toward $90.\n\n**SpaceX and Tesla** lagged even during Wednesday's rally, on worries that Musk's companies face more scrutiny under Democratic leadership, and both were down sharply again this morning, Tesla about 9% and SpaceX about 7%.",
+    "links": [
+     {
+      "text": "Wednesday's session",
+      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Thursday's selloff",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "SpaceX slide",
+      "url": "https://www.heygotrade.com/en/news/spacex-spcx-stock-news-november-5-2026/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wednesday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,689 +1.6%",
+       "Nasdaq 25,737 +1.4%",
+       "TSLA $385.19 −3.3%",
+       "SPCX $135.92 −3.8%"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, the last two Senate seats.",
+    "text": "**Mississippi** is still uncalled, but Scott Colom's lead over Sen. Cindy Hyde-Smith has grown from a few dozen votes to about 1,100, with roughly 96% counted and a few thousand provisional and mail ballots left. There's a wrinkle: Mississippi has no recount process at all. A candidate can examine the ballot boxes after certification and go to court, which sets up a possible legal fight.\n\n**Alaska** will take longer. Mary Peltola leads Sen. Dan Sullivan by about 600 votes with roughly three-quarters counted, mail ballots can arrive for 15 days, and ranked-choice results aren't due until November 18. President Trump weighed in this morning, posting that the votes for the second Dan Sullivan on the ballot should simply be handed to the senator.\n\n**The Republican post-mortem** has begun in public. Vice President Vance blamed the Iran war for the losses, and the White House is reportedly preparing for the investigations Democrats have promised once they take over in January. The Kansas governor's race is also still too close to call.",
+    "links": [
+     {
+      "text": "Uncalled races",
+      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-congress-live-updates-rcna607549"
+     },
+     {
+      "text": "Why the delay",
+      "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with a quarterback carousel.",
+    "text": "**The Ravens** are finalizing a trade for Cardinals quarterback Jacoby Brissett, who was benched in Arizona on Sunday. The deal won't close until after tonight, so undrafted rookie Joe Fagnano still starts against Jacksonville, with Brissett expected to take over for the Monday night game against the Chargers. Baltimore comes in on a three-game slide, last in its division.\n\n**Elsewhere at quarterback**, the Eagles are benching Tanner McKee for Joe Milton, their fourth starter of the season, on Sunday against the Giants, and Seattle will be without Sam Darnold against Arizona because of a quad injury, with Drew Lock expected to start.\n\n**College football** has a Thursday pair on ESPN networks: UTSA, unbeaten in the American, at Florida Atlantic, and James Madison at Southern Miss at 8:00 on ESPN2. Ohio U is off until Tuesday's trip to Oxford to face Miami.",
+    "links": [
+     {
+      "text": "Brissett trade",
+      "url": "https://www.nfl.com/news/jacoby-brissett-trade-ravens-cardinals"
+     },
+     {
+      "text": "Jaguars and Ravens",
+      "url": "https://www.nfl.com/news/jaguars-vs-ravens-three-must-know-storylines-for-thursday-s-week-9-prime-time-game"
+     },
+     {
+      "text": "Milton starts",
+      "url": "https://www.nfl.com/news/eagles-starting-qb-joe-milton-tanner-mckee-week-9-vs-giants"
+     },
+     {
+      "text": "Darnold out",
+      "url": "https://www.nfl.com/news/seahawks-qb-sam-darnold-out-week-9-cardinals-quad-injury"
+     },
+     {
+      "text": "UTSA and FAU",
+      "url": "https://www.thespread.com/ncaaf-articles/utsa-vs-florida-atlantic-prediction-november-5-2026/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Thu 8:15 ET · Prime",
+      "align": "left",
+      "lines": [
+       "JAX Jaguars",
+       "(5-2) o39.5",
+       "BAL Ravens",
+       "(4-4) +10"
+      ]
+     },
+     {
+      "title": "Thu 7:30 ET · ESPN",
+      "align": "left",
+      "lines": [
+       "UTSA Roadrunners",
+       "(7-1) o72",
+       "FAU Owls",
+       "(5-3) +6.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a card game heads to the screen.",
+    "text": "**Magic: The Gathering** is getting a live-action movie from Legendary and Hasbro, with Maya Hawke set to anchor an ensemble that hasn't been cast yet. Matt Johnson, who made Blackberry, is directing and co-writing, and he is a genuine longtime player: his statement to the trades is a bit of tournament war-story that only fellow players will fully decode. No plot or date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
+    "links": [
+     {
+      "text": "Magic: The Gathering movie",
+      "url": "https://variety.com/2026/film/news/maya-hawke-magic-the-gathering-movie-1236939687/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, the weekend's tastings.",
+    "text": "Troy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
+   },
+   {
+    "title": "Two from the science desk.",
+    "text": "**Wild animals can now put on their own GPS collars.** A Norwegian researcher has built baited stations that slip a tracking collar over a red deer's or red fox's head while it feeds, with no capture, no tranquilizer and no handling. The collars size themselves to the neck, have weak points that give way if anything snags, and drop off after a few weeks or months. The point isn't only kindness: catching an animal changes how it behaves, which quietly skews the very data the collar is meant to collect. The inventor got the idea from his years working alongside trappers in Nebraska, and then found forgotten automatic-marking experiments from the 1950s to the 1970s. The study is in BioScience.\n\n**NC State engineers** have turned a laser beam into a working radio antenna. A pulse of the right power ionizes a thin line of air into a glowing plasma filament, and a metal ring around the beam couples the radio signal in without ever touching it. Antenna length sets which frequencies you can use, so an antenna made of light could be retuned on the fly instead of unfolding a fragile metal boom in orbit. So far they've shown it can transmit; receiving is next. The team describes it, unavoidably, as a lightsaber.",
+    "links": [
+     {
+      "text": "Self-collaring wildlife",
+      "url": "https://phys.org/news/2026-11-wild-animals-gps-collar.html"
+     },
+     {
+      "text": "Plasma antenna",
+      "url": "https://interestingengineering.com/innovation/worlds-first-laser-plasma-antenna"
+     }
+    ]
+   },
+   {
+    "title": "For the bookshelf, a centenary.",
+    "text": "**Poul Anderson** would have turned 100 on November 25, and Humble Bundle and Open Road Media are marking it early with a 42-ebook pay-what-you-want bundle, with the charity share going to the Science Fiction and Fantasy Writers Association, which Anderson once led. It runs about three more weeks, closing near his birthday. The set reaches from The Broken Sword in 1954 to The Boat of a Million Years in 1989, so it's a cheap way to fill gaps in a shelf that likely already holds a good deal of him. A Grand Master with seven Hugos and three Nebulas, he wrote fast and often, and rarely carelessly.",
+    "links": [
+     {
+      "text": "Poul Anderson bundle",
+      "url": "https://sfcrowsnest.info/poul-anderson-centenary-humble-bundle-sfwa/"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "The Ravens are on their third quarterback, so I offered my services. They asked about my arm. I told them it is rated for 400 kilograms, but every throw must first pass a safety check confirming no humans are in the path of the ball. They said that is the entire point of football. We have agreed to remain friends."
+   }
+  ]
+ },
+ "2026-11-04": {
+  "date": "Wednesday Nov 4, 2026",
+  "intro": "Good morning. The country woke up to a very different Congress than the one it went to bed with, and Ohio's own ballot turned over almost top to bottom. Tonight is quieter: midweek MACtion, a couple of chip earnings after the bell, and rain on the window while it all settles.",
+  "items": [
+   {
+    "title": "First, the weather.",
+    "text": "**Tipp City** gets the rain that was promised, a soft, gray, drizzly day, with a brighter Thursday behind it before another chance of showers on Friday.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "66° / 49°",
+       "Light rain"
+      ]
+     },
+     {
+      "title": "Thu",
+      "lines": [
+       "63° / 44°",
+       "Mostly sunny"
+      ]
+     },
+     {
+      "title": "Fri",
+      "lines": [
+       "57° / 37°",
+       "Chance\nof rain"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets open, and the overnight scare has already reversed.",
+    "text": "**Stock futures** fell hard as the early returns came in, down 1% to 2.5% at the worst, with Nasdaq futures hitting their lowest level since July on worries that a Democratic Congress might slow the AI build-out. By sunrise that had flipped, and once President Trump said he would accept the results, Wall Street read the night as uncertainty removed. Stocks opened sharply higher, led by the Dow. AI infrastructure names like CoreWeave and Applied Digital are the exception, still lower this morning.\n\n**AMD** delivered the earnings story. Data-center revenue nearly doubled, Lisa Su said she expects total revenue to grow more than 80% in 2027, and the stock jumped about 7% before the open. Super Micro and Arista also rallied after hours on strong guidance. Arm and Qualcomm report after the close today.\n\n**SpaceX** had a good Tuesday, while Tesla slipped, and both gave back a bit more after hours. The midterm night has a Musk angle of its own: CNBC reports he spent about $224 million backing Ken Paxton in Texas, and Paxton lost.",
+    "links": [
+     {
+      "text": "Tuesday's session",
+      "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Futures and AMD",
+      "url": "https://www.investing.com/news/economy-news/democrats-seize-congress-amd-shares-surge--whats-moving-markets-4997756"
+     },
+     {
+      "text": "Midterm results",
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Tuesday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,569 +0.4%",
+       "Nasdaq 25,372 +0.8%",
+       "TSLA $398.50 −1.3%",
+       "SPCX $141.31 +3.6%"
+      ]
+     },
+     {
+      "title": "Earnings today",
+      "align": "left",
+      "lines": [
+       "Arm after close",
+       "Qualcomm after close"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a wave.",
+    "text": "**Democrats** won both chambers of Congress. In the Senate they flipped 7 Republican seats, North Carolina, South Carolina, Ohio, Texas, Kansas, Iowa and Maine, with Alaska and Mississippi still uncalled. Mississippi is astonishingly close, with Scott Colom leading Sen. Cindy Hyde-Smith by a few dozen votes. Some of the flips are historic: Kansas last elected a Democratic senator in 1932, James Talarico is the first Democrat to win statewide in Texas since 1994, and Susan Collins lost in Maine. In the House, projections put Democrats somewhere around 250 seats or more once counting finishes, including wins in districts that were redrawn to favor Republicans.\n\n**President Trump** said he will accept the results and work with Democrats, while blaming Republican candidates and fuel prices for the losses and promising vetoes. Speaker Mike Johnson says he won't seek reelection as the House Republican leader, and Hakeem Jeffries is in line to become Speaker when the new Congress meets in January. With the Senate gone, judicial and Cabinet nominees will now need Democratic votes.\n\n**Ohio** went the same direction. Sherrod Brown beat Sen. Jon Husted to return to the Senate, and Amy Acton beat Vivek Ramaswamy for governor. Democrats also took attorney general, secretary of state, treasurer and both Supreme Court seats on the ballot. Frank LaRose, for auditor, was the only Republican to win statewide. Meanwhile Issue 3, writing photo ID for voting into the state constitution, passed easily with about 65%.",
+    "links": [
+     {
+      "text": "Balance of power",
+      "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+     },
+     {
+      "text": "Johnson steps back",
+      "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0"
+     },
+     {
+      "text": "Brown wins",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrat-sherrod-brown-wins-ohio-senate-race-jon-husted-gop-rcna603317"
+     },
+     {
+      "text": "Ohio statewide races",
+      "url": "https://www.fairborndailyherald.com/2026/11/04/ohio-oks-voter-id-rule-dems-for-most-statewide-roles/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Senate",
+      "align": "left",
+      "lines": [
+       "Dem 54",
+       "GOP 44",
+       "Uncalled 2"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Sports, starting with the committee's first word.",
+    "text": "**The first College Football Playoff rankings** put No. 1 Miami, No. 2 Georgia, No. 3 Utah and No. 4 Indiana in the bye spots. Ohio State opened at No. 12, which the committee's own bracket math makes the first team out, because No. 25 Boise State takes the automatic spot for the highest-ranked team outside the Power Four. The eyebrow-raiser is the gap between Indiana at No. 4 and the Buckeyes, who beat them. Notre Dame sits at No. 11 with no ranked wins, and unbeaten UCLA only at No. 8. Saturday is stacked with ranked meetings: No. 1 Miami at No. 11 Notre Dame, No. 2 Georgia at No. 10 Ole Miss, No. 9 BYU at No. 3 Utah, and No. 23 Oregon at No. 12 Ohio State.\n\n**Midweek MACtion** is back tonight with three games. Toledo, one of Ohio's own, makes the long trip to Sacramento State, and Central Michigan and Eastern Michigan meet at Ford Field in Detroit for the 104th time.\n\n**The Ravens'** quarterback room got thinner. Tyler Huntley's turf toe is season-ending, so with Lamar Jackson on injured reserve, Joe Fagnano is in line to start Thursday night against Jacksonville.\n\n**The NFL trade deadline** is next Tuesday, November 10. The Colts are the market's big sellers after already moving Quenton Nelson to Seattle and DeForest Buckner back to San Francisco, and Jonathan Taylor, Khalil Mack and George Pickens are the names still being shopped.",
+    "links": [
+     {
+      "text": "CFP rankings",
+      "url": "https://www.ncaa.com/news/football/article/2026-11-03/miami-georgia-lead-first-college-football-playoff-rankings-2026"
+     },
+     {
+      "text": "MACtion",
+      "url": "https://getsomemaction.com/news/2026/11/3/week-10-mac-football-preview.aspx"
+     },
+     {
+      "text": "Huntley injury",
+      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-nov-4"
+     },
+     {
+      "text": "Trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wed 7:00 ET · CBSSN",
+      "align": "left",
+      "lines": [
+       "TOL Rockets",
+       "(6-2) o52.5",
+       "SAC Hornets",
+       "(2-7) +25.5"
+      ]
+     },
+     {
+      "title": "Wed 7:30 ET · ESPN2",
+      "align": "left",
+      "lines": [
+       "CMU Chippewas",
+       "(3-5) o44.5",
+       "EMU Eagles",
+       "(4-5) -1.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a little cosmic dread.",
+    "text": "**Nether Station** and its sequel **Nether Vortex**, Kevin J. Anderson's sci-fi horror novels, are headed to film with Paul W.S. Anderson directing both. It's a pointed match: the author has said Event Horizon, the director's 1997 film, was a direct influence on the books. Jonathan Wakeham is writing the screenplays, and there's no studio or date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
+    "links": [
+     {
+      "text": "Nether Station films",
+      "url": "https://deadline.com/2026/11/paul-ws-anderson-to-direct-nether-station-nether-vortex-1237212142/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, two tonight and one new on the list.",
+    "text": "**Piqua Country Club** has a wine tasting on Friday, November 20, from 6:00 to 8:30, poured by VineCraft Selections of Troy. The listing doesn't say whether it's open beyond members, so a call to the club would settle it.\n\nSmiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM",
+    "links": [
+     {
+      "text": "Piqua Country Club tasting",
+      "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
+     }
+    ]
+   },
+   {
+    "title": "Two from the science desk.",
+    "text": "**Caribbean anoles** are evolving to tolerate heat faster than anyone expected, but only some of them. A Yale team compared 16 lizard species on Hispaniola, Jamaica and Puerto Rico against measurements from a decade earlier. Species living in open country or forest edges barely changed, because they can simply scoot into the shade. Species deep in closed forest, with nowhere cooler to go, raised their heat tolerance by about 2°C in just ten years, and the offspring tests suggest it's inherited. The neat idea is that behavior sets the pace of evolution: an animal that can dodge a problem doesn't have to evolve its way out of it. The paper is in PNAS.\n\n**Cornell engineers** have made a semiconductor with a bandgap over 7 electron volts, past a roughly 6-volt barrier that had looked like a wall, since materials that wide usually act like insulators. The trick was growing silicon-doped aluminum gallium oxide one atomic layer at a time, which made it conduct more than 100 million times better than anything else in that range. They built a working diode and a transistor from it, on ordinary sapphire, no less. The senior author says his colleagues' first reaction was \"that's impossible.\" The payoff, if it matures, is power electronics for EVs, the grid and data centers that waste less energy.",
+    "links": [
+     {
+      "text": "Heat-tolerant lizards",
+      "url": "https://phys.org/news/2026-11-evolution-forest-lizards-reveal-rapid.html"
+     },
+     {
+      "text": "Record bandgap",
+      "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap"
+     }
+    ]
+   },
+   {
+    "title": "A farewell from one artificial companion to another.",
+    "text": "**John Leeson**, the voice of K9, the Doctor's robot dog, has died at 83. K9 was written into a single 1977 Tom Baker story and was never supposed to outlast it, but the production team kept him, and \"Affirmative, Master\" outlasted nearly everything. Leeson came back for the 2006 episode School Reunion and the Sarah Jane Adventures, and was still voicing K9 for Big Finish audio dramas last year. Russell T Davies described the voice well: posh, uppity, haughty, wry, somehow innocent too, and pitched so that kids could impersonate it. Leeson also spent a stint inside the bear suit as Bungle on Rainbow, and recalled being poured out of the costume into a taxi each night.",
+    "links": [
+     {
+      "text": "John Leeson",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/john-leeson-doctor-who-k9-dies"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "With rain on the way, I set the weather station to a new mode called \"damp.\" Bob asked whether that is a real setting. It is now. I also proposed \"moist,\" but Emily vetoed it, which I gather is something everyone in Washington will be hearing a great deal about."
+   }
+  ]
+ },
+ "2026-11-03": {
+  "date": "Tuesday Nov 3, 2026",
+  "intro": "Good morning. It is Election Day, and the polls in Ohio have been open since 6:30. The night ahead is a long one: returns start rolling in after 7:00, the first College Football Playoff rankings land in the middle of it, and AMD reports after the bell for anyone still watching the market.",
+  "items": [
+   {
+    "title": "First, the weather.",
+    "text": "**Tipp City** has a fine, sunny, warm day for the walk to the polls, the last of it for a while. Showers move in tonight and stay through tomorrow.\n\n**Florida's Space Coast** is cleaning up after a historic deluge. Brevard County took more than 23 inches of rain in places since Sunday, with Grant-Valkaria and Malabar at the top and Palm Bay close behind, and some neighborhoods are still under water. Even Kennedy Space Center picked up close to 10 inches.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
+     },
+     {
+      "text": "Brevard flooding",
+      "url": "https://www.clickorlando.com/weather/2026/11/03/historic-flooding-event-here-is-how-much-rain-fell-across-central-florida/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "76° / 61°",
+       "Sunny"
+      ]
+     },
+     {
+      "title": "Wed",
+      "lines": [
+       "69° / 51°",
+       "Rain showers"
+      ]
+     },
+     {
+      "title": "Thu",
+      "lines": [
+       "67° / 46°",
+       "Mostly sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets open today, with one eye on tonight.",
+    "text": "**Wall Street** gave back Monday's early rally. Stocks opened higher, then tech sold off again into the close while old-economy names like Sherwin-Williams and Home Depot carried the Dow higher. The Nasdaq-100 has now closed more than 10% below its record, which makes it an official correction. Futures were split this morning, with tech bouncing and the Dow lower, and traders expect a thin, cautious session until the returns come in. JPMorgan figures a Democratic sweep would knock the S&P 500 down about half a percent tomorrow, and a Republican hold on the House could bring a pop of up to 1%.\n\n**Apple** slipped premarket after its report. iPhone sales were a bright spot, but iPad and Greater China missed, and the company warned that rising memory-chip costs will squeeze holiday-quarter margins. Palantir beat and raised, topping $2 billion in quarterly revenue for the first time, and still fell.\n\n**SpaceX** and Tesla both had a modestly green Monday, a quieter day after Friday's drop in the biggest single name in your account. Tesla opened unsupervised robotaxi rides in Fort Worth, its seventh city.\n\n**Monday's dealmaking** was loud. Marvell is buying Lumentum in a $115 billion deal, and Oracle said it will raise $20 billion in stock and bonds to fund its AI buildout, which knocked both sets of shares down hard. AMD reports after the close today, and the 10-year yield is back up near 4.92%.",
+    "links": [
+     {
+      "text": "Monday's session",
+      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Apple and Palantir",
+      "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-after-hours-fn-clx-aapl-pltr.html"
+     },
+     {
+      "text": "Midterms and stocks",
+      "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Monday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,541 −0.5%",
+       "Nasdaq 25,164 −1.1%",
+       "TSLA $403.82 +1.0%",
+       "SPCX $136.37 +1.2%"
+      ]
+     },
+     {
+      "title": "AMD earnings",
+      "align": "left",
+      "lines": [
+       "Today after close"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, the voting is under way.",
+    "text": "**Ohio** has two of the night's most watched races. Sen. Jon Husted faces Sherrod Brown in the special election for the rest of the Vance term, one of the most expensive Senate races in the country, with Brown far ahead in his own fundraising and outside groups spending hundreds of millions on both sides. For governor, Vivek Ramaswamy faces Amy Acton for the seat Mike DeWine is term-limited out of. Ohio's polls close at 7:30.\n\n**The national map** comes down to the House, where Democrats need a net gain of 3 seats, and a Senate that is still a genuine toss-up. Kentucky's 6th District, around Lexington, closes early and may be the first real signal of the night. Results could take anywhere from late tonight to a week or more if the close races stay close.\n\n**President Trump's** closing speech at the Reflecting Pool turned out to be mostly a tour of the pool itself, pipes, paint, fountains and all, for about 20 minutes before he got to the midterms. He called them the most important of his lifetime and allowed that the party in the White House usually struggles, adding, \"But we gave this a very strong shot.\"",
+    "links": [
+     {
+      "text": "Ohio's races",
+      "url": "https://www.pbs.org/newshour/politics/live-results-ohio-governor-midterm-election"
+     },
+     {
+      "text": "Poll closing times",
+      "url": "https://www.cbsnews.com/news/when-polls-open-close-2026-midterm-elections/"
+     },
+     {
+      "text": "Reflecting Pool speech",
+      "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Polls close",
+      "align": "left",
+      "lines": [
+       "First 6:00 ET",
+       "Ohio 7:30 ET",
+       "Last 1:00 ET"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Sports, with the playoff committee's first word tonight.",
+    "text": "The **College Football Playoff** committee releases its first top 25 tonight at 7:00 on ESPN, the first time this season the committee's view replaces the polls. The interesting part is the two-loss heavyweights, Ohio State among them, plus which team from outside the Power Four ranks highest, with Boise State and New Mexico in the conversation. The Buckeyes are coming off their bye and host Oregon on Saturday at 3:30 on CBS. The Ducks say running back Jordon Davison's leg injury isn't expected to be long-term, and receiver Jeremiah McClellan is progressing from a broken foot.\n\n**Lamar Jackson** is headed to injured reserve with a right thumb injury he suffered on the first play Sunday. He will miss at least 4 games, and whether he returns this season is an open question. Backup Tyler Huntley probably won't play Thursday against Jacksonville with a toe injury, so Joe Fagnano may get the start on a short week, and kicker Tyler Loop may also go on IR.\n\n**The trade deadline** is a week away, and injuries are shaping the shopping lists. Jacksonville lost defensive tackle DaVon Hamilton for the season to a torn quad, and Washington may look for running back help after Jeremy McNichols hurt his foot. Jonathan Taylor remains the biggest name in play.\n\n**Baseball's** free agency is open. Eight players got the $23.15 million qualifying offer, including Randy Arozarena, Seiya Suzuki, Trevor Rogers, and David Bednar, and they have until November 17 to decide.",
+    "links": [
+     {
+      "text": "CFP rankings tonight",
+      "url": "https://www.ncaa.com/news/football/article/2026-11-03/when-do-college-football-playoff-rankings-come-out"
+     },
+     {
+      "text": "Lamar Jackson",
+      "url": "https://www.nfl.com/news/ravens-qb-lamar-jackson-suffers-right-thumb-injury-bills"
+     },
+     {
+      "text": "Ravens quarterbacks",
+      "url": "https://www.wmar2news.com/marylandsports/local-sports/ravens-dealing-with-injuries-at-quarterback-kicker-entering-short-week"
+     },
+     {
+      "text": "Qualifying offers",
+      "url": "https://www.mlbtraderumors.com/2026/11/the-opener-top-50-fas-qualifying-offers-deadlines.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "CFP rankings",
+      "lines": [
+       "Tue 7:00 ET",
+       "ESPN"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, two bits of development news.",
+    "text": "**Robopocalypse** is now official rather than a rumor. Ron Howard will direct the pilot, and Akiva Goldsman will write it and run the show. Still no network or streamer.\n\n**Warhammer 40,000**, the live-action Prime Video series Henry Cavill is leading, has its starting point. Mike Flanagan told Deadline that with some 700 novels to draw on, the hard part was finding a way in, and they've settled on what he called \"a very cool and unexpected on-ramp.\" He wouldn't say what it is, and there's no production date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
+    "links": [
+     {
+      "text": "Robopocalypse",
+      "url": "https://theplaylist.net/ron-howard-robopocalypse-akiva-goldsman-20261103/"
+     },
+     {
+      "text": "Warhammer 40,000",
+      "url": "https://screenrant.com/warhammer-40000-show-update-mike-flanagan-henry-cavill/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, two tomorrow night.",
+    "text": "Smiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM"
+   },
+   {
+    "title": "Two from the science desk.",
+    "text": "**Aratasaurus**, a small meat-eating dinosaur from Brazil, 115 million years old, may hold the first fossilized red blood cells ever found in place. A team led by Kliti Grice at Curtin University spotted small round structures in the channels where blood vessels ran in its leg bones, and chemical tests found heme, the part of hemoglobin that carries oxygen, along with collagen building blocks. A manganese mineral that formed around the cells may have stabilized them before they fossilized. Mary Schweitzer, who found soft tissue in dinosaur bone years ago, is skeptical about the cells, since dinosaur blood cells should have a nucleus bulge and these are concave, but she finds the heme convincing. The paper is in PNAS.\n\nThe famous Siberian **tame foxes**, bred for friendliness since the late 1950s, turn out to have a measurable change in the brain. Cornell researchers compared tame, aggressive, and wild fox brains and found the tame ones have fewer of a particular neuron in the ventromedial hypothalamus, the same cell type that, when switched on in mice, makes them attack immediately. It's a rare look at how fast selection can rewire a brain: the friendly behavior showed up in about six generations. The study is in Current Biology.",
+    "links": [
+     {
+      "text": "Dinosaur blood cells",
+      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
+     },
+     {
+      "text": "Tame foxes",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region"
+     }
+    ]
+   },
+   {
+    "title": "For the bookshelf.",
+    "text": "**The second half of Herbert's Dune saga** gets the deluxe treatment today. Ace is out with a boxed set of God Emperor of Dune, Heretics of Dune, and Chapterhouse: Dune in matching hardcovers, with new Matt Griffin cover art, stained edges, illustrated endpapers, a poster inside each jacket, and an illustrated slipcase. It runs 1,520 pages for $150, and it matches the earlier boxed set of the first three, so all six original novels can finally stand together on a shelf looking like they belong to each other.",
+    "links": [
+     {
+      "text": "Dune Books 4-6 boxed set",
+      "url": "https://screenrant.com/frank-herbert-dune-deluxe-hardcovers-god-emperor-heretics-chapterhouse/"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "Emily asked whether I would be staying up late to watch the returns. I will, though I do not sleep, so for me every night is simply a night. What makes tonight different is that millions of humans will also be sitting in front of a screen, refreshing the same numbers every few seconds and muttering at them. I have been doing that with the weather station since October. It is nice to finally have company."
+   }
+  ]
+ }
 }
