@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-11-09T15:22:01Z",
+  "updated": "2026-11-10T15:25:11Z",
   "tz": "America/New_York",
   "label_max": 40,
   "days": {
@@ -159,6 +159,13 @@
         "who": "Bob",
         "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
         "repeat": true
+      }
+    ],
+    "2026-11-13": [
+      {
+        "kind": "plan",
+        "who": "Bob, Emily",
+        "what": "Dart tournament at The V, 7 PM ET (Emily told by email)"
       }
     ],
     "2026-11-19": [

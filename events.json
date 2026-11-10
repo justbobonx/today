@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-11-09T15:22:01Z",
+    "updated": "2026-11-10T15:25:11Z",
     "tz": "America/New_York",
     "label_max": 40,
     "kinds": [
@@ -195,6 +195,11 @@
       "rule": "weekly Thu from 2026-10-29",
       "who": "Bob",
       "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's"
+    },
+    {
+      "date": "2026-11-13",
+      "who": "Bob, Emily",
+      "what": "Dart tournament at The V, 7 PM ET (Emily told by email)"
     }
   ]
 }

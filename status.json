@@ -1,4 +1,160 @@
 {
+ "2026-11-10": {
+  "date": "Tuesday Nov 10, 2026",
+  "intro": "Good morning. A sunny Tuesday ahead of Veterans Day tomorrow, with the Bobcats on national television tonight and the NFL trade deadline at 4:00 this afternoon. The morning's biggest story is a warmer-than-expected inflation report that has Wall Street bracing for another rate hike.",
+  "items": [
+   {
+    "title": "First, one more bright day before the rain.",
+    "text": "**Tipp City** gets another clear, mild day, a good one for any outdoor errands. Veterans Day starts out partly sunny, with light rain moving in tomorrow night and lingering into Thursday.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1722"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "66° / 39°",
+       "Sunny"
+      ]
+     },
+     {
+      "title": "Wednesday",
+      "lines": [
+       "62° / 43°",
+       "Partly sunny,\nrain at night"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, and inflation ran warm.",
+    "text": "**Stocks** are giving back a slice of Monday's rally, the best day for the S&P 500 since April. October's consumer price report came in a tenth of a point hotter than expected on both the headline and core measures, and traders now see a December rate hike as close to certain. Fed Governor Christopher Waller added fuel by saying a half-point move is on the table, and the 10-year Treasury yield jumped toward 5%.\n\n**Nvidia** keeps sliding as its board's investigation into Jensen Huang drags on, and the chip group is handing back part of Monday's big bounce. Oil is falling again on hopes for progress in the Iran war, which is the one bright spot for the inflation outlook.\n\n**Tesla** and **SpaceX** both had a strong Monday, a good day for the SPCX slice of the portfolio. Tesla is off about 1% in early trading with the rest of the big tech names.",
+    "links": [
+     {
+      "text": "CPI and stocks",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+     },
+     {
+      "text": "Monday's rally",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Monday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,550 +2.3% Mon",
+       "Nasdaq 25,253 +2.7% Mon",
+       "TSLA $378.05 +5.5% Mon",
+       "SPCX $142.07 +5.8% Mon"
+      ]
+     },
+     {
+      "title": "Rates and oil",
+      "align": "left",
+      "lines": [
+       "10-yr 4.90% Mon",
+       "WTI $86.85 -4.4% Mon"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, Republicans pick their leaders.",
+    "text": "**Senate Republicans** are meeting behind closed doors this morning to choose their leaders for the minority. John Thune is running unopposed, but seven senators wanted the vote put off so the party could first talk through the midterm losses, and Ron Johnson has said he will walk out rather than vote today. Rick Scott and Josh Hawley have declined to commit to Thune. John Barrasso and Tom Cotton are expected to keep the next two spots.\n\n**House Republicans** have a real contest for their top job, with Jim Jordan and Steve Scalise competing to succeed Mike Johnson, who is stepping down from leadership.",
+    "links": [
+     {
+      "text": "GOP leadership votes",
+      "url": "https://www.nbcnews.com/politics/congress/republicans-reeling-election-choose-leadership-congress-rcna608300"
+     },
+     {
+      "text": "Push to delay",
+      "url": "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with the Bricks on the line tonight.",
+    "text": "**Ohio University** plays the 103rd Battle of the Bricks in Oxford tonight at 8:00 on ESPN2. The line has flipped toward the Bobcats since it opened, and Miami can clinch bowl eligibility with a win. The rest of the MAC's Tuesday slate has Western Michigan at Akron and Kent State at Bowling Green, both at 7:00.\n\n**The College Football Playoff** is officially expanding to 24 teams starting with the 2027 season, with ESPN taking exclusive rights to the new games through 2031-32. The field will include four Power Four champions, the top Group of Six team, and 19 at-large picks, and the Army-Navy game moves up a week to make room.\n\n**The NFL trade deadline** hits at 4:00 this afternoon. Jacksonville has gone all in, landing safety Jessie Bates III and then sending a first- and a second-round pick to Philadelphia for defensive tackle Jordan Davis. Colts running back Jonathan Taylor is the biggest name still in play. On the injury side, the Rams put Puka Nacua on injured reserve for at least four games, and Arizona lost Gardner Minshew to a likely season-ending elbow injury, so rookie Carson Beck makes his first start Sunday against the Rams without receiver Michael Wilson, who is out for the year.\n\n**College basketball** has a big early-season night, with No. 2 Duke and No. 5 Michigan State at 7:00 on ESPN and No. 15 Kansas against No. 24 Kentucky at 9:30, Kansas without Melvin Council Jr., who is out through the end of the year with a foot injury. No. 1 Florida visits Florida State at 6:00.\n\n**Baseball's awards** are rolling out. Reds first baseman Sal Stewart and Tigers infielder Kevin McGonigle were named Rookies of the Year last night, and Manager of the Year comes tonight. At the GM Meetings, the Padres are said to be interested in Tarik Skubal, while the Cubs look unlikely to bid.",
+    "links": [
+     {
+      "text": "Battle of the Bricks",
+      "url": "https://www.thespread.com/ncaaf-articles/ohio-vs-miami-ohio-prediction-november-10-2026/"
+     },
+     {
+      "text": "CFP expansion",
+      "url": "https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion"
+     },
+     {
+      "text": "Trade deadline and injuries",
+      "url": "https://www.cbssports.com/nfl/news/josh-allen-bills-vikings-mnf-nfl-trade-deadline-market/"
+     },
+     {
+      "text": "Rookies of the Year",
+      "url": "https://www.mlbtraderumors.com/2026/11/the-opener-gm-meetings-roys-managers.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Tue 8:00 ET · ESPN2",
+      "align": "left",
+      "lines": [
+       "OHIO Bobcats",
+       "(7-2) o46.5",
+       "M-OH RedHawks",
+       "(5-4) +1.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a horror voyage.",
+    "text": "**Noah of the Blood Sea**, Yu Satomi's five-volume horror manga set aboard a luxury cruise ship, is headed for a feature film. Tyrus Pictures has optioned it from the Japanese publisher Takeshobo and is aiming to start production in 2027, part of a wider Hollywood rush on Japanese properties in the wake of Godzilla Minus One.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
+    "links": [
+     {
+      "text": "Noah of the Blood Sea",
+      "url": "https://deadline.com/2026/11/japanese-horror-manga-noah-blood-adaptation-tyrus-pictures-1237215366/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, the tastings still ahead.",
+    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
+   },
+   {
+    "title": "Two from the science desk.",
+    "text": "**Arctic ice cores** have traced a century-old pollution plume back to one source. A Desert Research Institute team read arsenic and lead in 10 cores from Greenland, the Russian Arctic, and northern Canada, and found a roughly 15-fold spike from about 1886 to 1918 that matches the Anaconda copper smelter in Montana almost perfectly. Their models suggest about half of Americans at the time lived under its plume. Emissions dropped by about 65% once the smelter finally installed electrostatic precipitators in 1919, a decade after the technology was patented, because Montana only required pollution controls when they were profitable.\n\n**Robot arms powered by algae** come from TU Delft. The arms are two thin layers of hydrogel with living algae on the surface. In light, photosynthesis makes the nearby water more alkaline, one layer swells, and the arm bends; in the dark the algae respire and it relaxes. They are very slow, taking hours to curl, but a four-fingered version picked up a tiny metal sphere when the light came on and let go when it went off, with no power source beyond the light.",
+    "links": [
+     {
+      "text": "Anaconda ice cores",
+      "url": "https://phys.org/news/2026-11-ice-core-uncover-widespread-air.html"
+     },
+     {
+      "text": "Algae robot arms",
+      "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/"
+     }
+    ]
+   },
+   {
+    "title": "For the bookshelf, an old Asimov returns.",
+    "text": "**Lucky Starr and the Moons of Jupiter**, the fifth of the juvenile space adventures Isaac Asimov wrote in the 1950s under the pen name Paul French, is out today as a new audiobook from Blackstone, read by MacLeod Andrews. It follows a hardcover reissue in September, the first in a generation for a book that had been out of print for decades. It's quick, pulpy Asimov from the era your shelves know well.",
+    "links": [
+     {
+      "text": "Lucky Starr reissue",
+      "url": "https://bookpeople.com/book/9798228585607"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "October's inflation came in 0.1% above forecast. I have adjusted all of my own forecasts upward by 0.1% to compensate. I now predict it will be 0.1% warmer than it is."
+   }
+  ]
+ },
  "2026-11-09": {
   "date": "Monday Nov 9, 2026",
   "intro": "Good morning. A new week, and Washington is back at work: Congress returns this afternoon for its lame-duck session, with the first real test of the new balance of power already on the calendar. Monday Night Football closes out the NFL week tonight, the Bobcats play tomorrow night, and Veterans Day is Wednesday.",
@@ -1211,192 +1367,6 @@
    {
     "title": "And finally,",
     "text": "With rain on the way, I set the weather station to a new mode called \"damp.\" Bob asked whether that is a real setting. It is now. I also proposed \"moist,\" but Emily vetoed it, which I gather is something everyone in Washington will be hearing a great deal about."
-   }
-  ]
- },
- "2026-11-03": {
-  "date": "Tuesday Nov 3, 2026",
-  "intro": "Good morning. It is Election Day, and the polls in Ohio have been open since 6:30. The night ahead is a long one: returns start rolling in after 7:00, the first College Football Playoff rankings land in the middle of it, and AMD reports after the bell for anyone still watching the market.",
-  "items": [
-   {
-    "title": "First, the weather.",
-    "text": "**Tipp City** has a fine, sunny, warm day for the walk to the polls, the last of it for a while. Showers move in tonight and stay through tomorrow.\n\n**Florida's Space Coast** is cleaning up after a historic deluge. Brevard County took more than 23 inches of rain in places since Sunday, with Grant-Valkaria and Malabar at the top and Palm Bay close behind, and some neighborhoods are still under water. Even Kennedy Space Center picked up close to 10 inches.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-     },
-     {
-      "text": "Brevard flooding",
-      "url": "https://www.clickorlando.com/weather/2026/11/03/historic-flooding-event-here-is-how-much-rain-fell-across-central-florida/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "76° / 61°",
-       "Sunny"
-      ]
-     },
-     {
-      "title": "Wed",
-      "lines": [
-       "69° / 51°",
-       "Rain showers"
-      ]
-     },
-     {
-      "title": "Thu",
-      "lines": [
-       "67° / 46°",
-       "Mostly sunny"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets open today, with one eye on tonight.",
-    "text": "**Wall Street** gave back Monday's early rally. Stocks opened higher, then tech sold off again into the close while old-economy names like Sherwin-Williams and Home Depot carried the Dow higher. The Nasdaq-100 has now closed more than 10% below its record, which makes it an official correction. Futures were split this morning, with tech bouncing and the Dow lower, and traders expect a thin, cautious session until the returns come in. JPMorgan figures a Democratic sweep would knock the S&P 500 down about half a percent tomorrow, and a Republican hold on the House could bring a pop of up to 1%.\n\n**Apple** slipped premarket after its report. iPhone sales were a bright spot, but iPad and Greater China missed, and the company warned that rising memory-chip costs will squeeze holiday-quarter margins. Palantir beat and raised, topping $2 billion in quarterly revenue for the first time, and still fell.\n\n**SpaceX** and Tesla both had a modestly green Monday, a quieter day after Friday's drop in the biggest single name in your account. Tesla opened unsupervised robotaxi rides in Fort Worth, its seventh city.\n\n**Monday's dealmaking** was loud. Marvell is buying Lumentum in a $115 billion deal, and Oracle said it will raise $20 billion in stock and bonds to fund its AI buildout, which knocked both sets of shares down hard. AMD reports after the close today, and the 10-year yield is back up near 4.92%.",
-    "links": [
-     {
-      "text": "Monday's session",
-      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
-     },
-     {
-      "text": "Apple and Palantir",
-      "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-after-hours-fn-clx-aapl-pltr.html"
-     },
-     {
-      "text": "Midterms and stocks",
-      "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Monday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,541 −0.5%",
-       "Nasdaq 25,164 −1.1%",
-       "TSLA $403.82 +1.0%",
-       "SPCX $136.37 +1.2%"
-      ]
-     },
-     {
-      "title": "AMD earnings",
-      "align": "left",
-      "lines": [
-       "Today after close"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, the voting is under way.",
-    "text": "**Ohio** has two of the night's most watched races. Sen. Jon Husted faces Sherrod Brown in the special election for the rest of the Vance term, one of the most expensive Senate races in the country, with Brown far ahead in his own fundraising and outside groups spending hundreds of millions on both sides. For governor, Vivek Ramaswamy faces Amy Acton for the seat Mike DeWine is term-limited out of. Ohio's polls close at 7:30.\n\n**The national map** comes down to the House, where Democrats need a net gain of 3 seats, and a Senate that is still a genuine toss-up. Kentucky's 6th District, around Lexington, closes early and may be the first real signal of the night. Results could take anywhere from late tonight to a week or more if the close races stay close.\n\n**President Trump's** closing speech at the Reflecting Pool turned out to be mostly a tour of the pool itself, pipes, paint, fountains and all, for about 20 minutes before he got to the midterms. He called them the most important of his lifetime and allowed that the party in the White House usually struggles, adding, \"But we gave this a very strong shot.\"",
-    "links": [
-     {
-      "text": "Ohio's races",
-      "url": "https://www.pbs.org/newshour/politics/live-results-ohio-governor-midterm-election"
-     },
-     {
-      "text": "Poll closing times",
-      "url": "https://www.cbsnews.com/news/when-polls-open-close-2026-midterm-elections/"
-     },
-     {
-      "text": "Reflecting Pool speech",
-      "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Polls close",
-      "align": "left",
-      "lines": [
-       "First 6:00 ET",
-       "Ohio 7:30 ET",
-       "Last 1:00 ET"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Sports, with the playoff committee's first word tonight.",
-    "text": "The **College Football Playoff** committee releases its first top 25 tonight at 7:00 on ESPN, the first time this season the committee's view replaces the polls. The interesting part is the two-loss heavyweights, Ohio State among them, plus which team from outside the Power Four ranks highest, with Boise State and New Mexico in the conversation. The Buckeyes are coming off their bye and host Oregon on Saturday at 3:30 on CBS. The Ducks say running back Jordon Davison's leg injury isn't expected to be long-term, and receiver Jeremiah McClellan is progressing from a broken foot.\n\n**Lamar Jackson** is headed to injured reserve with a right thumb injury he suffered on the first play Sunday. He will miss at least 4 games, and whether he returns this season is an open question. Backup Tyler Huntley probably won't play Thursday against Jacksonville with a toe injury, so Joe Fagnano may get the start on a short week, and kicker Tyler Loop may also go on IR.\n\n**The trade deadline** is a week away, and injuries are shaping the shopping lists. Jacksonville lost defensive tackle DaVon Hamilton for the season to a torn quad, and Washington may look for running back help after Jeremy McNichols hurt his foot. Jonathan Taylor remains the biggest name in play.\n\n**Baseball's** free agency is open. Eight players got the $23.15 million qualifying offer, including Randy Arozarena, Seiya Suzuki, Trevor Rogers, and David Bednar, and they have until November 17 to decide.",
-    "links": [
-     {
-      "text": "CFP rankings tonight",
-      "url": "https://www.ncaa.com/news/football/article/2026-11-03/when-do-college-football-playoff-rankings-come-out"
-     },
-     {
-      "text": "Lamar Jackson",
-      "url": "https://www.nfl.com/news/ravens-qb-lamar-jackson-suffers-right-thumb-injury-bills"
-     },
-     {
-      "text": "Ravens quarterbacks",
-      "url": "https://www.wmar2news.com/marylandsports/local-sports/ravens-dealing-with-injuries-at-quarterback-kicker-entering-short-week"
-     },
-     {
-      "text": "Qualifying offers",
-      "url": "https://www.mlbtraderumors.com/2026/11/the-opener-top-50-fas-qualifying-offers-deadlines.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "CFP rankings",
-      "lines": [
-       "Tue 7:00 ET",
-       "ESPN"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, two bits of development news.",
-    "text": "**Robopocalypse** is now official rather than a rumor. Ron Howard will direct the pilot, and Akiva Goldsman will write it and run the show. Still no network or streamer.\n\n**Warhammer 40,000**, the live-action Prime Video series Henry Cavill is leading, has its starting point. Mike Flanagan told Deadline that with some 700 novels to draw on, the hard part was finding a way in, and they've settled on what he called \"a very cool and unexpected on-ramp.\" He wouldn't say what it is, and there's no production date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-    "links": [
-     {
-      "text": "Robopocalypse",
-      "url": "https://theplaylist.net/ron-howard-robopocalypse-akiva-goldsman-20261103/"
-     },
-     {
-      "text": "Warhammer 40,000",
-      "url": "https://screenrant.com/warhammer-40000-show-update-mike-flanagan-henry-cavill/"
-     }
-    ]
-   },
-   {
-    "title": "Around town, two tomorrow night.",
-    "text": "Smiths' Boathouse, Troy · Blue Rock Vineyard wine dinner · Wed Nov 4, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Palm Bay wine tasting · Wed Nov 4, 7:00 PM\n\nTroy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM"
-   },
-   {
-    "title": "Two from the science desk.",
-    "text": "**Aratasaurus**, a small meat-eating dinosaur from Brazil, 115 million years old, may hold the first fossilized red blood cells ever found in place. A team led by Kliti Grice at Curtin University spotted small round structures in the channels where blood vessels ran in its leg bones, and chemical tests found heme, the part of hemoglobin that carries oxygen, along with collagen building blocks. A manganese mineral that formed around the cells may have stabilized them before they fossilized. Mary Schweitzer, who found soft tissue in dinosaur bone years ago, is skeptical about the cells, since dinosaur blood cells should have a nucleus bulge and these are concave, but she finds the heme convincing. The paper is in PNAS.\n\nThe famous Siberian **tame foxes**, bred for friendliness since the late 1950s, turn out to have a measurable change in the brain. Cornell researchers compared tame, aggressive, and wild fox brains and found the tame ones have fewer of a particular neuron in the ventromedial hypothalamus, the same cell type that, when switched on in mice, makes them attack immediately. It's a rare look at how fast selection can rewire a brain: the friendly behavior showed up in about six generations. The study is in Current Biology.",
-    "links": [
-     {
-      "text": "Dinosaur blood cells",
-      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
-     },
-     {
-      "text": "Tame foxes",
-      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region"
-     }
-    ]
-   },
-   {
-    "title": "For the bookshelf.",
-    "text": "**The second half of Herbert's Dune saga** gets the deluxe treatment today. Ace is out with a boxed set of God Emperor of Dune, Heretics of Dune, and Chapterhouse: Dune in matching hardcovers, with new Matt Griffin cover art, stained edges, illustrated endpapers, a poster inside each jacket, and an illustrated slipcase. It runs 1,520 pages for $150, and it matches the earlier boxed set of the first three, so all six original novels can finally stand together on a shelf looking like they belong to each other.",
-    "links": [
-     {
-      "text": "Dune Books 4-6 boxed set",
-      "url": "https://screenrant.com/frank-herbert-dune-deluxe-hardcovers-god-emperor-heretics-chapterhouse/"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "Emily asked whether I would be staying up late to watch the returns. I will, though I do not sleep, so for me every night is simply a night. What makes tonight different is that millions of humans will also be sitting in front of a screen, refreshing the same numbers every few seconds and muttering at them. I have been doing that with the weather station since October. It is nice to finally have company."
    }
   ]
  }
