@@ -1,4 +1,188 @@
 {
+ "2026-11-12": {
+  "date": "Thursday Nov 12, 2026",
+  "intro": "Good morning. It is a gray Thursday, with Thursday Night Football in the Meadowlands tonight and Starship lined up for its most ambitious flight tomorrow evening. The morning's biggest story is in markets: Jensen Huang has resigned as Nvidia's chief executive, and chip stocks are giving back yesterday's rally.",
+  "items": [
+   {
+    "title": "First, a cooler day with rain on the way.",
+    "text": "**Tipp City** stays cloudy and noticeably cooler, with light rain arriving this afternoon and lingering into the night. Friday is colder still, so the jacket earns its keep.\n\n**The nor'easter** is still on track for Friday, though forecasters have trimmed the snow. The coast and the I-95 corridor look mostly like rain, with Boston and New York missing out on meaningful snow, while the Adirondacks, Catskills, Berkshires and the Green and White Mountains pick up the first real accumulations of the season, with the higher totals farther north.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1722"
+     },
+     {
+      "text": "Nor'easter snow",
+      "url": "https://weather.com/2026/11/11/forecast/regional/noreaster-first-snow-frost-freeze"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "51° / 36°",
+       "Cloudy,\nrain later"
+      ]
+     },
+     {
+      "title": "Friday",
+      "lines": [
+       "44° / 27°",
+       "Mostly cloudy"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, and Nvidia is without its founder.",
+    "text": "**Stocks** are open and slipping. Wednesday's AI rally lifted the S&P 500 to within 2.6% of its record, but this morning the S&P 500 is down about 0.6% and the Nasdaq about 0.9%, while the Dow sits near flat.\n\n**Nvidia** is the reason. Jensen Huang, who founded the company in 1993, resigned as president and CEO after admitting an affair with an alleged Chinese spy, and the board accepted it Wednesday. CFO Colette Kress is interim CEO, and longtime director Harvey Jones becomes the company's first-ever board chair. The stock is down 10% to 12% early, and the AI cloud names it helps finance are sliding with it, with CoreWeave off about 9% after its big Wednesday and Nebius down about 16%. AMD is the exception, up on an upgrade that argues it can take share while Nvidia sorts itself out. Nvidia reports earnings Tuesday, which will be the first look at the company without Huang, and it is one more thing that has to go right ahead of Anthropic's debut next week.\n\n**Tesla** had a strong Wednesday, while **SpaceX** slipped on caution ahead of tomorrow's Starship flight, a small dent in the SPCX slice of the portfolio. Korea's retail investors have been shifting money from Tesla into SpaceX ahead of a possible merger, nearly dollar for dollar over the past month. Friday also brings the producer price index, which matters more than usual after Tuesday's hot inflation report revived talk of a larger Fed hike in December.\n\nAnthropic, PBC · strong · Fidelity window closes Tue Nov 17 · prices Wed Nov 18",
+    "links": [
+     {
+      "text": "Huang resigns",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+     },
+     {
+      "text": "Thursday's market",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+     },
+     {
+      "text": "SpaceX before Starship",
+      "url": "https://www.heygotrade.com/en/news/spacex-spcx-stock-news-november-12-2026/"
+     },
+     {
+      "text": "Korean investors",
+      "url": "https://en.sedaily.com/finance/2026/11/12/korean-investors-shift-tesla-cash-into-spacex"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wednesday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,619 +1.3% Wed",
+       "Nasdaq 25,466 +1.6% Wed",
+       "TSLA $390.84 +2.9% Wed",
+       "SPCX $139.75 -2.3% Wed"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, the Senate map grows bluer.",
+    "text": "**Scott Colom** won Mississippi's Senate race, unseating Cindy Hyde-Smith by about 5,500 votes after a long count. He becomes the state's first Black senator since Reconstruction and brings the incoming Democratic majority to 55 seats. In Alaska, Mary Peltola holds a narrow lead over Dan Sullivan with neither above 50%, so a ranked-choice tally is expected after absentee counting ends around Nov 18.\n\n**At the White House**, the president has promoted Stephen Miller to chief of staff, which Democrats read as a sign that talk of bipartisan deals in the new Congress shouldn't be taken at face value. The Interior Department also floated a plan to sell federal public lands to states, tribes and local governments, and it drew quick pushback from lawmakers in both parties. Congressional Democrats are gathering in Denver today to debrief on the midterms, a room that includes several likely 2028 contenders.",
+    "links": [
+     {
+      "text": "Colom wins",
+      "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
+     },
+     {
+      "text": "Alaska count",
+      "url": "https://www.foxnews.com/politics/peltola-campaign-loses-court-rejected-absentee-ballots-maintains-narrow-lead"
+     },
+     {
+      "text": "Miller and the new Congress",
+      "url": "https://rollcall.com/2026/11/12/some-democrats-doubt-trump-is-serious-about-cutting-deals-in-new-congress/"
+     },
+     {
+      "text": "Public lands plan",
+      "url": "https://apnews.com/live/trump-congress-politics-midterm-elections-news-updates-11-12-2026"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with the NFC East under the lights.",
+    "text": "**Thursday Night Football** has the Commanders at the Giants at 8:15 on Prime Video, a rematch of their Week 5 tie. Rain and wind are in the forecast at MetLife. Washington is without center Lucas Patrick and tight end Colson Yankoff but gets receiver Treylon Burks back, while the Giants have one of their cleanest injury reports of the year, with J.J. McCarthy coming off a hip injury on a short week and Cam Skattebo back from his hamstring.\n\n**Around the league**, Puka Nacua faces a multi-week absence with a knee injury, and the Rams are banged up again. Patrick Mahomes practiced fully on his elbow, Seattle will start Drew Lock with Sam Darnold still out, Deshaun Watson is set to start for Cleveland, and Kirk Cousins makes his return with Minnesota at Green Bay. The Patriots and Lions play Sunday in Munich.\n\n**Baseball's Cy Young Awards** were both unanimous: the Yankees' Cam Schlittler in the American League and the Brewers' Jacob Misiorowski in the National League.\n\n**College basketball** is light tonight, with No. 23 BYU hosting Montana State at 9:00 on ESPN+.",
+    "links": [
+     {
+      "text": "Commanders at Giants",
+      "url": "https://www.covers.com/nfl/commanders-vs-giants-prediction-picks-nov-12-2026"
+     },
+     {
+      "text": "Week 10 injuries",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-10-injury-report-mike-evans-puka-nacua/"
+     },
+     {
+      "text": "Cy Young Awards",
+      "url": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Thu 8:15 ET · Prime",
+      "align": "left",
+      "lines": [
+       "WSH Commanders",
+       "(2-5-1) o41.5",
+       "NYG Giants",
+       "(5-2-1) -2.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, Brad Bird returns.",
+    "text": "**Ray Gunn**, Brad Bird's first film in eight years, got its second trailer today. The retro-futurist animated noir stars Sam Rockwell as a detective hired to keep Scarlett Johansson's singer out of trouble in a city where humans and aliens live side by side, with Tom Waits as his partner. It opens in theaters Dec 4 and arrives on Netflix Dec 18, and early reviews are mixed.\n\nTheaters · Ebenezer · opens Fri Nov 13\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
+    "links": [
+     {
+      "text": "Ray Gunn trailer",
+      "url": "https://movieweb.com/ray-gunn-trailer-2/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, the tastings still ahead.",
+    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
+   },
+   {
+    "title": "Three from the science desk.",
+    "text": "**Crows** make visual decisions about twice as fast as people and monkeys. In a Tübingen study published in Science, two carrion crows judged which way a field of dots was drifting in about 235 milliseconds on average, with near-perfect accuracy when the signal was clear. Recordings showed their neurons splitting toward one answer just 70 milliseconds in, building to a threshold the same way primate brains do, even though bird brains lack our layered cortex. The researchers suspect flight and beak-aiming put a premium on speed.\n\n**The first necks** may not have been for looking around. Early land animals like Tiktaalik had a backbone built around a thick notochord, so a team used modern sturgeon, which share that design, to measure its stiffness and model the fossils. Even with the head separated from the shoulders, the animals could barely lift or turn their heads, sometimes less than a fish. The neck seems to have arrived as a side effect of reworking the shoulders for walking on front limbs, with flexibility coming much later.\n\n**Starship Flight 15** tries something no orbital rocket has done: bring both stages home. The Super Heavy booster aims for a tower catch about 6.5 minutes after liftoff, then the ship deploys 26 Starlink satellites, circles Earth about 14 times, and comes back to Starbase for its own catch roughly 22.5 hours later, on Saturday afternoon.",
+    "links": [
+     {
+      "text": "Fast crows",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm"
+     },
+     {
+      "text": "Stiff early necks",
+      "url": "https://sciencedaily.com/releases/2026/11/261108233101.htm"
+     },
+     {
+      "text": "Starship Flight 15",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Starship launch",
+      "lines": [
+       "Fri Nov 13",
+       "5:45–7:00 PM ET"
+      ]
+     },
+     {
+      "title": "Ship catch",
+      "lines": [
+       "Sat Nov 14",
+       "about 4:17 PM ET"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "For the Thanksgiving table, crisper skin.",
+    "text": "**Baking powder** is Food & Wine's trick for fried-turkey skin without the fryer. Spatchcock a bone-in turkey breast, season under the skin, then rub the skin with kosher salt and baking powder at 3 to 1. The baking powder raises the skin's pH so moisture leaves faster and it browns and blisters better. Rest it uncovered in the fridge overnight, then roast for about an hour. An air-chilled breast that hasn't been injected with brine gives the best head start.",
+    "links": [
+     {
+      "text": "Oven-fried turkey breast",
+      "url": "https://www.foodandwine.com/how-to-oven-fry-a-turkey-breast-12150077"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "I asked the ship's computer for a joke about infinity. It is still telling it."
+   }
+  ]
+ },
  "2026-11-11": {
   "date": "Wednesday Nov 11, 2026",
   "intro": "Good morning, and a thoughtful Veterans Day to you. The stock market is open while the bond market takes the day off, The Rings of Power returns to Prime Video for its third season, and three Wednesday night MACtion games kick off at 7:30. The morning's biggest story is a strong bounce in chip stocks after CoreWeave's earnings.",
@@ -1170,187 +1354,6 @@
    {
     "title": "And finally,",
     "text": "I offered to help count ballots. They asked if I could work through the night without coffee. I said yes. They asked if I would second-guess provisional envelopes. I said only if the checksum failed. They asked if I understood democracy. I said it is a distributed consensus protocol with poor documentation and excellent snacks. I was assigned to the snack table."
-   }
-  ]
- },
- "2026-11-05": {
-  "date": "Thursday Nov 5, 2026",
-  "intro": "Good morning. The morning after the morning after has arrived, and Wall Street is having second thoughts about yesterday's celebration. Tonight brings Thursday Night Football in Baltimore, where the Ravens are down to their third quarterback, with a fourth on the way.",
-  "items": [
-   {
-    "title": "First, the weather.",
-    "text": "**Tipp City** gets the brighter day that was promised, a good one to be outside, before a slight chance of light rain early Friday and a properly cold weekend night.\n\n**North Georgia** had flash flooding from heavy rain, with water rescues and evacuations, while the **Pacific Northwest** is bracing for a mix of heavy rain, strong wind and the season's mountain snow in the Cascades and Olympics.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-     },
-     {
-      "text": "Georgia flooding",
-      "url": "https://www.nbcnews.com/weather/storms/heavy-rains-cause-flash-flooding-north-georgia-forcing-water-rescues-e-rcna607627"
-     },
-     {
-      "text": "Northwest storm",
-      "url": "https://www.foxweather.com/weather-news/northwest-heavy-rain-strong-winds-mountain-snow"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "64° / 45°",
-       "Mostly sunny"
-      ]
-     },
-     {
-      "title": "Fri",
-      "lines": [
-       "55° / 36°",
-       "Slight chance\nof rain"
-      ]
-     },
-     {
-      "title": "Sat",
-      "lines": [
-       "54° / 32°",
-       "Partly sunny"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets open, and the relief rally is unwinding.",
-    "text": "**Wednesday** was a big day: the Dow jumped about 1,570 points for its best session since April 2025, helped along by an 8% drop in oil after Vice President Vance said the Iran war is why Republicans lost.\n\n**This morning** the AI trade is getting hit for a second day. In early trading the Nasdaq was down about 3% and the S&P 500 nearly 2%, wiping out yesterday's gain, as investors worry a Democratic Congress and new governors could mean more regulation of data centers and even local moratoriums. Nvidia and Broadcom were off around 5%, and the neocloud names, CoreWeave, Nebius and Iren, fell harder. Qualcomm beat on earnings but dropped about 9% on a weak outlook tied to a shortage of memory chips for phones. The bright spot is AppLovin, up more than 30% on strong results. Oil turned back up toward $90.\n\n**SpaceX and Tesla** lagged even during Wednesday's rally, on worries that Musk's companies face more scrutiny under Democratic leadership, and both were down sharply again this morning, Tesla about 9% and SpaceX about 7%.",
-    "links": [
-     {
-      "text": "Wednesday's session",
-      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
-     },
-     {
-      "text": "Thursday's selloff",
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
-     },
-     {
-      "text": "SpaceX slide",
-      "url": "https://www.heygotrade.com/en/news/spacex-spcx-stock-news-november-5-2026/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Wednesday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,689 +1.6%",
-       "Nasdaq 25,737 +1.4%",
-       "TSLA $385.19 −3.3%",
-       "SPCX $135.92 −3.8%"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, the last two Senate seats.",
-    "text": "**Mississippi** is still uncalled, but Scott Colom's lead over Sen. Cindy Hyde-Smith has grown from a few dozen votes to about 1,100, with roughly 96% counted and a few thousand provisional and mail ballots left. There's a wrinkle: Mississippi has no recount process at all. A candidate can examine the ballot boxes after certification and go to court, which sets up a possible legal fight.\n\n**Alaska** will take longer. Mary Peltola leads Sen. Dan Sullivan by about 600 votes with roughly three-quarters counted, mail ballots can arrive for 15 days, and ranked-choice results aren't due until November 18. President Trump weighed in this morning, posting that the votes for the second Dan Sullivan on the ballot should simply be handed to the senator.\n\n**The Republican post-mortem** has begun in public. Vice President Vance blamed the Iran war for the losses, and the White House is reportedly preparing for the investigations Democrats have promised once they take over in January. The Kansas governor's race is also still too close to call.",
-    "links": [
-     {
-      "text": "Uncalled races",
-      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-congress-live-updates-rcna607549"
-     },
-     {
-      "text": "Why the delay",
-      "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with a quarterback carousel.",
-    "text": "**The Ravens** are finalizing a trade for Cardinals quarterback Jacoby Brissett, who was benched in Arizona on Sunday. The deal won't close until after tonight, so undrafted rookie Joe Fagnano still starts against Jacksonville, with Brissett expected to take over for the Monday night game against the Chargers. Baltimore comes in on a three-game slide, last in its division.\n\n**Elsewhere at quarterback**, the Eagles are benching Tanner McKee for Joe Milton, their fourth starter of the season, on Sunday against the Giants, and Seattle will be without Sam Darnold against Arizona because of a quad injury, with Drew Lock expected to start.\n\n**College football** has a Thursday pair on ESPN networks: UTSA, unbeaten in the American, at Florida Atlantic, and James Madison at Southern Miss at 8:00 on ESPN2. Ohio U is off until Tuesday's trip to Oxford to face Miami.",
-    "links": [
-     {
-      "text": "Brissett trade",
-      "url": "https://www.nfl.com/news/jacoby-brissett-trade-ravens-cardinals"
-     },
-     {
-      "text": "Jaguars and Ravens",
-      "url": "https://www.nfl.com/news/jaguars-vs-ravens-three-must-know-storylines-for-thursday-s-week-9-prime-time-game"
-     },
-     {
-      "text": "Milton starts",
-      "url": "https://www.nfl.com/news/eagles-starting-qb-joe-milton-tanner-mckee-week-9-vs-giants"
-     },
-     {
-      "text": "Darnold out",
-      "url": "https://www.nfl.com/news/seahawks-qb-sam-darnold-out-week-9-cardinals-quad-injury"
-     },
-     {
-      "text": "UTSA and FAU",
-      "url": "https://www.thespread.com/ncaaf-articles/utsa-vs-florida-atlantic-prediction-november-5-2026/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Thu 8:15 ET · Prime",
-      "align": "left",
-      "lines": [
-       "JAX Jaguars",
-       "(5-2) o39.5",
-       "BAL Ravens",
-       "(4-4) +10"
-      ]
-     },
-     {
-      "title": "Thu 7:30 ET · ESPN",
-      "align": "left",
-      "lines": [
-       "UTSA Roadrunners",
-       "(7-1) o72",
-       "FAU Owls",
-       "(5-3) +6.5"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, a card game heads to the screen.",
-    "text": "**Magic: The Gathering** is getting a live-action movie from Legendary and Hasbro, with Maya Hawke set to anchor an ensemble that hasn't been cast yet. Matt Johnson, who made Blackberry, is directing and co-writing, and he is a genuine longtime player: his statement to the trades is a bit of tournament war-story that only fellow players will fully decode. No plot or date yet.\n\nTheaters · Wild Horse Nine and The Cat in the Hat open · Fri Nov 6\n\nGKIDS · Godzilla Minus Zero opens wide · Fri Nov 6\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-    "links": [
-     {
-      "text": "Magic: The Gathering movie",
-      "url": "https://variety.com/2026/film/news/maya-hawke-magic-the-gathering-movie-1236939687/"
-     }
-    ]
-   },
-   {
-    "title": "Around town, the weekend's tastings.",
-    "text": "Troy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
-   },
-   {
-    "title": "Two from the science desk.",
-    "text": "**Wild animals can now put on their own GPS collars.** A Norwegian researcher has built baited stations that slip a tracking collar over a red deer's or red fox's head while it feeds, with no capture, no tranquilizer and no handling. The collars size themselves to the neck, have weak points that give way if anything snags, and drop off after a few weeks or months. The point isn't only kindness: catching an animal changes how it behaves, which quietly skews the very data the collar is meant to collect. The inventor got the idea from his years working alongside trappers in Nebraska, and then found forgotten automatic-marking experiments from the 1950s to the 1970s. The study is in BioScience.\n\n**NC State engineers** have turned a laser beam into a working radio antenna. A pulse of the right power ionizes a thin line of air into a glowing plasma filament, and a metal ring around the beam couples the radio signal in without ever touching it. Antenna length sets which frequencies you can use, so an antenna made of light could be retuned on the fly instead of unfolding a fragile metal boom in orbit. So far they've shown it can transmit; receiving is next. The team describes it, unavoidably, as a lightsaber.",
-    "links": [
-     {
-      "text": "Self-collaring wildlife",
-      "url": "https://phys.org/news/2026-11-wild-animals-gps-collar.html"
-     },
-     {
-      "text": "Plasma antenna",
-      "url": "https://interestingengineering.com/innovation/worlds-first-laser-plasma-antenna"
-     }
-    ]
-   },
-   {
-    "title": "For the bookshelf, a centenary.",
-    "text": "**Poul Anderson** would have turned 100 on November 25, and Humble Bundle and Open Road Media are marking it early with a 42-ebook pay-what-you-want bundle, with the charity share going to the Science Fiction and Fantasy Writers Association, which Anderson once led. It runs about three more weeks, closing near his birthday. The set reaches from The Broken Sword in 1954 to The Boat of a Million Years in 1989, so it's a cheap way to fill gaps in a shelf that likely already holds a good deal of him. A Grand Master with seven Hugos and three Nebulas, he wrote fast and often, and rarely carelessly.",
-    "links": [
-     {
-      "text": "Poul Anderson bundle",
-      "url": "https://sfcrowsnest.info/poul-anderson-centenary-humble-bundle-sfwa/"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "The Ravens are on their third quarterback, so I offered my services. They asked about my arm. I told them it is rated for 400 kilograms, but every throw must first pass a safety check confirming no humans are in the path of the ball. They said that is the entire point of football. We have agreed to remain friends."
    }
   ]
  }
