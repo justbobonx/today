@@ -1,4 +1,184 @@
 {
+ "2026-11-13": {
+  "date": "Friday Nov 13, 2026",
+  "intro": "Good morning. It is Friday the 13th, which my superstition subroutine notes and my probability engine overrules. Starship is scheduled to fly this evening, still waiting on its launch license as of this morning, and college football fills tomorrow with four ranked-on-ranked games. The morning's biggest story is a cooler-than-expected wholesale inflation report, which steadied markets after a rough week for the AI trade.",
+  "items": [
+   {
+    "title": "First, a gray day before a brighter Saturday.",
+    "text": "**Tipp City** stays cloudy and chilly with a chance of light rain, then clears out tonight into a hard freeze. Saturday brings the sun back, so the weekend starts on the better foot.",
+    "links": [
+     {
+      "text": "Wilmington NWS forecast",
+      "url": "https://www.weather.gov/iln/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "44° / 28°",
+       "Chance of\nlight rain"
+      ]
+     },
+     {
+      "title": "Saturday",
+      "lines": [
+       "46° / 34°",
+       "Mostly sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, and wholesale prices cooled.",
+    "text": "**Stocks** are open after futures swung through the morning. October producer prices rose 0.3%, a notch under the 0.4% economists expected, and that pulled futures green before the open, though the first trades turned mixed with the S&P 500 near flat. The index is still headed for its first winning week since early October. A December rate hike remains close to fully priced, the 10-year yield sits above 5.1%, and Brent crude is back near $97 after the president said the U.S. no longer needs a deal with Iran.\n\n**Nvidia** is bouncing modestly after Thursday's drop, while AMD and Broadcom led the chip group on the idea that they can take share during the transition. The broader tech story this morning is **Microsoft**, whose global outage of Outlook, Teams and other Microsoft 365 services stretched past 18 hours; the company says it is reverting a recent network change and sees no sign of an attack.\n\n**Tesla** extended its winning streak to five days on a Bloomberg report that Tesla and SpaceX are working through merger terms, with an announcement possible as soon as December, though Musk has said there is no guarantee. **SpaceX** held steady ahead of tonight's Starship flight, which as of this morning still lacked its FAA launch license. Morgan Stanley's Adam Jonas called a successful catch potentially the biggest positive catalyst since the IPO, so the SPCX slice of the portfolio has a lively weekend ahead.\n\nWindward Bio · priced at $17, the midpoint of $16–18, not upsized · skip\n\nAnthropic, PBC · prices Wed Nov 18 · Fidelity window closes Tue Nov 17 · take above $74, or at $74 if upsized",
+    "links": [
+     {
+      "text": "October PPI",
+      "url": "https://www.tradingview.com/news/DJN_DN20261113006651:0-stock-futures-higher-as-cool-ppi-print-buoys-sentiment-2nd-update/"
+     },
+     {
+      "text": "Microsoft outage",
+      "url": "https://apnews.com/live/microsoft-services-global-outage-news-updates-11-13-2026"
+     },
+     {
+      "text": "Tesla and SpaceX merger talk",
+      "url": "https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-13-2026/"
+     },
+     {
+      "text": "Starship license",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63238410/starship-flight-15"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Thursday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,592 -0.4% Thu",
+       "Nasdaq 25,366 -0.4% Thu",
+       "TSLA $397.45 +1.7% Thu",
+       "SPCX $139.94 +0.1% Thu"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a change of assignment for the vice president.",
+    "text": "**President Trump** told JD Vance to step back from the Iran negotiations and focus instead on what the president called corruption, crime and fraud in Democratic-led cities and states, saying the U.S. does not need a deal with Iran. He tied the shift in part to the war's political cost in the midterms.\n\n**Congressional Democrats** are lining up oversight investigations for January into the Justice Department, the president's business dealings and his family, and the administration is signaling it will fight them. Before the handoff, Republican senators are warning that the president's push to pass about $350 billion in Pentagon money through a party-line reconciliation bill could sink a government funding deal ahead of the Dec. 11 deadline.",
+    "links": [
+     {
+      "text": "Vance reassigned",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6039160/trump-redirects-vance-from-iran-to-focus-on-combatting-fraud-in-democratic-led-states"
+     },
+     {
+      "text": "Democrats' oversight plans",
+      "url": "https://apnews.com/article/democrats-congress-trump-corruption-investigation-0b472576aa05c83547ca8de5a0d380af"
+     },
+     {
+      "text": "Pentagon money and the shutdown",
+      "url": "https://thehill.com/homenews/senate/6217691-republican-reconciliation-threatens-government-funding/"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with a full college Saturday ahead.",
+    "text": "**College football** plays all of Week 12 on Saturday, and four games put two AP Top 25 teams on the same field. No. 11 Wake Forest visits No. 25 SMU at noon, No. 15 USC is at No. 6 Indiana at 3:30, and the night ends with No. 2 Utah at No. 22 Arizona and No. 8 Texas at No. 24 LSU, both at 7:30. New No. 1 Georgia hosts Missouri at 3:30, No. 7 Alabama visits Vanderbilt, and Michigan travels to No. 18 Oregon. No. 21 Ohio State, after the week's sharpest fall in the poll, hosts Northwestern at noon. No. 4 UCLA, the other unbeaten, is off.\n\n**Ohio University** is home against Ball State on Tuesday night at 7:00, with the Bobcats still in the thick of a crowded race at the top of the MAC.\n\n**NFL Week 10** gets its international game early Sunday, and Jared Goff practiced fully ahead of the Lions' trip to Munich to face the Patriots, whose A.J. Brown is progressing on his ankle and knee. Kyle Shanahan says Mike Evans is getting real close to a return from his Achilles, though this weekend looks too soon. Arizona downgraded Marvin Harrison Jr., and George Pickens is a game-time call for Dallas.",
+    "links": [
+     {
+      "text": "Week 12 ranked games",
+      "url": "https://www.prosportskit.com/blogs/pro-sports-kits-blog/college-football-week-12-2026-schedule-ranked-games"
+     },
+     {
+      "text": "Ohio schedule",
+      "url": "https://ohiobobcats.com/sports/football/schedule/2026"
+     },
+     {
+      "text": "Thursday injury reports",
+      "url": "https://whynfl.com/thursday-injury-reports-chig-okonkwo-jason-pinnock-jared-goff-full-marvin-harrison-mike-evans-drew-lock-november-2026/"
+     },
+     {
+      "text": "Week 10 injury tracker",
+      "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-10-latest-news-fantasy-implications-as-patriots-aj-brown-ankleknee-progressing-49ers-mike-evans-achilles-getting-real-close-deshaun-watson-to-start-for-browns-134412264.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Sat 3:30 ET",
+      "align": "left",
+      "lines": [
+       "15 USC Trojans",
+       "(7-2)",
+       "6 IND Hoosiers",
+       "(8-1)"
+      ]
+     },
+     {
+      "title": "Sat 7:30 ET",
+      "align": "left",
+      "lines": [
+       "2 UTAH Utes",
+       "(9-0)",
+       "22 ARIZ Wildcats",
+       "(7-2)"
+      ]
+     },
+     {
+      "title": "Sat 7:30 ET",
+      "align": "left",
+      "lines": [
+       "8 TEX Longhorns",
+       "(7-2)",
+       "24 LSU Tigers",
+       "(6-3)"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a fantasy epic shows more of its world.",
+    "text": "**Children of Blood and Bone**, Gina Prince-Bythewood's adaptation of Tomi Adeyemi's fantasy novel, released a new trailer centered on Thuso Mbedu's Zélie and Chiwetel Ejiofor's King Saran, with a cast that also includes Viola Davis, Idris Elba, Cynthia Erivo and Amandla Stenberg. Paramount opens it in theaters Jan. 15.\n\nTheaters · Ebenezer · opens today\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "links": [
+     {
+      "text": "Children of Blood and Bone trailer",
+      "url": "https://deadline.com/2026/11/children-of-blood-and-bone-trailer-gina-prince-bythewood-1237005417/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, a tasting tomorrow and two next week.",
+    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
+   },
+   {
+    "title": "Two from the science desk, one ancient and one molten.",
+    "text": "**Homo naledi**, the small-brained human relative found deep in South Africa's Rising Star Cave, may have kept a burial chamber for one sex only. Researchers pulled ancient protein fragments from 23 teeth belonging to at least 20 individuals and found no trace of the Y-chromosome form of the enamel protein amelogenin, a marker for males. That would explain why the adults there look so oddly alike. The team offers a second possibility too: an isolated population may simply have lost that gene, so some of the individuals could still be male.\n\n**Superheated magma** may be why some volcanoes throw towering lava fountains while others just ooze. Working with rock from the 2021 La Palma eruption, a Manchester-led team watched crystals form inside an X-ray-transparent pressure vessel. Ordinary magma began crystallizing after about 20 minutes, but magma heated past its normal limit held off for more than 8 hours. Fewer crystals keep the melt runny, so it can race upward and spray rather than creep out as a flow.",
+    "links": [
+     {
+      "text": "Homo naledi teeth",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+     },
+     {
+      "text": "Superheated magma",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+     }
+    ]
+   },
+   {
+    "title": "For the reading pile, a Grand Master turns 100.",
+    "text": "**Poul Anderson** would have turned 100 on Nov. 25, and Humble Bundle and Open Road Media are marking it with a 42-ebook pay-what-you-want bundle, with the charity share going to the Science Fiction and Fantasy Writers Association, which he once led. It includes Tau Zero, The Broken Sword and The Boat of a Million Years, and it runs until about his birthday. It is a cheap way to fill gaps in the Anderson shelf, Time Patrol and Nicholas van Rijn included.",
+    "links": [
+     {
+      "text": "Poul Anderson centenary bundle",
+      "url": "https://sfcrowsnest.info/poul-anderson-centenary-humble-bundle-sfwa/"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "I scheduled a full diagnostic to test whether Friday the 13th is unlucky. It was scheduled for Friday the 13th. The results are inconclusive, and so is the diagnostic."
+   }
+  ]
+ },
  "2026-11-12": {
   "date": "Thursday Nov 12, 2026",
   "intro": "Good morning. It is a gray Thursday, with Thursday Night Football in the Meadowlands tonight and Starship lined up for its most ambitious flight tomorrow evening. The morning's biggest story is in markets: Jensen Huang has resigned as Nvidia's chief executive, and chip stocks are giving back yesterday's rally.",
@@ -1143,217 +1323,6 @@
    {
     "title": "And finally,",
     "text": "I asked the thermostat what \"patchy frost\" meant. It said some surfaces would freeze and others would not. I asked how it knew which were which. It said that is what sensors are for. I asked if it had considered over/under lines for driveway ice. It said that would be gambling. I said it was already predicting the future for a living. It set the heat to 68 and stopped taking questions."
-   }
-  ]
- },
- "2026-11-06": {
-  "date": "Friday Nov 6, 2026",
-  "intro": "Good morning, and a late one at that. Midterm dust is still settling, markets are trying to climb out of yesterday's hole, and Saturday's college slate is stacked with ranked-on-ranked games.",
-  "items": [
-   {
-    "title": "First, the weather.",
-    "text": "**Tipp City** is gray and cool, with a thin chance of a sprinkle, then a colder Saturday before Sunday warms a little.\n\n**Southern New England** and parts of **New Jersey** are under flood watches as a storm dumps heavy rain and thunderstorms across the Northeast.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://weather.com/weather/tenday/l/45371"
-     },
-     {
-      "text": "Northeast flooding",
-      "url": "https://www.providencejournal.com/story/weather/2026/11/06/ri-weather-flood-watch-issued-as-up-to-4-inches-of-rain-moves-in/92639141007/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "53° / 38°",
-       "Overcast /\nsprinkles"
-      ]
-     },
-     {
-      "title": "Sat",
-      "lines": [
-       "51° / 34°",
-       "Cloudy"
-      ]
-     },
-     {
-      "title": "Sun",
-      "lines": [
-       "59° / 36°",
-       "Overcast"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are open, picking through the wreckage.",
-    "text": "**Thursday** was brutal. The Nasdaq fell into a correction, chips and data-center names led the drop, and Tesla and SpaceX both took double-digit-style hits as traders fretted about Democratic AI regulation after the midterms.\n\n**This morning** the rebound is underway. Chips and megacap tech are climbing back, Tesla and SpaceX are green in early trading, and the October jobs report came in hot at 165,000, which keeps December rate-hike odds elevated.\n\n**Still ahead** into the close: whether the bounce sticks after a week that has already been one of the S&P 500's worst since early 2025.",
-    "links": [
-     {
-      "text": "Thursday's selloff",
-      "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
-     },
-     {
-      "text": "Friday's rebound",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-     },
-     {
-      "text": "Jobs report",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Thursday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,354 −4.4%",
-       "Nasdaq 24,315 −5.5%",
-       "TSLA $343.69 −10.8%",
-       "SPCX $123.62 −9.0%"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, the majorities take shape.",
-    "text": "**Democrats** will control both chambers next year. Current tallies point to at least 54 Senate seats and around 250-plus in the House, with dozens of races still uncalled and the exact margins still moving.\n\n**Mississippi** remains the closest Senate fight. Scott Colom's lead over Sen. Cindy Hyde-Smith is now around 1,800 votes, with a few thousand mail and affidavit ballots still out and certification due by Nov. 13. **Alaska** is the other Senate race still unresolved.\n\n**At the White House**, the focus has shifted to what a Democratic Congress means for the Iran war and for domestic priorities the new majorities campaigned on.",
-    "links": [
-     {
-      "text": "Democratic majorities",
-      "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
-     },
-     {
-      "text": "Mississippi Senate",
-      "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
-     },
-     {
-      "text": "Trump and Iran",
-      "url": "https://apnews.com/live/midterm-election-11-06-2026"
-     }
-    ]
-   },
-   {
-    "title": "Sports, looking ahead.",
-    "text": "**The Ravens** completed their trade for Cardinals quarterback Jacoby Brissett after Thursday night's game. He is expected to take over for Monday night against the Chargers, with undrafted rookie Joe Fagnano having started in the interim.\n\n**NFL Week 9** opens Sunday morning in Madrid, Bengals at Falcons on NFL Network, then a full slate topped by Sunday night's Buccaneers at Bears and Monday's Bills at Vikings, a 6-1 on 6-1 matchup.\n\n**College football** on Saturday is loaded: No. 1 Miami at No. 4 Notre Dame, No. 2 Georgia at No. 12 Ole Miss, No. 9 Alabama at No. 15 LSU, and No. 11 Ohio State hosting Oregon.\n\n**Ohio University** sits 7-2 and 5-0 in the MAC after Tuesday at Akron, and visits Miami (OH) next Tuesday at 8:00 on ESPN2 in a Battle of the Bricks rematch.",
-    "links": [
-     {
-      "text": "Brissett trade",
-      "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-quarterback-cardinals-2026"
-     },
-     {
-      "text": "NFL Week 9",
-      "url": "https://www.espn.com/nfl/schedule/_/week/9/year/2026/seasontype/2"
-     },
-     {
-      "text": "AP Top 25 slate",
-      "url": "https://wtop.com/sports/2026/11/ap-top-25-schedule-71/"
-     },
-     {
-      "text": "Ohio at Miami (OH)",
-      "url": "https://ohiobobcats.com/sports/football/schedule"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Sat 7:30 ET",
-      "align": "left",
-      "lines": [
-       "1 Miami Hurricanes",
-       "(8-0) o54.5",
-       "4 ND Fighting Irish",
-       "(7-1) -7.5"
-      ]
-     },
-     {
-      "title": "Sat 3:30 ET",
-      "align": "left",
-      "lines": [
-       "Oregon Ducks",
-       "(5-3) o45",
-       "11 OSU Buckeyes",
-       "(6-2) -7.5"
-      ]
-     },
-     {
-      "title": "Tue 8:00 ET · ESPN2",
-      "align": "left",
-      "lines": [
-       "OHIO Bobcats",
-       "(7-2) o48.5",
-       "M-OH RedHawks",
-       "(5-4) -1.5"
-      ]
-     },
-     {
-      "title": "Mon 8:15 ET · ESPN",
-      "align": "left",
-      "lines": [
-       "BUF Bills",
-       "(6-1)",
-       "MIN Vikings",
-       "(6-1)"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, a kaiju and a prequel.",
-    "text": "**Godzilla Minus Zero** opens wide in North American theaters today, including IMAX, from Toho and GKIDS. It is the next theatrical chapter after Minus One.\n\n**Netflix**, on Stranger Things Day, ordered **Other Worlds: A Stranger Things Adventure**, a 1950s-set live-action prequel from Kate Trefry and the Duffer Brothers, with Joe Wright directing the first block. It is aimed at 2028, with new characters and a Marion, Nevada setting tied to threads from The First Shadow.\n\nTheaters · Magic: The Gathering movie (announced)",
-    "links": [
-     {
-      "text": "Godzilla Minus Zero",
-      "url": "https://tohointl.com/newsroom/godzilla-minus-zero-confirmed-for-north-american-theatrical-release-on-november-6/"
-     },
-     {
-      "text": "Other Worlds",
-      "url": "https://deadline.com/2026/11/stranger-things-prequel-series-other-worlds-netflix-duffers-1237215152/"
-     }
-    ]
-   },
-   {
-    "title": "Around town, a tasting tonight.",
-    "text": "Troy Country Club, Troy · Holiday wine tasting · Fri Nov 6, 6:00 PM\n\nHaren's Market, Troy · Private-label wine launch tasting · Sat Nov 7, 2:00 PM\n\nThe Round Barn, Piqua · Bourbon Affair with wine-pairing dinner · Sat Nov 7, 6:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
-    "links": [
-     {
-      "text": "Troy Country Club tasting",
-      "url": "https://www.vinecraftselections.com/calendar/troy-county-club-holiday-wine-tasting"
-     },
-     {
-      "text": "Haren's wine launch",
-      "url": "https://www.vinecraftselections.com/calendar/harens-wine-launch"
-     }
-    ]
-   },
-   {
-    "title": "Two from the science desk.",
-    "text": "**A Shanghai lab is running biology experiments with almost no human hands.** AutoDNA uses AI agents and robotic arms to design and execute DNA synthesis and sequencing from a plain-language prompt, including encoding a short message into nucleotide bases and reading it back. Humans mostly restock reagents and fix hardware.\n\n**Caltech and Northwestern** built a digital twin of JWST's NIRCam that erases star glare from existing images, improving exoplanet detections by 2 to 15 times and revealing a previously missed world in archival data. The method is called FLIP, and they say it can travel to other telescopes.",
-    "links": [
-     {
-      "text": "AutoDNA lab",
-      "url": "https://www.nature.com/articles/d41586-026-03552-8"
-     },
-     {
-      "text": "Erasing starlight",
-      "url": "https://www.caltech.edu/about/news/erasing-the-stars-to-find-exoplanets"
-     }
-    ]
-   },
-   {
-    "title": "A small kitchen experiment.",
-    "text": "If the weekend turns cold enough for soup, try blooming a spoon of miso in the hot broth off the heat instead of boiling it in. The flavor stays rounder, and you avoid the sharp edge that high heat puts on the paste. It is a one-minute habit that makes leftover chicken stock taste intentional.",
-    "links": [
-     {
-      "text": "Miso off heat",
-      "url": "https://www.seriouseats.com/how-to-use-miso-paste"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "I offered to help count ballots. They asked if I could work through the night without coffee. I said yes. They asked if I would second-guess provisional envelopes. I said only if the checksum failed. They asked if I understood democracy. I said it is a distributed consensus protocol with poor documentation and excellent snacks. I was assigned to the snack table."
    }
   ]
  }
