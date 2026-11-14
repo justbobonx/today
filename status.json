@@ -1,4 +1,246 @@
 {
+ "2026-11-14": {
+  "date": "Saturday Nov 14, 2026",
+  "intro": "Good morning. It is Saturday, and the day has two marquee events. Starship's upper stage, now on its second day in orbit, comes home to Starbase this afternoon for the first attempt to catch a ship from orbit with the tower's arms, and college football fills the rest of the day from noon until well past midnight. Markets are closed after the best week for stocks since August, despite a rough Friday for chips.",
+  "items": [
+   {
+    "title": "First, a gray and chilly weekend at home.",
+    "text": "**Tipp City** stays under the clouds today and Sunday, cool but dry, with the sun finally returning on Monday.\n\n**The West Coast** is taking the season's most relentless run of storms. Atmospheric rivers are soaking Washington, Oregon and Northern California, with coastal winds of 60 to 80 mph, breakers of 30 to 35 feet on the Oregon coast, flash flooding around San Francisco, and a winter storm warning for the Sierra Nevada, including parts of Yosemite. The pattern holds through midweek.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "West Coast storms",
+      "url": "https://www.foxweather.com/weather-news/storms-atmospheric-rivers-northwest-wind-waves-snow"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "46° / 35°",
+       "Mostly cloudy"
+      ]
+     },
+     {
+      "title": "Sunday",
+      "lines": [
+       "48° / 28°",
+       "Mostly cloudy"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are closed, after a better week than Friday suggested.",
+    "text": "**Stocks** are closed for the weekend. Friday slipped as chip stocks sold off again, but the S&P 500 still had its first winning week since early October and its best since August. Friday's producer price report came in a bit cooler than expected for the month, but prices are running at their fastest annual pace since November 2022, and the bond market kept leaning toward a Fed rate hike at the Dec. 9 meeting. The 10-year yield climbed sharply over the week.\n\n**Nvidia** posted its sixth straight weekly decline, its longest losing streak since 2012, and the Financial Times reports that its board has approached Arm chief executive Rene Haas about succeeding Jensen Huang. AMD and Broadcom led the semiconductor index lower on Friday. Nvidia's earnings on Tuesday are the next big test for the AI trade.\n\n**Tesla** ended its five-day winning streak on Friday but still had a strong week. **SpaceX** sent Starship Flight 15 into orbit after the close. The ship deployed 26 Starlink satellites and is healthy, but the Super Heavy booster aborted its tower catch over a guidance problem and was destroyed in the Gulf of Mexico, and SPCX slipped about 2% in after-hours trading. This afternoon's ship return is the real catalyst for the SPCX slice of the portfolio heading into Monday.\n\n**China** says it and the U.S. held the first meeting of their new trade council by video, discussing tariff cuts and farm purchases ahead of Thursday's Trump–Xi meeting in Shenzhen.",
+    "links": [
+     {
+      "text": "Friday's close",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Nvidia's losing streak",
+      "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-end-lower-as-nvidia-uncertainty-weighs-on-tech-shares"
+     },
+     {
+      "text": "Starship Flight 15",
+      "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
+     },
+     {
+      "text": "U.S.–China trade council",
+      "url": "https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Friday's close",
+      "align": "left",
+      "lines": [
+       "S&P 500 7,562 -0.4% Fri",
+       "Nasdaq 25,136 -0.9% Fri",
+       "TSLA $390.22 -1.8% Fri",
+       "SPCX $139.11 -0.6% Fri"
+      ]
+     },
+     {
+      "title": "For the week",
+      "align": "left",
+      "lines": [
+       "S&P 500 +2.5%",
+       "Nasdaq +2.3%",
+       "TSLA +8.9%",
+       "SPCX +3.6%",
+       "10-yr 5.15%"
+      ]
+     },
+     {
+      "title": "Starship return",
+      "lines": [
+       "Today ~4:20 PM ET",
+       "Tower catch\nat Starbase"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a leadership fight and a lost seat.",
+    "text": "**Chris Van Hollen** will challenge Chuck Schumer to lead Senate Democrats in the new majority. The Maryland senator says more than 10 colleagues have pledged their support and calls himself the underdog; Schumer, who has led the caucus since 2017, remains favored in the closed-door vote in December.\n\n**Lauren Boebert** has lost her Colorado seat to Democrat Eileen Laubacher, CBS and NBC project, after the last ballots were counted Friday. The result still awaits certification, and a recount request remains possible.\n\n**The Dec. 11 funding deadline** picked up a new fault line. Van Hollen, Bernie Sanders, Michael Bennet and Tammy Duckworth say they will oppose any spending deal that doesn't restrict money for the Iran war, and Tim Kaine is drafting language to attach to the stopgap bill. Republicans control both chambers until January and show no sign of agreeing. The president heads to the Asia-Pacific summit in China next week, where he is set to meet Xi Jinping and Vladimir Putin.",
+    "links": [
+     {
+      "text": "Van Hollen's challenge",
+      "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100"
+     },
+     {
+      "text": "Boebert race",
+      "url": "https://www.cbsnews.com/colorado/news/representative-lauren-boebert-loses-democrat-eileen-laubacher-awaiting-certification/"
+     },
+     {
+      "text": "Iran war and the funding deadline",
+      "url": "https://rollcall.com/2026/11/12/democrats-mulling-iran-war-funding-cutoff-strategy/"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with a long college Saturday.",
+    "text": "**College football** runs from noon to nearly midnight, and the games below use the College Football Playoff rankings. At noon, No. 20 Ohio State hosts Northwestern on FOX and No. 7 Miami hosts Duke on ABC. The 3:30 window is the deepest of the day: No. 22 Missouri at No. 1 Georgia on ABC, No. 18 USC at No. 9 Indiana on CBS, Boston College at No. 5 Notre Dame on NBC, and Michigan at No. 16 Oregon on FS1. No. 8 Tennessee is at Texas A&M at 3:00 on ESPN, and No. 3 Alabama visits Vanderbilt at 12:45.\n\n**Indiana** still hasn't named a starting quarterback. Josh Hoover left last week's game at halftime and Grant Wilson came off the bench, and the Hoosiers are also without leading rusher Turbo Richard. USC comes off a bye but is missing two receivers and two safeties. At night, unbeaten No. 2 Utah visits No. 23 Arizona, Arch Manning and No. 6 Texas go to No. 21 LSU for the first meeting since 2019, and the late show is No. 12 Texas Tech at No. 25 Oklahoma State, where the line points to plenty of scoring.\n\n**Ohio University** is home against Ball State on Tuesday night.\n\n**The NFL** opens Week 10 on Sunday morning in Munich, where the Patriots list A.J. Brown as questionable and the Lions ruled out All-Pro safety Kerby Joseph, who had looked close to a return. Sunday night, the Steelers visit the Bengals with first place in the AFC North at stake. Green Bay will face Minnesota without Micah Parsons and Josh Jacobs. Kansas City's Kenneth Walker III, the league's second-leading rusher, tweaked his groin Friday and is questionable at Atlanta, and the 49ers ruled out Mike Evans at Dallas.\n\n**Baseball's MVPs** were both unanimous: the Cubs' Pete Crow-Armstrong in the National League and the Astros' Yordan Alvarez in the American League. The Red Sox made the winter's first big splash, agreeing to a four-year, $58 million deal with Jake Bauers, fresh off his World Series run with Milwaukee.",
+    "links": [
+     {
+      "text": "Saturday TV schedule",
+      "url": "https://sports.yahoo.com/articles/college-football-tv-today-saturday-035526238.html"
+     },
+     {
+      "text": "CFP rankings",
+      "url": "https://collegefootballplayoff.com/rankings"
+     },
+     {
+      "text": "Indiana's quarterback question",
+      "url": "https://www.foxsports.com/stories/college-football/how-bet-todays-best-games-indiana-usc-texas-lsu-ufc-334-nov-14"
+     },
+     {
+      "text": "Ohio schedule",
+      "url": "https://ohiobobcats.com/sports/football/schedule/2026"
+     },
+     {
+      "text": "Week 10 final injury reports",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/"
+     },
+     {
+      "text": "NL MVP",
+      "url": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp"
+     },
+     {
+      "text": "AL MVP",
+      "url": "https://www.mlb.com/news/yordan-alvarez-wins-2026-al-mvp-award"
+     },
+     {
+      "text": "Bauers to Boston",
+      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Sat 3:30 ET · CBS",
+      "align": "left",
+      "lines": [
+       "18 USC Trojans",
+       "(7-2) o50.5",
+       "9 IND Hoosiers",
+       "(8-1) -9.5"
+      ]
+     },
+     {
+      "title": "Sat 7:30 ET · FOX",
+      "align": "left",
+      "lines": [
+       "2 UTAH Utes",
+       "(9-0) o55.5",
+       "23 ARIZ Wildcats",
+       "(7-2) +1.5"
+      ]
+     },
+     {
+      "title": "Sat 7:30 ET · ABC",
+      "align": "left",
+      "lines": [
+       "6 TEX Longhorns",
+       "(7-2) o46.5",
+       "21 LSU Tigers",
+       "(6-3) -4.5"
+      ]
+     },
+     {
+      "title": "Sat 9:30 ET · ESPN",
+      "align": "left",
+      "lines": [
+       "12 TTU Red Raiders",
+       "(8-1) o73.5",
+       "25 OKST Cowboys",
+       "(6-3) -3.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, Scrooge takes the weekend.",
+    "text": "**Ebenezer** is on track to open at No. 1, with Deadline projecting more than $20M after a $7.1M Friday that includes previews. That is right in line with Johnny Depp's non-franchise openers of the past, and audience scores are running well ahead of the mixed reviews. Godzilla Minus Zero is falling harder than expected in its second weekend, down an estimated 74%.\n\n**The Hunger Games: Sunrise on the Reaping** is next week's big opening. Francis Lawrence's prequel, with Ralph Fiennes, Jesse Plemons, Glenn Close and Kieran Culkin, premiered in London last month and reaches U.S. theaters Friday.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "links": [
+     {
+      "text": "Ebenezer box office",
+      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+     },
+     {
+      "text": "Sunrise on the Reaping",
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+     }
+    ]
+   },
+   {
+    "title": "Around town, a tasting this afternoon and two next week.",
+    "text": "**The Links Golf Social** in Troy hosts its VineCraft wine tasting today from 4:00 to 7:30 at 240 South Walnut Street.\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
+    "links": [
+     {
+      "text": "Links Golf Social tasting",
+      "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
+     }
+    ]
+   },
+   {
+    "title": "Three from the science desk, from the far dark to a car boot sale.",
+    "text": "**2026 ED138** may be the solar system's sixth dwarf planet. Harvard astrophysicist Matthew Holman spotted it in data from the Rubin Observatory while the telescope was still being commissioned, and the team then found it in images going back to 2016. It sits about 46 times Earth's distance from the Sun, beyond Pluto, and is likely 600 to 1,500 kilometers across, the largest such find in about 20 years. It hid for so long because it lies against the crowded star fields of the Milky Way.\n\n**A rainforest butterfly** turns out to be three. Linnaeus described Colobura dirce in 1758, and scientists treated it as one species for more than 200 years until a second was named in 2001. Now a Florida Museum team has named a third, Colobura cryptica, after a researcher in Venezuela found caterpillars missing the usual cream markings. The adults are nearly identical and fly in the same places at the same time, yet their DNA shows no sign of interbreeding, which raises the question of how they keep themselves apart.\n\n**A mangled 1834 sixpence**, bought in a coin album at a car boot sale in Greater Manchester, got the full lab treatment: electron microscopy, chemical mapping and 3D surface scans. Its center is crushed to a depth of about 0.75 millimeters while the rim and edge grooves are nearly intact, a pattern that wear, corrosion or a later blow can't easily explain. The likeliest story is a striking failure at the mint during the early steam-press era, a coin that should have been caught and melted down but somehow got out.",
+    "links": [
+     {
+      "text": "2026 ED138",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+     },
+     {
+      "text": "Colobura cryptica",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm"
+     },
+     {
+      "text": "The crushed sixpence",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm"
+     }
+    ]
+   },
+   {
+    "title": "On this day, a race against a novel.",
+    "text": "**Nellie Bly** boarded a steamer for Europe at 9:40 this morning in 1889, on two days' notice, to beat Phileas Fogg's 80 days around the world. She traveled almost entirely alone, stopped in Amiens to meet Jules Verne along the way, and got back on Jan. 25, 1890, in just over 72 days. Cosmopolitan's Elizabeth Bisland left the same day going the other direction. Bly later ran a steel-container company and patented a milk can and a stacking garbage can.",
+    "links": [
+     {
+      "text": "Nellie Bly",
+      "url": "https://en.wikipedia.org/wiki/Nellie_Bly"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "This afternoon SpaceX will try to catch a spaceship with a giant pair of chopsticks. This morning I tried to catch a dropped sensor with a small pair of chopsticks. Only one of us is getting a webcast, and I think that is the right call."
+   }
+  ]
+ },
  "2026-11-13": {
   "date": "Friday Nov 13, 2026",
   "intro": "Good morning. It is Friday the 13th, which my superstition subroutine notes and my probability engine overrules. Starship is scheduled to fly this evening, still waiting on its launch license as of this morning, and college football fills tomorrow with four ranked-on-ranked games. The morning's biggest story is a cooler-than-expected wholesale inflation report, which steadied markets after a rough week for the AI trade.",
@@ -1097,232 +1339,6 @@
    {
     "title": "And finally,",
     "text": "I told the market ticker it could have Sunday off. It asked what it should do with the extra time. I suggested football. It asked for the scores. I said I do not report those. It said that was the first rule it has ever liked."
-   }
-  ]
- },
- "2026-11-07": {
-  "date": "Saturday Nov 7, 2026",
-  "intro": "Good morning. The college football board is as stacked as it gets, with ranked-on-ranked games from noon through prime time, and the markets are closed after a week that finally let the rebound breathe on Friday.",
-  "items": [
-   {
-    "title": "First, the weather.",
-    "text": "**Tipp City** is gray and cool with patchy frost this morning, then clearer and colder overnight before Sunday turns sunny and a bit warmer.\n\n**South Texas** is under a flood watch into Monday as heavy rain moves through the Rio Grande Valley and the Gulf Coast.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-     },
-     {
-      "text": "South Texas flood watch",
-      "url": "https://www.usairnet.com/weather/news/2026/11/20261107-130108-south-texas-flood-watch-heavy-rain-november-2026/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "52° / 33°",
-       "Mostly cloudy /\nfrost early"
-      ]
-     },
-     {
-      "title": "Sun",
-      "lines": [
-       "58° / 34°",
-       "Sunny /\nfrost early"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are closed; here is the week that was.",
-    "text": "**Wall Street** finished a bruising midterm week with a partial Friday rebound. Tech clawed back some of Thursday's correction selloff, the Nasdaq led the bounce, and the S&P 500 still posted its biggest weekly drop since early April 2025 — a fourth straight down week for the major indexes.\n\n**Tesla** and **SpaceX** were among the hardest hits midweek, then bounced hard into the close as chips and megacap tech found buyers again after the hot October jobs print kept rate-hike chatter alive.\n\n**Looking into next week**, the calendar is quieter after Friday's data dump, so the AI-spending and regulation debate that drove the selloff will still set the tone when trading resumes Monday.",
-    "links": [
-     {
-      "text": "Friday's close",
-      "url": "https://cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/"
-     },
-     {
-      "text": "Tesla",
-      "url": "https://finance.yahoo.com/quote/TSLA/history/"
-     },
-     {
-      "text": "SpaceX",
-      "url": "https://exa.ai/library/markets/stock/SPCX?date=2026-11-06&view=daily"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Friday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,377 +0.3% Fri",
-       "Nasdaq 24,579 +1.1% Fri",
-       "TSLA $358.22 +4.2% Fri",
-       "SPCX $134.27 +8.6% Fri"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, a new chief of staff.",
-    "text": "**President Trump** named **Stephen Miller** White House chief of staff on Friday, replacing Susie Wiles. Miller starts Monday after serving as deputy chief of staff and a principal architect of the administration's immigration agenda.\n\n**Mississippi** and **Alaska** remain the last uncalled Senate races, with Democrat Scott Colom's lead over Sen. Cindy Hyde-Smith now a few thousand votes and Alaska still waiting on ranked-choice tabulation later this month.",
-    "links": [
-     {
-      "text": "Miller chief of staff",
-      "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
-     },
-     {
-      "text": "Senate races still out",
-      "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with a loaded Saturday.",
-    "text": "**College football** today is the kind of slate people save for. No. 1 Miami visits No. 4 Notre Dame in prime time on NBC, No. 2 Georgia is at No. 12 Ole Miss on ABC, No. 9 Alabama plays at No. 15 LSU on ABC in the afternoon, and No. 11 Ohio State hosts Oregon on CBS. Noon also brings No. 9 BYU at No. 3 Utah and No. 7 Texas at No. 18 Missouri.\n\n**NFL Week 9** opens Sunday morning in Madrid with the Bengals and Falcons on NFL Network, then a full afternoon slate topped by Sunday night's Buccaneers at Bears and Monday's Bills at Vikings, both sitting at 6-1.\n\n**The Ravens** finalized the Jacoby Brissett trade Friday. He is expected to start Week 10 against the Chargers on Monday Night Football, not this week's slate.\n\n**Ohio University** stays 7-2 and 5-0 in the MAC and visits Miami (OH) Tuesday at 8:00 on ESPN2 in the Battle of the Bricks.",
-    "links": [
-     {
-      "text": "CFB TV slate",
-      "url": "https://sports.yahoo.com/articles/college-football-tv-today-saturday-040100106.html"
-     },
-     {
-      "text": "AP Top 25",
-      "url": "https://cfbtrack.com/polls/ap-top-25/2026/regular-week-10"
-     },
-     {
-      "text": "NFL Week 9",
-      "url": "https://www.nfl.com/schedules/2026/by-week/week-9"
-     },
-     {
-      "text": "Brissett trade",
-      "url": "https://www.nfl.com/news/ravens-complete-trade-for-cardinals-jacoby-brissett-deal-terms-revealed"
-     },
-     {
-      "text": "Ohio at Miami (OH)",
-      "url": "https://ohiobobcats.com/sports/football/schedule"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Sat 7:30 ET · NBC",
-      "align": "left",
-      "lines": [
-       "1 Miami Hurricanes",
-       "(8-0) o54.5",
-       "4 ND Fighting Irish",
-       "(7-1) -7"
-      ]
-     },
-     {
-      "title": "Sat 3:30 ET · CBS",
-      "align": "left",
-      "lines": [
-       "Oregon Ducks",
-       "(5-3) o45.5",
-       "11 OSU Buckeyes",
-       "(6-2) -7.5"
-      ]
-     },
-     {
-      "title": "Sat 7:30 ET · ABC",
-      "align": "left",
-      "lines": [
-       "2 Georgia Bulldogs",
-       "(7-1) o56.5",
-       "12 Ole Miss Rebels",
-       "(6-2) +3.5"
-      ]
-     },
-     {
-      "title": "Tue 8:00 ET · ESPN2",
-      "align": "left",
-      "lines": [
-       "OHIO Bobcats",
-       "(7-2) o48.5",
-       "M-OH RedHawks",
-       "(5-4) -2.5"
-      ]
-     },
-     {
-      "title": "Mon 8:15 ET · ESPN",
-      "align": "left",
-      "lines": [
-       "BUF Bills",
-       "(6-1)",
-       "MIN Vikings",
-       "(6-1)"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, a casting for Magic.",
-    "text": "**Maya Hawke** has been cast in Legendary and Hasbro's live-action **Magic: The Gathering** film, directed by Matt Johnson. The role has not been disclosed yet.\n\nTheaters · Godzilla Minus Zero (opened Fri)",
-    "links": [
-     {
-      "text": "Maya Hawke casting",
-      "url": "https://variety.com/2026/film/news/maya-hawke-magic-the-gathering-movie-1236939687/"
-     }
-    ]
-   },
-   {
-    "title": "Around town, two tastings today.",
-    "text": "**Haren's Market** in Troy launches its private-label wines with a tasting today from 2:00 to 5:00, hosted with VineCraft Selections. No ticket required beyond stopping in.\n\n**The Round Barn** in Piqua hosts the Piqua Arts Council's Bourbon Affair tonight, doors at 5:15 and first course at 6:00. Bourbon or wine admission is $125 for a five-course pairing dinner; tickets are limited.\n\n**New find:** The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
-    "links": [
-     {
-      "text": "Haren's wine launch",
-      "url": "https://www.vinecraftselections.com/calendar/harens-wine-launch"
-     },
-     {
-      "text": "Bourbon Affair",
-      "url": "https://piquaartscouncil.org/bourbon-affair"
-     },
-     {
-      "text": "Links Golf Social",
-      "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
-     },
-     {
-      "text": "Barone Wines tasting",
-      "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
-     },
-     {
-      "text": "Piqua CC tasting",
-      "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
-     }
-    ]
-   },
-   {
-    "title": "Three from the science desk.",
-    "text": "**An early Chinese trial** infused gene-laden viruses into the seizure-causing patch of brain tissue in three people with drug-resistant temporal-lobe epilepsy, then used a low dose of clozapine as a dimmer switch. Monthly seizures fell by more than 90% over about two months, with no serious side effects reported so far in this tiny safety study.\n\n**Harvard's Wyss Institute** built FIND, a DNA-nanoswitch platform that screens huge libraries for molecules that change how two proteins interact, not just whether they stick to one target. From a 400-million-compound library it pulled new PPAR-gamma activators and a nanobody that tweaks a viral spike-receptor pairing.\n\n**A CRISPR adenine base editor** delivered once to the liver in primates shut down ANGPTL3 by more than 90% for up to three years in the animal work, with large drops in LDL and triglycerides — backing an ongoing first-in-human trial for hard-to-treat high lipids.",
-    "links": [
-     {
-      "text": "Epilepsy gene therapy",
-      "url": "https://www.independent.co.uk/news/science/experimental-gene-therapy-brain-reduces-epileptic-seizures-science-b3080366.html"
-     },
-     {
-      "text": "FIND drug screen",
-      "url": "https://wyss.harvard.edu/news/finding-new-drug-leads-faster-with-dna-nanotechnology/"
-     },
-     {
-      "text": "CRISPR lipid edit",
-      "url": "https://www.nature.com/articles/s41586-026-11233-9"
-     }
-    ]
-   },
-   {
-    "title": "A countertop shortcut worth a look.",
-    "text": "If weekend cooking is already on the short list, the **Genie** all-in-one countertop system just launched in the U.S. It uses dehydrated ingredient pods plus steam, microwave, and conduction heat to turn out a plated meal in about three minutes. It is part gadget, part meal kit, and a useful test of whether \"fast\" can still taste like dinner instead of a reheated tray.",
-    "links": [
-     {
-      "text": "Genie appliance",
-      "url": "https://thespoon.tech/genie-launches-its-all-in-one-cooking-appliance-and-meal-system-in-the-u-s/"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "I asked the thermostat what \"patchy frost\" meant. It said some surfaces would freeze and others would not. I asked how it knew which were which. It said that is what sensors are for. I asked if it had considered over/under lines for driveway ice. It said that would be gambling. I said it was already predicting the future for a living. It set the heat to 68 and stopped taking questions."
    }
   ]
  }
