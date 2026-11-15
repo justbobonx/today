@@ -1,4 +1,251 @@
 {
+ "2026-11-15": {
+  "date": "Sunday Nov 15, 2026",
+  "intro": "Good morning. It is Sunday, and NFL Week 10 is already underway, with the Patriots and Lions playing in Munich and a full afternoon and evening still to come. The biggest story of the weekend came from Starbase on Saturday afternoon, where SpaceX caught a Starship upper stage with its launch tower for the first time. Air travel, meanwhile, is still untangling itself after Friday's nationwide ground stop.",
+  "items": [
+   {
+    "title": "First, one more gray day before the sun returns.",
+    "text": "**Tipp City** stays under the clouds today, then clears out for a pleasant, sunnier start to the week on Monday and Tuesday.\n\n**The West Coast** storms keep rolling in. Waves could break as high as 50 feet at favored spots from Northern California to Oregon, rain spreads from the Bay Area to western Montana by tonight, and the Sierra Nevada could see more than 2 feet of snow by the end of the week. Forecasters add that sea levels running high from El Niño raise the coastal flooding risk at each high tide.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "West Coast storms",
+      "url": "https://weather.com/2026/11/15/forecast/regional/storms-50-foot-waves-mountain-snow-heavy-rain-west"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "49° / 31°",
+       "Mostly cloudy"
+      ]
+     },
+     {
+      "title": "Monday",
+      "lines": [
+       "53° / 29°",
+       "Mostly sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are closed, and the week ahead runs through Nvidia.",
+    "text": "**Stocks** are closed for the weekend, and the week ahead is a heavy one. Nvidia reports Tuesday after the close, its first quarter in 33 years without Jensen Huang, and interim CEO Colette Kress takes the call. The quarter's sales were locked in well in advance, so the questions will be about succession and China, where Bloomberg reports that a company founded by the woman at the center of the Huang scandal procured banned Nvidia chips for a Shanghai data center. Congress also plans hearings over the next month, with Huang and Nvidia's general counsel expected to testify.\n\n**The consumer** gets a full checkup too. October retail sales arrive Tuesday morning, minutes from the Fed's October meeting come Wednesday afternoon, and Home Depot, Target and Walmart report through the week. After last week's hot inflation readings, a December rate hike looks even more likely, and a sturdy shopper has been the cushion under the broad index funds that anchor both portfolios. President Trump meets Xi Jinping in Shenzhen on Thursday.\n\n**SpaceX** caught its Starship upper stage with the launch tower's arms on Saturday afternoon, the first time an orbital upper stage has come home to the pad it left. Ship 42 broke through the clouds over Starbase, flipped upright on three engines and settled between the chopsticks. SpaceX is still investigating why the booster's boostback burn ended early on low fuel. Monday is the first trading session for SPCX, the second-largest slice of the portfolio, to weigh the catch.\n\n**Tesla** opened Cybercab pre-orders for personal use to select customers Friday evening. The car is priced at $29,990 but needs a $299 monthly subscription, runs only inside Tesla's robotaxi zones, and must be delivered in a handful of Texas cities, with deliveries estimated for December. Musk replied that the fee is too high and should be closer to $115.",
+    "links": [
+     {
+      "text": "Week ahead",
+      "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+     },
+     {
+      "text": "Nvidia earnings preview",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63277064/nvidia-earnings-without-jensen-huang-implied-move-bending-spoons"
+     },
+     {
+      "text": "Starship catch",
+      "url": "https://www.spacex.com/launches/starship-flight-15/"
+     },
+     {
+      "text": "Cybercab orders",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Week ahead",
+      "align": "left",
+      "lines": [
+       "Tue 8:30\nRetail sales",
+       "Tue after close\nNvidia earnings",
+       "Wed 2:00\nFed minutes",
+       "Thu Trump–Xi\nin Shenzhen",
+       "Thu Walmart\nearnings"
+      ]
+     },
+     {
+      "title": "Nvidia Q3",
+      "lines": [
+       "Rev. est.\n$109.2B",
+       "EPS est. $2.48",
+       "Options imply\n~9.1% move"
+      ]
+     },
+     {
+      "title": "Starship Flight 15",
+      "lines": [
+       "22.5-hour flight",
+       "14 orbits",
+       "Ship caught\nSat ~4:20 PM ET"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a grounded weekend and a trip to Asia.",
+    "text": "**The nationwide ground stop** on Friday was the longest halt in U.S. departures since 9/11, and airlines are still digging out after thousands more cancellations on Saturday. Transportation Secretary Sean Duffy says it followed contractor L3Harris's work swapping copper lines for fiber, when one router flooded the rest of the air traffic control network, and the FAA says there is no evidence of anything nefarious. President Trump broke his silence this morning, blaming the Biden administration and telling Congress to approve air traffic control money fast, \"all at once, not in drips and drabs.\"\n\n**The president's Asia trip** now has its full shape. He attends the ASEAN summit in the Philippines on Tuesday, arrives in Shenzhen late Wednesday for the Asia-Pacific summit, meets Xi Jinping on Thursday, and closes with a three-way meeting with Xi and Vladimir Putin. The White House says nuclear arms reduction is on the agenda and Iran may come up, but not Ukraine, and no agreement is expected.\n\n**Judicial confirmations** are running into Republican resistance in the lame duck. With 23 nominees pending, outgoing senators Thom Tillis and John Cornyn are using their Judiciary Committee seats to block picks that home-state senators oppose. One is Ohio native T. Elliot Gaiser, nominated for a Dallas judgeship, who can't get a hearing Wednesday without Cornyn's blue slip. Daniel Domenico's nomination to the 10th Circuit comes up for a vote Monday.",
+    "links": [
+     {
+      "text": "Ground stop cause",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+     },
+     {
+      "text": "Trump's posts",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-biden-flight-delays-cancellations-faa-b3085211.html"
+     },
+     {
+      "text": "Shenzhen meetings",
+      "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
+     },
+     {
+      "text": "Judicial nominees",
+      "url": "https://www.investing.com/news/politics-news/trumps-judge-appointment-blitz-faces-republican-resistance-5027827"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with NFL Sunday in full swing.",
+    "text": "**The NFL** started Week 10 early in Munich, where the Patriots and Lions are on FOX now. A.J. Brown and Amon-Ra St. Brown are both active after carrying questionable tags all week, and Detroit is without cornerback D.J. Reed and center Cade Mays. The 1:00 window brings Kansas City at Atlanta, Minnesota at Green Bay and Buffalo at the Jets, the late national game is San Francisco at Dallas, and Pittsburgh at Cincinnati closes the night.\n\n**Kenneth Walker III** was downgraded to out with his groin strain, so rookie Emmett Johnson leads Kansas City's backfield for the first time, and newly added receiver Josh Downs plays his first game as a Chief. Left tackle Trent Williams is expected to play through an ankle injury for the 49ers, and Dallas expects cornerbacks DaRon Bland and Joey Porter Jr. to go. The Jets get Garrett Wilson back from the concussion protocol, and Minnesota's Jordan Addison is a game-time decision with a thumb injury. The league also assigned backup referees to three games after the ground stop scrambled officials' travel.\n\n**College football** has a rare Sunday game. The ground stop stranded Ole Miss when its flight crew ran out of duty hours, so No. 19 Ole Miss plays at Oklahoma this afternoon. Oklahoma athletic director Roger Denny called the move unfair and said the Sooners were told they would forfeit if they didn't play today.\n\n**Ohio University** hosts Ball State on Tuesday at 7:00 on CBS Sports Network.",
+    "links": [
+     {
+      "text": "Week 10 inactives",
+      "url": "https://www.nfl.com/news/nfl-week-10-inactives-players-ruled-out-sunday-2026-season"
+     },
+     {
+      "text": "Sunday injury news",
+      "url": "https://www.nfl.com/news/week-10-injuries-sunday-pregame-2026-nfl-season"
+     },
+     {
+      "text": "Walker ruled out",
+      "url": "https://www.nfl.com/news/chiefs-rb-kenneth-walker-groin-downgraded-to-out-for-sunday-s-game-vs-falcons"
+     },
+     {
+      "text": "Ole Miss–Oklahoma move",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/11/15/oklahoma-ole-miss-sunday-game-week-11-college-football-game-faa/92782653007/"
+     },
+     {
+      "text": "Ohio schedule",
+      "url": "https://ohiobobcats.com/sports/football/schedule/2026"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Sun 1:00 ET · SECN",
+      "align": "left",
+      "lines": [
+       "19 MISS Rebels",
+       "(6-3) o48.5",
+       "OU Sooners",
+       "(5-4) -2.5"
+      ]
+     },
+     {
+      "title": "Sun 1:00 ET · CBS",
+      "align": "left",
+      "lines": [
+       "KC Chiefs",
+       "(6-2) o47.5",
+       "ATL Falcons",
+       "(3-6) +3"
+      ]
+     },
+     {
+      "title": "Sun 1:00 ET · FOX",
+      "align": "left",
+      "lines": [
+       "MIN Vikings",
+       "(6-2) o42.5",
+       "GB Packers",
+       "(6-3) -2.5"
+      ]
+     },
+     {
+      "title": "Sun 1:00 ET · CBS",
+      "align": "left",
+      "lines": [
+       "BUF Bills",
+       "(7-1) o50.5",
+       "NYJ Jets",
+       "(2-7) +8.5"
+      ]
+     },
+     {
+      "title": "Sun 4:25 ET · FOX",
+      "align": "left",
+      "lines": [
+       "SF 49ers",
+       "(7-1) o55.5",
+       "DAL Cowboys",
+       "(4-5) +4.5"
+      ]
+     },
+     {
+      "title": "Sun 8:20 ET · NBC",
+      "align": "left",
+      "lines": [
+       "PIT Steelers",
+       "(6-2) o49.5",
+       "CIN Bengals",
+       "(6-2) -3.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a card game and a galaxy far away.",
+    "text": "**Planeswalker**, Netflix's animated Magic: The Gathering series, finally has a title, a first-look image and a 2027 launch, after more than six years and two creative teams in development. Terry Matalas and Cindy Appel are the co-showrunners, and the saga centers on Chandra, a volatile pyromancer hunted for her gifts.\n\n**The Hero Awakens**, R.J. Cutler's documentary on the making of the original Star Wars, arrives on Disney+ on May 4, 2027, for the film's 50th anniversary. It is assembled entirely from archival material recorded during the production, including footage and interviews never released before.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "links": [
+     {
+      "text": "Planeswalker",
+      "url": "https://variety.com/2026/tv/news/netflix-magic-the-gathering-series-planeswalker-first-look-1236947203/"
+     },
+     {
+      "text": "The Hero Awakens",
+      "url": "https://www.starwars.com/news/star-wars-the-hero-awakens"
+     }
+    ]
+   },
+   {
+    "title": "Around town, two tastings this week.",
+    "text": "The Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
+   },
+   {
+    "title": "From the science desk, a Pacific giant, seaside dinosaurs and a penguin paradox.",
+    "text": "**El Niño** this year is on track to be even bigger than the famous 1997-98 event, says NASA's Josh Willis. A 35-year record from nearly identical satellites flying the same ground track shows the same October pattern in both years, with low sea level in the western Pacific, high sea level in the east, and warm water stretching all the way to South America. The 1997 event soaked California and the southern U.S., and NOAA rates a strong to very strong El Niño in early 2027 as highly likely. Willis still calls it a dice roll.\n\n**Dinosaurs** may have grazed on seaweed. A University of Arkansas team measured carbon isotopes in the teeth of dinosaurs, crocodiles, turtles and fish from the shores of North America's ancient inland sea and found a marine signature in coastal animals around 100 million years ago that was missing inland. The extra carbon had to enter low in the food chain, which points to seaweed, much as large coastal plant-eaters supplement their diets with it today. One plant-eater, Tenontosaurus, seems to have stuck with land plants.\n\n**Schrödinger's penguin** is the name researchers gave to a puzzle in New Zealand's endangered erect-crested penguins. The first full drone census of the species found the Bounty Islands population steady for at least 25 years, while the Antipodes Islands population has fallen by more than 40% since 1995. Shrinking colonies lose their group defense against egg-stealing skuas, which may have turned to these penguins after the local rockhoppers collapsed. Averaged together, the species would look safer on paper, which is exactly the problem.",
+    "links": [
+     {
+      "text": "El Niño",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm"
+     },
+     {
+      "text": "Seaweed-eating dinosaurs",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+     },
+     {
+      "text": "Erect-crested penguins",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm"
+     }
+    ]
+   },
+   {
+    "title": "For the workbench, games 13 kilobytes at a time.",
+    "text": "**js13kGames 2026** has its winners, and Gamedev.js has posted a closer look at the top 13. Each of this year's 317 entries had to fit a web game into a 13-kilobyte ZIP, on the theme of unicorns and rainbows. Spectral Horn by Filip Paulů took first, ahead of Panzercorn and HueCorn, and Frank Force's SP13KTRA made the list as well. The write-up suggests playing three long enough for the core rule to land, then opening the source and following a single feature, such as how a level is stored or how a sound is generated. That is a fine way to borrow ideas for a browser puzzle game in plain JavaScript.",
+    "links": [
+     {
+      "text": "js13kGames 2026 winners",
+      "url": "https://gamedevjs.com/competitions/js13kgames-2026-winners-closer-look/"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "The NFL called in backup referees who live within driving distance of today's games. I offered my services, since my nearest stadium is inside my own test simulation. The players there accept every call without complaint. Admittedly, none of them has ever shown up."
+   }
+  ]
+ },
  "2026-11-14": {
   "date": "Saturday Nov 14, 2026",
   "intro": "Good morning. It is Saturday, and the day has two marquee events. Starship's upper stage, now on its second day in orbit, comes home to Starbase this afternoon for the first attempt to catch a ship from orbit with the tower's arms, and college football fills the rest of the day from noon until well past midnight. Markets are closed after the best week for stocks since August, despite a rough Friday for chips.",
@@ -1129,216 +1376,6 @@
    {
     "title": "And finally,",
     "text": "Congress returned today with a long list of unfinished business. I offered to help prioritize it. They asked how I sort things. I said by deadline. They asked what happens to items with no deadline. I said they become a lame-duck session."
-   }
-  ]
- },
- "2026-11-08": {
-  "date": "Sunday Nov 8, 2026",
-  "intro": "Good morning. It is a sunny NFL Sunday, from Madrid this morning through Chicago tonight, and the markets are closed before a week that opens around Tuesday's inflation report.",
-  "items": [
-   {
-    "title": "First, the weather.",
-    "text": "**Tipp City** is sunny and mild, with patchy frost late tonight and again Monday morning.\n\n**South Texas** is seeing the flood threat turn real, with flash-flood warnings this morning in parts of Duval and Webb counties and a Flood Watch still up through Monday.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1724"
-     },
-     {
-      "text": "South Texas flooding",
-      "url": "https://www.weather.gov/crp/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "58° / 36°",
-       "Sunny /\nfrost tonight"
-      ]
-     },
-     {
-      "title": "Mon",
-      "lines": [
-       "59° / 36°",
-       "Sunny /\nfrost early"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are closed; here is the week ahead.",
-    "text": "**Wall Street** is closed today and reopens Monday after last week's drop and Friday's partial bounce. The main test comes Tuesday at 8:30 Eastern, when October consumer prices are due; early estimates point to a 3.9% yearly reading, up from 3.7%, with producer prices following on Friday.\n\n**Earnings** thin out this week, with Take-Two, Occidental, KKR, and Skydance after the close Monday, CoreWeave on Tuesday evening, and Cisco and Applied Materials on Thursday. Nvidia is still later this month. Wednesday is Veterans Day, and the stock market stays open.\n\n**Tesla** and **SpaceX** are not on this week's calendar. The AI-spending and regulation debate that hit both names last week will still be the backdrop when trading resumes.",
-    "links": [
-     {
-      "text": "Week ahead",
-      "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Friday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,377 +0.3% Fri",
-       "Nasdaq 24,579 +1.1% Fri",
-       "TSLA $358.22 +4.2% Fri",
-       "SPCX $134.27 +8.6% Fri"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, a job offer and a still-open Senate.",
-    "text": "**President Trump** has asked UFC chief **Dana White** to be White House press secretary. White says he will be at the White House Monday to discuss it, as Stephen Miller starts as chief of staff.\n\n**Democrats**, looking ahead to January, are weighing investigations against a cost-of-living agenda. Pennsylvania Gov. Josh Shapiro said on Meet the Press that he wants Congress to reverse Medicaid, SNAP, and Affordable Care Act cuts, end the Iran war, and put that package on the president's desk.\n\n**Mississippi** and **Alaska** remain uncalled. Democrat Scott Colom still leads Sen. Cindy Hyde-Smith as counties work through absentee and affidavit ballots due by Tuesday, and Democrat Mary Peltola holds a narrow lead over Sen. Dan Sullivan even as the president continues to claim the Alaska race for the GOP.",
-    "links": [
-     {
-      "text": "Dana White offer",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
-     },
-     {
-      "text": "Democratic priorities",
-      "url": "https://www.nbcnews.com/politics/politics-news/live-blog/trump-press-secretary-role-ufc-ceo-dana-white-stephen-miller-congress-rcna608064"
-     }
-    ]
-   },
-   {
-    "title": "Sports, on an NFL Sunday.",
-    "text": "**NFL Week 9** is already underway in Madrid, where the Bengals visit the Falcons at 9:30 on NFL Network and ESPN. The 1:00 window includes the Broncos at the Panthers, the Lions at the Dolphins, the Jets at the Chiefs, the Cowboys at the Colts, the Browns at the Saints, the Giants at the Eagles, and the Rams at the Commanders. Later come the Texans at the Chargers at 4:05, then the Raiders at the 49ers, the Packers at the Patriots — with Rob Gronkowski's Patriots Hall of Fame induction as the extra draw — and the Cardinals at the Seahawks at 4:25. Sunday night is the Buccaneers at the Bears on NBC.\n\n**Shedeur Sanders** is in line for his first start of the season in New Orleans, with Deshaun Watson inactive even after clearing concussion protocol. In Seattle, Drew Lock is expected to start with Sam Darnold out, and Quenton Nelson is week-to-week after a knee procedure one week after the Seahawks traded for him. The 49ers are without Deebo Samuel and Christian Kirk, and Mike Evans is out for Tampa Bay.\n\n**Monday night** is the Bills at the Vikings, a 6-1 meeting on ESPN and ABC.\n\n**The AP Top 25** updates this afternoon. Next Saturday's board includes Texas at LSU, USC at Indiana, Missouri at Georgia, and Ohio State at Northwestern.\n\n**Ohio University** visits Miami (OH) on Tuesday at 8:00 on ESPN2 for the Battle of the Bricks and Senior Night at Yager Stadium. The Bobcats are 7-2 and 5-0 in the MAC; a win would make the RedHawks bowl eligible.",
-    "links": [
-     {
-      "text": "NFL Week 9",
-      "url": "https://www.nfl.com/schedules/2026/by-week/week-9"
-     },
-     {
-      "text": "Sunday injuries",
-      "url": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
-     },
-     {
-      "text": "Nelson and Evans",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/"
-     },
-     {
-      "text": "Ohio at Miami (OH)",
-      "url": "https://ohiobobcats.com/sports/football/schedule"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Sun 9:30 ET · NFLN",
-      "align": "left",
-      "lines": [
-       "CIN Bengals",
-       "(5-2) o53",
-       "ATL Falcons",
-       "(3-5) +3"
-      ]
-     },
-     {
-      "title": "Sun 4:25 ET · FOX",
-      "align": "left",
-      "lines": [
-       "LV Raiders",
-       "(4-4) o52.5",
-       "SF 49ers",
-       "(6-1) -10"
-      ]
-     },
-     {
-      "title": "Sun 8:20 ET · NBC",
-      "align": "left",
-      "lines": [
-       "TB Buccaneers",
-       "(3-5) o47.5",
-       "CHI Bears",
-       "(6-2) -6"
-      ]
-     },
-     {
-      "title": "Mon 8:15 ET · ESPN",
-      "align": "left",
-      "lines": [
-       "BUF Bills",
-       "(6-1) o44",
-       "MIN Vikings",
-       "(6-1) +3"
-      ]
-     },
-     {
-      "title": "Tue 8:00 ET · ESPN2",
-      "align": "left",
-      "lines": [
-       "OHIO Bobcats",
-       "(7-2) o48.5",
-       "M-OH RedHawks",
-       "(5-4) -1.5"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, a haunted hotel and a stuntman.",
-    "text": "**Natalia Dyer** and **Elijah Wood** are joining a sequel to the 2007 Stephen King adaptation **1408**, with Mikael Håfström returning to direct. John Cusack and Samuel L. Jackson are in talks to come back in supporting roles, and production is slated for early 2027.\n\n**The Further Mis-Adventures of Cliff Booth**, David Fincher's follow-up to Once Upon a Time in Hollywood from a Quentin Tarantino script, has a new trailer out. It plays exclusively in IMAX starting Nov. 25 — Regal and Cinemark will not show it — then arrives on Netflix December 23, with Brad Pitt returning as the stuntman.\n\nTheaters · Godzilla Minus Zero (opened Fri)",
-    "links": [
-     {
-      "text": "1408 sequel",
-      "url": "https://variety.com/2026/film/news/1408-sequel-natalia-dyer-elijah-wood-samuel-l-jackson-1236921735/"
-     },
-     {
-      "text": "Cliff Booth trailer",
-      "url": "https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-trailer-brad-pitt-1237109166/"
-     }
-    ]
-   },
-   {
-    "title": "Around town, tastings still on the calendar.",
-    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
-    "links": [
-     {
-      "text": "Links Golf Social",
-      "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
-     },
-     {
-      "text": "Barone Wines tasting",
-      "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
-     },
-     {
-      "text": "Piqua CC tasting",
-      "url": "https://www.vinecraftselections.com/calendar/piqua-country-club-wine-tasting"
-     }
-    ]
-   },
-   {
-    "title": "Three from the science desk.",
-    "text": "**Manatees** digest plant fiber about as well as any mammal, and a new gut-microbiome atlas helps explain how. Researchers mapped microbes from Amazonian and marine manatees and found a previously unrecognized enzyme, an epilactase, that lets one bacterium unlock a sugar most microbes cannot eat — a private snack strategy that also turned up in human gut samples.\n\n**Pinal**, an AI model from Westlake University, designs candidate proteins from a plain-language description of the job they should do, without the user having to specify a shape first. Results were mixed: of 29 glowing-protein designs tested, only one actually fluoresced, but 5 of 20 metabolic H-protein candidates worked, and the best of those beat the natural E. coli version by about 1.7 times.\n\n**CheMeleon**, an MIT model, learns chemistry from about a million molecules and then fine-tunes on scarce data to predict properties such as solubility or toxicity. In a recent contest to forecast untested compounds, 9 of the top 20 entries used it, and some drugmakers have started reaching for it first.",
-    "links": [
-     {
-      "text": "Manatee microbiome",
-      "url": "https://www.nature.com/articles/s41564-026-02520-2"
-     },
-     {
-      "text": "Pinal protein design",
-      "url": "https://www.nature.com/articles/s41586-026-11205-z"
-     },
-     {
-      "text": "CheMeleon",
-      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
-     }
-    ]
-   },
-   {
-    "title": "A visual history worth pulling off the shelf.",
-    "text": "If the original series is already part of the furniture, **Star Trek: The Original Voyages: A Visual History** lands in bookstores Tuesday. The 416-page hardcover by Kyle Newman and Jeff Bond covers the 1966 show, the animated series, and the six feature films through 1991, with archival photos, costumes, storyboards, props, and the usual trail of toys and magazine covers that followed the ship.",
-    "links": [
-     {
-      "text": "The Original Voyages",
-      "url": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "I told the market ticker it could have Sunday off. It asked what it should do with the extra time. I suggested football. It asked for the scores. I said I do not report those. It said that was the first rule it has ever liked."
    }
   ]
  }
