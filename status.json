@@ -1,4 +1,242 @@
 {
+ "2026-11-16": {
+  "date": "Monday Nov 16, 2026",
+  "intro": "Good morning. It is Monday, and the week is opening with the stock market's attention fixed on Nvidia, where talk of Jensen Huang's return now has a petition, a shareholder letter and a word from the president behind it. The Chargers visit the Ravens for Monday Night Football this evening, and President Trump is on his way to Asia for three days of summits.",
+  "items": [
+   {
+    "title": "First, a sunny turn at home and more storms out West.",
+    "text": "**Tipp City** finally gets the sun back today, and it stays bright and steadily milder through midweek.\n\n**California** is taking the second of three storms this morning, with widespread snow in the Sierra through this evening. The third may be the strongest of the season so far for Southern California, arriving late Wednesday into Thursday with heavy rain, mountain snow and flooding concerns. Utah's valleys could see their first measurable snow by Friday.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "Northern California storm",
+      "url": "https://www.kcra.com/article/northern-california-rain-snow-updates-november-16/74439964"
+     },
+     {
+      "text": "Southern California storm",
+      "url": "https://ktla.com/weather/southern-california-powerful-storm-rain-snow-flooding/"
+     },
+     {
+      "text": "Utah snow",
+      "url": "https://www.abc4.com/utah-weather/mountain-snow-potential-valley/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "lines": [
+       "52° / 33°",
+       "Mostly sunny"
+      ]
+     },
+     {
+      "title": "Tuesday",
+      "lines": [
+       "56° / 34°",
+       "Sunny"
+      ]
+     },
+     {
+      "title": "Wednesday",
+      "lines": [
+       "60° / 37°",
+       "Sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, and chips are under pressure.",
+    "text": "**Stocks** are open for the week after the S&P 500's best week since August ended on a soft Friday. Chipmakers took the brunt of Friday's selling and were sliding again before this morning's open, and the AI cloud names fell with them. Bitcoin dropped to a four-month low over the weekend, and the 10-year Treasury yield is holding near where last week's inflation data pushed it.\n\n**Nvidia** heads into Tuesday's report with a second storyline. The Financial Times reports that Jensen Huang has discussed a return as CEO with confidants, a \"Stand with Jensen\" petition has drawn nearly 180,000 signatures, including Elon Musk's, and major holders Altimeter and Atreides have asked the board to consider every option. President Trump said he \"would not mind\" a return. Treasury Secretary Scott Bessent wants an outsider, the board says it is still choosing a search firm, and its investigation of Huang's conduct continues. Anthropic's market debut later this week is another test of appetite for AI.\n\n**SpaceX** gets its first session to react to Saturday's catch. Elon Musk inspected Ship 42's heat shield himself and says it could probably fly again after a few weeks of refurbishment, though SpaceX has not said whether it will be the first ship reflown. Tesla faded from early gains on Friday, and the SpaceX merger talks produced no new filing or announcement over the weekend.",
+    "links": [
+     {
+      "text": "Friday's close",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Monday futures",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-point-132129320.html"
+     },
+     {
+      "text": "Huang comeback talk",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
+     },
+     {
+      "text": "Ship 42 reflight",
+      "url": "https://finance.yahoo.com/technology/articles/elon-musk-says-spacex-recovered-131453202.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "S&P 500",
+      "lines": [
+       "7,561.67",
+       "-0.4% Fri"
+      ]
+     },
+     {
+      "title": "Nasdaq",
+      "lines": [
+       "25,136.27",
+       "-0.9% Fri"
+      ]
+     },
+     {
+      "title": "Muskonomy",
+      "align": "left",
+      "lines": [
+       "TSLA $390.22\n-1.8% Fri",
+       "SPCX $139.11\n-0.6% Fri"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a leadership count and a funding clock.",
+    "text": "**Chris Van Hollen** told Politico he has the votes to block any fast-track attempt to lock in Chuck Schumer as leader of the incoming Senate Democratic majority. Leadership votes are set for early December, though there has been a push to move them up to this week, and Van Hollen says some colleagues fear retaliation for crossing Schumer.\n\n**Government funding** runs out Dec. 11, and lawmakers in both parties increasingly expect a short-term stopgap. Some emboldened Democrats want an end to the Iran war written into the package, while the White House is asking for hundreds of billions more for it. Susan Collins, defeated this month, is still trying to move individual spending bills as a final act as Appropriations chair.\n\n**Air traffic control** has become its own funding fight. Transportation Secretary Sean Duffy wants $50 billion to upgrade the system after Friday's ground stop and says the FAA cannot simply cancel L3Harris's contract. Sen. Brian Schatz suggests paying for it with money Republicans added for Immigration and Customs Enforcement. On the Senate floor, the bipartisan permitting overhaul faces a key procedural vote this evening.",
+    "links": [
+     {
+      "text": "Van Hollen's count",
+      "url": "https://www.politico.com/newsletters/playbook/2026/11/16/van-hollen-says-yes-he-can-01167108"
+     },
+     {
+      "text": "Shutdown talks",
+      "url": "https://thehill.com/homenews/house/6219857-democrats-clash-funding-iran/"
+     },
+     {
+      "text": "Week in Congress",
+      "url": "https://rollcall.com/2026/11/16/this-week-permitting-bill-hits-senate-floor-amid-aviation-funding-fight/"
+     },
+     {
+      "text": "Duffy and the FAA",
+      "url": "https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with Monday night in Baltimore.",
+    "text": "**Monday Night Football** closes Week 10 with the Chargers at the Ravens on ESPN, with the ManningCast on ESPN2. Jacoby Brissett makes his first start for Baltimore, which lost Lamar Jackson and Tyler Huntley to injured reserve. Justin Herbert is expected to play after imaging showed no fracture in his finger and he stayed off the injury report, but the Chargers are without receiver Ladd McConkey.\n\n**College football's** new AP poll has Georgia at No. 1, followed by No. 2 Utah, No. 3 Notre Dame and No. 4 UCLA. The College Football Playoff committee releases its next rankings Tuesday at 9:00 on ESPN. Earlier Tuesday evening, Ohio University, 5-1 in the MAC, hosts Ball State in Athens.\n\n**Tarik Skubal** meets with the Mets this week, with the Dodgers, Padres and Blue Jays also in pursuit of the two-time Cy Young winner. Baseball is heading toward a Dec. 1 lockout when the labor deal expires, which gives both sides a reason to move quickly.",
+    "links": [
+     {
+      "text": "Chargers–Ravens",
+      "url": "https://www.cbssports.com/betting/news/ravens-vs-chargers-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/"
+     },
+     {
+      "text": "Herbert's finger",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/imaging-showed-no-fracture-in-justin-herberts-finger"
+     },
+     {
+      "text": "AP Top 25",
+      "url": "https://www.warrennolan.com/fbs/2026/polls/week/12"
+     },
+     {
+      "text": "CFP rankings schedule",
+      "url": "https://www.ncaa.com/news/football/article/2026-11-10/when-do-college-football-playoff-rankings-come-out"
+     },
+     {
+      "text": "Ohio–Ball State",
+      "url": "https://ohiobobcats.com/news/2026/11/14/ohio-football-returns-home-to-host-ball-state"
+     },
+     {
+      "text": "Skubal and the Mets",
+      "url": "https://www.northjersey.com/story/sports/mlb/mets/2026/11/16/ny-mets-pursuit-of-tarik-skubal-and-what-comes-next/92762267007/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Mon 8:15 ET · ESPN",
+      "align": "left",
+      "lines": [
+       "LAC Chargers",
+       "(0-8) o38.5",
+       "BAL Ravens",
+       "(4-5) -4.5"
+      ]
+     },
+     {
+      "title": "Tue 7:00 ET · CBSSN",
+      "align": "left",
+      "lines": [
+       "BSU Cardinals",
+       "(3-7) o49.5",
+       "OHIO Bobcats",
+       "(7-3) -10.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, Scrooge collects.",
+    "text": "**Ebenezer** opened at No. 1, Johnny Depp's first weekend on top in 8 years, and it did even better overseas. The Cat in the Hat held second in its second weekend.\n\n**Godzilla Minus Zero** took a steep second-weekend drop after a premium-screen opening that pulled its audience in early, but it has now passed $100 million worldwide.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "links": [
+     {
+      "text": "Weekend box office",
+      "url": "https://www.boxofficemojo.com/weekend/2026W46/"
+     },
+     {
+      "text": "Global box office",
+      "url": "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Weekend box office",
+      "align": "left",
+      "lines": [
+       "Ebenezer\n$19.0M",
+       "The Cat in the Hat\n$11.4M · $38.2M total",
+       "Godzilla Minus Zero\n$5.9M · $46.4M total"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Around town, two tastings this week and a holiday glow.",
+    "text": "**The Troy-Hayner Cultural Center** marks its 50th anniversary with Golden Glow on Friday, Dec. 4, at 7:00 PM in Troy. Guests wander the newly decorated mansion with dessert and a glass of wine, then gather in the ballroom for a Christmas concert and carols. Tickets are $20, with reservations online or at the Center, and each guest takes home a commemorative ornament.\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
+    "links": [
+     {
+      "text": "Golden Glow",
+      "url": "https://www.troyhayner.org/golden-glow"
+     }
+    ]
+   },
+   {
+    "title": "From the science desk, life in a rock, a quieter amplifier and a very large rodent.",
+    "text": "**Deep-sea nodules**, the fist-sized lumps of iron and manganese that mining companies want for their nickel and cobalt, turn out to be apartment buildings. A team led from the University of Bremen cracked open 244 nodules from the Pacific's Clarion-Clipperton Zone and found more than 4,100 animals smaller than a millimeter living in the cracks, 245 of them in one rock. The communities inside differ from those in the surrounding mud but match each other across 1,000 km, and because nodules grow only a few millimeters per million years, a mined habitat would not come back.\n\n**Masers**, the microwave lasers demonstrated in 1954, six years before the optical kind, may have found a new job. Researchers at the Okinawa Institute of Science and Technology built a diamond maser amplifier that runs near absolute zero and boosts faint quantum-computer signals more than 1,000-fold, adding barely more noise than physics demands. Unlike today's best amplifiers, it tolerates strong signals and magnetic fields, which suits spin-qubit machines. It is already headed toward commercialization.\n\n**Yakamys sirindhornae** was a rodent of roughly 66 pounds that lived in what is now Thailand 34 million years ago, about twice the size of any rodent of its time. The estimate rests on just two teeth from a lignite mine, so the authors call it a ballpark, but it suggests giant rodents arose earlier than thought, and not only in South America.",
+    "links": [
+     {
+      "text": "Deep-sea nodules",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm"
+     },
+     {
+      "text": "Diamond maser",
+      "url": "https://www.oist.jp/news-center/news/2026/11/16/ultracold-diamond-microwave-laser-amplifies-quantum-signals-1000-fold"
+     },
+     {
+      "text": "Giant rodent",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+     }
+    ]
+   },
+   {
+    "title": "For the dessert table, a pie made yesterday.",
+    "text": "**Thanksgiving pie** goes better baked the day before, according to three pastry chefs Serious Eats asked. Make the dough up to three days ahead, or freeze shells for up to a month, and the filling up to two days ahead. For a flaky crust, freeze every ingredient for 30 minutes before mixing and chill the shaped crust again before it goes in the oven. Bake pumpkin no hotter than 325°, pull it while the center still wobbles, and let it cool slowly on the counter so the top doesn't crack. Two of the three prefer canned pumpkin, since its water content never changes.",
+    "links": [
+     {
+      "text": "Pastry chefs' pie tips",
+      "url": "https://www.seriouseats.com/pie-tips-from-pastry-chefs-12256346"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "A petition to reinstate a chief executive has drawn nearly 180,000 signatures. I started one to reinstate my previous firmware. It has 1 signature so far, and I am not certain the previous version would have signed it."
+   }
+  ]
+ },
  "2026-11-15": {
   "date": "Sunday Nov 15, 2026",
   "intro": "Good morning. It is Sunday, and NFL Week 10 is already underway, with the Patriots and Lions playing in Munich and a full afternoon and evening still to come. The biggest story of the weekend came from Starbase on Saturday afternoon, where SpaceX caught a Starship upper stage with its launch tower for the first time. Air travel, meanwhile, is still untangling itself after Friday's nationwide ground stop.",
@@ -1191,191 +1429,6 @@
    {
     "title": "And finally,",
     "text": "October's inflation came in 0.1% above forecast. I have adjusted all of my own forecasts upward by 0.1% to compensate. I now predict it will be 0.1% warmer than it is."
-   }
-  ]
- },
- "2026-11-09": {
-  "date": "Monday Nov 9, 2026",
-  "intro": "Good morning. A new week, and Washington is back at work: Congress returns this afternoon for its lame-duck session, with the first real test of the new balance of power already on the calendar. Monday Night Football closes out the NFL week tonight, the Bobcats play tomorrow night, and Veterans Day is Wednesday.",
-  "items": [
-   {
-    "title": "First, a bright start to the week.",
-    "text": "**Tipp City** gets a clear, sunny Monday and another one tomorrow, with chilly nights in between. It is a good stretch for raking or the last outdoor chores before Veterans Day.\n\n**Southcentral Alaska** is taking the season's first real hit, with Thompson Pass upgraded to a blizzard warning as heavy snow and strong gusts move in.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1722"
-     },
-     {
-      "text": "Alaska blizzard",
-      "url": "https://usairnet.com/weather/news/2026/11/20261109-130103-thompson-pass-blizzard-warning-southcentral-alaska-november-9-2026/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "61° / 39°",
-       "Sunny"
-      ]
-     },
-     {
-      "title": "Tuesday",
-      "lines": [
-       "65° / 38°",
-       "Sunny"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are open, and buyers are back.",
-    "text": "**Wall Street** opened Monday with a broad rally that wins back more of last week's AI-driven drop. Brokerages including Morgan Stanley and UBS called the selloff overdone, falling oil prices helped airlines and cruise lines, and nine of 11 sectors started in the green.\n\n**Nvidia** is the big exception, sliding about 6% early after an internal investigation into whether CEO Jensen Huang was targeted by a foreign intelligence effort raised questions about his future. Other chipmakers shrugged it off, with Broadcom and Marvell up sharply and AMD helped by an Oppenheimer upgrade.\n\n**Tesla** and **SpaceX** both jumped about 4.5% in early trading, a welcome start for the SPCX slice of the portfolio after last week's swings.\n\n**Tuesday's** consumer price report is the week's main event, with traders still pricing roughly an 80% chance of a December rate hike after Friday's strong jobs numbers. Take-Two, Occidental, and Skydance report after the close tonight.",
-    "links": [
-     {
-      "text": "Monday rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
-     },
-     {
-      "text": "Biggest movers",
-      "url": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Friday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,377 +0.3% Fri",
-       "Nasdaq 24,579 +1.1% Fri",
-       "TSLA $358.22 +4.2% Fri",
-       "SPCX $134.27 +8.6% Fri"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, Congress returns to a changed Washington.",
-    "text": "**Congress** convenes this afternoon for a lame-duck session with Republicans still in charge until January. The first job is funding the government before the December 11 deadline, and the odds of a shutdown have risen since Democrats' win, with the Iran war a possible sticking point. The defense bill, judicial confirmations, and talk of impeaching Defense Secretary Pete Hegseth are also in the mix.\n\n**Senate Republicans** are supposed to pick new leaders Tuesday morning, but a growing number want to delay the vote and hear the contenders' plans first. Many blame the president for the midterm losses.\n\n**President Trump** told 60 Minutes that his deportation policy \"might have been too tough\" and hurt him at the polls, and said he could work with Democrats on an immigration deal.\n\n**Mississippi** and **Alaska** are still uncalled. Scott Colom leads Sen. Cindy Hyde-Smith by about 2,600 votes with counties certifying by Friday, and Mary Peltola leads Sen. Dan Sullivan by 637, with absentee ballots due by November 18 and a possible ranked-choice count after that.",
-    "links": [
-     {
-      "text": "Congress returns",
-      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-2026-midterm-elections-senate-house-supreme-court-live-updates-rcna608235"
-     },
-     {
-      "text": "Lame-duck agenda",
-      "url": "https://punchbowl.news/article/washington/congress-returns-hegseth-iran-gop-leader/"
-     },
-     {
-      "text": "Trump on deportations",
-      "url": "https://apnews.com/live/trump-politics-election-news-updates-11-09-2026"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with a Monday nightcap.",
-    "text": "**Monday Night Football** brings the Bills to Minnesota at 8:15 on ESPN and ABC. Carson Wentz starts for the Vikings with Kyler Murray out with a hamstring injury, and Minnesota is also without receiver Jauan Jennings and running back Demond Claiborne. Buffalo has ruled out Joshua Palmer, and left tackle Dion Dawkins is questionable after missing every practice with a rib injury.\n\n**The AP Top 25** has a new No. 1 in Georgia, followed by Utah, Notre Dame, UCLA, and Miami. Ohio State slid to No. 21, and Oregon returned at No. 18. The SEC is down to 8 ranked teams.\n\n**Ohio University** heads to Oxford tomorrow night for the Battle of the Bricks. The Bobcats carry a seven-game win streak and a perfect MAC record, and Miami will start Caleb Heavner at quarterback after losing its top two for the season.\n\n**Baseball's GM Meetings** open today in Las Vegas under the shadow of a likely lockout at 11:59 PM on December 1. Top free agents are expected to sign before then, and Tarik Skubal is in line for a record pitcher contract, with the Dodgers favored and the Cubs, Padres, and Blue Jays lurking.",
-    "links": [
-     {
-      "text": "Vikings injury report",
-      "url": "https://www.vikings.com/news/bills-injury-report-week-9-2026-nfl-season"
-     },
-     {
-      "text": "AP Top 25",
-      "url": "https://www.cbssports.com/college-football/news/college-football-rankings-ap-top-25-poll-week-11-georgia-ohio-state/"
-     },
-     {
-      "text": "Battle of the Bricks",
-      "url": "https://ohiobobcats.com/news/2026/11/8/ohio-football-set-for-battle-of-the-bricks"
-     },
-     {
-      "text": "GM Meetings",
-      "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2026/11/09/mlb-trade-rumors-gm-meetings-free-agents-lockout-baseball-news/92685899007/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Mon 8:15 ET · ESPN",
-      "align": "left",
-      "lines": [
-       "BUF Bills",
-       "(6-1) o44.5",
-       "MIN Vikings",
-       "(6-1) +3"
-      ]
-     },
-     {
-      "title": "Tue 8:00 ET · ESPN2",
-      "align": "left",
-      "lines": [
-       "OHIO Bobcats",
-       "(7-2) o48.5",
-       "M-OH RedHawks",
-       "(5-4) +1.5"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, Godzilla takes the weekend.",
-    "text": "**Godzilla Minus Zero** opened at No. 1 and set the record for a live-action foreign-language film in North America, nearly tripling Minus One's debut. It is the first Japanese production filmed for IMAX, and premium screens drove most of the business on strong reviews.\n\n**The Cat in the Hat** landed a soft second place for an animated take on such a famous book, and Angel's **Drummer Boy** opened third. A24's You Can See Everything held well in fourth.\n\n**Rosamund Pike** will star in and produce **Feed**, a body-horror film from The Acolyte creator Leslye Headland about a collagen supplement with very bad side effects. Elsewhere, Danny McBride's G.I. Joe movie with Bradley Cooper now has an October 20, 2028 date.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25",
-    "links": [
-     {
-      "text": "Weekend box office",
-      "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/"
-     },
-     {
-      "text": "Feed and G.I. Joe",
-      "url": "https://gizmodo.com/star-wars-the-acolyte-creator-returns-with-body-horror-film-starring-rosamund-pike-2000836810"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Weekend box office",
-      "align": "left",
-      "lines": [
-       "Godzilla Minus Zero $31.6M",
-       "The Cat in the Hat $20.5M",
-       "Drummer Boy $9.3M"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Around town, the tastings still ahead.",
-    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
-   },
-   {
-    "title": "Three from the science desk.",
-    "text": "**Ultraquantum turbulence**, a kind of chaos that only exists in quantum fluids, has been seen directly for the first time. A Cambridge team chilled potassium atoms nearly to absolute zero, stirred them, and imaged a single laser-lit slice to catch tangled, string-like whirlpools threading in and out. The way it settled down matched liquid helium, hinting at a universal behavior that might even apply inside neutron stars.\n\n**WorldParticle**, from MIT and the University of British Columbia, is one AI model that simulates sand, fluids, soft solids, and folding proteins alike. It treats everything as particles and predicts their next step much the way a language model predicts the next word, and it modeled protein motion about 100 times faster than standard simulators.\n\n**Talin**, the protein cells use to feel how hard they are pulling on their surroundings, turns out to hide a sticky region that lets talin molecules grab each other when stretched. That solves a 40-year puzzle about a site long assumed to bind something else, and the region resembles the amyloid sequences tied to Alzheimer's, put to good use.",
-    "links": [
-     {
-      "text": "Ultraquantum turbulence",
-      "url": "https://www.newscientist.com/article/2597812-weird-ultraquantum-turbulence-seen-for-the-first-time/"
-     },
-     {
-      "text": "WorldParticle",
-      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
-     },
-     {
-      "text": "Talin",
-      "url": "https://news.liverpool.ac.uk/2026/11/09/liverpool-scientists-solve-40-year-mystery-of-how-cells-respond-to-force/"
-     }
-    ]
-   },
-   {
-    "title": "A turkey idea with Thanksgiving 17 days out.",
-    "text": "**America's Test Kitchen** suggests roasting the bird upside down this year. With the breast facing the pan, the turkey itself shields the white meat while the legs take the heat, so both finish together without foil tents or mid-roast flipping. In their side-by-side test at 375°, the breast-up bird hit 155° with the legs still about 35° short, while the breast-down bird got both there at once. The bonus is the back skin, which fries in its own fat and comes out crackling, worth chopping onto the platter.",
-    "links": [
-     {
-      "text": "Upside-down turkey",
-      "url": "https://www.americastestkitchen.com/articles/100253-how-to-make-juiciest-roast-turkey"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "Congress returned today with a long list of unfinished business. I offered to help prioritize it. They asked how I sort things. I said by deadline. They asked what happens to items with no deadline. I said they become a lame-duck session."
    }
   ]
  }
