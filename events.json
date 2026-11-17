@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-11-16T15:19:32Z",
+    "updated": "2026-11-17T15:14:30Z",
     "tz": "America/New_York",
     "label_max": 40,
     "kinds": [
@@ -197,9 +197,14 @@
       "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's"
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-12-02",
+      "who": "Emily",
+      "what": "Emily out with friends"
+    },
+    {
+      "date": "2026-12-09",
       "who": "Bob, Emily",
-      "what": "Dart tournament at The V, 7 PM ET (Emily told by email)"
+      "what": "Emily's Christmas party"
     }
   ]
 }
