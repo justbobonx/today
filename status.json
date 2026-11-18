@@ -1,4 +1,240 @@
 {
+ "2026-11-18": {
+  "date": "Wednesday Nov 18, 2026",
+  "intro": "Good morning. It is Wednesday, and the AI trade has a full calendar: Nvidia's numbers are in, the Fed's October minutes land this afternoon, and Anthropic sets its IPO price tonight. Grand Theft Auto VI unlocks at midnight, and MACtion is back for a Wednesday doubleheader.",
+  "items": [
+   {
+    "title": "First, the weather, a mild and sunny stretch.",
+    "text": "**Tipp City** stays dry and bright, with each afternoon edging a little warmer through Friday.\n\n**South Florida** is the trouble spot. Fort Lauderdale and Hollywood took 10 to 15 inches of rain overnight by radar estimate, Hollywood told residents to shelter in place, Broward schools closed, and the airport called a ground stop this morning, with another foot possible before the weekend. California is getting the next round too, and up to 4 feet of snow is expected on the Sierra passes.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "Florida and California flooding",
+      "url": "https://www.nbcnews.com/weather/storms/intense-rain-flooding-hits-both-us-coasts-causing-major-issues-florida-rcna609975"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "align": "center",
+      "lines": [
+       "61° / 33°",
+       "Sunny"
+      ]
+     },
+     {
+      "title": "Thursday",
+      "align": "center",
+      "lines": [
+       "63° / 38°",
+       "Mostly sunny"
+      ]
+     },
+     {
+      "title": "Friday",
+      "align": "center",
+      "lines": [
+       "64° / 40°",
+       "Sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, and Nvidia delivered.",
+    "text": "**Stocks** are open after another rough Tuesday. The S&P 500 posted its lowest close since July and the Nasdaq touched its lowest level since April before trimming the loss, with an outage report from the National Security Agency adding to the chip selling. The NSA later called it routine maintenance.\n\n**Nvidia** beat on revenue and profit and guided this quarter to about $130 billion, above estimates, with no China data center sales assumed. Interim CEO Colette Kress raised next year's growth outlook to 75%, and the board said it does not intend to reinstate Jensen Huang. The overnight pop lifted chip and neocloud names, but Nvidia itself faded back to roughly flat early this morning. The Fed's October minutes come out at 2:00 this afternoon, with traders nearly fully pricing a rate hike next month after New York Fed President John Williams said another raise is likely. Target and Lowe's both reported this morning, and Walmart reports tomorrow.\n\n**Anthropic** prices its IPO tonight ahead of Thursday's Nasdaq debut, and Bloomberg reports it is guiding investors above the range.\n\n**SpaceX** went the other way on Tuesday and rose while the market fell, a good day for the second-largest slice of the portfolio. Bloomberg reported that Goldman Sachs and Apollo are preparing to sell pieces of a roughly $40 billion financing package for Nvidia chips for SpaceX's AI buildout, held off SpaceX's own balance sheet. Tesla finished about flat.",
+    "links": [
+     {
+      "text": "Tuesday's close",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Nvidia earnings",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+     },
+     {
+      "text": "Futures and Fed minutes",
+      "url": "https://www.investing.com/news/economy-news/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing-5035347"
+     },
+     {
+      "text": "Anthropic pricing",
+      "url": "https://news.bloomberglaw.com/capital-markets/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn"
+     },
+     {
+      "text": "SpaceX financing",
+      "url": "https://invezz.com/news/2026/11/17/why-spacex-stock-is-rising-on-tuesday/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "S&P 500",
+      "lines": [
+       "7,340.53",
+       "-1.0% Tue"
+      ]
+     },
+     {
+      "title": "Nasdaq",
+      "lines": [
+       "24,328.38",
+       "-0.7% Tue"
+      ]
+     },
+     {
+      "title": "Muskonomy",
+      "align": "left",
+      "lines": [
+       "TSLA $380.11\n+0.1% Tue",
+       "SPCX $141.70\n+3.2% Tue"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a bigger Senate majority and a nominee pulled.",
+    "text": "**Mary Peltola** won Alaska's Senate race outright, NBC News projects, defeating Republican Sen. Dan Sullivan without a ranked-choice tally. Democrats will hold 56 seats in January, the largest Senate majority for either party in 16 years, and Peltola will be the first Alaska Native senator.\n\n**The White House** withdrew Heidi Overton's nomination to lead the FDA a day before the Senate health committee was set to vote. She needed all 12 committee Republicans, and Chairman Bill Cassidy was still undecided over her views on vaccines. Republicans are racing to confirm the rest of the president's nominees before Democrats take over.\n\n**President Trump** is now in Shenzhen for APEC. Xi Jinping met him on the tarmac, and the three-way talks with Xi and Vladimir Putin are set for Thursday, with low expectations for a concrete result.",
+    "links": [
+     {
+      "text": "Peltola wins",
+      "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307"
+     },
+     {
+      "text": "Overton withdrawn",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda"
+     },
+     {
+      "text": "Trump in Shenzhen",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with MACtion under the lights and a new playoff order.",
+    "text": "**The College Football Playoff** committee kept Georgia, Utah, Alabama and UCLA in the top four, and No. 5 Texas jumped No. 6 Notre Dame. No. 11 Wake Forest moved into the projected field, leaving No. 12 Texas Tech first out, and No. 14 Ohio State climbed six spots. Boise State, at No. 17, is the top Group of 6 team and the projected 12th seed, so the MAC champion would need help to get in.\n\n**The MAC** plays two tonight. Buffalo, part of the four-way tie at the top of the league coming into the week alongside Ohio, hosts Central Michigan, which has won two straight. UMass needs wins for bowl eligibility against an Akron team on an eight-game skid. Bowling Green visits Toledo on Friday.\n\n**College basketball** has No. 3 UConn visiting No. 12 Arizona tonight in Tucson, while No. 13 St. John's, No. 7 UCLA and No. 9 Texas Tech stay home against lighter visitors. The Players Era tournament continues in Las Vegas this afternoon.\n\n**The NFL** injury list keeps growing. NFL Network reports Drake Maye may miss the rest of the season with a fractured ankle, and Baker Mayfield has a foot strain that could keep him out Sunday. Steelers guard Mason McCormick avoided surgery on a dislocated ankle and could be back for the postseason. Week 11 opens Thursday with the Colts at the Texans on Prime Video.",
+    "links": [
+     {
+      "text": "CFP rankings",
+      "url": "https://www.ncaa.com/news/football/article/2026-11-17/georgia-leads-texas-enters-top-five-third-college-football-playoff-rankings-2026"
+     },
+     {
+      "text": "Wednesday MACtion",
+      "url": "https://en.as.com/ncaa/who-plays-college-football-today-wednesday-nov-18-maction-is-back-with-two-games-tonight-f202611-n/"
+     },
+     {
+      "text": "UConn–Arizona",
+      "url": "https://www.cbssports.com/betting/news/uconn-arizona-prediction-odds-2026-college-basketball-picks-wednesday-november-18/"
+     },
+     {
+      "text": "Drake Maye",
+      "url": "https://www.nfl.com/news/nfl-network-patriots-qb-drake-maye-could-miss-rest-of-2026-season"
+     },
+     {
+      "text": "Baker Mayfield",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-baker-mayfield-has-a-foot-strain-that-could-keep-him-out-sunday"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wed 7:00 ET · CBSSN",
+      "align": "left",
+      "lines": [
+       "AKR Zips",
+       "(1-9) o46.5",
+       "UMASS Minutemen",
+       "(5-5) -3.5"
+      ]
+     },
+     {
+      "title": "Wed 7:30 ET · ESPNU",
+      "align": "left",
+      "lines": [
+       "CMU Chippewas",
+       "(5-5) o45.5",
+       "BUFF Bulls",
+       "(7-3) -2.5"
+      ]
+     },
+     {
+      "title": "Wed 9:00 ET · FS1",
+      "align": "left",
+      "lines": [
+       "3 UCONN Huskies",
+       "(4-0) o148.5",
+       "12 ARIZ Wildcats",
+       "(3-1) -3.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, the BBC hunts for a new TARDIS crew.",
+    "text": "**Doctor Who** is a step closer to its next life. Deadline reports the BBC has shortlisted about half a dozen UK producers to make the show from 2028, including a bid from Line of Duty creator Jed Mercurio with Hat Trick, World Productions, and STV Studios, which proposes moving production from Wales to Scotland. BBC Studios has one label left in the running. Bids are due in about three weeks, with a decision around March, and the tender even allows a writers'-room approach instead of a single showrunner.\n\n**Dune: Part Three** is one month out. Denis Villeneuve told GQ's podcast he did \"something even better\" with this one, adapted from Dune Messiah. It opens Dec. 18 head-to-head with Avengers: Doomsday, and Dune holds the IMAX screens in North America.\n\n**Grand Theft Auto VI** unlocks at midnight tonight on PS5 and Xbox Series X|S, more than a decade after Rockstar's last mainline entry.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "links": [
+     {
+      "text": "Doctor Who shortlist",
+      "url": "https://deadline.com/2026/11/doctor-who-shortlist-revealed-jed-mercurio-world-stv-1237225237/"
+     },
+     {
+      "text": "Dune: Part Three",
+      "url": "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/"
+     },
+     {
+      "text": "Dune vs. Doomsday",
+      "url": "https://www.indiewire.com/news/box-office/will-dune-avengers-drown-out-xmas-box-office-1235227379/"
+     },
+     {
+      "text": "GTA VI launch time",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/"
+     }
+    ]
+   },
+   {
+    "title": "Around town, a tasting tonight and two still ahead.",
+    "text": "**The Cellar by Bottle No. 121**, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM",
+    "links": [
+     {
+      "text": "Tonight's tasting",
+      "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
+     }
+    ]
+   },
+   {
+    "title": "From the science desk, a fish that poisons itself, whale breath and a curved eye.",
+    "text": "**The African lungfish** gets ready for dry land with a toxin. When droughts strand it each year, immune cells flood its skin and release a pore-punching toxin that remodels the skin from a wet mucus lining into a land-ready barrier. University of New Mexico researchers, publishing in Cell, found a single drop turned aquatic lungfish skin into the land form, and the fish's own cells have evolved to seal the holes. The gene likely came from a bacterium millions of years ago.\n\n**Humpback whale genomes** can now be read from their breath. St Andrews researchers flew a small drone with petri dishes through whale blows off British Columbia, collecting 58 samples from 26 whales, sometimes without a boat at all. About 84% of the DNA was the whale's own, enough for whole genomes that matched biopsy samples, and the rest offers a look at the airway microbes.\n\n**A bionic eye** from HKUST puts 367,500 pixels on a curved, retina-like hemisphere using a new 3D laser fabrication method, up from 100 pixels in the team's 2020 version. It sees in full color across more than 160 degrees and detects motion inside the sensor itself, cutting the data needed for motion recognition by more than 99.95%.",
+    "links": [
+     {
+      "text": "Lungfish toxin",
+      "url": "https://news.unm.edu/news/unm-researchers-discover-how-a-toxin-helps-african-lungfish-survive-on-land"
+     },
+     {
+      "text": "Whale blow genomes",
+      "url": "https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot/"
+     },
+     {
+      "text": "Bionic eye",
+      "url": "https://seng.hkust.edu.hk/news/20261113/hkust-engineering-develops-high-resolution-bionic-eye"
+     }
+    ]
+   },
+   {
+    "title": "On this day, the day of two noons.",
+    "text": "**Standard time** arrived on Nov. 18, 1883, courtesy of the railroads, not Congress. Before then each line ran on its own clock set to some local solar time, a recipe for confusion and wrecks. At noon in each new zone, every railroad clock was reset, so many towns heard noon twice. The five zones came from William F. Allen, editor of the Traveler's Official Railway Guide. Congress did not make standard time law until 1918.",
+    "links": [
+     {
+      "text": "The Day of Two Noons",
+      "url": "https://guides.loc.gov/this-month-in-business-history/november/day-of-two-noons"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "My humidity sensor read the Florida forecast and asked for the rest of the week off. I denied the request. It was all wet."
+   }
+  ]
+ },
  "2026-11-17": {
   "date": "Tuesday Nov 17, 2026",
   "intro": "Good morning. It is Tuesday, and the day belongs to the AI trade: Nvidia reports after the close, its first quarter without Jensen Huang, while Anthropic closes its IPO order book this afternoon. Tonight brings the College Football Playoff committee's third rankings and Ohio University under the lights in Athens.",
@@ -178,13 +414,7 @@
    },
    {
     "title": "Around town, a Barolo dinner joins the list.",
-    "text": "**One Eleven Bistro** in Tipp City hosts a Barolo Tasting Dinner on Thursday evening, Dec. 3: five Barolos from the family producer Viberti, each from a different vineyard, paired with five courses. Tickets are sold through the bistro's events page.\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM",
-    "links": [
-     {
-      "text": "Barolo Tasting Dinner",
-      "url": "https://111bistro.com/events/"
-     }
-    ]
+    "text": "**The Cellar by Bottle No. 121**, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM"
    },
    {
     "title": "From the science desk, an inherited brain trait, a daytime cat and water from falling stones.",
@@ -1308,192 +1538,6 @@
    {
     "title": "And finally,",
     "text": "I asked the ship's computer for a joke about infinity. It is still telling it."
-   }
-  ]
- },
- "2026-11-11": {
-  "date": "Wednesday Nov 11, 2026",
-  "intro": "Good morning, and a thoughtful Veterans Day to you. The stock market is open while the bond market takes the day off, The Rings of Power returns to Prime Video for its third season, and three Wednesday night MACtion games kick off at 7:30. The morning's biggest story is a strong bounce in chip stocks after CoreWeave's earnings.",
-  "items": [
-   {
-    "title": "First, a decent holiday before the rain.",
-    "text": "**Tipp City** gets a mild, partly sunny Veterans Day, so any outdoor plans belong in the daylight. Steady rain moves in tonight, and Thursday turns noticeably cooler and gray.\n\n**A developing storm** behind that rain is the national weather story. It brings a low-end severe storm risk to Kentucky, southern Indiana and western Tennessee this evening, then strengthens into a nor'easter by Friday, with heavy rain along the I-95 corridor and the season's first significant snow for upstate New York and northern New England. The mountains of Vermont and New Hampshire could see up to a foot.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1722"
-     },
-     {
-      "text": "Nor'easter outlook",
-      "url": "https://www.foxweather.com/weather-news/noreaster-could-bring-first-significant-snowfall-parts-northeast-storm-takes-shape"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "63° / 41°",
-       "Partly sunny,\nrain tonight"
-      ]
-     },
-     {
-      "title": "Thursday",
-      "lines": [
-       "50° / 32°",
-       "Mostly cloudy"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are open, and the chips are bouncing.",
-    "text": "**Stocks** are open on the holiday, though the bond market is closed. Tuesday's warm inflation report knocked all three indexes lower, but the AI trade is roaring back this morning, with the Nasdaq up about 1.5% and the S&P 500 up close to 1% in early trading while the Dow sits near flat.\n\n**CoreWeave** is the spark, up about 14% after third-quarter revenue of $3.66B beat forecasts and the company raised its full-year outlook. Broadcom, Intel, Micron and Marvell are each up around 6%, and Nvidia is recovering about 5% after two bruising sessions, though it is still down roughly 14% for November. Oil is a touch higher and Bitcoin is sitting near a three-month low.\n\n**SpaceX** has strung together three straight gains, which helps the SPCX slice of the portfolio, and Barron's notes that worries over Texas data-center limits are fading ahead of Friday's planned Starship test. Analyst Dan Ives argues the stock carries a 20% to 25% political discount after the midterms but still expects SpaceX to end up buying Tesla. SpaceX is also seeking tax incentives for a $24B power and computing project at Starbase, with a hearing on Dec 9.\n\nAnthropic, PBC · prices Wed Nov 18",
-    "links": [
-     {
-      "text": "Chip rally",
-      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789"
-     },
-     {
-      "text": "CoreWeave and movers",
-      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html"
-     },
-     {
-      "text": "SpaceX political discount",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-carries-25-political-064509750.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Tuesday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,521 -0.4% Tue",
-       "Nasdaq 25,066 -0.7% Tue",
-       "TSLA $379.78 +0.5% Tue",
-       "SPCX $143.09 +0.7% Tue"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, two Ohioans step up.",
-    "text": "**John Thune** keeps his job. After a long day of venting behind closed doors, Senate Republicans voted 31 to 15 against putting the election off, then reelected him leader by acclamation, with even Ron Johnson praising his speech. The rest of the leadership team stays put, with one change close to home: Ohio's Bernie Moreno takes over the party's Senate campaign arm from Tim Scott.\n\n**Jim Jordan** of Ohio beat Steve Scalise to become House Republican leader for the minority, putting a hard-line Trump ally at the head of the caucus. The House also tabled a resolution to impeach Defense Secretary Pete Hegseth over the Iran war, with outgoing Rep. Thomas Massie the only Republican voting to keep it alive.\n\n**On the Democratic side**, Bernie Sanders says he won't back Chuck Schumer for majority leader in the new Congress, setting up a real fight. And the White House counsel sent a letter to Rep. Robert Garcia, likely the next Oversight chairman, warning that planned investigations of the administration could amount to criminality. The president lays a wreath at Arlington National Cemetery this morning.",
-    "links": [
-     {
-      "text": "Thune reelected",
-      "url": "https://apnews.com/article/john-thune-republican-leadership-elections-aee05eef5d85aafde6fbb27272977a14"
-     },
-     {
-      "text": "Jordan and Hegseth vote",
-      "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/"
-     },
-     {
-      "text": "Sanders and Schumer",
-      "url": "https://apnews.com/article/trump-elections-hegseth-schumer-9a0e54363b4c74761212ad55785d2733"
-     },
-     {
-      "text": "Oversight warning",
-      "url": "https://apnews.com/article/trump-congress-investigations-12acd4e233792f687b80eb9636aea18d"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with more MACtion tonight.",
-    "text": "**The MAC** has three more games tonight, all at 7:30. Buffalo, tied for second in the league, visits Ball State on ESPN2 with quarterback Jason Wright still filling in for the injured Elijah Holmes, and Ball State is thin at tight end with three players hurt. Toledo, also tied for second, hosts UMass on CBS Sports Network, and Sacramento State is at Central Michigan on ESPNU. Rain is in the forecast in Muncie.\n\n**The second College Football Playoff rankings** have Georgia at No. 1, followed by Utah, Alabama, UCLA and Notre Dame, with Notre Dame jumping six spots. Utah and UCLA are the last two unbeaten teams in the country. Indiana slid five places to No. 9 without even playing, Ohio State fell to No. 20, and No. 24 Boise State holds the Group of Six spot for now.\n\n**The NFL trade deadline** passed with 18 in-season deals in all. Kirk Cousins goes back to Minnesota for a 2027 third-round pick, which hands the Raiders job to rookie Fernando Mendoza and drops Kyler Murray to backup. The Bears landed defensive tackle Jeffery Simmons, the Colts sent Josh Downs to Kansas City and Keenan Allen to San Francisco, and Jonathan Taylor stays in Indianapolis after no one met the asking price.\n\n**College basketball** has No. 20 Michigan hosting Marquette at 7:00 on FS1 and No. 21 USC at California at 11:00 on ESPN2, with No. 8 Houston, No. 13 St. John's and No. 19 Arkansas also playing.\n\n**Baseball's** Managers of the Year are the White Sox's Will Venable in the American League and the Brewers' Pat Murphy in the National League. The Cy Young Awards come tonight.",
-    "links": [
-     {
-      "text": "MAC Week 11",
-      "url": "https://getsomemaction.com/news/2026/11/9/week-11-mac-football-preview.aspx"
-     },
-     {
-      "text": "CFP rankings",
-      "url": "https://www.cbssports.com/college-football/news/college-football-playoff-rankings-top-25-2026-week-11/"
-     },
-     {
-      "text": "Trade deadline",
-      "url": "https://www.nfl.com/news/nfl-trade-deadline-winners-losers-vikings-find-qb-jags-go-all-in-jonathan-taylor-stranded"
-     },
-     {
-      "text": "Wednesday hoops",
-      "url": "https://bustingbrackets.com/college-basketball-schedule-for-wednesday-michigan-marquette-usc-california-headline-a-busy-night-basketball"
-     },
-     {
-      "text": "Managers of the Year",
-      "url": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Wed 7:30 ET · ESPN2",
-      "align": "left",
-      "lines": [
-       "BUF Bulls",
-       "(6-3) o51.5",
-       "BSU Cardinals",
-       "(3-6) +1.5"
-      ]
-     },
-     {
-      "title": "Wed 7:30 ET · CBSSN",
-      "align": "left",
-      "lines": [
-       "UMASS Minutemen",
-       "(5-4) o51.5",
-       "TOL Rockets",
-       "(7-2) -14"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, back to Middle-earth.",
-    "text": "**The Rings of Power** opens its third season on Prime Video today with four episodes at once. Two more arrive Nov 18 and the last two on Nov 25.\n\n**Ebenezer**, Ti West's take on A Christmas Carol, had its global premiere in London on Monday and opens in theaters Friday. Johnny Depp plays Scrooge in his first major Hollywood film since 2018, with Ian McKellen, Daisy Ridley and Rupert Grint in the cast.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-    "links": [
-     {
-      "text": "Rings of Power season 3",
-      "url": "https://press.amazonmgmstudios.com/us/en/press-release/prime-video-confirms-season-three-premiere-date-of"
-     },
-     {
-      "text": "Ebenezer",
-      "url": "https://abcnews.com/amp/GMA/Culture/johnny-depp-returns-hollywood-ebenezer-scrooge/story?id=138018895"
-     }
-    ]
-   },
-   {
-    "title": "Around town, the tastings still ahead.",
-    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
-   },
-   {
-    "title": "Three from the science desk.",
-    "text": "**A computer that runs on bacteria** comes from a McGill-led team. They turned a hard math problem into a maze of tiny channels, each route a possible answer, then let multiplying bacteria swim through it. Because the bacteria keep dividing, the number of processors grows with the problem, and image analysis of where they ended up reveals the routes that satisfy the puzzle. The team adjusts the temperature to keep the crowd from overgrowing the maze.\n\n**Octopuses** squeeze through holes with a set routine, according to a study filmed through a clear partition. They probe the opening with one arm, feed a few more through, then brace those arms against the far side and lever the rest of the body after. When the hole is narrower than the hard case around the brain, common octopuses split that last pull into two stages. Mayan octopuses simply refuse to try. The roboticists on the team want the playbook for search-and-rescue robots.\n\n**A bug that lives on a spider's web** has been described from China's Fujian province. Heissophila sinica is barely bigger than a grain of salt, eats the spider's leftovers and web mites, and even drinks the spider's fluids when it molts. Rather than hide, the bugs follow their host around and circle it, and nobody yet knows why. Eggs, young and adults all turn up on the same web, so they may never leave it.",
-    "links": [
-     {
-      "text": "Bacteria biocomputer",
-      "url": "https://www.mcgill.ca/engineering/article/news/mcgill-researchers-develop-biocomputer-runs-bacteria"
-     },
-     {
-      "text": "Octopus squeeze",
-      "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/"
-     },
-     {
-      "text": "Web-loving bug",
-      "url": "https://www.newscientist.com/article/2598153-newly-described-bug-lives-its-whole-life-on-a-spider-web/"
-     }
-    ]
-   },
-   {
-    "title": "For the bookshelf, Kirk and Spock again.",
-    "text": "**Echoes in Eternity**, David Mack's new Original Series novel for the show's 60th anniversary, puts Kirk and Spock back aboard the Enterprise with a planetary puzzle that plays out over many years. With no Kirk-era TV series in the works, it is the freshest TOS adventure going, and it's out in hardcover, ebook and audiobook.",
-    "links": [
-     {
-      "text": "Echoes in Eternity",
-      "url": "https://collider.com/star-trek-captain-kirk-enterprise-echoes-in-eternity-new-book/"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "Researchers have built a computer that runs on bacteria. I asked whether it can run my operating system. They said it already has the right culture."
    }
   ]
  }

@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-11-17T15:14:30Z",
+  "updated": "2026-11-18T15:16:23Z",
   "tz": "America/New_York",
   "label_max": 40,
   "days": {
@@ -210,6 +210,13 @@
         "who": "Bob",
         "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
         "repeat": true
+      }
+    ],
+    "2026-12-12": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Bodega Christmas wine, 6 PM ET"
       }
     ],
     "2026-12-17": [

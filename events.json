@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-11-17T15:14:30Z",
+    "updated": "2026-11-18T15:16:23Z",
     "tz": "America/New_York",
     "label_max": 40,
     "kinds": [
@@ -205,6 +205,11 @@
       "date": "2026-12-09",
       "who": "Bob, Emily",
       "what": "Emily's Christmas party"
+    },
+    {
+      "date": "2026-12-12",
+      "who": "Bob",
+      "what": "Bodega Christmas wine, 6 PM ET"
     }
   ]
 }
