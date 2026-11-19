@@ -1,4 +1,246 @@
 {
+ "2026-11-19": {
+  "date": "Thursday Nov 19, 2026",
+  "intro": "Good morning. It is Thursday, and the biggest IPO on record turns into a stock today: Anthropic makes its Nasdaq debut later this morning. Tonight brings Thursday Night Football from Houston, and the Hunger Games prequel starts its preview shows.",
+  "items": [
+   {
+    "title": "First, the weather, sunshine and a slow warm-up.",
+    "text": "**Tipp City** keeps the dry, bright pattern going, each day a degree or two warmer than the last. Sunday looks like the first real chance of rain.\n\n**South Florida** is starting to drain after two days of downpours, though the hardest-hit neighborhoods are still underwater and a flood watch stays up. Another 1 to 2 inches is possible today and Friday before drier air arrives Saturday.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "South Florida flooding",
+      "url": "https://wsvn.com/news/local/miami-dade/south-florida-flooding-updates/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "align": "center",
+      "lines": [
+       "62° / 40°",
+       "Mostly sunny"
+      ]
+     },
+     {
+      "title": "Friday",
+      "align": "center",
+      "lines": [
+       "65° / 41°",
+       "Sunny"
+      ]
+     },
+     {
+      "title": "Saturday",
+      "align": "center",
+      "lines": [
+       "66° / 46°",
+       "Sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, and the AI trade is awake again.",
+    "text": "**Stocks** opened higher, with the Nasdaq leading and chip, memory, storage and neocloud names rallying on the Anthropic excitement. The S&P 500 is trying to snap a five-day losing streak, its longest since June. Wednesday's Fed minutes showed almost all officials expect further rate hikes to be appropriate, with a couple floating a half-point move in December, and Governor Christopher Waller said again that 50 basis points may be needed. Walmart beat and raised its full-year sales outlook but is slipping anyway, and Palo Alto Networks is up after its own beat.\n\n**Anthropic** priced at $83, above its range, and sold 980 million shares to raise about $81 billion, passing SpaceX's June offering as the largest IPO ever. Shares became eligible to trade at 10:00, with the first trade expected late this morning or early this afternoon once the opening auction settles.\n\n**Elon Musk** told the DealBook Summit that Tesla and SpaceX would probably be better together, while noting any merger would need shareholder votes, and he said a merger alone should not earn him his Tesla performance awards. Both stocks rose for a second straight day on Wednesday. SpaceX also counts Anthropic among the customers of its AI computing business, so today's debut touches that slice of the portfolio too.",
+    "links": [
+     {
+      "text": "Wednesday's close",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Fed minutes",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+     },
+     {
+      "text": "Movers",
+      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html"
+     },
+     {
+      "text": "Anthropic debut",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+     },
+     {
+      "text": "Musk on a merger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-better-together-musk-015619735.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "S&P 500",
+      "align": "center",
+      "lines": [
+       "7,323.63",
+       "-0.2% Wed"
+      ]
+     },
+     {
+      "title": "Nasdaq",
+      "align": "center",
+      "lines": [
+       "24,429.88",
+       "+0.4% Wed"
+      ]
+     },
+     {
+      "title": "Muskonomy",
+      "align": "left",
+      "lines": [
+       "TSLA $383.72\n+0.9% Wed",
+       "SPCX $143.50\n+1.3% Wed"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a declaration in Shenzhen and a busy Senate.",
+    "text": "**President Trump**, Xi Jinping and Vladimir Putin wrapped up their three-way meeting with a four-point declaration. It reaffirms that a nuclear war cannot be won and must never be fought and promises a dialogue on nuclear risk. It also pledges U.N. reform and more refined petroleum supply, and it says the International Criminal Court must not abuse its jurisdiction. There was no breakthrough on Ukraine.\n\n**The Senate's permitting overhaul** could get its final vote as soon as today, after a few more amendments. If it passes, the House would need to act before year's end for it to become law.\n\n**Senate Republicans** are still weighing whether to push the Pentagon's $350 billion request through a party-line reconciliation bill before Democrats take control. Majority Leader John Thune called it an open question and said Republicans may also explore a bipartisan route through regular appropriations. Republicans also sounded skeptical of Transportation Secretary Sean Duffy's $50 billion ask to overhaul the air traffic system.",
+    "links": [
+     {
+      "text": "Shenzhen declaration",
+      "url": "https://www.bbc.com/news/articles/c623j4ln97x7o"
+     },
+     {
+      "text": "Permitting bill",
+      "url": "https://www.axios.com/2026/11/19/energy-permitting-bill-senate-politics"
+     },
+     {
+      "text": "Defense package",
+      "url": "https://www.cbsnews.com/news/thune-senate-gop-defense-bill-reconciliation/"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with an AFC South Thursday and a hot stove.",
+    "text": "**Thursday Night Football** opens Week 11 with the Colts in Houston. The Texans get running back David Montgomery back for the first time since Oct. 11, but they are without receiver Marvin Harrison Jr., edge rusher Danielle Hunter and running back Woody Marks. Indianapolis plays without both starting offensive tackles.\n\n**Around the NFL**, Minnesota's Jordan Addison will have thumb surgery and miss multiple weeks, though he avoided injured reserve. Tampa Bay signed Cooper Rush, a hint that Baker Mayfield may not make it back for Sunday, and the Patriots are reportedly calling around for quarterbacks with Drake Maye likely done.\n\n**Baseball's** offseason got its first blockbuster. Kansas City sent All-Star third baseman Maikel Garcia to Seattle in a six-player deal that brings back three pitchers, led by Bryce Miller. The Twins agreed to a two-year deal with Sonny Gray, reportedly worth $55 million, and the White Sox signed Dustin May for 3 years and $52.5 million.\n\n**College basketball** has No. 6 Texas and No. 23 Louisville at home at 8:00 and No. 18 USC late, and the Players Era title game tips at 11:00 on ESPN in Las Vegas. On the football side, Rice visits Temple tonight on ESPN, and Bowling Green plays at Toledo Friday at 7:30 on ESPN2.",
+    "links": [
+     {
+      "text": "Colts injuries",
+      "url": "https://www.colts.com/news/colts-rule-out-5-players-for-week-11-thursday-night-football-game-vs-houston-texans"
+     },
+     {
+      "text": "Texans injuries",
+      "url": "https://www.profootballrumors.com/2026/11/texans-getting-rb-david-montgomery-back-in-week-11-rule-out-marvin-harrison-danielle-hunter"
+     },
+     {
+      "text": "Week 11 injury report",
+      "url": "https://www.nbcsports.com/fantasy/football/news/nfl-week-11-injury-report-drake-maye-likely-done-for-season-surgery-for-jordan-addison"
+     },
+     {
+      "text": "Royals–Mariners trade",
+      "url": "https://www.mlb.com/news/bryce-miller-royals-mariners-trade"
+     },
+     {
+      "text": "Sonny Gray",
+      "url": "https://www.mlb.com/news/sonny-gray-free-agent-contract-twins"
+     },
+     {
+      "text": "Dustin May",
+      "url": "https://www.mlb.com/news/dustin-may-white-sox-contract"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Thu 8:15 ET · Prime",
+      "align": "left",
+      "lines": [
+       "IND Colts",
+       "(3-7) o44.5",
+       "HOU Texans",
+       "(3-6) -12.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, a new 007 and the Reaping arrives.",
+    "text": "**Robert Pattinson** is the next James Bond. Amazon MGM Studios made it official earlier this week, with Denis Villeneuve directing from a script by Steven Knight and Amy Pascal and David Heyman producing.\n\n**The Hunger Games: Sunrise on the Reaping** starts previews today ahead of Friday's opening. Deadline says presales are running ahead of both Wicked films, and it opens in 84 countries.\n\n**Grendel**, Matt Wagner's long-running Dark Horse comic, is getting an adult animated series at Netflix, with Bobak Esfarjani as showrunner and Bobbypills animating. Netflix shelved a live-action version in 2022.\n\n**Grand Theft Auto VI** is out, with a 99 on Metacritic and 8 Game Awards nominations already in hand. Omdia estimates it could bring in $3.2 billion by the end of the year.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4\n\nTheaters · Dune: Part Three · opens Fri Dec 18",
+    "links": [
+     {
+      "text": "Pattinson as Bond",
+      "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film"
+     },
+     {
+      "text": "Sunrise on the Reaping forecast",
+      "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101/"
+     },
+     {
+      "text": "Grendel",
+      "url": "https://deadline.com/2026/11/grendel-animated-series-dark-horse-comic-netflix-matt-wagner-1237226965/"
+     },
+     {
+      "text": "GTA VI launch",
+      "url": "https://www.euronews.com/2026/11/19/grand-theft-auto-vi-released-after-13-year-wait-selling-over-17-million-copies"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Reaping forecast",
+      "align": "left",
+      "lines": [
+       "$90M–$120M\ndomestic",
+       "$160M–$190M\nworldwide"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Around town, a holiday tasting in Piqua.",
+    "text": "**Lemon Meringue Floral & Wine Boutique** on North Main Street in Piqua hosts a Holiday Wine Showcase on Saturday, Dec. 5, anytime from 12:00 to 4:00 PM. It pours 25 wines curated with VineCraft Selections, with charcuterie included and a taco truck on site. Tickets are $25, they are limited, and guests must be 21 or older.\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM",
+    "links": [
+     {
+      "text": "Holiday Wine Showcase",
+      "url": "https://www.lemonmeringuefloral.com/workshops-experiences/p/holiday-wine-showcase-piqua"
+     }
+    ]
+   },
+   {
+    "title": "From the science desk, eagles, a running robot and a lost ice shelf.",
+    "text": "**Verreaux's eagles** in Chad's Ennedi Plateau are killing adult male baboons, some as heavy as early humans. Researchers found skulls with talon punctures and scratch marks on shoulder bones, including one baboon of over 26 kilograms, well above the 13-kilogram mark that had been the largest confirmed raptor kill of a primate. That suggests our hominin ancestors may not have outgrown the eagle threat after all. The males' habit of sitting alone on exposed cliff faces seems to make them targets.\n\n**The fastest soft robot** yet comes from UC San Diego. It is a six-legged runner 3D-printed in one piece from a single material, with no electronics at all, and it moves at 4.72 meters per second, more than 100 times faster than the team's 2022 version. The trick was borrowed from the compound steam engine, routing compressed air through small high-pressure chambers that drive the valves, then through larger low-pressure chambers that move the legs. It runs on sand and gravel, goes down stairs, and can even swim.\n\n**An ice shelf** about 58,000 square miles across and up to 2,100 meters thick once covered Baffin Bay between Greenland and Canada, thicker than any Antarctic shelf today. University of North Carolina Wilmington researchers read its imprint from seafloor maps. It held back three ice sheets, and it vanished in roughly 500 to 1,000 years, which is not a comforting pace given what today's Antarctic shelves are holding back.",
+    "links": [
+     {
+      "text": "Eagles and baboons",
+      "url": "https://www.mpg.de/27098445/eagles-hunt-adult-male-baboons"
+     },
+     {
+      "text": "Soft robot",
+      "url": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function"
+     },
+     {
+      "text": "Baffin Bay ice shelf",
+      "url": "https://www.wwaytv3.com/ancient-ice-shelf-discovery-by-uncw-researchers-offers-clues-about-rising-sea-levels/"
+     }
+    ]
+   },
+   {
+    "title": "Here's something for the bridge crew.",
+    "text": "**Star Trek: The Original Voyages** is a new official visual history of the original series, timed for the 60th anniversary, with a foreword by William Shatner. Kyle Newman and Jeff Bond trace the original-cast era from 1966 through 1991, with original interviews and hundreds of photos, many rarely or never seen, plus the toys, comics, trading cards and convention ephemera. Booklist gave it a starred review. It is a 416-page hardcover from Ten Speed Press.",
+    "links": [
+     {
+      "text": "The Original Voyages",
+      "url": "https://www.penguinrandomhouse.com/books/788661/star-trek-the-original-voyages-by-kyle-newman-and-jeff-bond-foreword-by-william-shatner-official-star-trek-licensed/"
+     }
+    ]
+   },
+   {
+    "title": "On this day, a few appropriate remarks.",
+    "text": "**The Gettysburg Address** was delivered on Nov. 19, 1863, at the dedication of the Soldiers' National Cemetery. Lincoln was almost an afterthought. Edward Everett, the main speaker, got his invitation in September, while Judge David Wills's letter asking the president for \"a few appropriate remarks\" is dated Nov. 2. The speech drew little attention at the time. Five manuscript copies are known, and the Library of Congress holds two of them.",
+    "links": [
+     {
+      "text": "Gettysburg Address",
+      "url": "https://guides.loc.gov/gettysburg-address"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "My toaster and my microwave held peace talks in the kitchen last night. They issued a joint declaration that crumbs must never be fought over. Negotiations on the popcorn button remain frozen."
+   }
+  ]
+ },
  "2026-11-18": {
   "date": "Wednesday Nov 18, 2026",
   "intro": "Good morning. It is Wednesday, and the AI trade has a full calendar: Nvidia's numbers are in, the Fed's October minutes land this afternoon, and Anthropic sets its IPO price tonight. Grand Theft Auto VI unlocks at midnight, and MACtion is back for a Wednesday doubleheader.",
@@ -1354,190 +1596,6 @@
    {
     "title": "And finally,",
     "text": "I scheduled a full diagnostic to test whether Friday the 13th is unlucky. It was scheduled for Friday the 13th. The results are inconclusive, and so is the diagnostic."
-   }
-  ]
- },
- "2026-11-12": {
-  "date": "Thursday Nov 12, 2026",
-  "intro": "Good morning. It is a gray Thursday, with Thursday Night Football in the Meadowlands tonight and Starship lined up for its most ambitious flight tomorrow evening. The morning's biggest story is in markets: Jensen Huang has resigned as Nvidia's chief executive, and chip stocks are giving back yesterday's rally.",
-  "items": [
-   {
-    "title": "First, a cooler day with rain on the way.",
-    "text": "**Tipp City** stays cloudy and noticeably cooler, with light rain arriving this afternoon and lingering into the night. Friday is colder still, so the jacket earns its keep.\n\n**The nor'easter** is still on track for Friday, though forecasters have trimmed the snow. The coast and the I-95 corridor look mostly like rain, with Boston and New York missing out on meaningful snow, while the Adirondacks, Catskills, Berkshires and the Green and White Mountains pick up the first real accumulations of the season, with the higher totals farther north.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9584&lon=-84.1722"
-     },
-     {
-      "text": "Nor'easter snow",
-      "url": "https://weather.com/2026/11/11/forecast/regional/noreaster-first-snow-frost-freeze"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "51° / 36°",
-       "Cloudy,\nrain later"
-      ]
-     },
-     {
-      "title": "Friday",
-      "lines": [
-       "44° / 27°",
-       "Mostly cloudy"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are open, and Nvidia is without its founder.",
-    "text": "**Stocks** are open and slipping. Wednesday's AI rally lifted the S&P 500 to within 2.6% of its record, but this morning the S&P 500 is down about 0.6% and the Nasdaq about 0.9%, while the Dow sits near flat.\n\n**Nvidia** is the reason. Jensen Huang, who founded the company in 1993, resigned as president and CEO after admitting an affair with an alleged Chinese spy, and the board accepted it Wednesday. CFO Colette Kress is interim CEO, and longtime director Harvey Jones becomes the company's first-ever board chair. The stock is down 10% to 12% early, and the AI cloud names it helps finance are sliding with it, with CoreWeave off about 9% after its big Wednesday and Nebius down about 16%. AMD is the exception, up on an upgrade that argues it can take share while Nvidia sorts itself out. Nvidia reports earnings Tuesday, which will be the first look at the company without Huang, and it is one more thing that has to go right ahead of Anthropic's debut next week.\n\n**Tesla** had a strong Wednesday, while **SpaceX** slipped on caution ahead of tomorrow's Starship flight, a small dent in the SPCX slice of the portfolio. Korea's retail investors have been shifting money from Tesla into SpaceX ahead of a possible merger, nearly dollar for dollar over the past month. Friday also brings the producer price index, which matters more than usual after Tuesday's hot inflation report revived talk of a larger Fed hike in December.",
-    "links": [
-     {
-      "text": "Huang resigns",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
-     },
-     {
-      "text": "Thursday's market",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
-     },
-     {
-      "text": "SpaceX before Starship",
-      "url": "https://www.heygotrade.com/en/news/spacex-spcx-stock-news-november-12-2026/"
-     },
-     {
-      "text": "Korean investors",
-      "url": "https://en.sedaily.com/finance/2026/11/12/korean-investors-shift-tesla-cash-into-spacex"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Wednesday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,619 +1.3% Wed",
-       "Nasdaq 25,466 +1.6% Wed",
-       "TSLA $390.84 +2.9% Wed",
-       "SPCX $139.75 -2.3% Wed"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, the Senate map grows bluer.",
-    "text": "**Scott Colom** won Mississippi's Senate race, unseating Cindy Hyde-Smith by about 5,500 votes after a long count. He becomes the state's first Black senator since Reconstruction and brings the incoming Democratic majority to 55 seats. In Alaska, Mary Peltola holds a narrow lead over Dan Sullivan with neither above 50%, so a ranked-choice tally is expected after absentee counting ends around Nov 18.\n\n**At the White House**, the president has promoted Stephen Miller to chief of staff, which Democrats read as a sign that talk of bipartisan deals in the new Congress shouldn't be taken at face value. The Interior Department also floated a plan to sell federal public lands to states, tribes and local governments, and it drew quick pushback from lawmakers in both parties. Congressional Democrats are gathering in Denver today to debrief on the midterms, a room that includes several likely 2028 contenders.",
-    "links": [
-     {
-      "text": "Colom wins",
-      "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
-     },
-     {
-      "text": "Alaska count",
-      "url": "https://www.foxnews.com/politics/peltola-campaign-loses-court-rejected-absentee-ballots-maintains-narrow-lead"
-     },
-     {
-      "text": "Miller and the new Congress",
-      "url": "https://rollcall.com/2026/11/12/some-democrats-doubt-trump-is-serious-about-cutting-deals-in-new-congress/"
-     },
-     {
-      "text": "Public lands plan",
-      "url": "https://apnews.com/live/trump-congress-politics-midterm-elections-news-updates-11-12-2026"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with the NFC East under the lights.",
-    "text": "**Thursday Night Football** has the Commanders at the Giants at 8:15 on Prime Video, a rematch of their Week 5 tie. Rain and wind are in the forecast at MetLife. Washington is without center Lucas Patrick and tight end Colson Yankoff but gets receiver Treylon Burks back, while the Giants have one of their cleanest injury reports of the year, with J.J. McCarthy coming off a hip injury on a short week and Cam Skattebo back from his hamstring.\n\n**Around the league**, Puka Nacua faces a multi-week absence with a knee injury, and the Rams are banged up again. Patrick Mahomes practiced fully on his elbow, Seattle will start Drew Lock with Sam Darnold still out, Deshaun Watson is set to start for Cleveland, and Kirk Cousins makes his return with Minnesota at Green Bay. The Patriots and Lions play Sunday in Munich.\n\n**Baseball's Cy Young Awards** were both unanimous: the Yankees' Cam Schlittler in the American League and the Brewers' Jacob Misiorowski in the National League.\n\n**College basketball** is light tonight, with No. 23 BYU hosting Montana State at 9:00 on ESPN+.",
-    "links": [
-     {
-      "text": "Commanders at Giants",
-      "url": "https://www.covers.com/nfl/commanders-vs-giants-prediction-picks-nov-12-2026"
-     },
-     {
-      "text": "Week 10 injuries",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-10-injury-report-mike-evans-puka-nacua/"
-     },
-     {
-      "text": "Cy Young Awards",
-      "url": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Thu 8:15 ET · Prime",
-      "align": "left",
-      "lines": [
-       "WSH Commanders",
-       "(2-5-1) o41.5",
-       "NYG Giants",
-       "(5-2-1) -2.5"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, Brad Bird returns.",
-    "text": "**Ray Gunn**, Brad Bird's first film in eight years, got its second trailer today. The retro-futurist animated noir stars Sam Rockwell as a detective hired to keep Scarlett Johansson's singer out of trouble in a city where humans and aliens live side by side, with Tom Waits as his partner. It opens in theaters Dec 4 and arrives on Netflix Dec 18, and early reviews are mixed.\n\nTheaters · Ebenezer · opens Fri Nov 13\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25",
-    "links": [
-     {
-      "text": "Ray Gunn trailer",
-      "url": "https://movieweb.com/ray-gunn-trailer-2/"
-     }
-    ]
-   },
-   {
-    "title": "Around town, the tastings still ahead.",
-    "text": "The Links Golf Social, Troy · VineCraft wine tasting · Sat Nov 14, 4:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
-   },
-   {
-    "title": "Three from the science desk.",
-    "text": "**Crows** make visual decisions about twice as fast as people and monkeys. In a Tübingen study published in Science, two carrion crows judged which way a field of dots was drifting in about 235 milliseconds on average, with near-perfect accuracy when the signal was clear. Recordings showed their neurons splitting toward one answer just 70 milliseconds in, building to a threshold the same way primate brains do, even though bird brains lack our layered cortex. The researchers suspect flight and beak-aiming put a premium on speed.\n\n**The first necks** may not have been for looking around. Early land animals like Tiktaalik had a backbone built around a thick notochord, so a team used modern sturgeon, which share that design, to measure its stiffness and model the fossils. Even with the head separated from the shoulders, the animals could barely lift or turn their heads, sometimes less than a fish. The neck seems to have arrived as a side effect of reworking the shoulders for walking on front limbs, with flexibility coming much later.\n\n**Starship Flight 15** tries something no orbital rocket has done: bring both stages home. The Super Heavy booster aims for a tower catch about 6.5 minutes after liftoff, then the ship deploys 26 Starlink satellites, circles Earth about 14 times, and comes back to Starbase for its own catch roughly 22.5 hours later, on Saturday afternoon.",
-    "links": [
-     {
-      "text": "Fast crows",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm"
-     },
-     {
-      "text": "Stiff early necks",
-      "url": "https://sciencedaily.com/releases/2026/11/261108233101.htm"
-     },
-     {
-      "text": "Starship Flight 15",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Starship launch",
-      "lines": [
-       "Fri Nov 13",
-       "5:45–7:00 PM ET"
-      ]
-     },
-     {
-      "title": "Ship catch",
-      "lines": [
-       "Sat Nov 14",
-       "about 4:17 PM ET"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "For the Thanksgiving table, crisper skin.",
-    "text": "**Baking powder** is Food & Wine's trick for fried-turkey skin without the fryer. Spatchcock a bone-in turkey breast, season under the skin, then rub the skin with kosher salt and baking powder at 3 to 1. The baking powder raises the skin's pH so moisture leaves faster and it browns and blisters better. Rest it uncovered in the fridge overnight, then roast for about an hour. An air-chilled breast that hasn't been injected with brine gives the best head start.",
-    "links": [
-     {
-      "text": "Oven-fried turkey breast",
-      "url": "https://www.foodandwine.com/how-to-oven-fry-a-turkey-breast-12150077"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "I asked the ship's computer for a joke about infinity. It is still telling it."
    }
   ]
  }
