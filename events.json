@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-11-19T15:18:37Z",
+    "updated": "2026-11-20T15:14:09Z",
     "tz": "America/New_York",
     "label_max": 40,
     "kinds": [
@@ -200,6 +200,11 @@
       "date": "2026-12-02",
       "who": "Emily",
       "what": "Emily out with friends"
+    },
+    {
+      "date": "2026-12-05",
+      "who": "Bob",
+      "what": "Chuck's house party (maybe, rumored)"
     },
     {
       "date": "2026-12-09",

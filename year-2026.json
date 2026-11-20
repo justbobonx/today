@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updated": "2026-11-19T15:18:37Z",
+  "updated": "2026-11-20T15:14:09Z",
   "tz": "America/New_York",
   "label_max": 40,
   "days": {
@@ -195,6 +195,13 @@
         "who": "Bob",
         "what": "Pool at the Eagles 3:30 PM ET, then $10 bar poker at Tony's",
         "repeat": true
+      }
+    ],
+    "2026-12-05": [
+      {
+        "kind": "plan",
+        "who": "Bob",
+        "what": "Chuck's house party (maybe, rumored)"
       }
     ],
     "2026-12-09": [
