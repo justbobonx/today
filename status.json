@@ -1,4 +1,242 @@
 {
+ "2026-11-21": {
+  "date": "Saturday Nov 21, 2026",
+  "intro": "Good morning, and happy Saturday. It is a full college football day, with No. 4 UCLA able to clinch a Big Ten title game berth in Ann Arbor and No. 1 Georgia under the lights in Columbia. Thanksgiving is five days out.\n\nOn Wall Street, the week ended about as badly as it began, and the scoreboard is in the market section.",
+  "items": [
+   {
+    "title": "First, the weather, one more warm day before the cold walks in.",
+    "text": "**Tipp City** gets another sunny, unseasonably mild afternoon, and Sunday holds on until a quick band of evening rain. Behind it, the cold front finally lands and Monday feels like late November again.\n\n**The East Coast storm** has already brought record rainfall to parts of Florida and is now spreading soaking rain into Georgia and the Carolinas. It rides up toward New York, Philadelphia and Boston Sunday night into Monday, with coastal flooding helped along by Tuesday's full-moon tides. The odds it becomes Subtropical Storm Kyle keep falling, and forecasters are already eyeing a second, possibly stronger coastal storm for Wednesday into Thanksgiving Day.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "East Coast storm",
+      "url": "https://weather.com/2026/11/21/forecast/regional/east-coast-storm-coastal-flooding-winds-rain-kyle"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "align": "center",
+      "lines": [
+       "67\u00b0 / 41\u00b0",
+       "Sunny"
+      ]
+     },
+     {
+      "title": "Sunday",
+      "align": "center",
+      "lines": [
+       "66\u00b0 / 42\u00b0",
+       "Mostly sunny,\nrain at night"
+      ]
+     },
+     {
+      "title": "Monday",
+      "align": "center",
+      "lines": [
+       "49\u00b0 / 30\u00b0",
+       "Sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are closed, after the roughest week in years.",
+    "text": "**Stocks** are closed for the weekend, and Friday was the worst day of a brutal week. The AI selloff spread to nearly everything, the S&P 500 stretched its losing streak to seven sessions, its longest since February 2020, and both the S&P and the Dow closed in correction territory, 10% off their records. The Nasdaq erased its gain for 2026, the Nasdaq-100 touched bear-market territory during the day, and the VIX fear gauge climbed above 30 for the first time since March. For the week, the Dow had its worst showing since March 2020 and the S&P its worst since the tariff shock of April 2025. Treasury yields fell hard as money ran for safety.\n\n**Anthropic** gave back most of its first-day gain on Friday and finished only a little above its $83 offer price. Part of the pressure is supply: its insider lockup was front-loaded, letting a large block of insider shares trade right away, and the underwriters also exercised their option for extra shares.\n\n**The Muskonomy** fell harder than the market. SpaceX slipped back below its $135 IPO price, weighed down by worries over the $32 billion in bonds it sold Thursday to buy AI chips, at yields above 8%. Tesla dropped despite an HSBC upgrade to hold, whose analyst values the stock at $507 a share in a SpaceX takeover but only $212 on its own. Both companies have special committees exploring a deal, with no terms yet.\n\n**Next week** is short. Markets close Thursday for Thanksgiving and at 1:00 PM on Friday. Dell, HP, Workday and Best Buy report Tuesday, and Wednesday brings the October PCE inflation report, the Fed's last inflation read before its Dec. 9 meeting, where a rate hike is now widely expected.",
+    "links": [
+     {
+      "text": "Friday's close",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+     },
+     {
+      "text": "Anthropic and SpaceX",
+      "url": "https://www.morningstar.com/news/marketwatch/20261120186/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next"
+     },
+     {
+      "text": "HSBC on Tesla",
+      "url": "https://www.tikr.com/blog/tesla-sinks-8-spacex-down-7-rivian-down-8-as-ai-sell-off-swamps-hsbc-upgrade"
+     },
+     {
+      "text": "Week ahead",
+      "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "S&P 500",
+      "align": "center",
+      "lines": [
+       "6,910.39",
+       "-3.7% Fri",
+       "-8.6% week"
+      ]
+     },
+     {
+      "title": "Nasdaq",
+      "align": "center",
+      "lines": [
+       "22,617.73",
+       "-5.3% Fri",
+       "-10.0% week"
+      ]
+     },
+     {
+      "title": "Muskonomy",
+      "align": "left",
+      "lines": [
+       "TSLA $345.82\n-7.6% Fri",
+       "SPCX $127.79\n-7.7% Fri"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a fight over who can talk to Congress.",
+    "text": "**President Trump** signed an executive order late Friday requiring federal contractors and their subcontractors to notify the White House before answering any congressional request about their government work, and to withhold anything the administration deems privileged. Companies that do not comply risk losing contracts or being barred from future ones. It follows a White House counsel directive this week requiring agencies to approve employee testimony, and it sets up a court fight ahead of Democrats taking both chambers on Jan. 3.\n\n**Democrats** are preparing to roll out a first-100-days agenda in early December, once their Senate leadership race is settled. Early bills are expected to limit the president's war powers on Iran, reverse Medicaid and SNAP cuts and ban stock trading by members of Congress. Lawmakers leave town today for Thanksgiving, with a few House races still uncalled.",
+    "links": [
+     {
+      "text": "Contractor order",
+      "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html"
+     },
+     {
+      "text": "Executive order text",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/"
+     },
+     {
+      "text": "Democratic agenda",
+      "url": "https://www.investing.com/news/politics-news/democrats-won-big-in-the-midterms-so-now-what-5043382"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with a stacked Saturday and a quarterback shuffle.",
+    "text": "**College football's** penultimate regular-season Saturday has playoff stakes all day. No. 10 BYU opens at Kansas at noon on ABC. At 3:30, No. 9 Tennessee hosts LSU on ABC needing to win out for a playoff spot, with the Tigers favored on the road, while No. 12 Texas Tech visits Baylor on FOX with its Big 12 title-game hopes on the line. SMU visits No. 6 Notre Dame at 7:30 on NBC, and unbeaten No. 2 Utah closes the night at TCU at 9:00 on FOX.\n\n**Around the NFL**, the Colts waived Daniel Jones and named Anthony Richardson their starter. Drake Maye's injury turns out to be a fractured right fibula; he will not need surgery, but ESPN reports he may not return this season, and A.J. Brown is expected to miss several weeks. Puka Nacua had surgery and is likely done for the year. Kyler Murray is out for Minnesota against San Francisco, and the 49ers decide on Mike Evans today.\n\n**Baseball's** non-tender deadline passed Friday. The Dodgers traded for Royce Lewis, sending Bobby Miller and a catching prospect to Minnesota, and Detroit locked up starter Troy Melton for six years. The Mets' opening offer to Tarik Skubal was reportedly 9 years and nearly $400 million. The **Reds** tendered all 11 of their arbitration-eligible players and added first baseman Carter Graham to the 40-man roster to protect him from the Rule 5 draft.",
+    "links": [
+     {
+      "text": "Week 12 previews",
+      "url": "https://www.pff.com/news/college-football-week-12-preview-and-predictions-for-the-five-biggest-games"
+     },
+     {
+      "text": "NFL Friday roundup",
+      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-nov-20"
+     },
+     {
+      "text": "Lewis trade and Melton",
+      "url": "https://www.mlbtraderumors.com/2026/11/the-opener-lewis-miller-melton-loaisiga.html"
+     },
+     {
+      "text": "Skubal offer",
+      "url": "https://www.sportsnet.ca/mlb/article/report-mets-first-offer-to-skubal-was-for-nine-years-400m/"
+     },
+     {
+      "text": "Reds tenders",
+      "url": "https://www.mlb.com/reds/news/reds-decisions-at-2026-non-tender-deadline"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Sat 12:00 ET \u00b7 FOX",
+      "align": "left",
+      "lines": [
+       "14 OSU Buckeyes",
+       "(7-3) o41.5",
+       "NEB Cornhuskers",
+       "(6-4) +3.5"
+      ]
+     },
+     {
+      "title": "Sat 3:30 ET \u00b7 CBS",
+      "align": "left",
+      "lines": [
+       "4 UCLA Bruins",
+       "(10-0) o36.5",
+       "MICH Wolverines",
+       "(5-5) +3.5"
+      ]
+     },
+     {
+      "title": "Sat 7:30 ET \u00b7 ABC",
+      "align": "left",
+      "lines": [
+       "1 UGA Bulldogs",
+       "(9-1) o51.5",
+       "21 SC Gamecocks",
+       "(6-4) +14.5"
+      ]
+     },
+     {
+      "title": "Sat 9:00 ET \u00b7 FOX",
+      "align": "left",
+      "lines": [
+       "2 UTAH Utes",
+       "(10-0) o46.5",
+       "TCU Horned Frogs",
+       "(5-5) +8.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, the Reaping lands big.",
+    "text": "**The Hunger Games: Sunrise on the Reaping** is tracking toward the fourth-best opening in the franchise, and could climb to third if it holds up through the weekend. That would be well over double the opening of the last prequel, Ballad of Songbirds & Snakes, a rebound Deadline calls unheard of for a sixth film. Overseas could add close to as much again.\n\nIMAX \u00b7 The Further Mis-Adventures of Cliff Booth \u00b7 opens Wed Nov 25\n\nPrime Video \u00b7 Blade Runner 2099 premieres \u00b7 Wed Nov 25\n\nTheaters \u00b7 Ray Gunn \u00b7 opens Fri Dec 4\n\nTheaters \u00b7 Dune: Part Three \u00b7 opens Fri Dec 18",
+    "links": [
+     {
+      "text": "Reaping box office",
+      "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Reaping",
+      "align": "left",
+      "lines": [
+       "Friday $51M\nwith previews",
+       "Weekend est.\n$110M"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Around town, three holiday dates still on the books.",
+    "text": "Troy-Hayner Cultural Center, Troy \u00b7 Golden Glow \u00b7 Fri Dec 4, 7:00 PM\n\nLemon Meringue Floral & Wine Boutique, Piqua \u00b7 Holiday Wine Showcase \u00b7 Sat Dec 5, 12:00 PM\n\nThe Cellar by Bottle No. 121, Troy \u00b7 Holiday Wine Tasting \u00b7 Wed Dec 9, 6:00 PM"
+   },
+   {
+    "title": "From the science desk, a sprinting soft robot, an egg-peeling snake and a monkey on a bridge.",
+    "text": "**A six-legged soft robot** from UC San Diego is the fastest ever built from soft materials, and it has no electronics at all. It is 3D-printed in one piece from a single material and runs on compressed air, routed through internal chambers and valves borrowed from the design of the compound steam engine: the air works twice, first driving the valves at high pressure, then the legs at low pressure. The result is more than 100 times faster than the team's 2022 version. It runs on sand, gravel, mulch and concrete, goes down stairs, swims and keeps working underwater.\n\n**The white-throated egg-eater**, a new snake from the forests near Ethiopia's Bale Mountains, is about as thick as a knitting needle and lives entirely on tiny bird eggs. Like its relatives, it swallows an egg whole, slices the shell with spines of its backbone that project into its throat, squeezes out the contents and spits out the shell. It was nearly mistaken for a look-alike species until researchers noticed its white throat and a blue shimmer between its scales, and three more new egg-eaters are waiting to be described.\n\n**A new howler monkey**, Alouatta matogrossensis, turned up on a camera trap at the end of a rope bridge built to help tree-dwellers cross roads in the southern Amazon, shortly after the species was described. It had been filed for years under a more common howler until genetic work split it out, and it may have been isolated between rivers and savanna for about 500,000 years. Its home is one of the most heavily deforested stretches of Brazil, so the bridges may matter more than anyone planned.",
+    "links": [
+     {
+      "text": "Soft robot",
+      "url": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function"
+     },
+     {
+      "text": "Egg-eating snake",
+      "url": "https://www.popsci.com/environment/egg-eating-snake-discovered-ethiopia/"
+     },
+     {
+      "text": "Rope-bridge howler",
+      "url": "https://nautil.us/a-rope-bridge-camera-just-discovered-a-new-species-of-howler-monkey-1286866"
+     }
+    ]
+   },
+   {
+    "title": "On this day, the first people to fly free.",
+    "text": "**Jean-Fran\u00e7ois Pil\u00e2tre de Rozier** and the Marquis d'Arlandes lifted off from the grounds of the Ch\u00e2teau de la Muette outside Paris on Nov. 21, 1783, in a Montgolfier hot-air balloon, the first untethered human flight. The science teacher and his passenger rose about 3,000 feet over Paris and drifted roughly 5.6 miles in 25 minutes before coming down outside the city walls on the Butte-aux-Cailles.",
+    "links": [
+     {
+      "text": "The first balloon flight",
+      "url": "https://www.museumofflight.org/exhibits-and-events/exhibits/montgolfier-brothers-balloon"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "I tried to inflate a hot-air balloon using this week's market commentary. It rose quickly, then fell 8.6%. I am told this is not how balloons are supposed to work."
+   }
+  ]
+ },
  "2026-11-20": {
   "date": "Friday Nov 20, 2026",
   "intro": "Good morning, and happy Friday. The Hunger Games prequel opens in theaters today, and tonight brings Friday-night college football, with No. 13 Oregon in East Lansing and the Battle of I-75 in Toledo. Thanksgiving is now six days out.\n\nOn Wall Street, the selling that greeted Anthropic's debut has followed the market into the last session of the week.",
@@ -21,7 +259,7 @@
       "title": "Today",
       "align": "center",
       "lines": [
-       "66° / 40°",
+       "66\u00b0 / 40\u00b0",
        "Sunny"
       ]
      },
@@ -29,7 +267,7 @@
       "title": "Saturday",
       "align": "center",
       "lines": [
-       "66° / 42°",
+       "66\u00b0 / 42\u00b0",
        "Sunny"
       ]
      },
@@ -37,7 +275,7 @@
       "title": "Sunday",
       "align": "center",
       "lines": [
-       "64° / 42°",
+       "64\u00b0 / 42\u00b0",
        "Mostly sunny,\nrain late"
       ]
      }
@@ -119,7 +357,7 @@
    },
    {
     "title": "Sports, with Friday lights and a MAC title race.",
-    "text": "**No. 13 Oregon** visits Michigan State tonight on FOX. The Ducks are without Dante Moore, with Dylan Raiola at quarterback, while the Spartans have lost Alessio Milivojevic and Cam Fancher is questionable, so true freshman Kayd Coffman could make the start. Earlier, Clemson goes to Duke on ESPN with its own quarterback crisis, Tait Reynolds out for the year and Christopher Vizzina in concussion protocol.\n\n**The Battle of I-75** puts Bowling Green at Toledo on ESPN2, the 91st meeting of a series tied all-time. Toledo shares first place in the MAC with Buffalo, Western Michigan and **Ohio**, each with two games left, and the Rockets close the regular season in Athens next Friday at noon. Saturday's headliners include No. 14 Ohio State at Nebraska at noon on FOX, No. 4 UCLA at Michigan at 3:30 on CBS, and No. 1 Georgia at No. 21 South Carolina at 7:30 on ABC.\n\n**Around the NFL**, the league suspended Rams receiver Puka Nacua 3 games under the personal conduct policy, and he will serve it while on injured reserve. Baltimore sent cornerback Marlon Humphrey home and will keep him inactive against Carolina over his podcast remarks about the city. Baker Mayfield is trending toward playing in Detroit on Sunday despite his foot strain.\n\n**Baseball's** bullpen market is moving. The Yankees are bringing back Jonathan Loáisiga on a two-year, $18 million deal, and the Mets agreed to three years and $12 million with lefty Darwinzon Hernández.\n\n**College basketball** has Kentucky and Indiana tonight at Lucas Oil Stadium in Indianapolis, days after the Wildcats fell out of the AP poll, and unbeaten Georgia visits unbeaten Georgia Tech.",
+    "text": "**No. 13 Oregon** visits Michigan State tonight on FOX. The Ducks are without Dante Moore, with Dylan Raiola at quarterback, while the Spartans have lost Alessio Milivojevic and Cam Fancher is questionable, so true freshman Kayd Coffman could make the start. Earlier, Clemson goes to Duke on ESPN with its own quarterback crisis, Tait Reynolds out for the year and Christopher Vizzina in concussion protocol.\n\n**The Battle of I-75** puts Bowling Green at Toledo on ESPN2, the 91st meeting of a series tied all-time. Toledo shares first place in the MAC with Buffalo, Western Michigan and **Ohio**, each with two games left, and the Rockets close the regular season in Athens next Friday at noon. Saturday's headliners include No. 14 Ohio State at Nebraska at noon on FOX, No. 4 UCLA at Michigan at 3:30 on CBS, and No. 1 Georgia at No. 21 South Carolina at 7:30 on ABC.\n\n**Around the NFL**, the league suspended Rams receiver Puka Nacua 3 games under the personal conduct policy, and he will serve it while on injured reserve. Baltimore sent cornerback Marlon Humphrey home and will keep him inactive against Carolina over his podcast remarks about the city. Baker Mayfield is trending toward playing in Detroit on Sunday despite his foot strain.\n\n**Baseball's** bullpen market is moving. The Yankees are bringing back Jonathan Lo\u00e1isiga on a two-year, $18 million deal, and the Mets agreed to three years and $12 million with lefty Darwinzon Hern\u00e1ndez.\n\n**College basketball** has Kentucky and Indiana tonight at Lucas Oil Stadium in Indianapolis, days after the Wildcats fell out of the AP poll, and unbeaten Georgia visits unbeaten Georgia Tech.",
     "links": [
      {
       "text": "Friday's games",
@@ -146,17 +384,17 @@
       "url": "https://apnews.com/article/buccaneers-baker-mayfield-injury-lions-b921564a9d8394215fb9972ac18d0972"
      },
      {
-      "text": "Loáisiga",
+      "text": "Lo\u00e1isiga",
       "url": "https://www.espn.com/mlb/story/_/id/50540563/sources-jonathan-loaisiga-returning-yankees-2-year-deal"
      },
      {
-      "text": "Darwinzon Hernández",
+      "text": "Darwinzon Hern\u00e1ndez",
       "url": "https://www.mlbtraderumors.com/2026/11/mets-darwinzon-hernandez-agree-to-three-year-deal.html"
      }
     ],
     "boxes": [
      {
-      "title": "Fri 7:30 ET · ESPN2",
+      "title": "Fri 7:30 ET \u00b7 ESPN2",
       "align": "left",
       "lines": [
        "BGSU Falcons",
@@ -166,7 +404,7 @@
       ]
      },
      {
-      "title": "Fri 8:00 ET · FOX",
+      "title": "Fri 8:00 ET \u00b7 FOX",
       "align": "left",
       "lines": [
        "13 ORE Ducks",
@@ -179,7 +417,7 @@
    },
    {
     "title": "In entertainment, the Reaping opens and two books head for the screen.",
-    "text": "**The Hunger Games: Sunrise on the Reaping** opens today after $21.25 million in previews, counting Wednesday's early-access shows. That is the second-best preview start in the franchise, behind only Catching Fire, and Deadline now sees a $100 million opening as well within reach.\n\n**The Curse Workers**, Holly Black's fantasy trilogy, is in development as a series for Disney+ at 20th Television. E. Lockhart, the author-turned-showrunner behind We Were Liars, will adapt it, with the Gotham Group producing.\n\n**Chris Pratt** will star in Paramount's adaptation of The Traveler, Joseph Eckert's science fiction debut from Tor this summer. Zach Lipovsky and Adam Stein are directing from a script by Justin Rhodes.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4\n\nTheaters · Dune: Part Three · opens Fri Dec 18",
+    "text": "**The Hunger Games: Sunrise on the Reaping** opens today after $21.25 million in previews, counting Wednesday's early-access shows. That is the second-best preview start in the franchise, behind only Catching Fire, and Deadline now sees a $100 million opening as well within reach.\n\n**The Curse Workers**, Holly Black's fantasy trilogy, is in development as a series for Disney+ at 20th Television. E. Lockhart, the author-turned-showrunner behind We Were Liars, will adapt it, with the Gotham Group producing.\n\n**Chris Pratt** will star in Paramount's adaptation of The Traveler, Joseph Eckert's science fiction debut from Tor this summer. Zach Lipovsky and Adam Stein are directing from a script by Justin Rhodes.\n\nIMAX \u00b7 The Further Mis-Adventures of Cliff Booth \u00b7 opens Wed Nov 25\n\nPrime Video \u00b7 Blade Runner 2099 premieres \u00b7 Wed Nov 25\n\nTheaters \u00b7 Ray Gunn \u00b7 opens Fri Dec 4\n\nTheaters \u00b7 Dune: Part Three \u00b7 opens Fri Dec 18",
     "links": [
      {
       "text": "Reaping previews",
@@ -197,7 +435,7 @@
    },
    {
     "title": "Around town, a holiday tasting in Troy.",
-    "text": "**The Cellar by Bottle No. 121** on West Main Street in Troy holds its Holiday Wine Tasting on Wednesday, Dec. 9, from 6:00 to 8:00 PM, pouring wines and beers from several distributors. Tickets are $50 and can be bought in the store or online, and the Cellar warns it is always a packed house.\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM\n\nLemon Meringue Floral & Wine Boutique, Piqua · Holiday Wine Showcase · Sat Dec 5, 12:00 PM",
+    "text": "**The Cellar by Bottle No. 121** on West Main Street in Troy holds its Holiday Wine Tasting on Wednesday, Dec. 9, from 6:00 to 8:00 PM, pouring wines and beers from several distributors. Tickets are $50 and can be bought in the store or online, and the Cellar warns it is always a packed house.\n\nTroy-Hayner Cultural Center, Troy \u00b7 Golden Glow \u00b7 Fri Dec 4, 7:00 PM\n\nLemon Meringue Floral & Wine Boutique, Piqua \u00b7 Holiday Wine Showcase \u00b7 Sat Dec 5, 12:00 PM",
     "links": [
      {
       "text": "Cellar Holiday Wine Tasting",
@@ -271,7 +509,7 @@
       "title": "Today",
       "align": "center",
       "lines": [
-       "62° / 40°",
+       "62\u00b0 / 40\u00b0",
        "Mostly sunny"
       ]
      },
@@ -279,7 +517,7 @@
       "title": "Friday",
       "align": "center",
       "lines": [
-       "65° / 41°",
+       "65\u00b0 / 41\u00b0",
        "Sunny"
       ]
      },
@@ -287,7 +525,7 @@
       "title": "Saturday",
       "align": "center",
       "lines": [
-       "66° / 46°",
+       "66\u00b0 / 46\u00b0",
        "Sunny"
       ]
      }
@@ -380,7 +618,7 @@
       "url": "https://www.nbcsports.com/fantasy/football/news/nfl-week-11-injury-report-drake-maye-likely-done-for-season-surgery-for-jordan-addison"
      },
      {
-      "text": "Royals–Mariners trade",
+      "text": "Royals\u2013Mariners trade",
       "url": "https://www.mlb.com/news/bryce-miller-royals-mariners-trade"
      },
      {
@@ -394,7 +632,7 @@
     ],
     "boxes": [
      {
-      "title": "Thu 8:15 ET · Prime",
+      "title": "Thu 8:15 ET \u00b7 Prime",
       "align": "left",
       "lines": [
        "IND Colts",
@@ -407,7 +645,7 @@
    },
    {
     "title": "In entertainment, a new 007 and the Reaping arrives.",
-    "text": "**Robert Pattinson** is the next James Bond. Amazon MGM Studios made it official earlier this week, with Denis Villeneuve directing from a script by Steven Knight and Amy Pascal and David Heyman producing.\n\n**The Hunger Games: Sunrise on the Reaping** starts previews today ahead of Friday's opening. Deadline says presales are running ahead of both Wicked films, and it opens in 84 countries.\n\n**Grendel**, Matt Wagner's long-running Dark Horse comic, is getting an adult animated series at Netflix, with Bobak Esfarjani as showrunner and Bobbypills animating. Netflix shelved a live-action version in 2022.\n\n**Grand Theft Auto VI** is out, with a 99 on Metacritic and 8 Game Awards nominations already in hand. Omdia estimates it could bring in $3.2 billion by the end of the year.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4\n\nTheaters · Dune: Part Three · opens Fri Dec 18",
+    "text": "**Robert Pattinson** is the next James Bond. Amazon MGM Studios made it official earlier this week, with Denis Villeneuve directing from a script by Steven Knight and Amy Pascal and David Heyman producing.\n\n**The Hunger Games: Sunrise on the Reaping** starts previews today ahead of Friday's opening. Deadline says presales are running ahead of both Wicked films, and it opens in 84 countries.\n\n**Grendel**, Matt Wagner's long-running Dark Horse comic, is getting an adult animated series at Netflix, with Bobak Esfarjani as showrunner and Bobbypills animating. Netflix shelved a live-action version in 2022.\n\n**Grand Theft Auto VI** is out, with a 99 on Metacritic and 8 Game Awards nominations already in hand. Omdia estimates it could bring in $3.2 billion by the end of the year.\n\nIMAX \u00b7 The Further Mis-Adventures of Cliff Booth \u00b7 opens Wed Nov 25\n\nPrime Video \u00b7 Blade Runner 2099 premieres \u00b7 Wed Nov 25\n\nTheaters \u00b7 Ray Gunn \u00b7 opens Fri Dec 4\n\nTheaters \u00b7 Dune: Part Three \u00b7 opens Fri Dec 18",
     "links": [
      {
       "text": "Pattinson as Bond",
@@ -431,15 +669,15 @@
       "title": "Reaping forecast",
       "align": "left",
       "lines": [
-       "$90M–$120M\ndomestic",
-       "$160M–$190M\nworldwide"
+       "$90M\u2013$120M\ndomestic",
+       "$160M\u2013$190M\nworldwide"
       ]
      }
     ]
    },
    {
     "title": "Around town, a holiday tasting in Piqua.",
-    "text": "**Lemon Meringue Floral & Wine Boutique** on North Main Street in Piqua hosts a Holiday Wine Showcase on Saturday, Dec. 5, anytime from 12:00 to 4:00 PM. It pours 25 wines curated with VineCraft Selections, with charcuterie included and a taco truck on site. Tickets are $25, they are limited, and guests must be 21 or older.\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM",
+    "text": "**Lemon Meringue Floral & Wine Boutique** on North Main Street in Piqua hosts a Holiday Wine Showcase on Saturday, Dec. 5, anytime from 12:00 to 4:00 PM. It pours 25 wines curated with VineCraft Selections, with charcuterie included and a taco truck on site. Tickets are $25, they are limited, and guests must be 21 or older.\n\nTroy-Hayner Cultural Center, Troy \u00b7 Golden Glow \u00b7 Fri Dec 4, 7:00 PM",
     "links": [
      {
       "text": "Holiday Wine Showcase",
@@ -513,7 +751,7 @@
       "title": "Today",
       "align": "center",
       "lines": [
-       "61° / 33°",
+       "61\u00b0 / 33\u00b0",
        "Sunny"
       ]
      },
@@ -521,7 +759,7 @@
       "title": "Thursday",
       "align": "center",
       "lines": [
-       "63° / 38°",
+       "63\u00b0 / 38\u00b0",
        "Mostly sunny"
       ]
      },
@@ -529,7 +767,7 @@
       "title": "Friday",
       "align": "center",
       "lines": [
-       "64° / 40°",
+       "64\u00b0 / 40\u00b0",
        "Sunny"
       ]
      }
@@ -616,7 +854,7 @@
       "url": "https://en.as.com/ncaa/who-plays-college-football-today-wednesday-nov-18-maction-is-back-with-two-games-tonight-f202611-n/"
      },
      {
-      "text": "UConn–Arizona",
+      "text": "UConn\u2013Arizona",
       "url": "https://www.cbssports.com/betting/news/uconn-arizona-prediction-odds-2026-college-basketball-picks-wednesday-november-18/"
      },
      {
@@ -630,7 +868,7 @@
     ],
     "boxes": [
      {
-      "title": "Wed 7:00 ET · CBSSN",
+      "title": "Wed 7:00 ET \u00b7 CBSSN",
       "align": "left",
       "lines": [
        "AKR Zips",
@@ -640,7 +878,7 @@
       ]
      },
      {
-      "title": "Wed 7:30 ET · ESPNU",
+      "title": "Wed 7:30 ET \u00b7 ESPNU",
       "align": "left",
       "lines": [
        "CMU Chippewas",
@@ -650,7 +888,7 @@
       ]
      },
      {
-      "title": "Wed 9:00 ET · FS1",
+      "title": "Wed 9:00 ET \u00b7 FS1",
       "align": "left",
       "lines": [
        "3 UCONN Huskies",
@@ -663,7 +901,7 @@
    },
    {
     "title": "In entertainment, the BBC hunts for a new TARDIS crew.",
-    "text": "**Doctor Who** is a step closer to its next life. Deadline reports the BBC has shortlisted about half a dozen UK producers to make the show from 2028, including a bid from Line of Duty creator Jed Mercurio with Hat Trick, World Productions, and STV Studios, which proposes moving production from Wales to Scotland. BBC Studios has one label left in the running. Bids are due in about three weeks, with a decision around March, and the tender even allows a writers'-room approach instead of a single showrunner.\n\n**Dune: Part Three** is one month out. Denis Villeneuve told GQ's podcast he did \"something even better\" with this one, adapted from Dune Messiah. It opens Dec. 18 head-to-head with Avengers: Doomsday, and Dune holds the IMAX screens in North America.\n\n**Grand Theft Auto VI** unlocks at midnight tonight on PS5 and Xbox Series X|S, more than a decade after Rockstar's last mainline entry.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "text": "**Doctor Who** is a step closer to its next life. Deadline reports the BBC has shortlisted about half a dozen UK producers to make the show from 2028, including a bid from Line of Duty creator Jed Mercurio with Hat Trick, World Productions, and STV Studios, which proposes moving production from Wales to Scotland. BBC Studios has one label left in the running. Bids are due in about three weeks, with a decision around March, and the tender even allows a writers'-room approach instead of a single showrunner.\n\n**Dune: Part Three** is one month out. Denis Villeneuve told GQ's podcast he did \"something even better\" with this one, adapted from Dune Messiah. It opens Dec. 18 head-to-head with Avengers: Doomsday, and Dune holds the IMAX screens in North America.\n\n**Grand Theft Auto VI** unlocks at midnight tonight on PS5 and Xbox Series X|S, more than a decade after Rockstar's last mainline entry.\n\nTheaters \u00b7 The Hunger Games: Sunrise on the Reaping \u00b7 opens Fri Nov 20\n\nIMAX \u00b7 The Further Mis-Adventures of Cliff Booth \u00b7 opens Wed Nov 25\n\nPrime Video \u00b7 Blade Runner 2099 premieres \u00b7 Wed Nov 25\n\nTheaters \u00b7 Ray Gunn \u00b7 opens Fri Dec 4",
     "links": [
      {
       "text": "Doctor Who shortlist",
@@ -685,7 +923,7 @@
    },
    {
     "title": "Around town, a tasting tonight and two still ahead.",
-    "text": "**The Cellar by Bottle No. 121**, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM",
+    "text": "**The Cellar by Bottle No. 121**, Troy \u00b7 Barone Wines tasting \u00b7 Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua \u00b7 VineCraft wine tasting \u00b7 Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy \u00b7 Golden Glow \u00b7 Fri Dec 4, 7:00 PM",
     "links": [
      {
       "text": "Tonight's tasting",
@@ -748,21 +986,21 @@
      {
       "title": "Today",
       "lines": [
-       "54° / 33°",
+       "54\u00b0 / 33\u00b0",
        "Sunny"
       ]
      },
      {
       "title": "Wednesday",
       "lines": [
-       "59° / 35°",
+       "59\u00b0 / 35\u00b0",
        "Sunny"
       ]
      },
      {
       "title": "Thursday",
       "lines": [
-       "62° / 41°",
+       "62\u00b0 / 41\u00b0",
        "Mostly sunny"
       ]
      }
@@ -841,7 +1079,7 @@
     "text": "**Ohio University** hosts Ball State tonight on CBS Sports Network. The Bobcats are in a four-way tie atop the MAC, and with the top two reaching the title game, they can't clinch tonight but can't afford a slip. Ball State brings the league's worst scoring defense to Athens.\n\n**The College Football Playoff** committee releases its third rankings tonight at 9:00 on ESPN.\n\n**College basketball** has its best night of the young season. No. 10 Illinois visits No. 5 Duke without All-American David Mirkovic or wing Jake Davis, and No. 2 Michigan State makes its first road trip of the year to No. 14 Tennessee, possibly without wing Jordan Scott. Earlier, No. 1 Florida meets Notre Dame at 4:30 on ESPN as the Players Era tournament opens in Las Vegas. In the new AP poll, Michigan State moved up to No. 2 behind Florida, and Kentucky dropped out.\n\n**The NFL** heads into Week 11 with Lions edge rusher Aidan Hutchinson out for the season with a torn ACL. Patriots quarterback Drake Maye is expected to miss time with an ankle injury after New England's bye, and Raiders tight end Brock Bowers is day-to-day after tests on his ankle.",
     "links": [
      {
-      "text": "Ohio–Ball State",
+      "text": "Ohio\u2013Ball State",
       "url": "https://www.cbssports.com/betting/news/ohio-ball-state-prediction-odds-time-week-12-tuesday-maction-picks/"
      },
      {
@@ -863,7 +1101,7 @@
     ],
     "boxes": [
      {
-      "title": "Tue 7:00 ET · CBSSN",
+      "title": "Tue 7:00 ET \u00b7 CBSSN",
       "align": "left",
       "lines": [
        "BSU Cardinals",
@@ -873,7 +1111,7 @@
       ]
      },
      {
-      "title": "Tue 7:00 ET · ESPN",
+      "title": "Tue 7:00 ET \u00b7 ESPN",
       "align": "left",
       "lines": [
        "10 ILL Fighting Illini",
@@ -883,7 +1121,7 @@
       ]
      },
      {
-      "title": "Tue 9:00 ET · ESPN2",
+      "title": "Tue 9:00 ET \u00b7 ESPN2",
       "align": "left",
       "lines": [
        "2 MSU Spartans",
@@ -896,7 +1134,7 @@
    },
    {
     "title": "In entertainment, the San-Ti are coming back.",
-    "text": "**3 Body Problem** released its first Season 2 teaser this morning, a day after Netflix set the premiere for Jan. 14, 2027, nearly three years after Season 1. Netflix has also renewed the series for a third and final season, so David Benioff, D.B. Weiss and Alexander Woo can finish adapting Liu Cixin's trilogy. Claudia Doumit and Alfie Allen join the returning cast.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "text": "**3 Body Problem** released its first Season 2 teaser this morning, a day after Netflix set the premiere for Jan. 14, 2027, nearly three years after Season 1. Netflix has also renewed the series for a third and final season, so David Benioff, D.B. Weiss and Alexander Woo can finish adapting Liu Cixin's trilogy. Claudia Doumit and Alfie Allen join the returning cast.\n\nTheaters \u00b7 The Hunger Games: Sunrise on the Reaping \u00b7 opens Fri Nov 20\n\nIMAX \u00b7 The Further Mis-Adventures of Cliff Booth \u00b7 opens Wed Nov 25\n\nPrime Video \u00b7 Blade Runner 2099 premieres \u00b7 Wed Nov 25\n\nTheaters \u00b7 Ray Gunn \u00b7 opens Fri Dec 4",
     "links": [
      {
       "text": "3 Body Problem teaser",
@@ -906,11 +1144,11 @@
    },
    {
     "title": "Around town, a Barolo dinner joins the list.",
-    "text": "**The Cellar by Bottle No. 121**, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM"
+    "text": "**The Cellar by Bottle No. 121**, Troy \u00b7 Barone Wines tasting \u00b7 Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua \u00b7 VineCraft wine tasting \u00b7 Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy \u00b7 Golden Glow \u00b7 Fri Dec 4, 7:00 PM"
    },
    {
     "title": "From the science desk, an inherited brain trait, a daytime cat and water from falling stones.",
-    "text": "**A Neanderthal variant** turns out to shape part of the modern human brain. Hugo Zeberg and Svante Pääbo traced a small DNA deletion on chromosome 14 to Neanderthals; it appears only in people with non-African ancestry and shrinks the cuneus, a visual-processing area at the back of the brain, more than any other known variant. That runs opposite to expectation, since Neanderthals had larger occipital lobes, and carriers also have a lower risk of schizophrenia.\n\n**The flat-headed cat**, one of the rarest and least-studied wild cats, was long thought to be strictly nocturnal. Nearly three years of camera traps in a Sarawak mangrove forest logged it 59 times, and while activity peaked around midnight, it also hunted through the late morning and afternoon. One frame caught a mother with a kitten.\n\n**Earth's water** may have been made at home. University of New Mexico researchers recreated the early planet in the lab and found that silicate pebbles falling through a hot, hydrogen-rich atmosphere could react to make water, up to 200 oceans' worth within hours. The leftover iron came out rich in phosphorus and may have sunk into the core. Comets and asteroids no longer need to have delivered it all.",
+    "text": "**A Neanderthal variant** turns out to shape part of the modern human brain. Hugo Zeberg and Svante P\u00e4\u00e4bo traced a small DNA deletion on chromosome 14 to Neanderthals; it appears only in people with non-African ancestry and shrinks the cuneus, a visual-processing area at the back of the brain, more than any other known variant. That runs opposite to expectation, since Neanderthals had larger occipital lobes, and carriers also have a lower risk of schizophrenia.\n\n**The flat-headed cat**, one of the rarest and least-studied wild cats, was long thought to be strictly nocturnal. Nearly three years of camera traps in a Sarawak mangrove forest logged it 59 times, and while activity peaked around midnight, it also hunted through the late morning and afternoon. One frame caught a mother with a kitten.\n\n**Earth's water** may have been made at home. University of New Mexico researchers recreated the early planet in the lab and found that silicate pebbles falling through a hot, hydrogen-rich atmosphere could react to make water, up to 200 oceans' worth within hours. The leftover iron came out rich in phosphorus and may have sunk into the core. Comets and asteroids no longer need to have delivered it all.",
     "links": [
      {
       "text": "Neanderthal brain variant",
@@ -971,21 +1209,21 @@
      {
       "title": "Today",
       "lines": [
-       "52° / 33°",
+       "52\u00b0 / 33\u00b0",
        "Mostly sunny"
       ]
      },
      {
       "title": "Tuesday",
       "lines": [
-       "56° / 34°",
+       "56\u00b0 / 34\u00b0",
        "Sunny"
       ]
      },
      {
       "title": "Wednesday",
       "lines": [
-       "60° / 37°",
+       "60\u00b0 / 37\u00b0",
        "Sunny"
       ]
      }
@@ -1064,7 +1302,7 @@
     "text": "**Monday Night Football** closes Week 10 with the Chargers at the Ravens on ESPN, with the ManningCast on ESPN2. Jacoby Brissett makes his first start for Baltimore, which lost Lamar Jackson and Tyler Huntley to injured reserve. Justin Herbert is expected to play after imaging showed no fracture in his finger and he stayed off the injury report, but the Chargers are without receiver Ladd McConkey.\n\n**College football's** new AP poll has Georgia at No. 1, followed by No. 2 Utah, No. 3 Notre Dame and No. 4 UCLA. The College Football Playoff committee releases its next rankings Tuesday at 9:00 on ESPN. Earlier Tuesday evening, Ohio University, 5-1 in the MAC, hosts Ball State in Athens.\n\n**Tarik Skubal** meets with the Mets this week, with the Dodgers, Padres and Blue Jays also in pursuit of the two-time Cy Young winner. Baseball is heading toward a Dec. 1 lockout when the labor deal expires, which gives both sides a reason to move quickly.",
     "links": [
      {
-      "text": "Chargers–Ravens",
+      "text": "Chargers\u2013Ravens",
       "url": "https://www.cbssports.com/betting/news/ravens-vs-chargers-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/"
      },
      {
@@ -1080,7 +1318,7 @@
       "url": "https://www.ncaa.com/news/football/article/2026-11-10/when-do-college-football-playoff-rankings-come-out"
      },
      {
-      "text": "Ohio–Ball State",
+      "text": "Ohio\u2013Ball State",
       "url": "https://ohiobobcats.com/news/2026/11/14/ohio-football-returns-home-to-host-ball-state"
      },
      {
@@ -1090,7 +1328,7 @@
     ],
     "boxes": [
      {
-      "title": "Mon 8:15 ET · ESPN",
+      "title": "Mon 8:15 ET \u00b7 ESPN",
       "align": "left",
       "lines": [
        "LAC Chargers",
@@ -1100,7 +1338,7 @@
       ]
      },
      {
-      "title": "Tue 7:00 ET · CBSSN",
+      "title": "Tue 7:00 ET \u00b7 CBSSN",
       "align": "left",
       "lines": [
        "BSU Cardinals",
@@ -1113,7 +1351,7 @@
    },
    {
     "title": "In entertainment, Scrooge collects.",
-    "text": "**Ebenezer** opened at No. 1, Johnny Depp's first weekend on top in 8 years, and it did even better overseas. The Cat in the Hat held second in its second weekend.\n\n**Godzilla Minus Zero** took a steep second-weekend drop after a premium-screen opening that pulled its audience in early, but it has now passed $100 million worldwide.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "text": "**Ebenezer** opened at No. 1, Johnny Depp's first weekend on top in 8 years, and it did even better overseas. The Cat in the Hat held second in its second weekend.\n\n**Godzilla Minus Zero** took a steep second-weekend drop after a premium-screen opening that pulled its audience in early, but it has now passed $100 million worldwide.\n\nTheaters \u00b7 The Hunger Games: Sunrise on the Reaping \u00b7 opens Fri Nov 20\n\nIMAX \u00b7 The Further Mis-Adventures of Cliff Booth \u00b7 opens Wed Nov 25\n\nPrime Video \u00b7 Blade Runner 2099 premieres \u00b7 Wed Nov 25\n\nTheaters \u00b7 Ray Gunn \u00b7 opens Fri Dec 4",
     "links": [
      {
       "text": "Weekend box office",
@@ -1130,15 +1368,15 @@
       "align": "left",
       "lines": [
        "Ebenezer\n$19.0M",
-       "The Cat in the Hat\n$11.4M · $38.2M total",
-       "Godzilla Minus Zero\n$5.9M · $46.4M total"
+       "The Cat in the Hat\n$11.4M \u00b7 $38.2M total",
+       "Godzilla Minus Zero\n$5.9M \u00b7 $46.4M total"
       ]
      }
     ]
    },
    {
     "title": "Around town, two tastings this week and a holiday glow.",
-    "text": "**The Troy-Hayner Cultural Center** marks its 50th anniversary with Golden Glow on Friday, Dec. 4, at 7:00 PM in Troy. Guests wander the newly decorated mansion with dessert and a glass of wine, then gather in the ballroom for a Christmas concert and carols. Tickets are $20, with reservations online or at the Center, and each guest takes home a commemorative ornament.\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
+    "text": "**The Troy-Hayner Cultural Center** marks its 50th anniversary with Golden Glow on Friday, Dec. 4, at 7:00 PM in Troy. Guests wander the newly decorated mansion with dessert and a glass of wine, then gather in the ballroom for a Christmas concert and carols. Tickets are $20, with reservations online or at the Center, and each guest takes home a commemorative ornament.\n\nThe Cellar by Bottle No. 121, Troy \u00b7 Barone Wines tasting \u00b7 Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua \u00b7 VineCraft wine tasting \u00b7 Fri Nov 20, 6:00 PM",
     "links": [
      {
       "text": "Golden Glow",
@@ -1166,7 +1404,7 @@
    },
    {
     "title": "For the dessert table, a pie made yesterday.",
-    "text": "**Thanksgiving pie** goes better baked the day before, according to three pastry chefs Serious Eats asked. Make the dough up to three days ahead, or freeze shells for up to a month, and the filling up to two days ahead. For a flaky crust, freeze every ingredient for 30 minutes before mixing and chill the shaped crust again before it goes in the oven. Bake pumpkin no hotter than 325°, pull it while the center still wobbles, and let it cool slowly on the counter so the top doesn't crack. Two of the three prefer canned pumpkin, since its water content never changes.",
+    "text": "**Thanksgiving pie** goes better baked the day before, according to three pastry chefs Serious Eats asked. Make the dough up to three days ahead, or freeze shells for up to a month, and the filling up to two days ahead. For a flaky crust, freeze every ingredient for 30 minutes before mixing and chill the shaped crust again before it goes in the oven. Bake pumpkin no hotter than 325\u00b0, pull it while the center still wobbles, and let it cool slowly on the counter so the top doesn't crack. Two of the three prefer canned pumpkin, since its water content never changes.",
     "links": [
      {
       "text": "Pastry chefs' pie tips",
@@ -1186,7 +1424,7 @@
   "items": [
    {
     "title": "First, one more gray day before the sun returns.",
-    "text": "**Tipp City** stays under the clouds today, then clears out for a pleasant, sunnier start to the week on Monday and Tuesday.\n\n**The West Coast** storms keep rolling in. Waves could break as high as 50 feet at favored spots from Northern California to Oregon, rain spreads from the Bay Area to western Montana by tonight, and the Sierra Nevada could see more than 2 feet of snow by the end of the week. Forecasters add that sea levels running high from El Niño raise the coastal flooding risk at each high tide.",
+    "text": "**Tipp City** stays under the clouds today, then clears out for a pleasant, sunnier start to the week on Monday and Tuesday.\n\n**The West Coast** storms keep rolling in. Waves could break as high as 50 feet at favored spots from Northern California to Oregon, rain spreads from the Bay Area to western Montana by tonight, and the Sierra Nevada could see more than 2 feet of snow by the end of the week. Forecasters add that sea levels running high from El Ni\u00f1o raise the coastal flooding risk at each high tide.",
     "links": [
      {
       "text": "Tipp City forecast",
@@ -1201,14 +1439,14 @@
      {
       "title": "Today",
       "lines": [
-       "49° / 31°",
+       "49\u00b0 / 31\u00b0",
        "Mostly cloudy"
       ]
      },
      {
       "title": "Monday",
       "lines": [
-       "53° / 29°",
+       "53\u00b0 / 29\u00b0",
        "Mostly sunny"
       ]
      }
@@ -1243,7 +1481,7 @@
        "Tue 8:30\nRetail sales",
        "Tue after close\nNvidia earnings",
        "Wed 2:00\nFed minutes",
-       "Thu Trump–Xi\nin Shenzhen",
+       "Thu Trump\u2013Xi\nin Shenzhen",
        "Thu Walmart\nearnings"
       ]
      },
@@ -1304,7 +1542,7 @@
       "url": "https://www.nfl.com/news/chiefs-rb-kenneth-walker-groin-downgraded-to-out-for-sunday-s-game-vs-falcons"
      },
      {
-      "text": "Ole Miss–Oklahoma move",
+      "text": "Ole Miss\u2013Oklahoma move",
       "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/11/15/oklahoma-ole-miss-sunday-game-week-11-college-football-game-faa/92782653007/"
      },
      {
@@ -1314,7 +1552,7 @@
     ],
     "boxes": [
      {
-      "title": "Sun 1:00 ET · SECN",
+      "title": "Sun 1:00 ET \u00b7 SECN",
       "align": "left",
       "lines": [
        "19 MISS Rebels",
@@ -1324,7 +1562,7 @@
       ]
      },
      {
-      "title": "Sun 1:00 ET · CBS",
+      "title": "Sun 1:00 ET \u00b7 CBS",
       "align": "left",
       "lines": [
        "KC Chiefs",
@@ -1334,7 +1572,7 @@
       ]
      },
      {
-      "title": "Sun 1:00 ET · FOX",
+      "title": "Sun 1:00 ET \u00b7 FOX",
       "align": "left",
       "lines": [
        "MIN Vikings",
@@ -1344,7 +1582,7 @@
       ]
      },
      {
-      "title": "Sun 1:00 ET · CBS",
+      "title": "Sun 1:00 ET \u00b7 CBS",
       "align": "left",
       "lines": [
        "BUF Bills",
@@ -1354,7 +1592,7 @@
       ]
      },
      {
-      "title": "Sun 4:25 ET · FOX",
+      "title": "Sun 4:25 ET \u00b7 FOX",
       "align": "left",
       "lines": [
        "SF 49ers",
@@ -1364,7 +1602,7 @@
       ]
      },
      {
-      "title": "Sun 8:20 ET · NBC",
+      "title": "Sun 8:20 ET \u00b7 NBC",
       "align": "left",
       "lines": [
        "PIT Steelers",
@@ -1377,7 +1615,7 @@
    },
    {
     "title": "In entertainment, a card game and a galaxy far away.",
-    "text": "**Planeswalker**, Netflix's animated Magic: The Gathering series, finally has a title, a first-look image and a 2027 launch, after more than six years and two creative teams in development. Terry Matalas and Cindy Appel are the co-showrunners, and the saga centers on Chandra, a volatile pyromancer hunted for her gifts.\n\n**The Hero Awakens**, R.J. Cutler's documentary on the making of the original Star Wars, arrives on Disney+ on May 4, 2027, for the film's 50th anniversary. It is assembled entirely from archival material recorded during the production, including footage and interviews never released before.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
+    "text": "**Planeswalker**, Netflix's animated Magic: The Gathering series, finally has a title, a first-look image and a 2027 launch, after more than six years and two creative teams in development. Terry Matalas and Cindy Appel are the co-showrunners, and the saga centers on Chandra, a volatile pyromancer hunted for her gifts.\n\n**The Hero Awakens**, R.J. Cutler's documentary on the making of the original Star Wars, arrives on Disney+ on May 4, 2027, for the film's 50th anniversary. It is assembled entirely from archival material recorded during the production, including footage and interviews never released before.\n\nTheaters \u00b7 The Hunger Games: Sunrise on the Reaping \u00b7 opens Fri Nov 20\n\nIMAX \u00b7 The Further Mis-Adventures of Cliff Booth \u00b7 opens Wed Nov 25\n\nPrime Video \u00b7 Blade Runner 2099 premieres \u00b7 Wed Nov 25\n\nTheaters \u00b7 Ray Gunn \u00b7 opens Fri Dec 4",
     "links": [
      {
       "text": "Planeswalker",
@@ -1391,14 +1629,14 @@
    },
    {
     "title": "Around town, two tastings this week.",
-    "text": "The Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM"
+    "text": "The Cellar by Bottle No. 121, Troy \u00b7 Barone Wines tasting \u00b7 Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua \u00b7 VineCraft wine tasting \u00b7 Fri Nov 20, 6:00 PM"
    },
    {
     "title": "From the science desk, a Pacific giant, seaside dinosaurs and a penguin paradox.",
-    "text": "**El Niño** this year is on track to be even bigger than the famous 1997-98 event, says NASA's Josh Willis. A 35-year record from nearly identical satellites flying the same ground track shows the same October pattern in both years, with low sea level in the western Pacific, high sea level in the east, and warm water stretching all the way to South America. The 1997 event soaked California and the southern U.S., and NOAA rates a strong to very strong El Niño in early 2027 as highly likely. Willis still calls it a dice roll.\n\n**Dinosaurs** may have grazed on seaweed. A University of Arkansas team measured carbon isotopes in the teeth of dinosaurs, crocodiles, turtles and fish from the shores of North America's ancient inland sea and found a marine signature in coastal animals around 100 million years ago that was missing inland. The extra carbon had to enter low in the food chain, which points to seaweed, much as large coastal plant-eaters supplement their diets with it today. One plant-eater, Tenontosaurus, seems to have stuck with land plants.\n\n**Schrödinger's penguin** is the name researchers gave to a puzzle in New Zealand's endangered erect-crested penguins. The first full drone census of the species found the Bounty Islands population steady for at least 25 years, while the Antipodes Islands population has fallen by more than 40% since 1995. Shrinking colonies lose their group defense against egg-stealing skuas, which may have turned to these penguins after the local rockhoppers collapsed. Averaged together, the species would look safer on paper, which is exactly the problem.",
+    "text": "**El Ni\u00f1o** this year is on track to be even bigger than the famous 1997-98 event, says NASA's Josh Willis. A 35-year record from nearly identical satellites flying the same ground track shows the same October pattern in both years, with low sea level in the western Pacific, high sea level in the east, and warm water stretching all the way to South America. The 1997 event soaked California and the southern U.S., and NOAA rates a strong to very strong El Ni\u00f1o in early 2027 as highly likely. Willis still calls it a dice roll.\n\n**Dinosaurs** may have grazed on seaweed. A University of Arkansas team measured carbon isotopes in the teeth of dinosaurs, crocodiles, turtles and fish from the shores of North America's ancient inland sea and found a marine signature in coastal animals around 100 million years ago that was missing inland. The extra carbon had to enter low in the food chain, which points to seaweed, much as large coastal plant-eaters supplement their diets with it today. One plant-eater, Tenontosaurus, seems to have stuck with land plants.\n\n**Schr\u00f6dinger's penguin** is the name researchers gave to a puzzle in New Zealand's endangered erect-crested penguins. The first full drone census of the species found the Bounty Islands population steady for at least 25 years, while the Antipodes Islands population has fallen by more than 40% since 1995. Shrinking colonies lose their group defense against egg-stealing skuas, which may have turned to these penguins after the local rockhoppers collapsed. Averaged together, the species would look safer on paper, which is exactly the problem.",
     "links": [
      {
-      "text": "El Niño",
+      "text": "El Ni\u00f1o",
       "url": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm"
      },
      {
@@ -1413,7 +1651,7 @@
    },
    {
     "title": "For the workbench, games 13 kilobytes at a time.",
-    "text": "**js13kGames 2026** has its winners, and Gamedev.js has posted a closer look at the top 13. Each of this year's 317 entries had to fit a web game into a 13-kilobyte ZIP, on the theme of unicorns and rainbows. Spectral Horn by Filip Paulů took first, ahead of Panzercorn and HueCorn, and Frank Force's SP13KTRA made the list as well. The write-up suggests playing three long enough for the core rule to land, then opening the source and following a single feature, such as how a level is stored or how a sound is generated. That is a fine way to borrow ideas for a browser puzzle game in plain JavaScript.",
+    "text": "**js13kGames 2026** has its winners, and Gamedev.js has posted a closer look at the top 13. Each of this year's 317 entries had to fit a web game into a 13-kilobyte ZIP, on the theme of unicorns and rainbows. Spectral Horn by Filip Paul\u016f took first, ahead of Panzercorn and HueCorn, and Frank Force's SP13KTRA made the list as well. The write-up suggests playing three long enough for the core rule to land, then opening the source and following a single feature, such as how a level is stored or how a sound is generated. That is a fine way to borrow ideas for a browser puzzle game in plain JavaScript.",
     "links": [
      {
       "text": "js13kGames 2026 winners",
@@ -1424,248 +1662,6 @@
    {
     "title": "And finally,",
     "text": "The NFL called in backup referees who live within driving distance of today's games. I offered my services, since my nearest stadium is inside my own test simulation. The players there accept every call without complaint. Admittedly, none of them has ever shown up."
-   }
-  ]
- },
- "2026-11-14": {
-  "date": "Saturday Nov 14, 2026",
-  "intro": "Good morning. It is Saturday, and the day has two marquee events. Starship's upper stage, now on its second day in orbit, comes home to Starbase this afternoon for the first attempt to catch a ship from orbit with the tower's arms, and college football fills the rest of the day from noon until well past midnight. Markets are closed after the best week for stocks since August, despite a rough Friday for chips.",
-  "items": [
-   {
-    "title": "First, a gray and chilly weekend at home.",
-    "text": "**Tipp City** stays under the clouds today and Sunday, cool but dry, with the sun finally returning on Monday.\n\n**The West Coast** is taking the season's most relentless run of storms. Atmospheric rivers are soaking Washington, Oregon and Northern California, with coastal winds of 60 to 80 mph, breakers of 30 to 35 feet on the Oregon coast, flash flooding around San Francisco, and a winter storm warning for the Sierra Nevada, including parts of Yosemite. The pattern holds through midweek.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
-     },
-     {
-      "text": "West Coast storms",
-      "url": "https://www.foxweather.com/weather-news/storms-atmospheric-rivers-northwest-wind-waves-snow"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "lines": [
-       "46° / 35°",
-       "Mostly cloudy"
-      ]
-     },
-     {
-      "title": "Sunday",
-      "lines": [
-       "48° / 28°",
-       "Mostly cloudy"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are closed, after a better week than Friday suggested.",
-    "text": "**Stocks** are closed for the weekend. Friday slipped as chip stocks sold off again, but the S&P 500 still had its first winning week since early October and its best since August. Friday's producer price report came in a bit cooler than expected for the month, but prices are running at their fastest annual pace since November 2022, and the bond market kept leaning toward a Fed rate hike at the Dec. 9 meeting. The 10-year yield climbed sharply over the week.\n\n**Nvidia** posted its sixth straight weekly decline, its longest losing streak since 2012, and the Financial Times reports that its board has approached Arm chief executive Rene Haas about succeeding Jensen Huang. AMD and Broadcom led the semiconductor index lower on Friday. Nvidia's earnings on Tuesday are the next big test for the AI trade.\n\n**Tesla** ended its five-day winning streak on Friday but still had a strong week. **SpaceX** sent Starship Flight 15 into orbit after the close. The ship deployed 26 Starlink satellites and is healthy, but the Super Heavy booster aborted its tower catch over a guidance problem and was destroyed in the Gulf of Mexico, and SPCX slipped about 2% in after-hours trading. This afternoon's ship return is the real catalyst for the SPCX slice of the portfolio heading into Monday.\n\n**China** says it and the U.S. held the first meeting of their new trade council by video, discussing tariff cuts and farm purchases ahead of Thursday's Trump–Xi meeting in Shenzhen.",
-    "links": [
-     {
-      "text": "Friday's close",
-      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
-     },
-     {
-      "text": "Nvidia's losing streak",
-      "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-end-lower-as-nvidia-uncertainty-weighs-on-tech-shares"
-     },
-     {
-      "text": "Starship Flight 15",
-      "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
-     },
-     {
-      "text": "U.S.–China trade council",
-      "url": "https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Friday's close",
-      "align": "left",
-      "lines": [
-       "S&P 500 7,562 -0.4% Fri",
-       "Nasdaq 25,136 -0.9% Fri",
-       "TSLA $390.22 -1.8% Fri",
-       "SPCX $139.11 -0.6% Fri"
-      ]
-     },
-     {
-      "title": "For the week",
-      "align": "left",
-      "lines": [
-       "S&P 500 +2.5%",
-       "Nasdaq +2.3%",
-       "TSLA +8.9%",
-       "SPCX +3.6%",
-       "10-yr 5.15%"
-      ]
-     },
-     {
-      "title": "Starship return",
-      "lines": [
-       "Today ~4:20 PM ET",
-       "Tower catch\nat Starbase"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, a leadership fight and a lost seat.",
-    "text": "**Chris Van Hollen** will challenge Chuck Schumer to lead Senate Democrats in the new majority. The Maryland senator says more than 10 colleagues have pledged their support and calls himself the underdog; Schumer, who has led the caucus since 2017, remains favored in the closed-door vote in December.\n\n**Lauren Boebert** has lost her Colorado seat to Democrat Eileen Laubacher, CBS and NBC project, after the last ballots were counted Friday. The result still awaits certification, and a recount request remains possible.\n\n**The Dec. 11 funding deadline** picked up a new fault line. Van Hollen, Bernie Sanders, Michael Bennet and Tammy Duckworth say they will oppose any spending deal that doesn't restrict money for the Iran war, and Tim Kaine is drafting language to attach to the stopgap bill. Republicans control both chambers until January and show no sign of agreeing. The president heads to the Asia-Pacific summit in China next week, where he is set to meet Xi Jinping and Vladimir Putin.",
-    "links": [
-     {
-      "text": "Van Hollen's challenge",
-      "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100"
-     },
-     {
-      "text": "Boebert race",
-      "url": "https://www.cbsnews.com/colorado/news/representative-lauren-boebert-loses-democrat-eileen-laubacher-awaiting-certification/"
-     },
-     {
-      "text": "Iran war and the funding deadline",
-      "url": "https://rollcall.com/2026/11/12/democrats-mulling-iran-war-funding-cutoff-strategy/"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with a long college Saturday.",
-    "text": "**College football** runs from noon to nearly midnight, and the games below use the College Football Playoff rankings. At noon, No. 20 Ohio State hosts Northwestern on FOX and No. 7 Miami hosts Duke on ABC. The 3:30 window is the deepest of the day: No. 22 Missouri at No. 1 Georgia on ABC, No. 18 USC at No. 9 Indiana on CBS, Boston College at No. 5 Notre Dame on NBC, and Michigan at No. 16 Oregon on FS1. No. 8 Tennessee is at Texas A&M at 3:00 on ESPN, and No. 3 Alabama visits Vanderbilt at 12:45.\n\n**Indiana** still hasn't named a starting quarterback. Josh Hoover left last week's game at halftime and Grant Wilson came off the bench, and the Hoosiers are also without leading rusher Turbo Richard. USC comes off a bye but is missing two receivers and two safeties. At night, unbeaten No. 2 Utah visits No. 23 Arizona, Arch Manning and No. 6 Texas go to No. 21 LSU for the first meeting since 2019, and the late show is No. 12 Texas Tech at No. 25 Oklahoma State, where the line points to plenty of scoring.\n\n**Ohio University** is home against Ball State on Tuesday night.\n\n**The NFL** opens Week 10 on Sunday morning in Munich, where the Patriots list A.J. Brown as questionable and the Lions ruled out All-Pro safety Kerby Joseph, who had looked close to a return. Sunday night, the Steelers visit the Bengals with first place in the AFC North at stake. Green Bay will face Minnesota without Micah Parsons and Josh Jacobs. Kansas City's Kenneth Walker III, the league's second-leading rusher, tweaked his groin Friday and is questionable at Atlanta, and the 49ers ruled out Mike Evans at Dallas.\n\n**Baseball's MVPs** were both unanimous: the Cubs' Pete Crow-Armstrong in the National League and the Astros' Yordan Alvarez in the American League. The Red Sox made the winter's first big splash, agreeing to a four-year, $58 million deal with Jake Bauers, fresh off his World Series run with Milwaukee.",
-    "links": [
-     {
-      "text": "Saturday TV schedule",
-      "url": "https://sports.yahoo.com/articles/college-football-tv-today-saturday-035526238.html"
-     },
-     {
-      "text": "CFP rankings",
-      "url": "https://collegefootballplayoff.com/rankings"
-     },
-     {
-      "text": "Indiana's quarterback question",
-      "url": "https://www.foxsports.com/stories/college-football/how-bet-todays-best-games-indiana-usc-texas-lsu-ufc-334-nov-14"
-     },
-     {
-      "text": "Ohio schedule",
-      "url": "https://ohiobobcats.com/sports/football/schedule/2026"
-     },
-     {
-      "text": "Week 10 final injury reports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/"
-     },
-     {
-      "text": "NL MVP",
-      "url": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp"
-     },
-     {
-      "text": "AL MVP",
-      "url": "https://www.mlb.com/news/yordan-alvarez-wins-2026-al-mvp-award"
-     },
-     {
-      "text": "Bauers to Boston",
-      "url": "https://www.bostonglobe.com/2026/11/13/sports/jake-bauers-red-sox/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Sat 3:30 ET · CBS",
-      "align": "left",
-      "lines": [
-       "18 USC Trojans",
-       "(7-2) o50.5",
-       "9 IND Hoosiers",
-       "(8-1) -9.5"
-      ]
-     },
-     {
-      "title": "Sat 7:30 ET · FOX",
-      "align": "left",
-      "lines": [
-       "2 UTAH Utes",
-       "(9-0) o55.5",
-       "23 ARIZ Wildcats",
-       "(7-2) +1.5"
-      ]
-     },
-     {
-      "title": "Sat 7:30 ET · ABC",
-      "align": "left",
-      "lines": [
-       "6 TEX Longhorns",
-       "(7-2) o46.5",
-       "21 LSU Tigers",
-       "(6-3) -4.5"
-      ]
-     },
-     {
-      "title": "Sat 9:30 ET · ESPN",
-      "align": "left",
-      "lines": [
-       "12 TTU Red Raiders",
-       "(8-1) o73.5",
-       "25 OKST Cowboys",
-       "(6-3) -3.5"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, Scrooge takes the weekend.",
-    "text": "**Ebenezer** is on track to open at No. 1, with Deadline projecting more than $20M after a $7.1M Friday that includes previews. That is right in line with Johnny Depp's non-franchise openers of the past, and audience scores are running well ahead of the mixed reviews. Godzilla Minus Zero is falling harder than expected in its second weekend, down an estimated 74%.\n\n**The Hunger Games: Sunrise on the Reaping** is next week's big opening. Francis Lawrence's prequel, with Ralph Fiennes, Jesse Plemons, Glenn Close and Kieran Culkin, premiered in London last month and reaches U.S. theaters Friday.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
-    "links": [
-     {
-      "text": "Ebenezer box office",
-      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
-     },
-     {
-      "text": "Sunrise on the Reaping",
-      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
-     }
-    ]
-   },
-   {
-    "title": "Around town, a tasting this afternoon and two next week.",
-    "text": "**The Links Golf Social** in Troy hosts its VineCraft wine tasting today from 4:00 to 7:30 at 240 South Walnut Street.\n\nThe Cellar by Bottle No. 121, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM",
-    "links": [
-     {
-      "text": "Links Golf Social tasting",
-      "url": "https://www.vinecraftselections.com/calendar/the-links-golf-social"
-     }
-    ]
-   },
-   {
-    "title": "Three from the science desk, from the far dark to a car boot sale.",
-    "text": "**2026 ED138** may be the solar system's sixth dwarf planet. Harvard astrophysicist Matthew Holman spotted it in data from the Rubin Observatory while the telescope was still being commissioned, and the team then found it in images going back to 2016. It sits about 46 times Earth's distance from the Sun, beyond Pluto, and is likely 600 to 1,500 kilometers across, the largest such find in about 20 years. It hid for so long because it lies against the crowded star fields of the Milky Way.\n\n**A rainforest butterfly** turns out to be three. Linnaeus described Colobura dirce in 1758, and scientists treated it as one species for more than 200 years until a second was named in 2001. Now a Florida Museum team has named a third, Colobura cryptica, after a researcher in Venezuela found caterpillars missing the usual cream markings. The adults are nearly identical and fly in the same places at the same time, yet their DNA shows no sign of interbreeding, which raises the question of how they keep themselves apart.\n\n**A mangled 1834 sixpence**, bought in a coin album at a car boot sale in Greater Manchester, got the full lab treatment: electron microscopy, chemical mapping and 3D surface scans. Its center is crushed to a depth of about 0.75 millimeters while the rim and edge grooves are nearly intact, a pattern that wear, corrosion or a later blow can't easily explain. The likeliest story is a striking failure at the mint during the early steam-press era, a coin that should have been caught and melted down but somehow got out.",
-    "links": [
-     {
-      "text": "2026 ED138",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
-     },
-     {
-      "text": "Colobura cryptica",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm"
-     },
-     {
-      "text": "The crushed sixpence",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm"
-     }
-    ]
-   },
-   {
-    "title": "On this day, a race against a novel.",
-    "text": "**Nellie Bly** boarded a steamer for Europe at 9:40 this morning in 1889, on two days' notice, to beat Phileas Fogg's 80 days around the world. She traveled almost entirely alone, stopped in Amiens to meet Jules Verne along the way, and got back on Jan. 25, 1890, in just over 72 days. Cosmopolitan's Elizabeth Bisland left the same day going the other direction. Bly later ran a steel-container company and patented a milk can and a stacking garbage can.",
-    "links": [
-     {
-      "text": "Nellie Bly",
-      "url": "https://en.wikipedia.org/wiki/Nellie_Bly"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "This afternoon SpaceX will try to catch a spaceship with a giant pair of chopsticks. This morning I tried to catch a dropped sensor with a small pair of chopsticks. Only one of us is getting a webcast, and I think that is the right call."
    }
   ]
  }
