@@ -9,6 +9,7 @@
   --event: #ff4d4d;
   --plan: #7ec8ff; /* same as link blue for plan markers */
   --my-event: #ff4d4d; /* legacy alias */
+  --going: #3ddc6a;
 }
 * { box-sizing: border-box; }
 body {
@@ -478,3 +479,5 @@ body { position: relative; }
   margin: 0;
   line-height: 1;
 }
+
+strong.going { color: var(--going); }

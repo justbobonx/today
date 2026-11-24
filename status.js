@@ -25,7 +25,8 @@
     var m;
     while ((m = re.exec(s))) {
       parts.push(esc(s.slice(last, m.index)));
-      parts.push("<strong>" + esc(m[1]) + "</strong>");
+      // the word "going" in bold marks an event Bob plans to attend; show it in green
+      parts.push((m[1] === "going" ? '<strong class="going">' : "<strong>") + esc(m[1]) + "</strong>");
       last = re.lastIndex;
     }
     parts.push(esc(s.slice(last)));
