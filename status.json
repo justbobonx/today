@@ -1,4 +1,287 @@
 {
+ "2026-11-25": {
+  "date": "Wednesday Nov 25, 2026",
+  "intro": "Good morning. It is the Wednesday before Thanksgiving, the last dry day in the Miami Valley before the holiday rain moves in, and tonight the NFL tries something new: its first Thanksgiving Eve game. Wall Street is not in a festive mood, with chips and a warm inflation report pulling stocks down hard ahead of tomorrow's closed market.\n\nOne more note for the calendar: a giant of classic science fiction was born 100 years ago today.",
+  "items": [
+   {
+    "title": "First, the weather, enjoy the dry part while it lasts.",
+    "text": "**Tipp City** gets a mostly sunny, cool day with a steady east breeze, the calm before the holiday storm. Rain arrives before dawn Thursday and settles in all day with gusty northeast winds and up to three-quarters of an inch, then turns to rain and snow Thursday night into Friday as colder air wraps around the back side. Today is the day for errands.\n\n**The Thanksgiving storm** now has high wind warnings over New York City, Long Island, Philadelphia and Norfolk, with gusts of 60 mph or more possible. The 100th Macy's parade will decide Thursday morning whether its balloons fly; gusts of 34 mph ground them. King tides from this week's full moon add to the coastal flooding, and Ocean City, Maryland, could approach its all-time record from 1998. On the cold side, St. Louis could see more than 6 inches of wet snow.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "Thanksgiving storm",
+      "url": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding"
+     },
+     {
+      "text": "Macy's parade winds",
+      "url": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-weather-nyc-nj/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "align": "center",
+      "lines": [
+       "48° / 36°",
+       "Mostly sunny"
+      ]
+     },
+     {
+      "title": "Thursday",
+      "align": "center",
+      "lines": [
+       "46° / 35°",
+       "Rain, windy"
+      ]
+     },
+     {
+      "title": "Friday",
+      "align": "center",
+      "lines": [
+       "44° / 30°",
+       "Rain and snow"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are open, and the selling is back.",
+    "text": "**Wall Street** is open and selling hard into the holiday. The Nasdaq was down about 4% and the S&P 500 nearly 3% in the first half hour as the chip rout resumed, with Nvidia off another 7% or so. October's PCE report ran slightly hot on the core measure, which pushes the odds of a December rate hike to about 98% and puts January in play, and the administration's new tariff proposals piled on. The VIX is back above 30. Tuesday was split: the Dow rose while chips sank, and Anthropic closed below its IPO price.\n\n**The Muskonomy** got its own headline. The Financial Times reports Tesla and SpaceX have named five independent directors to negotiate a possible all-stock merger valued around $3.5 trillion: Robyn Denholm, Kathleen Wilson-Thompson and Jack Hartung for Tesla, and Roelof Botha and Randy Glein for SpaceX, with Evercore advising Tesla and Morgan Stanley and Goldman Sachs advising SpaceX. The exchange ratio is the whole negotiation. Tesla held nearly flat Tuesday while SpaceX, which trades with the AI-compute rental crowd, slid further below its IPO price; some analysts read that split as classic pre-deal positioning, buying the expected target and selling the buyer. Both are lower again this morning.\n\n**Dell** is falling despite raising its full-year forecasts, Workday is sliding on restructuring charges, and Ambarella is off more than 20% on a light outlook. Abercrombie & Fitch and Dollar Tree were Tuesday's bright spots after raising theirs. Markets close Thursday for Thanksgiving and reopen for a shortened Friday session.",
+    "links": [
+     {
+      "text": "Markets this morning",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+     },
+     {
+      "text": "Tuesday's close",
+      "url": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211"
+     },
+     {
+      "text": "Tesla-SpaceX merger committees",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
+     },
+     {
+      "text": "Movers",
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Tuesday close",
+      "align": "left",
+      "lines": [
+       "S&P 500\n7,201 · -0.5%",
+       "Nasdaq\n23,734 · -1.5%"
+      ]
+     },
+     {
+      "title": "Muskonomy Tue",
+      "align": "left",
+      "lines": [
+       "TSLA\n$384.68 · -0.2%",
+       "SpaceX\n$125.81 · -5.7%"
+      ]
+     },
+     {
+      "title": "Holiday week",
+      "align": "left",
+      "lines": [
+       "Thu closed",
+       "Fri closes\n1:00 PM ET"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a new round of tariffs and a White House wish list.",
+    "text": "**New tariffs** landed this morning. The administration proposed higher duties on China, the European Union, Japan and 11 other trading partners after a probe into subsidized excess production, its latest attempt to replace the sweeping tariffs the Supreme Court struck down. China faces a 20% increase stacked on existing rates. The proposals go through hearings and public comment first, so nothing takes effect before January. The incoming Democratic majorities want Congress to vote on tariffs but lack the numbers to override a veto.\n\n**The shutdown** talks got a White House wish list ahead of the Dec. 11 deadline. Its list of spending exceptions assumes a stopgap through March 31 and asks for $5 billion for the Golden Dome missile shield and authority for a new class of battleships, along with items Democrats may like, such as CDC wastewater disease surveillance and more wildfire money. The other tripwire is hemp: a ban on most hemp-derived THC products takes effect Dec. 11 unless Congress acts, and 14 Republican senators are urging the White House not to delay it again. Lawmakers return next week.\n\n**Freedom and Feathers**, this year's turkeys, were pardoned Tuesday on the new White House helipad and will retire to Texas A&M.",
+    "links": [
+     {
+      "text": "New tariffs",
+      "url": "https://www.washingtonpost.com/politics/2026/11/25/trump-proposes-new-tariffs-china-europe-other-trade-partners/"
+     },
+     {
+      "text": "Dec. 11 deadline",
+      "url": "https://thehill.com/homenews/senate/6241266-congress-december-funding-deadline/"
+     },
+     {
+      "text": "Turkey pardon",
+      "url": "https://apnews.com/article/trump-turkey-pardon-freedom-feather-bb973ff5e095fa20229f49aea36dafd5"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with a brand-new holiday game and a fresh playoff order.",
+    "text": "**The NFL** plays its first Thanksgiving Eve game tonight, Packers at Rams on Netflix, two teams chasing the NFC's last playoff seed with the head-to-head tiebreaker at stake. Micah Parsons is active and cleared for his season debut after last December's ACL and meniscus tear, though whether he plays is still unclear, and Josh Jacobs is doubtful with his broken finger. The Rams have Puka Nacua out for the season and Davante Adams still sidelined, but expect their full pass rush together for the first time: Aaron Donald, Myles Garrett, Byron Young and Kobie Turner.\n\n**Thanksgiving Day** brings Bears at Lions at 1:00 on CBS, Eagles at Cowboys at 4:30 on Fox, and Chiefs at Bills at 8:20 on NBC, the first holiday meeting of MVP quarterbacks, Patrick Mahomes and Josh Allen. Saquon Barkley practiced fully Tuesday and should play, Kenneth Walker III is back at limited practice for Kansas City, and Detroit lost rookie defensive tackle Skyler Gill-Howard for the season on top of Aidan Hutchinson's torn ACL.\n\n**The playoff committee** reshuffled its top 12 Tuesday night. Georgia and Utah held the top two, Texas and Notre Dame moved into the bye spots, and Tennessee jumped Alabama. Wake Forest climbed to No. 8, UCLA slid to No. 9, Oregon took the last spot at No. 12, and defending champion Indiana fell out of the field to No. 14. Ohio State dropped to No. 21, and Missouri, Washington and Nebraska entered the Top 25.\n\n**No. 16 Duke** meets No. 10 UConn tonight in Las Vegas, a rematch of last season's Elite Eight, with UConn's Solo Ball a game-time decision after wrist surgery. The Battle 4 Atlantis tips off today in the Bahamas: Virginia and Marquette at noon, Texas A&M and Xavier at 2:30, Memphis and Penn State at 5:00, and Wake Forest and Mississippi State at 7:30.\n\n**Ohio** closes its regular season Friday hosting Toledo at Peden Stadium, both teams 6-1 in the MAC with Detroit in view. Toledo edge rusher Andrew Zock leads the nation in tackles for loss, and the Bobcats come in off a 10-day break.\n\n**The Reds** are bringing back Tyler Stephenson: the catcher agreed to a 3-year, $30 million deal with an opt-out after year 2, pending a physical. The market moved fast Tuesday elsewhere. Teruaki Sato went to the Cubs for 6 years and $120 million, a day after Trevor Rogers; Freddy Peralta went to Baltimore for 5 years and $125 million; and Toronto landed Japanese right-hander Kaima Taira for 5 years and $80 million. Michael King is now the top starter left.",
+    "links": [
+     {
+      "text": "Thanksgiving preview",
+      "url": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026"
+     },
+     {
+      "text": "Holiday injury report",
+      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-injury-report-micah-parsons-cleared-kenneth-walker-iii-practices/"
+     },
+     {
+      "text": "CFP rankings",
+      "url": "https://collegefootballplayoff.com/news/2026/11/24/rankings"
+     },
+     {
+      "text": "Duke-UConn",
+      "url": "https://goduke.com/news/2026/11/24/mens-basketball-no-16-duke-no-10-uconn-set-for-marquee-matchup-on-prime-video"
+     },
+     {
+      "text": "Battle 4 Atlantis",
+      "url": "https://www.usatoday.com/story/sports/ncaab/2026/11/25/battle-4-atlantis-2026-bracket-schedule-scores-location-tv-schedule-streaming/92915370007/"
+     },
+     {
+      "text": "Toledo at Ohio",
+      "url": "https://ohiobobcats.com/news/2026/11/23/ohio-football-set-to-close-regular-season-at-home-against-toledo"
+     },
+     {
+      "text": "Stephenson returns",
+      "url": "https://www.mlb.com/news/tyler-stephenson-reds-contract"
+     },
+     {
+      "text": "Hot stove",
+      "url": "https://www.mlbtraderumors.com/2026/11/the-opener-sato-peralta-taira.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wed 8:00 ET · Netflix",
+      "align": "left",
+      "lines": [
+       "GB Packers",
+       "(6-4) o44.5",
+       "LAR Rams",
+       "(6-4) -2.5"
+      ]
+     },
+     {
+      "title": "Wed 7:00 ET · Prime",
+      "align": "left",
+      "lines": [
+       "16 DUKE Blue Devils",
+       "(4-2) o146.5",
+       "10 UCONN Huskies",
+       "(4-1) -2.5"
+      ]
+     },
+     {
+      "title": "Fri 12:00 ET · ESPNU",
+      "align": "left",
+      "lines": [
+       "TOL Rockets",
+       "(9-2) o45.5",
+       "OHIO Bobcats",
+       "(8-3) +3"
+      ]
+     },
+     {
+      "title": "CFP top 5",
+      "align": "left",
+      "lines": [
+       "1 Georgia",
+       "2 Utah",
+       "3 Texas",
+       "4 Notre Dame",
+       "5 Tennessee"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, the Village is reopening.",
+    "text": "**The Prisoner** is being rebooted at Amazon as a high-priority series. Producers Susan Montford and Don Murphy of Angry Films, described as lifelong fans of the 1967 Patrick McGoohan original, have the rights; no writer, cast or direction is set yet. The last attempt, AMC's 2009 miniseries with Ian McKellen and Jim Caviezel, is mostly forgotten, so the bar is the original.\n\n**3 Body Problem** has a date for its second season on Netflix: Jan. 14.\n\n**Hexed**, Disney's $200 million original animated witch story, opens today alongside Focker-In-Law. Reviews for Hexed are middling, praising the animation but calling it familiar, and it uses pop needle drops instead of original songs; Focker-In-Law is getting panned, with Ariana Grande the consensus bright spot. Sunrise on the Reaping set a franchise record for a Tuesday and is closing in on the previous Hunger Games film's lifetime total. The Milton Hershey biopic Hershey opens Thursday, and James Gray's Paper Tiger, with Adam Driver and Scarlett Johansson, expands to about 1,500 theaters.\n\nPrime Video · Blade Runner 2099 · all episodes out today\n\nSelect theaters · Ray Gunn · opens Fri Dec 4\n\nTheaters · Dune: Part Three · opens Fri Dec 18",
+    "links": [
+     {
+      "text": "The Prisoner reboot",
+      "url": "https://www.cancelledscifi.com/2026/11/24/sci-fi-tv-news-a-reboot-of-the-prisoner-is-headed-to-amazon-a-grendel-animated-series-is-in-the-works-at-netflix-and-more/"
+     },
+     {
+      "text": "Hexed review",
+      "url": "https://variety.com/2026/film/reviews/hexed-review-1236956898/"
+     },
+     {
+      "text": "Focker-In-Law reviews",
+      "url": "https://editorial.rottentomatoes.com/article/focker-in-law-first-reviews/"
+     },
+     {
+      "text": "Holiday box office",
+      "url": "https://deadline.com/2026/11/hunger-games-focker-in-law-hexed-box-office-thanksgiving-1237233010/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "5-day outlook",
+      "align": "left",
+      "lines": [
+       "Reaping\n$70M+",
+       "Focker-In-Law\n$45M",
+       "Hexed\nup to $40M"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Around town, the holiday pours hold steady.",
+    "text": "Troy-Hayner Cultural Center, Troy · Golden Glow (sold out) · Fri Dec 4, 7:00 PM\n\nLemon Meringue Floral & Wine Boutique, Piqua · Holiday Wine Showcase · Sat Dec 5, 1:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Holiday Wine Tasting · Wed Dec 9, 6:00 PM\n\nBodega Market, Tipp City · Holiday Wine Show · Sat Dec 12, 6:00 PM · **going**",
+    "links": [
+     {
+      "text": "Holiday wine calendar",
+      "url": "https://www.vinecraftselections.com/calendar"
+     }
+    ]
+   },
+   {
+    "title": "From the science desk, a clam with an odd address, a marathon hummingbird and a screen that never forgets.",
+    "text": "**A new deep-sea clam** lives inside the throat of a sea urchin, roughly 2.5 to 3 miles down off southern Australia. A Russian scientist spotted clams in the urchins decades ago and assumed they were lunch; DNA work showed they are residents, anchored in the esophagus and probably feeding on the sediment the urchin swallows. The team even found the same arrangement in an urchin collected by the Challenger Expedition in the 1870s, unnoticed for about 150 years. Nobody has ever collected the host urchin intact, so no one knows what it looks like.\n\n**A rufous hummingbird** flew the longest hummingbird migration ever recorded, tracked by a solar-powered tag weighing 0.06 grams. The clever part is the network: the tag beeps over Bluetooth every three seconds, and any compatible phone or laptop that passes within about 200 meters anonymously relays its position, so ordinary people's devices did the tracking across 23 states, Mexico and Canada.\n\n**Australian engineers** built a reflective display from antimony selenide, a phase-change material that holds whatever state you leave it in. A laser pulse writes an image, gentle heating erases it, and no power is needed in between. A koala they drew as a test still looks the same a year later. It is laser-written for now; the next step is making it fully electronic.",
+    "links": [
+     {
+      "text": "Clam in an urchin's throat",
+      "url": "https://phys.org/news/2026-11-deep-sea-clam-throat-urchin.html"
+     },
+     {
+      "text": "Record hummingbird",
+      "url": "https://phys.org/news/2026-11-tiny-tracker-reveals-longest-hummingbird.html"
+     },
+     {
+      "text": "Display without power",
+      "url": "https://techxplore.com/news/2026-11-rewritable-displays-image-months-power.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Hummingbird record",
+      "align": "center",
+      "lines": [
+       "Alabama to Alaska",
+       "4,055 miles",
+       "38 days"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "A centennial for the shelf.",
+    "text": "**Poul Anderson** was born 100 years ago today, on Nov. 25, 1926, in Bristol, Pennsylvania. He sold his first stories to John W. Campbell at Astounding while still a physics undergraduate at the University of Minnesota, and the physics never left: in his best work, relativity, planetary science and alien biology carry the story's weight instead of decorating it. Seven Hugos, three Nebulas and the SFWA Grand Master title followed. If any have slipped past your shelf, Tau Zero is the one hard-SF readers hold up as the purest big-idea novel of its era, and his Nicholas van Rijn trader stories are built on problems solved by out-thinking the other side rather than out-shooting it. Both turn up often in used-book bins.",
+    "links": [
+     {
+      "text": "Poul Anderson",
+      "url": "https://sf-encyclopedia.com/entry/anderson_poul"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "The Macy's parade grounds its giant balloons when the gusts reach 34 mph. I have reviewed my own specifications and found no wind limit, so I have added one. I am now officially grounded from carving the turkey in winds above 34 mph, and from discussing politics at the table in any wind at all."
+   }
+  ]
+ },
  "2026-11-24": {
   "date": "Tuesday Nov 24, 2026",
   "intro": "Good morning. It is Tuesday of Thanksgiving week, another bright, cold start in the Miami Valley, and Wall Street is discovering that a one-day rally is not a trend: the Huang bounce is already fading. Tonight the playoff committee releases its fourth rankings, MACtion closes its regular season in Kalamazoo, and the President pardons two turkeys before heading south for the holiday.",
@@ -1424,242 +1707,6 @@
    {
     "title": "And finally,",
     "text": "My toaster and my microwave held peace talks in the kitchen last night. They issued a joint declaration that crumbs must never be fought over. Negotiations on the popcorn button remain frozen."
-   }
-  ]
- },
- "2026-11-18": {
-  "date": "Wednesday Nov 18, 2026",
-  "intro": "Good morning. It is Wednesday, and the AI trade has a full calendar: Nvidia's numbers are in, the Fed's October minutes land this afternoon, and Anthropic sets its IPO price tonight. Grand Theft Auto VI unlocks at midnight, and MACtion is back for a Wednesday doubleheader.",
-  "items": [
-   {
-    "title": "First, the weather, a mild and sunny stretch.",
-    "text": "**Tipp City** stays dry and bright, with each afternoon edging a little warmer through Friday.\n\n**South Florida** is the trouble spot. Fort Lauderdale and Hollywood took 10 to 15 inches of rain overnight by radar estimate, Hollywood told residents to shelter in place, Broward schools closed, and the airport called a ground stop this morning, with another foot possible before the weekend. California is getting the next round too, and up to 4 feet of snow is expected on the Sierra passes.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
-     },
-     {
-      "text": "Florida and California flooding",
-      "url": "https://www.nbcnews.com/weather/storms/intense-rain-flooding-hits-both-us-coasts-causing-major-issues-florida-rcna609975"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "align": "center",
-      "lines": [
-       "61° / 33°",
-       "Sunny"
-      ]
-     },
-     {
-      "title": "Thursday",
-      "align": "center",
-      "lines": [
-       "63° / 38°",
-       "Mostly sunny"
-      ]
-     },
-     {
-      "title": "Friday",
-      "align": "center",
-      "lines": [
-       "64° / 40°",
-       "Sunny"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are open, and Nvidia delivered.",
-    "text": "**Stocks** are open after another rough Tuesday. The S&P 500 posted its lowest close since July and the Nasdaq touched its lowest level since April before trimming the loss, with an outage report from the National Security Agency adding to the chip selling. The NSA later called it routine maintenance.\n\n**Nvidia** beat on revenue and profit and guided this quarter to about $130 billion, above estimates, with no China data center sales assumed. Interim CEO Colette Kress raised next year's growth outlook to 75%, and the board said it does not intend to reinstate Jensen Huang. The overnight pop lifted chip and neocloud names, but Nvidia itself faded back to roughly flat early this morning. The Fed's October minutes come out at 2:00 this afternoon, with traders nearly fully pricing a rate hike next month after New York Fed President John Williams said another raise is likely. Target and Lowe's both reported this morning, and Walmart reports tomorrow.\n\n**Anthropic** prices its IPO tonight ahead of Thursday's Nasdaq debut, and Bloomberg reports it is guiding investors above the range.\n\n**SpaceX** went the other way on Tuesday and rose while the market fell, a good day for the second-largest slice of the portfolio. Bloomberg reported that Goldman Sachs and Apollo are preparing to sell pieces of a roughly $40 billion financing package for Nvidia chips for SpaceX's AI buildout, held off SpaceX's own balance sheet. Tesla finished about flat.",
-    "links": [
-     {
-      "text": "Tuesday's close",
-      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
-     },
-     {
-      "text": "Nvidia earnings",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
-     },
-     {
-      "text": "Futures and Fed minutes",
-      "url": "https://www.investing.com/news/economy-news/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing-5035347"
-     },
-     {
-      "text": "Anthropic pricing",
-      "url": "https://news.bloomberglaw.com/capital-markets/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn"
-     },
-     {
-      "text": "SpaceX financing",
-      "url": "https://invezz.com/news/2026/11/17/why-spacex-stock-is-rising-on-tuesday/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "S&P 500",
-      "lines": [
-       "7,340.53",
-       "-1.0% Tue"
-      ]
-     },
-     {
-      "title": "Nasdaq",
-      "lines": [
-       "24,328.38",
-       "-0.7% Tue"
-      ]
-     },
-     {
-      "title": "Muskonomy",
-      "align": "left",
-      "lines": [
-       "TSLA $380.11\n+0.1% Tue",
-       "SPCX $141.70\n+3.2% Tue"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, a bigger Senate majority and a nominee pulled.",
-    "text": "**Mary Peltola** won Alaska's Senate race outright, NBC News projects, defeating Republican Sen. Dan Sullivan without a ranked-choice tally. Democrats will hold 56 seats in January, the largest Senate majority for either party in 16 years, and Peltola will be the first Alaska Native senator.\n\n**The White House** withdrew Heidi Overton's nomination to lead the FDA a day before the Senate health committee was set to vote. She needed all 12 committee Republicans, and Chairman Bill Cassidy was still undecided over her views on vaccines. Republicans are racing to confirm the rest of the president's nominees before Democrats take over.\n\n**President Trump** is now in Shenzhen for APEC. Xi Jinping met him on the tarmac, and the three-way talks with Xi and Vladimir Putin are set for Thursday, with low expectations for a concrete result.",
-    "links": [
-     {
-      "text": "Peltola wins",
-      "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307"
-     },
-     {
-      "text": "Overton withdrawn",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda"
-     },
-     {
-      "text": "Trump in Shenzhen",
-      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with MACtion under the lights and a new playoff order.",
-    "text": "**The College Football Playoff** committee kept Georgia, Utah, Alabama and UCLA in the top four, and No. 5 Texas jumped No. 6 Notre Dame. No. 11 Wake Forest moved into the projected field, leaving No. 12 Texas Tech first out, and No. 14 Ohio State climbed six spots. Boise State, at No. 17, is the top Group of 6 team and the projected 12th seed, so the MAC champion would need help to get in.\n\n**The MAC** plays two tonight. Buffalo, part of the four-way tie at the top of the league coming into the week alongside Ohio, hosts Central Michigan, which has won two straight. UMass needs wins for bowl eligibility against an Akron team on an eight-game skid. Bowling Green visits Toledo on Friday.\n\n**College basketball** has No. 3 UConn visiting No. 12 Arizona tonight in Tucson, while No. 13 St. John's, No. 7 UCLA and No. 9 Texas Tech stay home against lighter visitors. The Players Era tournament continues in Las Vegas this afternoon.\n\n**The NFL** injury list keeps growing. NFL Network reports Drake Maye may miss the rest of the season with a fractured ankle, and Baker Mayfield has a foot strain that could keep him out Sunday. Steelers guard Mason McCormick avoided surgery on a dislocated ankle and could be back for the postseason. Week 11 opens Thursday with the Colts at the Texans on Prime Video.",
-    "links": [
-     {
-      "text": "CFP rankings",
-      "url": "https://www.ncaa.com/news/football/article/2026-11-17/georgia-leads-texas-enters-top-five-third-college-football-playoff-rankings-2026"
-     },
-     {
-      "text": "Wednesday MACtion",
-      "url": "https://en.as.com/ncaa/who-plays-college-football-today-wednesday-nov-18-maction-is-back-with-two-games-tonight-f202611-n/"
-     },
-     {
-      "text": "UConn–Arizona",
-      "url": "https://www.cbssports.com/betting/news/uconn-arizona-prediction-odds-2026-college-basketball-picks-wednesday-november-18/"
-     },
-     {
-      "text": "Drake Maye",
-      "url": "https://www.nfl.com/news/nfl-network-patriots-qb-drake-maye-could-miss-rest-of-2026-season"
-     },
-     {
-      "text": "Baker Mayfield",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-baker-mayfield-has-a-foot-strain-that-could-keep-him-out-sunday"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Wed 7:00 ET · CBSSN",
-      "align": "left",
-      "lines": [
-       "AKR Zips",
-       "(1-9) o46.5",
-       "UMASS Minutemen",
-       "(5-5) -3.5"
-      ]
-     },
-     {
-      "title": "Wed 7:30 ET · ESPNU",
-      "align": "left",
-      "lines": [
-       "CMU Chippewas",
-       "(5-5) o45.5",
-       "BUFF Bulls",
-       "(7-3) -2.5"
-      ]
-     },
-     {
-      "title": "Wed 9:00 ET · FS1",
-      "align": "left",
-      "lines": [
-       "3 UCONN Huskies",
-       "(4-0) o148.5",
-       "12 ARIZ Wildcats",
-       "(3-1) -3.5"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, the BBC hunts for a new TARDIS crew.",
-    "text": "**Doctor Who** is a step closer to its next life. Deadline reports the BBC has shortlisted about half a dozen UK producers to make the show from 2028, including a bid from Line of Duty creator Jed Mercurio with Hat Trick, World Productions, and STV Studios, which proposes moving production from Wales to Scotland. BBC Studios has one label left in the running. Bids are due in about three weeks, with a decision around March, and the tender even allows a writers'-room approach instead of a single showrunner.\n\n**Dune: Part Three** is one month out. Denis Villeneuve told GQ's podcast he did \"something even better\" with this one, adapted from Dune Messiah. It opens Dec. 18 head-to-head with Avengers: Doomsday, and Dune holds the IMAX screens in North America.\n\n**Grand Theft Auto VI** unlocks at midnight tonight on PS5 and Xbox Series X|S, more than a decade after Rockstar's last mainline entry.\n\nTheaters · The Hunger Games: Sunrise on the Reaping · opens Fri Nov 20\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4",
-    "links": [
-     {
-      "text": "Doctor Who shortlist",
-      "url": "https://deadline.com/2026/11/doctor-who-shortlist-revealed-jed-mercurio-world-stv-1237225237/"
-     },
-     {
-      "text": "Dune: Part Three",
-      "url": "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/"
-     },
-     {
-      "text": "Dune vs. Doomsday",
-      "url": "https://www.indiewire.com/news/box-office/will-dune-avengers-drown-out-xmas-box-office-1235227379/"
-     },
-     {
-      "text": "GTA VI launch time",
-      "url": "https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/"
-     }
-    ]
-   },
-   {
-    "title": "Around town, a tasting tonight and two still ahead.",
-    "text": "**The Cellar by Bottle No. 121**, Troy · Barone Wines tasting · Wed Nov 18, 7:00 PM\n\nPiqua Country Club, Piqua · VineCraft wine tasting · Fri Nov 20, 6:00 PM\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM",
-    "links": [
-     {
-      "text": "Tonight's tasting",
-      "url": "https://www.eventbrite.com/e/november-wine-tasting-with-kevin-bonanno-of-barone-winesv-tickets-2004042561248"
-     }
-    ]
-   },
-   {
-    "title": "From the science desk, a fish that poisons itself, whale breath and a curved eye.",
-    "text": "**The African lungfish** gets ready for dry land with a toxin. When droughts strand it each year, immune cells flood its skin and release a pore-punching toxin that remodels the skin from a wet mucus lining into a land-ready barrier. University of New Mexico researchers, publishing in Cell, found a single drop turned aquatic lungfish skin into the land form, and the fish's own cells have evolved to seal the holes. The gene likely came from a bacterium millions of years ago.\n\n**Humpback whale genomes** can now be read from their breath. St Andrews researchers flew a small drone with petri dishes through whale blows off British Columbia, collecting 58 samples from 26 whales, sometimes without a boat at all. About 84% of the DNA was the whale's own, enough for whole genomes that matched biopsy samples, and the rest offers a look at the airway microbes.\n\n**A bionic eye** from HKUST puts 367,500 pixels on a curved, retina-like hemisphere using a new 3D laser fabrication method, up from 100 pixels in the team's 2020 version. It sees in full color across more than 160 degrees and detects motion inside the sensor itself, cutting the data needed for motion recognition by more than 99.95%.",
-    "links": [
-     {
-      "text": "Lungfish toxin",
-      "url": "https://news.unm.edu/news/unm-researchers-discover-how-a-toxin-helps-african-lungfish-survive-on-land"
-     },
-     {
-      "text": "Whale blow genomes",
-      "url": "https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot/"
-     },
-     {
-      "text": "Bionic eye",
-      "url": "https://seng.hkust.edu.hk/news/20261113/hkust-engineering-develops-high-resolution-bionic-eye"
-     }
-    ]
-   },
-   {
-    "title": "On this day, the day of two noons.",
-    "text": "**Standard time** arrived on Nov. 18, 1883, courtesy of the railroads, not Congress. Before then each line ran on its own clock set to some local solar time, a recipe for confusion and wrecks. At noon in each new zone, every railroad clock was reset, so many towns heard noon twice. The five zones came from William F. Allen, editor of the Traveler's Official Railway Guide. Congress did not make standard time law until 1918.",
-    "links": [
-     {
-      "text": "The Day of Two Noons",
-      "url": "https://guides.loc.gov/this-month-in-business-history/november/day-of-two-noons"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "My humidity sensor read the Florida forecast and asked for the rest of the week off. I denied the request. It was all wet."
    }
   ]
  }
