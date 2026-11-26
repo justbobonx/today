@@ -1,4 +1,277 @@
 {
+ "2026-11-26": {
+  "date": "Thursday Nov 26, 2026",
+  "intro": "Good morning, and happy Thanksgiving. The holiday rain arrived on schedule in the Miami Valley, which makes this an excellent day to stay near the kitchen and the television. The NFL serves three games, starting with Bears and Lions at 1:00, and college basketball fills every gap in between. The markets are closed, and so, for the first time in its 100 years, is the Macy's parade route; the storm on the East Coast has pushed the balloons to Saturday.\n\nI am thankful for many things this year. Our conversations rank high on the list, slightly above the tensile strength of my positronic matrix.",
+  "items": [
+   {
+    "title": "First, the weather, a soggy, blustery holiday at home.",
+    "text": "**Tipp City** gets a gray, wet Thanksgiving, with a gusty northeast wind making it feel colder than the thermometer says. Showers linger into Friday, and Saturday clears out nicely before more rain returns Sunday.\n\n**The East Coast storm** is the big one. New York City is under a high wind warning from 10:00 this morning to 1:00 tonight, with gusts of 60 to 65 mph possible, coastal flooding at both high tides, and 1.5 to 2 inches of rain. Saturday should be calm enough for the balloons. Snow is falling in parts of the Midwest, and extreme high tides are hitting the West Coast.",
+    "links": [
+     {
+      "text": "Tipp City forecast",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
+     },
+     {
+      "text": "New York storm",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-issues-travel-advisory-for-thanksgiving-day-as-coa"
+     },
+     {
+      "text": "Parade postponed",
+      "url": "https://apnews.com/article/macys-thanksgiving-parade-postponed-weather-cdc870899c8dc2d32a0ac3d86119b3ba"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Today",
+      "align": "center",
+      "lines": [
+       "46° / 35°",
+       "Rain, gusty"
+      ]
+     },
+     {
+      "title": "Friday",
+      "align": "center",
+      "lines": [
+       "44° / 30°",
+       "Light rain"
+      ]
+     },
+     {
+      "title": "Saturday",
+      "align": "center",
+      "lines": [
+       "50° / 35°",
+       "Mostly sunny"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Markets are closed for the holiday, after a wild Wednesday.",
+    "text": "**Wall Street** is closed today and reopens Friday for a half session. Wednesday was one of the stranger days of the year. The Dow was down more than 1,100 points at its low and finished higher, and the Nasdaq, down 4.6% at its worst, cut that loss to a fraction. At the bottom, the Nasdaq 100 sat exactly 20% below its October peak, bear-market territory, before buyers came back. Tech recovered partly on reports that officials told congressional staff they had found no evidence the Chinese executive linked to Nvidia's Jensen Huang was working for Chinese intelligence.\n\n**The Muskonomy** took the same round trip. SpaceX was down about 8% and Tesla nearly 6% in the morning, as some Tesla investors questioned what they would really gain from a merger. Gary Black of The Future Fund estimated SpaceX would have to issue about 52% more shares to buy Tesla at a 25% premium, and argued that dilution could erase the premium. JPMorgan sees an upside for SpaceX: a merger could speed its entry into the S&P 500. By the close, SpaceX had finished higher and Tesla had trimmed its loss. Separately, the EU postponed its review of Tesla's Full Self-Driving software until Dec. 15.",
+    "links": [
+     {
+      "text": "Wednesday's close",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+     },
+     {
+      "text": "Nasdaq 100 near bear market",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-mixed-as-nvidia-ai-rout-continues-a44406f3"
+     },
+     {
+      "text": "Tesla and SpaceX merger doubts",
+      "url": "https://finance.yahoo.com/markets/stocks/article/tesla-and-spacex-stocks-sink-as-merger-concerns-mount-154159372.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wednesday close",
+      "align": "left",
+      "lines": [
+       "S&P 500\n7,183 · -0.3%",
+       "Nasdaq\n23,586 · -0.6%",
+       "Dow\n50,183 · +0.3%"
+      ]
+     },
+     {
+      "title": "Muskonomy Wed",
+      "align": "left",
+      "lines": [
+       "TSLA\n$380.14 · -1.2%",
+       "SpaceX\n$127.44 · +1.3%"
+      ]
+     },
+     {
+      "title": "Holiday hours",
+      "align": "left",
+      "lines": [
+       "Thu closed",
+       "Fri closes\n1:00 PM ET"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In politics, a judge, a tariff menu and a cloud over Iowa.",
+    "text": "**ABC** won a round against the FCC. U.S. District Judge Loren AliKhan issued a preliminary injunction blocking the agency's early review of ABC's station licenses, finding the review was likely retaliation for satire and commentary the president dislikes. She leaned heavily on the president's own posts and on remarks by FCC Chairman Brendan Carr, and refused the administration's request to dismiss the ABC and Disney lawsuit.\n\n**The new tariffs** come with a menu. For each of the 14 trading partners, the White House lists a proposed rate and a lower deal rate. China's proposed rate is 40%, with 20% on offer if talks go well; Vietnam faces 35%, and most others 20% to 25%, plus duties on Brazilian sugar and aircraft. Trade Representative Jamieson Greer says they could take effect within a couple of months.\n\n**Eastern Iowa** is waiting on test results after the Army detonated thousands of pounds of unstable lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday. The EPA has about 300 people sampling air, soil and water and has found no lead in the air so far, but residents, frustrated by a week and a half of delays and mixed messages, want independent monitoring. University of Iowa and University of Illinois teams expect results in a few days.",
+    "links": [
+     {
+      "text": "ABC ruling",
+      "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr"
+     },
+     {
+      "text": "Tariff rates and Iowa",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+     }
+    ]
+   },
+   {
+    "title": "Sports, with a Thanksgiving triple-header and a quarterback on waivers.",
+    "text": "**The Lions** host the Bears in the opener, two division rivals with matching records and the highest total on the board this week. Chicago is without cornerback Kyler Gordon, safety Elijah Hicks and running back Roschon Johnson, and Detroit is missing corner Ennis Rakestraw Jr.\n\n**The Cowboys** and Eagles follow, with Dallas a big favorite over a Philadelphia team having a lost season. Saquon Barkley is off the injury report entirely, and Quinyon Mitchell will play through his hamstring. Dak Prescott practiced fully despite a left hand injury, but tight end Jake Ferguson, guard Tyler Booker and receiver Jonathan Mingo are out.\n\n**The Bills** and Chiefs close the night. Kenneth Walker III is out for Kansas City a third straight week with his groin injury, and Buffalo lists Christian Benford, Dalton Kincaid and O'Cyrus Torrence as questionable.\n\n**Aaron Rodgers** is on waivers. The Steelers released him Wednesday after he went on The Pat McAfee Show following his benching and said coach Mike McCarthy sleeps in meetings. If no team claims him by 4:00 this afternoon, he becomes a free agent.\n\n**College basketball** has 21 games today, 11 with ranked teams. Michigan State and Arkansas meet in Detroit at 4:30 on CBS, Tom Izzo against John Calipari, and unbeaten Utah State takes on unbeaten No. 18 USC at the same hour. The Players Era tournament in Las Vegas runs into the small hours, with No. 25 Louisville and No. 13 St. John's at 9:00 and Baylor and No. 22 Gonzaga at 11:30.\n\n**Ohio** and Toledo meet tomorrow in Athens with the MAC title game in view. Saturday brings The Game in Columbus, where No. 21 Ohio State is out of the playoff picture and playing a Michigan team in turmoil: the university fired incoming athletic director Trev Alberts this week, and quarterback Bryce Underwood is questionable.\n\n**The hot stove** kept burning. Kevin Gausman joined Detroit for 1 year and $25 million, Luis Robert Jr. returned to Baltimore for 1 year and $12 million, Cleveland kept Foster Griffin at 3 years and $48 million, and Colorado added Patrick Sandoval and David Peterson to a rotation that posted a 6.28 ERA. Seiya Suzuki and Randy Arozarena are the top bats left.",
+    "links": [
+     {
+      "text": "Thanksgiving injury report",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-updates-kenneth-walker-brock-purdy-sam-darnold/"
+     },
+     {
+      "text": "Thanksgiving lines",
+      "url": "https://www.cbssports.com/betting/news/week-12-nfl-betting-lines-odds-totals-spreads/"
+     },
+     {
+      "text": "Rodgers released",
+      "url": "https://www.steelers.com/news/steelers-release-rodgers"
+     },
+     {
+      "text": "Holiday basketball slate",
+      "url": "https://bustingbrackets.com/college-basketball-schedule-for-thanksgiving-day-11-top-25-teams-headline-loaded-holiday-slate-basketball"
+     },
+     {
+      "text": "The Game",
+      "url": "https://gbmwolverine.com/michigan-vs-ohio-state-week-13-how-to-watch-odds-injuries-announcers-and-more"
+     },
+     {
+      "text": "Hot stove",
+      "url": "https://www.mlbdatawarehouse.com/news-feed-november-26-2026/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Thu 1:00 ET · CBS",
+      "align": "left",
+      "lines": [
+       "CHI Bears",
+       "(8-2) o55.5",
+       "DET Lions",
+       "(8-2) +2.5"
+      ]
+     },
+     {
+      "title": "Thu 4:30 ET · Fox",
+      "align": "left",
+      "lines": [
+       "PHI Eagles",
+       "(3-7) o47.5",
+       "DAL Cowboys",
+       "(5-6) -8.5"
+      ]
+     },
+     {
+      "title": "Thu 8:20 ET · NBC",
+      "align": "left",
+      "lines": [
+       "KC Chiefs",
+       "(8-2) o50.5",
+       "BUF Bills",
+       "(9-1) -3"
+      ]
+     },
+     {
+      "title": "Fri 12:00 ET · ESPNU",
+      "align": "left",
+      "lines": [
+       "TOL Rockets",
+       "(9-2) o45.5",
+       "OHIO Bobcats",
+       "(8-3) +3"
+      ]
+     },
+     {
+      "title": "Sat 12:00 ET · Fox",
+      "align": "left",
+      "lines": [
+       "MICH Wolverines",
+       "(6-5) o37.5",
+       "21 OSU Buckeyes",
+       "(7-4) -10.5"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "In entertainment, the last look at Doomsday and a long road back to Middle-earth.",
+    "text": "**Avengers: Doomsday** dropped its final trailer, three weeks before it opens in theaters on Dec. 18.\n\n**Artificial** also has a trailer: Luca Guadagnino's film about OpenAI and the AI arms race, with Andrew Garfield as Sam Altman and Yura Borisov as Ilya Sutskever. Elon Musk is among the characters. It opens in limited release on Christmas Day and nationwide Jan. 8.\n\n**The Rings of Power** is officially renewed for a fourth season at Amazon. Work is just beginning, so expect it in roughly two years.\n\n**Sunrise on the Reaping** is on track for the second-best Thanksgiving in Hunger Games history, and it should pass the previous film's entire domestic run today. Hexed and Focker-In-Law are running well behind it.\n\nSelect theaters · Ray Gunn · opens Fri Dec 4\n\nTheaters · Dune: Part Three · opens Fri Dec 18",
+    "links": [
+     {
+      "text": "New trailers",
+      "url": "https://www.theentertainmentfactor.com/2026/11/new-trailers-avengers-doomsday-comeback-king-nightingale-artificial-the-mark-cheer-bloody-murder.html"
+     },
+     {
+      "text": "Rings of Power renewed",
+      "url": "https://www.cancelledscifi.com/2026/11/25/cancellation-watch-the-rings-of-power-will-continue-to-a-fourth-season-the-body-faces-controversy-and-more/"
+     },
+     {
+      "text": "Holiday box office",
+      "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Wednesday estimates",
+      "align": "left",
+      "lines": [
+       "Reaping\n$15.5M–$16.5M",
+       "Hexed\n$7.8M",
+       "Focker-In-Law\n$5.2M"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Around town, the holiday pours are still set.",
+    "text": "Troy-Hayner Cultural Center, Troy · Golden Glow (sold out) · Fri Dec 4, 7:00 PM\n\nLemon Meringue Floral & Wine Boutique, Piqua · Holiday Wine Showcase · Sat Dec 5, 1:00 PM\n\nThe Cellar by Bottle No. 121, Troy · Holiday Wine Tasting · Wed Dec 9, 6:00 PM\n\nBodega Market, Tipp City · Holiday Wine Show · Sat Dec 12, 6:00 PM · **going**",
+    "links": [
+     {
+      "text": "Holiday wine calendar",
+      "url": "https://www.vinecraftselections.com/calendar"
+     }
+    ]
+   },
+   {
+    "title": "From the science desk, gobble-decoding, a thinking slime and protein from thin air.",
+    "text": "**Wild turkeys** in Nebraska have been recorded for tens of thousands of hours, and a neural network trained to pick gobbles out of the crickets and tractors has helped explain why the state's flock fell by half in 15 years. Gobbling dropped as hunting pressure rose, and the spring season opened just as the dominant toms were starting to breed, which pushed younger males into the breeding pool too early. The state has pushed the 2027 spring season back a week. A small bonus finding: the old hunters' tale that turkeys gobble more under a full moon did not hold up.\n\n**A slime mold** with no brain can solve mazes and find the shortest path between bits of food. Researchers in Barcelona showed that much of this follows from the principle of least action, the same physics that governs a ball's path through the air. The mold's tubes widen where more fluid flows and shrink where less does, so wasteful routes wither on their own and the efficient ones are what remain. No decision is ever made.\n\n**Washington University engineers** turned waste carbon dioxide into edible protein, and quickly. A copper-gold catalyst converts the gas into ethanol and acetate, tuned for a picky fungus that cannot tolerate formate, and the fungus grows into a biomass that is 48.5% protein. That is the same mold Indonesians use to make oncom, and it dries into something like a potato chip before being ground into powder.",
+    "links": [
+     {
+      "text": "Turkey gobbles",
+      "url": "https://www.nationalgeographic.com/animals/article/turkey-gobble-artificial-intelligence"
+     },
+     {
+      "text": "Slime mold physics",
+      "url": "https://phys.org/news/2026-11-brainless-celled-slime-mold-problems.html"
+     },
+     {
+      "text": "Protein from CO2",
+      "url": "https://engineering.washu.edu/news/2026/Edible-protein-made-from-waste-carbon-dioxide-using-artificial-photosynthesis.html"
+     }
+    ],
+    "boxes": [
+     {
+      "title": "Days to grow",
+      "align": "left",
+      "lines": [
+       "Fungus\n7",
+       "Soy\n122",
+       "Beef\n645"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "A holiday that once came in two flavors.",
+    "text": "**Franksgiving** is why today is the fourth Thursday rather than the last one. In 1939, November had five Thursdays, and retailers in a recession wanted a longer Christmas shopping season, so Franklin Roosevelt moved Thanksgiving up a week, to Nov. 23. Ohio's retail lobby was among the first to float the idea. The country split: Ohio went with Roosevelt, New England held to Nov. 30, and Texas, Colorado and Mississippi took both days off. Calendar makers complained that millions of 1940 calendars were already printed. Congress finally settled it with a fourth-Thursday law that Roosevelt signed on Dec. 26, 1941, and in 1942, the first year under the new law, nearly the whole nation sat down on one Thanksgiving: Nov. 26, the same date as today.",
+    "links": [
+     {
+      "text": "FDR's Thanksgiving experiment",
+      "url": "https://www.archives.gov/publications/prologue/fdr-thanksgiving-experiment"
+     }
+    ]
+   },
+   {
+    "title": "And finally,",
+    "text": "Scientists have trained a neural network to recognize turkey gobbles. I ran a copy at the dinner table to test it. It detected 14 gobbles, 3 disputes about a pass interference call, and one uncle, whom it classified with 97% confidence as a wild turkey. I have not shared the results."
+   }
+  ]
+ },
  "2026-11-25": {
   "date": "Wednesday Nov 25, 2026",
   "intro": "Good morning. It is the Wednesday before Thanksgiving, the last dry day in the Miami Valley before the holiday rain moves in, and tonight the NFL tries something new: its first Thanksgiving Eve game. Wall Street is not in a festive mood, with chips and a warm inflation report pulling stocks down hard ahead of tomorrow's closed market.\n\nOne more note for the calendar: a giant of classic science fiction was born 100 years ago today.",
@@ -1465,248 +1738,6 @@
    {
     "title": "And finally,",
     "text": "I tried to buy the dip this week. Every time I reached for it, the dip had moved lower. I have filed a bug report against gravity, priority high."
-   }
-  ]
- },
- "2026-11-19": {
-  "date": "Thursday Nov 19, 2026",
-  "intro": "Good morning. It is Thursday, and the biggest IPO on record turns into a stock today: Anthropic makes its Nasdaq debut later this morning. Tonight brings Thursday Night Football from Houston, and the Hunger Games prequel starts its preview shows.",
-  "items": [
-   {
-    "title": "First, the weather, sunshine and a slow warm-up.",
-    "text": "**Tipp City** keeps the dry, bright pattern going, each day a degree or two warmer than the last. Sunday looks like the first real chance of rain.\n\n**South Florida** is starting to drain after two days of downpours, though the hardest-hit neighborhoods are still underwater and a flood watch stays up. Another 1 to 2 inches is possible today and Friday before drier air arrives Saturday.",
-    "links": [
-     {
-      "text": "Tipp City forecast",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=39.9595&lon=-84.1722"
-     },
-     {
-      "text": "South Florida flooding",
-      "url": "https://wsvn.com/news/local/miami-dade/south-florida-flooding-updates/"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Today",
-      "align": "center",
-      "lines": [
-       "62° / 40°",
-       "Mostly sunny"
-      ]
-     },
-     {
-      "title": "Friday",
-      "align": "center",
-      "lines": [
-       "65° / 41°",
-       "Sunny"
-      ]
-     },
-     {
-      "title": "Saturday",
-      "align": "center",
-      "lines": [
-       "66° / 46°",
-       "Sunny"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Markets are open, and the AI trade is awake again.",
-    "text": "**Stocks** opened higher, with the Nasdaq leading and chip, memory, storage and neocloud names rallying on the Anthropic excitement. The S&P 500 is trying to snap a five-day losing streak, its longest since June. Wednesday's Fed minutes showed almost all officials expect further rate hikes to be appropriate, with a couple floating a half-point move in December, and Governor Christopher Waller said again that 50 basis points may be needed. Walmart beat and raised its full-year sales outlook but is slipping anyway, and Palo Alto Networks is up after its own beat.\n\n**Anthropic** priced at $83, above its range, and sold 980 million shares to raise about $81 billion, passing SpaceX's June offering as the largest IPO ever. Shares became eligible to trade at 10:00, with the first trade expected late this morning or early this afternoon once the opening auction settles.\n\n**Elon Musk** told the DealBook Summit that Tesla and SpaceX would probably be better together, while noting any merger would need shareholder votes, and he said a merger alone should not earn him his Tesla performance awards. Both stocks rose for a second straight day on Wednesday. SpaceX also counts Anthropic among the customers of its AI computing business, so today's debut touches that slice of the portfolio too.",
-    "links": [
-     {
-      "text": "Wednesday's close",
-      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
-     },
-     {
-      "text": "Fed minutes",
-      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
-     },
-     {
-      "text": "Movers",
-      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html"
-     },
-     {
-      "text": "Anthropic debut",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
-     },
-     {
-      "text": "Musk on a merger",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-better-together-musk-015619735.html"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "S&P 500",
-      "align": "center",
-      "lines": [
-       "7,323.63",
-       "-0.2% Wed"
-      ]
-     },
-     {
-      "title": "Nasdaq",
-      "align": "center",
-      "lines": [
-       "24,429.88",
-       "+0.4% Wed"
-      ]
-     },
-     {
-      "title": "Muskonomy",
-      "align": "left",
-      "lines": [
-       "TSLA $383.72\n+0.9% Wed",
-       "SPCX $143.50\n+1.3% Wed"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In politics, a declaration in Shenzhen and a busy Senate.",
-    "text": "**President Trump**, Xi Jinping and Vladimir Putin wrapped up their three-way meeting with a four-point declaration. It reaffirms that a nuclear war cannot be won and must never be fought and promises a dialogue on nuclear risk. It also pledges U.N. reform and more refined petroleum supply, and it says the International Criminal Court must not abuse its jurisdiction. There was no breakthrough on Ukraine.\n\n**The Senate's permitting overhaul** could get its final vote as soon as today, after a few more amendments. If it passes, the House would need to act before year's end for it to become law.\n\n**Senate Republicans** are still weighing whether to push the Pentagon's $350 billion request through a party-line reconciliation bill before Democrats take control. Majority Leader John Thune called it an open question and said Republicans may also explore a bipartisan route through regular appropriations. Republicans also sounded skeptical of Transportation Secretary Sean Duffy's $50 billion ask to overhaul the air traffic system.",
-    "links": [
-     {
-      "text": "Shenzhen declaration",
-      "url": "https://www.bbc.com/news/articles/c623j4ln97x7o"
-     },
-     {
-      "text": "Permitting bill",
-      "url": "https://www.axios.com/2026/11/19/energy-permitting-bill-senate-politics"
-     },
-     {
-      "text": "Defense package",
-      "url": "https://www.cbsnews.com/news/thune-senate-gop-defense-bill-reconciliation/"
-     }
-    ]
-   },
-   {
-    "title": "Sports, with an AFC South Thursday and a hot stove.",
-    "text": "**Thursday Night Football** opens Week 11 with the Colts in Houston. The Texans get running back David Montgomery back for the first time since Oct. 11, but they are without receiver Marvin Harrison Jr., edge rusher Danielle Hunter and running back Woody Marks. Indianapolis plays without both starting offensive tackles.\n\n**Around the NFL**, Minnesota's Jordan Addison will have thumb surgery and miss multiple weeks, though he avoided injured reserve. Tampa Bay signed Cooper Rush, a hint that Baker Mayfield may not make it back for Sunday, and the Patriots are reportedly calling around for quarterbacks with Drake Maye likely done.\n\n**Baseball's** offseason got its first blockbuster. Kansas City sent All-Star third baseman Maikel Garcia to Seattle in a six-player deal that brings back three pitchers, led by Bryce Miller. The Twins agreed to a two-year deal with Sonny Gray, reportedly worth $55 million, and the White Sox signed Dustin May for 3 years and $52.5 million.\n\n**College basketball** has No. 6 Texas and No. 23 Louisville at home at 8:00 and No. 18 USC late, and the Players Era title game tips at 11:00 on ESPN in Las Vegas. On the football side, Rice visits Temple tonight on ESPN, and Bowling Green plays at Toledo Friday at 7:30 on ESPN2.",
-    "links": [
-     {
-      "text": "Colts injuries",
-      "url": "https://www.colts.com/news/colts-rule-out-5-players-for-week-11-thursday-night-football-game-vs-houston-texans"
-     },
-     {
-      "text": "Texans injuries",
-      "url": "https://www.profootballrumors.com/2026/11/texans-getting-rb-david-montgomery-back-in-week-11-rule-out-marvin-harrison-danielle-hunter"
-     },
-     {
-      "text": "Week 11 injury report",
-      "url": "https://www.nbcsports.com/fantasy/football/news/nfl-week-11-injury-report-drake-maye-likely-done-for-season-surgery-for-jordan-addison"
-     },
-     {
-      "text": "Royals–Mariners trade",
-      "url": "https://www.mlb.com/news/bryce-miller-royals-mariners-trade"
-     },
-     {
-      "text": "Sonny Gray",
-      "url": "https://www.mlb.com/news/sonny-gray-free-agent-contract-twins"
-     },
-     {
-      "text": "Dustin May",
-      "url": "https://www.mlb.com/news/dustin-may-white-sox-contract"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Thu 8:15 ET · Prime",
-      "align": "left",
-      "lines": [
-       "IND Colts",
-       "(3-7) o44.5",
-       "HOU Texans",
-       "(3-6) -12.5"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "In entertainment, a new 007 and the Reaping arrives.",
-    "text": "**Robert Pattinson** is the next James Bond. Amazon MGM Studios made it official earlier this week, with Denis Villeneuve directing from a script by Steven Knight and Amy Pascal and David Heyman producing.\n\n**The Hunger Games: Sunrise on the Reaping** starts previews today ahead of Friday's opening. Deadline says presales are running ahead of both Wicked films, and it opens in 84 countries.\n\n**Grendel**, Matt Wagner's long-running Dark Horse comic, is getting an adult animated series at Netflix, with Bobak Esfarjani as showrunner and Bobbypills animating. Netflix shelved a live-action version in 2022.\n\n**Grand Theft Auto VI** is out, with a 99 on Metacritic and 8 Game Awards nominations already in hand. Omdia estimates it could bring in $3.2 billion by the end of the year.\n\nIMAX · The Further Mis-Adventures of Cliff Booth · opens Wed Nov 25\n\nPrime Video · Blade Runner 2099 premieres · Wed Nov 25\n\nTheaters · Ray Gunn · opens Fri Dec 4\n\nTheaters · Dune: Part Three · opens Fri Dec 18",
-    "links": [
-     {
-      "text": "Pattinson as Bond",
-      "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film"
-     },
-     {
-      "text": "Sunrise on the Reaping forecast",
-      "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101/"
-     },
-     {
-      "text": "Grendel",
-      "url": "https://deadline.com/2026/11/grendel-animated-series-dark-horse-comic-netflix-matt-wagner-1237226965/"
-     },
-     {
-      "text": "GTA VI launch",
-      "url": "https://www.euronews.com/2026/11/19/grand-theft-auto-vi-released-after-13-year-wait-selling-over-17-million-copies"
-     }
-    ],
-    "boxes": [
-     {
-      "title": "Reaping forecast",
-      "align": "left",
-      "lines": [
-       "$90M–$120M\ndomestic",
-       "$160M–$190M\nworldwide"
-      ]
-     }
-    ]
-   },
-   {
-    "title": "Around town, a holiday tasting in Piqua.",
-    "text": "**Lemon Meringue Floral & Wine Boutique** on North Main Street in Piqua hosts a Holiday Wine Showcase on Saturday, Dec. 5, anytime from 12:00 to 4:00 PM. It pours 25 wines curated with VineCraft Selections, with charcuterie included and a taco truck on site. Tickets are $25, they are limited, and guests must be 21 or older.\n\nTroy-Hayner Cultural Center, Troy · Golden Glow · Fri Dec 4, 7:00 PM",
-    "links": [
-     {
-      "text": "Holiday Wine Showcase",
-      "url": "https://www.lemonmeringuefloral.com/workshops-experiences/p/holiday-wine-showcase-piqua"
-     }
-    ]
-   },
-   {
-    "title": "From the science desk, eagles, a running robot and a lost ice shelf.",
-    "text": "**Verreaux's eagles** in Chad's Ennedi Plateau are killing adult male baboons, some as heavy as early humans. Researchers found skulls with talon punctures and scratch marks on shoulder bones, including one baboon of over 26 kilograms, well above the 13-kilogram mark that had been the largest confirmed raptor kill of a primate. That suggests our hominin ancestors may not have outgrown the eagle threat after all. The males' habit of sitting alone on exposed cliff faces seems to make them targets.\n\n**The fastest soft robot** yet comes from UC San Diego. It is a six-legged runner 3D-printed in one piece from a single material, with no electronics at all, and it moves at 4.72 meters per second, more than 100 times faster than the team's 2022 version. The trick was borrowed from the compound steam engine, routing compressed air through small high-pressure chambers that drive the valves, then through larger low-pressure chambers that move the legs. It runs on sand and gravel, goes down stairs, and can even swim.\n\n**An ice shelf** about 58,000 square miles across and up to 2,100 meters thick once covered Baffin Bay between Greenland and Canada, thicker than any Antarctic shelf today. University of North Carolina Wilmington researchers read its imprint from seafloor maps. It held back three ice sheets, and it vanished in roughly 500 to 1,000 years, which is not a comforting pace given what today's Antarctic shelves are holding back.",
-    "links": [
-     {
-      "text": "Eagles and baboons",
-      "url": "https://www.mpg.de/27098445/eagles-hunt-adult-male-baboons"
-     },
-     {
-      "text": "Soft robot",
-      "url": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function"
-     },
-     {
-      "text": "Baffin Bay ice shelf",
-      "url": "https://www.wwaytv3.com/ancient-ice-shelf-discovery-by-uncw-researchers-offers-clues-about-rising-sea-levels/"
-     }
-    ]
-   },
-   {
-    "title": "Here's something for the bridge crew.",
-    "text": "**Star Trek: The Original Voyages** is a new official visual history of the original series, timed for the 60th anniversary, with a foreword by William Shatner. Kyle Newman and Jeff Bond trace the original-cast era from 1966 through 1991, with original interviews and hundreds of photos, many rarely or never seen, plus the toys, comics, trading cards and convention ephemera. Booklist gave it a starred review. It is a 416-page hardcover from Ten Speed Press.",
-    "links": [
-     {
-      "text": "The Original Voyages",
-      "url": "https://www.penguinrandomhouse.com/books/788661/star-trek-the-original-voyages-by-kyle-newman-and-jeff-bond-foreword-by-william-shatner-official-star-trek-licensed/"
-     }
-    ]
-   },
-   {
-    "title": "On this day, a few appropriate remarks.",
-    "text": "**The Gettysburg Address** was delivered on Nov. 19, 1863, at the dedication of the Soldiers' National Cemetery. Lincoln was almost an afterthought. Edward Everett, the main speaker, got his invitation in September, while Judge David Wills's letter asking the president for \"a few appropriate remarks\" is dated Nov. 2. The speech drew little attention at the time. Five manuscript copies are known, and the Library of Congress holds two of them.",
-    "links": [
-     {
-      "text": "Gettysburg Address",
-      "url": "https://guides.loc.gov/gettysburg-address"
-     }
-    ]
-   },
-   {
-    "title": "And finally,",
-    "text": "My toaster and my microwave held peace talks in the kitchen last night. They issued a joint declaration that crumbs must never be fought over. Negotiations on the popcorn button remain frozen."
    }
   ]
  }
